@@ -6,6 +6,41 @@
 const app = document.getElementById("app");
 const DATA = {}; // кэш загруженных JSON
 let currentUser = null; // данные залогиненного юзера
+let guestMode = false;  // true — сайт открыт без входа, прогресс в localStorage
+
+/* ── Гостевой прогресс (localStorage) ──────────────────────────── */
+function loadGuestStats() {
+  try { return JSON.parse(localStorage.getItem("yodla_guest_stats")) || emptyStats(); } catch { return emptyStats(); }
+}
+function saveGuestStats() {
+  if (!guestMode || !currentUser) return;
+  try { localStorage.setItem("yodla_guest_stats", JSON.stringify(currentUser.stats)); } catch {}
+}
+function emptyStats() {
+  return { videosWatched: [], themesDone: [], ticketsDone: [], trickyMastered: [],
+    examsPassed: 0, videoPositions: {}, quizzesTaken: 0, correctAnswers: 0, totalAnswers: 0 };
+}
+// Гостевая готовность — та же формула, что на сервере
+function guestReadiness() {
+  const s = currentUser?.stats || emptyStats();
+  const T = { videos: 88, themes: 42, tickets: 64, tricky: 219 };
+  const acc = s.totalAnswers > 0 ? s.correctAnswers / s.totalAnswers : 0;
+  const score = Math.round(
+    (s.videosWatched.length / T.videos) * 35 + (s.themesDone.length / T.themes) * 25 +
+    (s.ticketsDone.length / T.tickets) * 20 + (s.trickyMastered.length / T.tricky) * 10 +
+    (Math.min(1, (s.examsPassed / 4) * 0.5 + acc * 0.5)) * 10
+  );
+  let band = "sprout", suggestedAction = "videos";
+  if (score >= 80) { band = "bloomed"; suggestedAction = "exams"; }
+  else if (score >= 50) { band = "ready"; suggestedAction = "tickets"; }
+  else if (score >= 20) { band = "growing"; suggestedAction = "themes"; }
+  return { score, band, suggestedAction,
+    breakdown: { videos: { done: s.videosWatched.length, total: T.videos },
+      themes: { done: s.themesDone.length, total: T.themes },
+      tickets: { done: s.ticketsDone.length, target: T.tickets },
+      tricky: { mastered: s.trickyMastered.length, pool: T.tricky },
+      exams: { passed: s.examsPassed, accuracy: Math.round(acc * 100) } } };
+}
 
 /* ── Применить переводы к навигации ────────────────────────────── */
 function translateNav() {
@@ -143,19 +178,18 @@ async function showSearch() {
   }
 }
 
-/* ── Проверка сессии при загрузке ────────────────────────────────
-   Если не залогинен → редирект на /login. Иначе сохраняем юзера. ── */
+/* ── Сессия при загрузке ─────────────────────────────────────────
+   Сайт открыт для всех: без обязательного входа.
+   Если есть живая сессия — подхватываем пользователя (бонус: прогресс),
+   нет — работаем как гость. Редиректа на /login больше нет. */
 async function checkSession() {
   try {
     const r = await fetch("/api/me");
+    if (!r.ok) return true; // гость — это нормально
     const d = await r.json();
-    if (!d.ok) { window.location.href = "/login"; return false; }
-    currentUser = d.user;
-    return true;
-  } catch {
-    window.location.href = "/login";
-    return false;
-  }
+    if (d.ok) currentUser = d.user;
+  } catch { /* API недоступен — гость, сайт всё равно работает */ }
+  return true;
 }
 async function doLogout() {
   await fetch("/api/logout", { method: "POST" });
@@ -164,6 +198,22 @@ async function doLogout() {
 
 /* ── API прогресса (для текущего юзера) ─────────────────────────── */
 async function apiProgress(kind, id, result) {
+  // Гость: пишем в localStorage по той же логике, что на сервере
+  if (guestMode) {
+    const s = currentUser.stats;
+    if (kind === "video" && id != null) { if (!s.videosWatched.includes(id)) s.videosWatched.push(id); }
+    else if (kind === "theme" && id != null) { if (!s.themesDone.includes(id)) s.themesDone.push(id); }
+    else if (kind === "ticket" && id != null) { if (!s.ticketsDone.includes(id)) s.ticketsDone.push(id); }
+    else if (kind === "tricky" && id != null) { if (!s.trickyMastered.includes(id)) s.trickyMastered.push(id); }
+    else if ((kind === "quiz" || kind === "exam") && result && typeof result.correct === "number") {
+      s.quizzesTaken += 1; s.correctAnswers += result.correct; s.totalAnswers += result.total;
+      if (kind === "exam" && result.correct / result.total >= 0.8) s.examsPassed += 1;
+      if (id != null && result.categoryKind === "theme" && !s.themesDone.includes(id)) s.themesDone.push(id);
+      if (id != null && result.categoryKind === "ticket" && !s.ticketsDone.includes(id)) s.ticketsDone.push(id);
+    }
+    saveGuestStats();
+    return;
+  }
   try {
     await fetch("/api/progress", {
       method: "POST",
@@ -256,9 +306,10 @@ async function renderHome() {
     load("videos"), load("signs"), load("fines"), load("themes"), load("tickets"), load("tricky"),
     load("profile"),
   ]);
-  // Готовность — из API (реальный прогресс текущего юзера), не из файла
+  // Готовность: гость — локальный расчёт, залогиненный — с сервера
   let readiness = null;
-  try { const r = await fetch("/api/readiness"); const d = await r.json(); if (d.ok) readiness = d.readiness; } catch {}
+  if (guestMode) readiness = guestReadiness();
+  else { try { const r = await fetch("/api/readiness"); const d = await r.json(); if (d.ok) readiness = d.readiness; } catch {} }
   const totalSigns = (signs || []).reduce((s, c) => s + c.signs.length, 0);
   const totalQ = (themes || []).reduce((s, t) => s + t.count, 0)
     + (tickets || []).reduce((s, t) => s + t.count, 0)
@@ -460,17 +511,22 @@ async function renderVideoPlayer(v) {
   frag.appendChild(backBtn(t("to_videos"), "videos"));
   frag.appendChild(head(`${t("quiz_question")} №${v.index}`, v.title));
 
-  // Позиция просмотра берётся с сервера (привязана к аккаунту).
+  // Позиция просмотра: гость — localStorage, залогиненный — с сервера (аккаунт).
   const posKey = `video_pos_${v.index}`;
   let savedPos = 0;
   try { savedPos = parseFloat(localStorage.getItem(posKey) || "0") || 0; } catch {}
-  try {
-    const r = await fetch("/api/video-progress");
-    const d = await r.json();
-    if (d.ok && d.positions && d.positions[String(v.index)]) {
-      savedPos = parseFloat(d.positions[String(v.index)]) || savedPos;
-    }
-  } catch {}
+  if (guestMode) {
+    const pos = currentUser?.stats?.videoPositions?.[String(v.index)];
+    if (pos) savedPos = pos;
+  } else {
+    try {
+      const r = await fetch("/api/video-progress");
+      const d = await r.json();
+      if (d.ok && d.positions && d.positions[String(v.index)]) {
+        savedPos = parseFloat(d.positions[String(v.index)]) || savedPos;
+      }
+    } catch {}
+  }
 
   // Контейнер для кастомного плеера (стиль YouTube)
   const wrap = el("div", "player-wrap fade-up");
@@ -494,9 +550,15 @@ async function renderVideoPlayer(v) {
   // Создать кастомный плеер YPlayer
   const player = new YPlayer(wrap, { src, startTime: savedPos });
 
-  // Синхронизация позиции с аккаунтом при просмотре
+  // Синхронизация позиции: гость — localStorage, юзер — аккаунт на сервере
   player.on("position", (sec) => {
     try { localStorage.setItem(posKey, String(sec)); } catch {}
+    if (guestMode) {
+      currentUser.stats.videoPositions = currentUser.stats.videoPositions || {};
+      currentUser.stats.videoPositions[String(v.index)] = sec;
+      saveGuestStats();
+      return;
+    }
     fetch("/api/video-progress", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -881,13 +943,20 @@ async function renderProfile() {
   const u = currentUser;
   if (!u) { go("home"); return; }
 
-  // Свежие данные + готовность + список званий
+  // Свежие данные + готовность + список званий (гость — всё локально)
   let readiness = null, titles = [];
-  try {
-    const [r1, r2] = await Promise.all([fetch("/api/readiness"), fetch("/api/titles")]);
-    const d1 = await r1.json(); if (d1.ok) readiness = d1.readiness;
-    const d2 = await r2.json(); if (d2.ok) titles = d2.titles;
-  } catch {}
+  if (guestMode) {
+    readiness = guestReadiness();
+    titles = [{ id: "Новичок", label: "🌱 Новичок" }, { id: "Ученик", label: "📚 Ученик" },
+      { id: "Знаток", label: "💡 Знаток" }, { id: "Мастер", label: "⭐ Мастер" },
+      { id: "Профи", label: "🏆 Профи" }, { id: "Легенда", label: "👑 Легенда" }];
+  } else {
+    try {
+      const [r1, r2] = await Promise.all([fetch("/api/readiness"), fetch("/api/titles")]);
+      const d1 = await r1.json(); if (d1.ok) readiness = d1.readiness;
+      const d2 = await r2.json(); if (d2.ok) titles = d2.titles;
+    } catch {}
+  }
 
   const s = u.stats || {};
   const initials = (u.name || "?").split(" ").map(w => w[0]).slice(0, 2).join("").toUpperCase();
@@ -897,17 +966,17 @@ async function renderProfile() {
   const frag = document.createDocumentFragment();
   frag.appendChild(head(t("profile_title"), t("profile_title"), t("profile_sub")));
 
-  // ── Hero карточка ───────────────────────────────────────────────
+  // ── Hero карточка (гостю — без email/кнопки выхода) ──────────────
   const heroCard = el("div", "panel fade-up profile-hero");
   heroCard.innerHTML = `
     <div class="ph-top">
       <div class="ph-avatar">${esc(initials)}</div>
       <div class="ph-main">
         <h2 class="ph-name" id="phName">${esc(u.name)}</h2>
-        <div class="ph-email">${esc(u.email)}</div>
+        ${guestMode ? `<div class="ph-email">👤 ${t("home_greeting")} · ${t("profile_progress")} — localStorage</div>` : `<div class="ph-email">${esc(u.email)}</div>`}
         <div class="ph-since">📅 ${t("profile_member_since")} ${esc(memberSince)}</div>
       </div>
-      <button class="btn btn-ghost" id="btnLogout" style="align-self:flex-start">${t("profile_logout_short")}</button>
+      ${guestMode ? "" : `<button class="btn btn-ghost" id="btnLogout" style="align-self:flex-start">${t("profile_logout_short")}</button>`}
     </div>`;
   frag.appendChild(heroCard);
 
@@ -920,11 +989,13 @@ async function renderProfile() {
   // Поле: Полное имя
   settings.appendChild(profileField(t("profile_name"), `<input class="pf-input" id="fName" value="${esc(u.name)}">`));
 
-  // Поле: Yodla ID (только чтение)
-  settings.appendChild(profileField(t("profile_yodla_id"), `<div class="pf-readonly">${esc(u.yodlaId || "—")}</div>`));
+  // Поле: Yodla ID (только чтение; гостю не показываем)
+  if (!guestMode) {
+    settings.appendChild(profileField(t("profile_yodla_id"), `<div class="pf-readonly">${esc(u.yodlaId || "—")}</div>`));
 
-  // Поле: Email (только чтение)
-  settings.appendChild(profileField("Email", `<div class="pf-readonly">${esc(u.email)}</div>`));
+    // Поле: Email (только чтение)
+    settings.appendChild(profileField("Email", `<div class="pf-readonly">${esc(u.email)}</div>`));
+  }
 
   // Поле: Телефон
   settings.appendChild(profileField(t("profile_phone"), `<input class="pf-input" id="fPhone" value="${esc(u.phone || "")}" placeholder="+998 90 123 45 67">`));
@@ -944,9 +1015,12 @@ async function renderProfile() {
   settingsWrap.appendChild(settings);
   frag.appendChild(settingsWrap);
 
-  // ── Смена пароля ────────────────────────────────────────────────
+  // ── Смена пароля (только для залогиненных) ──────────────────────
   frag.appendChild(el("div", "divider-glow"));
   const pwdWrap = el("div", "fade-up");
+  if (guestMode) {
+    pwdWrap.innerHTML = `<div class="panel center" style="padding:20px;color:var(--ink-mute)">${t("profile_change_pwd")} — ${t("profile_title")}</div>`;
+  } else {
   pwdWrap.innerHTML = `<h3 class="mb-16">${t("profile_change_pwd")}</h3>`;
   const pwdPanel = el("div", "panel");
   pwdPanel.innerHTML = `
@@ -957,6 +1031,7 @@ async function renderProfile() {
     <div id="pwdMsg" class="pf-msg" hidden></div>
     <button class="btn btn-primary mt-24" id="btnChangePwd">${t("profile_update_pwd")}</button>`;
   pwdWrap.appendChild(pwdPanel);
+  }
   frag.appendChild(pwdWrap);
 
   // ── Статистика ──────────────────────────────────────────────────
@@ -987,11 +1062,13 @@ async function renderProfile() {
     frag.appendChild(renderReadinessGauge(readiness));
   }
 
-  // ── Выход ───────────────────────────────────────────────────────
-  const logoutRow = el("div", "center fade-up");
-  logoutRow.style.marginTop = "32px";
-  logoutRow.innerHTML = `<button class="btn btn-ghost" id="btnLogout2">${t("profile_logout")}</button>`;
-  frag.appendChild(logoutRow);
+  // ── Выход (только для залогиненных) ──────────────────────────────
+  if (!guestMode) {
+    const logoutRow = el("div", "center fade-up");
+    logoutRow.style.marginTop = "32px";
+    logoutRow.innerHTML = `<button class="btn btn-ghost" id="btnLogout2">${t("profile_logout")}</button>`;
+    frag.appendChild(logoutRow);
+  }
 
   setApp(frag);
   bindProfileEvents(u);
@@ -1011,6 +1088,24 @@ function bindProfileEvents(u) {
   function saveProfile(patch, msgEl) {
     clearTimeout(saveTimer);
     saveTimer = setTimeout(async () => {
+      // Гость: сохраняем профиль локально
+      if (guestMode) {
+        if (typeof patch.name === "string" && patch.name.trim().length >= 2) currentUser.name = patch.name.trim();
+        if ("phone" in patch) currentUser.phone = patch.phone || null;
+        if ("examDate" in patch) currentUser.examDate = patch.examDate || null;
+        if ("title" in patch) currentUser.title = patch.title;
+        if ("language" in patch) currentUser.language = patch.language;
+        try { localStorage.setItem("yodla_guest_profile", JSON.stringify({
+          name: currentUser.name, phone: currentUser.phone, examDate: currentUser.examDate,
+          title: currentUser.title, language: currentUser.language,
+        })); } catch {}
+        const navUser = document.getElementById("navUser");
+        if (navUser) navUser.textContent = currentUser.name.split(" ")[0];
+        const phName = document.getElementById("phName");
+        if (phName) phName.textContent = currentUser.name;
+        if (msgEl) { msgEl.textContent = t("profile_saved"); msgEl.className = "pf-msg ok"; msgEl.hidden = false; setTimeout(() => msgEl.hidden = true, 1500); }
+        return;
+      }
       try {
         const r = await fetch("/api/profile", { method: "PATCH", headers: { "Content-Type": "application/json" }, body: JSON.stringify(patch) });
         const d = await r.json();
@@ -1075,18 +1170,31 @@ function bindProfileEvents(u) {
 /* ── запуск ──────────────────────────────────────────────────────
    Сначала проверяем сессию. Если не залогинен — редирект на /login. */
 (async () => {
-  const ok = await checkSession();
-  if (!ok) return;
-  // Синхронизировать язык из профиля
-  if (currentUser && currentUser.language) setLang(currentUser.language);
+  await checkSession();
+  // Гость: создаём локального пользователя, прогресс хранится в localStorage
+  if (!currentUser) {
+    const GUEST = {
+      id: "guest", yodlaId: null, name: "Гость", email: "",
+      phone: null, examDate: null, title: "Новичок", language: null,
+      createdAt: new Date().toISOString(),
+      stats: loadGuestStats(),
+    };
+    // восстановить сохранённый локально guest-профиль (имя/телефон/дата/звание/язык)
+    try {
+      const gp = JSON.parse(localStorage.getItem("yodla_guest_profile"));
+      if (gp) Object.assign(GUEST, gp);
+    } catch {}
+    currentUser = GUEST;
+    guestMode = true;
+  } else if (currentUser.language) {
+    setLang(currentUser.language);
+  }
   translateNav();
-  // Кнопка юзера в навигации: показывает имя, по клику — открывает профиль
   const navUser = document.getElementById("navUser");
-  if (navUser && currentUser) {
+  if (navUser) {
     navUser.textContent = currentUser.name.split(" ")[0];
     navUser.onclick = () => go("profile");
   }
-  // Кнопки поиска и языка
   const navSearch = document.getElementById("navSearch");
   if (navSearch) navSearch.onclick = showSearch;
   const navLang = document.getElementById("navLang");
