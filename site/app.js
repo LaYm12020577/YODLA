@@ -875,7 +875,6 @@ const LANG_OPTIONS = [
   { id: "uz", label: "O'zbekcha" },
   { id: "oz", label: "Ўзбекча" },
   { id: "ru", label: "Русский" },
-  { id: "zh", label: "中文" },
 ];
 
 async function renderProfile() {

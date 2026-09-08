@@ -1,0 +1,20 @@
+{
+  "outputDirectory": "site",
+  "functions": {
+    "api/**/*.js": { "maxDuration": 60 }
+  },
+  "rewrites": [
+    { "source": "/login", "destination": "/login.html" },
+    { "source": "/api/register", "destination": "/api/register" },
+    { "source": "/api/login", "destination": "/api/login" },
+    { "source": "/api/logout", "destination": "/api/logout" },
+    { "source": "/api/me", "destination": "/api/me" },
+    { "source": "/api/readiness", "destination": "/api/readiness" },
+    { "source": "/api/progress", "destination": "/api/progress" },
+    { "source": "/api/profile", "destination": "/api/profile" },
+    { "source": "/api/change-password", "destination": "/api/change-password" },
+    { "source": "/api/titles", "destination": "/api/titles" },
+    { "source": "/api/video-progress", "destination": "/api/video-progress" },
+    { "source": "/drive-proxy/:fileId", "destination": "/api/drive-proxy/:fileId" }
+  ]
+}

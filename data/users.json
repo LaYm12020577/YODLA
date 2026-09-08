@@ -75,12 +75,13 @@
       "examsPassed": 0,
       "totalAnswers": 0,
       "videoPositions": {
+        "1": 0,
         "7": 1
       }
     },
     "yodlaId": "858-1361",
     "title": "Новичок",
-    "language": "oz",
+    "language": "ru",
     "darkMode": false,
     "phone": "+998905430820",
     "examDate": null

@@ -1,0 +1,10 @@
+node_modules
+.vercel
+data/users.json
+data/sessions.json
+ТРЕНИРОВКИ
+materials
+videos
+*.log
+token.txt
+.env

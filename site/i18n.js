@@ -143,13 +143,12 @@ const I18N = {
 
 // Текущий язык (по умолчанию — из localStorage или 'ru')
 let CURRENT_LANG = "ru";
-try { CURRENT_LANG = localStorage.getItem("yodla_lang") || "ru"; } catch {}
+try { const saved = localStorage.getItem("yodla_lang"); if (["ru", "uz", "oz"].includes(saved)) CURRENT_LANG = saved; } catch {}
 
 const SUPPORTED_LANGS = [
   { id: "ru", label: "Русский", flag: "🇷🇺" },
   { id: "uz", label: "Ўзбекча", flag: "🇺🇿" },
   { id: "oz", label: "O'zbekcha", flag: "🇺🇿" },
-  { id: "zh", label: "中文", flag: "🇨🇳" },
 ];
 
 /** Получить перевод ключа для текущего языка. */
