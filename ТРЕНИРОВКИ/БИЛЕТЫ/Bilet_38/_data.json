@@ -1,0 +1,697 @@
+{
+  "title": "Bilet 38",
+  "count": 20,
+  "questions": [
+    {
+      "id": 743,
+      "questionUz": "Расмда кўрсатилган чорраха- ...",
+      "questionRu": "На рисунке изображена-...",
+      "questionOz": "Rasmda ko'rsatilgan chorraxa- ...",
+      "explanationUz": "Ҳаракатланишда автомобиль ўнг ғилдиракларининг юмшоқ ва нам йўл ёқасида чиқиши ўнг ва чап ғилдираклар илашиш коэффициентларининг турлича бўлишига ва бу ўз навбатида автомобилнинг сирпаниб кетишига олиб келади. Бундай вазиятда тезликни пасайтирмай, яъни тормоз тепкисини босмай руль чамбарагини аста буриб қатнов қисмига йўналтириш керак. Ушбу ҳолатда тормозлаш ҳам автомобилнинг сирпанишига олиб келади.",
+      "explanationRu": "При съезде автомобиля правыми колесами на неукрепленную и влажную обочину возникает опасность заноса из-за разницы сцепления правых и левых колес с дорогой. При этом целесообразно, не меняя скорости, т.е. не прибегая к торможению, плавным поворотом рулевого колеса вернуть автомобиль на проезжую часть. Торможение в данной ситуации может вызвать занос автомобиля.",
+      "explanationOz": "Harakatlanishda avtomobil o'ng g'ildiraklarining yumshoq va nam yo'l yoqasida chiqishi o'ng va chap g'ildiraklar ilashish koeffisientlarining turlicha bo'lishiga va bu o'z navbatida avtomobilning sirpanib ketishiga olib keladi. Bunday vaziyatda tezlikni pasaytirmay, ya'ni tormoz tepkisini bosmay rul chambaragini asta burib qatnov qismiga yo'naltirish kerak. Ushbu holatda tormozlash ham avtomobilning sirpanishiga olib keladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.9.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2480,
+          "textUz": "Тартибга солинмаган, тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳа",
+          "textRu": "Нерегулируемый, перекресток неравнозначных дорог",
+          "textOz": "Tartibga solinmagan, teng ahamiyatga ega bo'lmagan yo'llar kesishgan chorraha",
+          "isCorrect": true
+        },
+        {
+          "id": 2481,
+          "textUz": "Тартибга солинмаган, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳа",
+          "textRu": "Нерегулируемый, равнозначный перекресток",
+          "textOz": "Tartibga solinmagan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorraha",
+          "isCorrect": false
+        },
+        {
+          "id": 2482,
+          "textUz": "Тартибга солинган чорраҳа",
+          "textRu": "Регулируемый перекресток",
+          "textOz": "Tartibga solingan chorraha",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2480
+      ]
+    },
+    {
+      "id": 744,
+      "questionUz": "Расмда кўрсатилган чорраха- ...",
+      "questionRu": "На рисунке изображена:",
+      "questionOz": "Rasmda ko'rsatilgan chorraxa- ...",
+      "explanationUz": "ЙҲҚ 21-боби 128-банди: Агар йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларда, қарама-қарши йўналишларда ҳаракатланишни қийинлаштирадиган тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак. ЙҲҚ 1 илова: 2.7. “Рўпарадаги ҳаракатланишга нисбатан имтиёз” белгиси. Йўлнинг тор қисмида ҳаракатланишда ҳайдовчи рўпарадан келаётган транспорт воситасига нисбатан имтиёзга эгалигини билдиради.",
+      "explanationRu": "Пункта 128 главы 21 ПДД, гласит: На уклонах, обозначенных дорожными знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск. Приложение № 1: пункт 2.7. “Преимущество перед встречным движением”. Узкий участок дороги, при движении по которому водитель пользуется приоритетом по отношению к встречным транспортным средствам.",
+      "explanationOz": "YHQ 21-bobi 128-bandi: Agar yo‘lning 1.13 va 1.14 yo‘l belgilari bilan belgilangan qiyaliklarda, qarama-qarshi yo‘nalishlarda harakatlanishni qiyinlashtiradigan to‘siq bo‘lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo‘l berishi kerak. YHQ 1 ilova: 2.7. “Ro‘paradagi harakatlanishga nisbatan imtiyoz” belgisi. Yo‘lning tor qismida harakatlanishda haydovchi ro‘paradan kelayotgan transport vositasiga nisbatan imtiyozga egaligini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2483,
+          "textUz": "Тартибга солинмаган, тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳа",
+          "textRu": "Нерегулируемый перекресток неравнозначных дорог",
+          "textOz": "Tartibga solinmagan, teng ahamiyatga ega bo'lmagan yo'llar kesishgan chorraha",
+          "isCorrect": false
+        },
+        {
+          "id": 2484,
+          "textUz": "Тартибга солинмаган, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳа",
+          "textRu": "Нерегулируемый, равнозначный перекресток",
+          "textOz": "Tartibga solinmagan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorraha",
+          "isCorrect": false
+        },
+        {
+          "id": 2485,
+          "textUz": "Тартибга солинган чорраҳа",
+          "textRu": "Регулируемый перекресток",
+          "textOz": "Tartibga solingan chorraha",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2485
+      ]
+    },
+    {
+      "id": 745,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси чорраҳадан биринчи бўлиб ўтади?",
+      "questionRu": "Водители каких транспортных средств проедут перекресток первыми?",
+      "questionOz": "Qaysi transport vositasining haydovchisi chorrahadan birinchi bo'lib o'tadi?",
+      "explanationUz": "ЙҲҚ 15-боби 100- ва 101- бандларига асосан, светофорнинг тақиқловчи қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоқнинг кўрсаткичли яшил ишораси йўналишида ҳаракатланаётган ҳайдовчи бошқа йўналишлардан ҳаракатланаётган транспорт воситаларига йўл бериши керак. Светофорнинг қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоғининг йўналтиргичли яшил ишораси йўналишида ҳаракатланаётган трамвай бошқа йўналишларда ҳаракатланаётган транспорт воситаларига йўл бериши керак.",
+      "explanationRu": "Согласно пунктам 100, 101 главы 15 ПДД, при движении в направлении зеленой стрелки, включённой в дополнительной секции одновременно с жёлтым или красным сигналом светофора, водитель транспортного средства обязан уступить дорогу транспортным средствам, движущимся с других направлений. При движении в направлении стрелки, включенной в дополнительной секции одновременно с желтым или красным сигналом светофора, трамвай должен уступить дорогу транспортным средствам, движущимся с других направлений.",
+      "explanationOz": "YHQ 15-bobi 100 - va 101 - bandlariga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak. Svetoforning qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmog'ining yo'naltirgichli yashil ishorasi yo'nalishida harakatlanayotgan tramvay boshqa yo'nalishlarda harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2486,
+          "textUz": "Автомобил ва автобус ҳайдовчиси",
+          "textRu": "Водители автомобиля и автобуса",
+          "textOz": "Avtomobil va avtobus haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2487,
+          "textUz": "Трамвай ҳайдовчиси",
+          "textRu": "Водитель трамвая",
+          "textOz": "Tramvay haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2486
+      ]
+    },
+    {
+      "id": 746,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 15-боби 100- ва 101- бандларига асосан, светофорнинг тақиқловчи қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоқнинг кўрсаткичли яшил ишораси йўналишида ҳаракатланаётган ҳайдовчи бошқа йўналишлардан ҳаракатланаётган транспорт воситаларига йўл бериши керак. Светофорнинг қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоғининг йўналтиргичли яшил ишораси йўналишида ҳаракатланаётган трамвай бошқа йўналишларда ҳаракатланаётган транспорт воситаларига йўл бериши керак.",
+      "explanationRu": "Согласно пунктам 100, 101 главы 15 ПДД, при движении в направлении зеленой стрелки, включённой в дополнительной секции одновременно с жёлтым или красным сигналом светофора, водитель транспортного средства обязан уступить дорогу транспортным средствам, движущимся с других направлений. При движении в направлении стрелки, включенной в дополнительной секции одновременно с желтым или красным сигналом светофора, трамвай должен уступить дорогу транспортным средствам, движущимся с других направлений.",
+      "explanationOz": "YHQ 15-bobi 100 - va 101 - bandlariga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak. Svetoforning qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmog'ining yo'naltirgichli yashil ishorasi yo'nalishida harakatlanayotgan tramvay boshqa yo'nalishlarda harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2488,
+          "textUz": "Автомобил ҳайдовчиси",
+          "textRu": "Водитель автомобиля",
+          "textOz": "Avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2489,
+          "textUz": "Трамвай ҳайдовчиси",
+          "textRu": "Водитель трамвая",
+          "textOz": "Tramvay haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2489
+      ]
+    },
+    {
+      "id": 747,
+      "questionUz": "Транспорт воситалари чорраҳадан қуйидаги тартибда ўтадилар:",
+      "questionRu": "Транспортные средства проедут перекресток в следующем порядке:",
+      "questionOz": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar:",
+      "explanationUz": "ЙҲҚ 15-боби 100- ва 101- бандларига асосан, светофорнинг тақиқловчи қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоқнинг кўрсаткичли яшил ишораси йўналишида ҳаракатланаётган ҳайдовчи бошқа йўналишлардан ҳаракатланаётган транспорт воситаларига йўл бериши керак. Агар светофорнинг ишоралари трамвай ва рельссиз транспорт воситаларига бир вақтда ҳаракатланишга рухсат берса, ҳаракатланиш йўналишидан қатъи назар, трамвай олдин ўтиш ҳуқуқига эга бўлади. Светофорнинг қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоғининг йўналтиргичли яшил ишораси йўналишида ҳаракатланаётган трамвай бошқа йўналишларда ҳаракатланаётган транспорт воситала��ига йўл бериши керак.",
+      "explanationRu": "Согласно пунктам 100, 101 главы 15 ПДД, при движении в направлении зеленой стрелки, включённой в дополнительной секции одновременно с жёлтым или красным сигналом светофора, водитель транспортного средства обязан уступить дорогу транспортным средствам, движущимся с других направлений. Если сигналы светофора разрешают движение одновременно трамваю и безрельсовым транспортным средствам, то трамвай имеет право на первоочередное движение, независимо от направления его движения. При движении в направлении стрелки, включенной в дополнительной секции одновременно с желтым или красным сигналом светофора, трамвай должен уступить дорогу транспортным средствам, движущимся с других направлений.",
+      "explanationOz": "YHQ 15-bobi 100 - va 101 - bandlariga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak. Agar svetoforning ishoralari tramvay va relssiz transport vositalariga bir vaqtda harakatlanishga ruxsat bersa, harakatlanish yo'nalishidan qat'i nazar, tramvay oldin o'tish huquqiga ega bo'ladi. Svetoforning qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmog'ining yo'naltirgichli yashil ishorasi yo'nalishida harakatlanayotgan tramvay boshqa yo'nalishlarda harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2490,
+          "textUz": "Трамвай ва автобус, енгил автомобил",
+          "textRu": "Трамвай и автобус, легковой автомобиль",
+          "textOz": "Tramvay va avtobus, engil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2491,
+          "textUz": "Трамвай, енгил автомобил, автобус",
+          "textRu": "Трамвай, легковой автомобиль, автобус",
+          "textOz": "Tramvay, engil avtomobil, avtobus",
+          "isCorrect": false
+        },
+        {
+          "id": 2492,
+          "textUz": "Енгил автомобил, трамвай ва автобус",
+          "textRu": "Легковой автомобиль, трамвай и автобус",
+          "textOz": "Engil avtomobil, tramvay va avtobus",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2492
+      ]
+    },
+    {
+      "id": 748,
+      "questionUz": "Яшил автомобил чорраҳадан нечанчи бўлиб ўтади?",
+      "questionRu": " Зеленый автомобиль проедет перекресток:",
+      "questionOz": "Yashil avtomobil chorrahadan nechanchi bo'lib o'tadi?",
+      "explanationUz": "ЙҲҚ 15-боби 99-бандига асосан, светофорнинг рухсат этувчи ишорасида чапга бурилаётган ёки қайрилиб олаётган рельссиз транспорт воситасининг ҳайдовчиси қарама-қарши томондан тўғрига ҳаракатланаётган ва ўнгга бурилаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 99 главы № 15 ПДД, при повороте налево или развороте по зелёному сигналу светофора водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся со встречного направления прямо или направо.",
+      "explanationOz": "YHQ 15-bobi 99-bandiga asosan, svetoforning ruxsat etuvchi ishorasida chapga burilayotgan yoki qayrilib olayotgan relssiz transport vositasining haydovchisi qarama-qarshi tomondan to'g'riga harakatlanayotgan va o'ngga burilayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2493,
+          "textUz": "Иккинчи",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi",
+          "isCorrect": true
+        },
+        {
+          "id": 2494,
+          "textUz": "Биринчи",
+          "textRu": "Первым",
+          "textOz": "Birinchi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2493
+      ]
+    },
+    {
+      "id": 749,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 15-боби 100-бандига асосан, светофорнинг тақиқловчи қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоқнинг кўрсаткичли яшил ишораси йўналишида ҳаракатланаётган ҳайдовчи бошқа йўналишлардан ҳаракатланаётган транспорт воситаларига йўл бериши керак.",
+      "explanationRu": "Согласно пункту 100 главы 15 ПДД, при движении в направлении зеленой стрелки, включённой в дополнительной секции одновременно с жёлтым или красным сигналом светофора, водитель транспортного средства обязан уступить дорогу транспортным средствам, движущимся с других направлений.",
+      "explanationOz": "YHQ 15-bobi 100-bandiga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2495,
+          "textUz": "Мотоцикл ҳайдовчиси",
+          "textRu": "Водитель мотоцикла",
+          "textOz": "Motosikl haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2496,
+          "textUz": "Автомобил ҳайдовчиси",
+          "textRu": "Водитель автомобиля",
+          "textOz": "Avtomobil haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2496
+      ]
+    },
+    {
+      "id": 750,
+      "questionUz": "Кўрсатилган йўналишлар бўйича қайси транспорт воситаларига ҳаракатланишга рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешается движение в указанных направлениях?",
+      "questionOz": "Ko'rsatilgan yo'nalishlar bo'yicha qaysi transport vositalariga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 7-боби 32-бандига асосан, Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари ҳам доирасимон шаклидаги светофор ишоралари билан бир хил маънога эга бўлади. Улар фақат кўрсатилган йўналишга таъсир этади.",
+      "explanationRu": "Согласно пункту 32 главы 7 ПДД, сигналы светофора, выполненные в виде стрелок красного, желтого и зеленого цветов имеют то же значение, что и круглые соответствующего цвета. Их действия распространяются только на направление, указываемое стрелками.",
+      "explanationOz": "YHQ 7-bobi 32-bandiga asosan, yo'naltirgich ko'rinishidagi qizil, sariq va yashil rangli svetofor ishoralari ham doirasimon shaklidagi svetofor ishoralari bilan bir xil ma'noga ega bo'ladi. Ular faqat ko'rsatilgan yo'nalishga ta'sir etadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2497,
+          "textUz": "Автомобил ҳайдовчисига",
+          "textRu": "Водителю автомобиля",
+          "textOz": "Avtomobil haydovchisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2498,
+          "textUz": "Автомобил ва мотоцикл ҳайдовчисига",
+          "textRu": "Водителям автомобиля и мотоцикла",
+          "textOz": "Avtomobil va motosikl haydovchisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2499,
+          "textUz": "Трамвай ва автомобил ҳайдовчисига",
+          "textRu": "Водителям трамвая и автомобиля",
+          "textOz": "Tramvay va avtomobil haydovchisiga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2499
+      ]
+    },
+    {
+      "id": 751,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси ҳаракатланишда имтиёзига эга?",
+      "questionRu": "Водитель какого транспортного средства имеет преимущество в движении?",
+      "questionOz": "Qaysi transport vositasining haydovchisi harakatlanishda imtiyoziga ega?",
+      "explanationUz": "ЙҲҚ 15-боби 101-бандига асосан, агар светофор ёки тартибга солувчининг ишоралари трамвай ва рельссиз транспорт воситаларига бир вақтда ҳаракатланишга рухсат берса, ҳаракатланиш йўналишидан қатъи назар, трамвай олдин ўтиш ҳуқуқига эга бўлади.",
+      "explanationRu": "Согласно пункту 101 главы 15 ПДД, если сигналы светофора или регулировщика разрешают движение одновременно трамваю и безрельсовым транспортным средствам, то трамвай имеет право на первоочередное движение, независимо от направления его движения.",
+      "explanationOz": "YHQ 15-bobi 101-bandiga asosan, agar svetofor yoki tartibga soluvchining ishoralari tramvay va relssiz transport vositalariga bir vaqtda harakatlanishga ruxsat bersa, harakatlanish yo'nalishidan qat'i nazar, tramvay oldin o'tish huquqiga ega bo'ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2500,
+          "textUz": "Автомобил ҳайдовчиси",
+          "textRu": "Водитель автомобиля",
+          "textOz": "Avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2501,
+          "textUz": "Трамвай ҳайдовчиси",
+          "textRu": "Водитель трамвая",
+          "textOz": "Tramvay haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2501
+      ]
+    },
+    {
+      "id": 752,
+      "questionUz": "Расмда кўрсатилган ҳолатда қизил автомобилнинг ҳайдовчиси қандай йўл тутиши керак?",
+      "questionRu": "Как должен поступить водитель красного автомобиля в ситуации показанной на рисунке?",
+      "questionOz": "Rasmda ko'rsatilgan holatda qizil avtomobilning haydovchisi qanday yo'l tutishi kerak?",
+      "explanationUz": "Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари ҳам доирасимон шаклидаги светофор ишоралари билан бир хил маънога эга бўлади. Улар фақат кўрсатилган йўналишга таъсир этади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи йўналтиргич қайрилиб олишга ҳам рухсат беради. Қўшимча тармоқдаги яшил йўналтиргич ҳам худди шу маънони билдиради. Светофорнинг қўшимча тармоқдаги ишора ўчирилган бўлса, шу тармоқ тартибга солаётган йўналишда ҳаракатланиш тақиқланганлигини билдиради.",
+      "explanationRu": "Сигналы светофора, выполненные в виде стрелок красного, желтого и зеленого цветов, имеют то же значение, что и круглые сигналы соответствующего цвета. Их действие распространяется только на направление, указываемое стрелками. Стрелка, разрешающая поворот налево, разрешает и разворот, если это не запрещено соответствующим дорожным знаком. Такое же значение имеет зеленая стрелка в дополнительной секции. Выключенный сигнал дополнительной секции означает запрещение движения в направлении, регулируемом этой секцией.\r\nВ данном случае движение красному автомобилю разрешено только направо, соответственно, он должен включить указатель правого поворота и повернуть направо.",
+      "explanationOz": "Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari ham doirasimon shaklidagi svetofor ishoralari bilan bir xil ma'noga ega bo‘ladi. Ular faqat ko‘rsatilgan yo‘nalishga ta'sir etadi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yo‘naltirgich qayrilib olishga ham ruxsat beradi. Qo‘shimcha tarmoqdagi yashil yo‘naltirgich ham xuddi shu ma'noni bildiradi. Svetoforning qo‘shimcha tarmoqdagi ishora o‘chirilgan bo‘lsa, shu tarmoq tartibga solayotgan yo‘nalishda harakatlanish taqiqlanganligini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2502,
+          "textUz": "Светофорнинг рухсат ишорасини кутиши ва тўғрига ўтиши",
+          "textRu": "Дождаться разрешающего сигнала светофора и проехать прямо",
+          "textOz": "Svetoforning ruxsat ishorasini kutishi va to'g'riga o'tishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2503,
+          "textUz": "Ўнгга бурилиш ишорасини ёқиши ва ўнгга бурилиши",
+          "textRu": "Включить указатель правого поворота и повернуть направо",
+          "textOz": "O'ngga burilish ishorasini yoqishi va o'ngga burilishi",
+          "isCorrect": true
+        },
+        {
+          "id": 2504,
+          "textUz": "Чапга бурилиш ишорасини ёқиши ва ўнг қаторни бўшатиши",
+          "textRu": "Включить указатель левого поворота и освободить правый ряд",
+          "textOz": "Chapga burilish ishorasini yoqishi va o'ng qatorni bo'shatishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2503
+      ]
+    },
+    {
+      "id": 753,
+      "questionUz": "Қизил автомобил чорраҳани нечанчи бўлиб кесиб ўтади?",
+      "questionRu": "Красный автомобиль проедет перекресток:",
+      "questionOz": "Qizil avtomobil chorrahani nechanchi bo'lib kesib o'tadi?",
+      "explanationUz": "ЙҲҚ 15-боби 99- ва 101- бандларига асосан, светофорнинг рухсат этувчи ишорасида чапга бурилаётган ёки қайрилиб олаётган рельссиз транспорт воситасининг ҳайдовчиси қарама-қарши томондан тўғрига ҳаракатланаётган ва ўнгга бурилаётган транспорт воситаларига йўл бериши шарт. Агар светофорнинг ишоралари трамвай ва рельссиз транспорт воситаларига бир вақтда ҳаракатланишга рухсат берса, ҳаракатланиш йўналишидан қатъи назар, трамвай олдин ўтиш ҳуқуқига эга бўлади.",
+      "explanationRu": "Согласно пунктам 99, 101 главы 15 ПДД, при повороте налево или развороте по зелёному сигналу светофора водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся со встречного направления прямо или направо. Если сигналы светофора разрешают движение одновременно трамваю и безрельсовым транспортным средствам, то трамвай имеет право на первоочередное движение, независимо от направления его движения.",
+      "explanationOz": "YHQ 15-bobi 99 - va 101 - bandlariga asosan, svetoforning ruxsat etuvchi ishorasida chapga burilayotgan yoki qayrilib olayotgan relssiz transport vositasining haydovchisi qarama-qarshi tomondan to'g'riga harakatlanayotgan va o'ngga burilayotgan transport vositalariga yo'l berishi shart. Agar svetoforning ishoralari tramvay va relssiz transport vositalariga bir vaqtda harakatlanishga ruxsat bersa, harakatlanish yo'nalishidan qat'i nazar, tramvay oldin o'tish huquqiga ega bo'ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2505,
+          "textUz": "Биринчи бўлиб",
+          "textRu": "Первым",
+          "textOz": "Birinchi bo'lib",
+          "isCorrect": false
+        },
+        {
+          "id": 2506,
+          "textUz": "Иккинчи бўлиб",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi bo'lib",
+          "isCorrect": false
+        },
+        {
+          "id": 2507,
+          "textUz": "Учинчи бўлиб",
+          "textRu": "Третьим",
+          "textOz": "Uchinchi bo'lib",
+          "isCorrect": false
+        },
+        {
+          "id": 2508,
+          "textUz": "Охирги бўлиб",
+          "textRu": "Последним",
+          "textOz": "Oxirgi bo'lib",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2508
+      ]
+    },
+    {
+      "id": 754,
+      "questionUz": "Транспорт воситалари чорраҳани қуйидаги тартибда кесиб ўтадилар:",
+      "questionRu": "Транспортные средства проедут перекресток в следующем порядке:",
+      "questionOz": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+      "explanationUz": "ЙҲҚ 15-боби 100-бандига асосан, светофорнинг тақиқловчи қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоқнинг кўрсаткичли яшил ишораси йўналишида ҳаракатланаётган ҳайдовчи бошқа йўналишлардан ҳаракатланаётган транспорт воситаларига йўл бериши керак.",
+      "explanationRu": "Согласно пункту 100 главы 15 ПДД, при движении в направлении зеленой стрелки, включённой в дополнительной секции одновременно с жёлтым или красным сигналом светофора, водитель транспортного средства обязан уступить дорогу транспортным средствам, движущимся с других направлений.",
+      "explanationOz": "YHQ 15-bobi 100-bandiga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/23.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4156,
+          "textUz": "Қизил автомобил, трамвай айни вақтда яшил автомобил билан",
+          "textRu": "Красный автомобиль, трамвай одновременно с зеленым автомобилем",
+          "textOz": "Qizil avtomobil, tramvay ayni vaqtda yashil avtomobil bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 4157,
+          "textUz": "Трамвай, қизил, яшил автомобиллар",
+          "textRu": "Трамвай, красный, зеленый автомобили",
+          "textOz": "Tramvay, qizil, yashil avtomobillar",
+          "isCorrect": false
+        },
+        {
+          "id": 4158,
+          "textUz": "Трамвай, айни вақтда яшил автомобил, қизил автомобил",
+          "textRu": "Трамвай одновременно с зеленым автомобилем, красный автомобиль",
+          "textOz": "Tramvay, ayni vaqtda yashil avtomobil, qizil avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4156
+      ]
+    },
+    {
+      "id": 755,
+      "questionUz": "Қизил автомобил чорраҳани кесиб ўтади:",
+      "questionRu": "Красный автомобиль проедет перекресток",
+      "questionOz": "Qizil avtomobil chorrahani kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 7-боби 43-бандига асосан, светофор ишоралари имтиёз белгилари талабларига зид бўлган ҳолларда ҳайдовчилар светофор ишораларига амал қилишлари керак. ЙҲҚ 15-боби 99-бандига асосан, светофорнинг рухсат этувчи ишорасида чапга бурилаётган ёки қайрилиб олаётган рельссиз транспорт воситасининг ҳайдовчиси қарама-қарши томондан тўғрига ҳаракатланаётган ва ўнгга бурилаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 43 главы № 7 ПДД, в случае, если значение сигналов светофора противоречат требованиям дорожных знаков приоритета, водители должны руководствоваться сигналами светофора. Согласно пункту 99 главы № 15 ПДД, при повороте налево или развороте по зелёному сигналу светофора водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся со встречного направления прямо или направо.",
+      "explanationOz": "YHQ 7-bobi 43-bandiga asosan, svetofor ishoralari imtiyoz belgilari talablariga zid bo'lgan hollarda haydovchilar svetofor ishoralariga amal qilishlari kerak. YHQ 15-bobi 99-bandiga asosan, svetoforning ruxsat etuvchi ishorasida chapga burilayotgan yoki qayrilib olayotgan relssiz transport vositasining haydovchisi qarama-qarshi tomondan to'g'riga harakatlanayotgan va o'ngga burilayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/28.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4196,
+          "textUz": "Биринчи бўлиб",
+          "textRu": "Первым",
+          "textOz": "Birinchi bo'lib",
+          "isCorrect": true
+        },
+        {
+          "id": 4197,
+          "textUz": "Иккинчи бўлиб",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi bo'lib",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4196
+      ]
+    },
+    {
+      "id": 756,
+      "questionUz": "Қизил автомобилнинг ҳайдовчиси:",
+      "questionRu": "Водитель красного автомобиля:",
+      "questionOz": "Qizil avtomobilning haydovchisi:",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 15-bobi 100-bandiga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/29.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2514,
+          "textUz": "Йўл бериши керак",
+          "textRu": "Должен уступить дорогу",
+          "textOz": "Yo'l berishi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 2515,
+          "textUz": "Биринчи галда ҳаракатланишга устунликка эга",
+          "textRu": "Имеет преимущество на первоочередное движение",
+          "textOz": "Birinchi galda harakatlanishga ustunlikka ega",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2514
+      ]
+    },
+    {
+      "id": 757,
+      "questionUz": "Чорраҳани биринчи бўлиб кесиб ўтади",
+      "questionRu": "Первым проедет перекресток:",
+      "questionOz": "Chorrahani birinchi bo'lib kesib o'tadi",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 15-bobi 100-bandiga asosan, svetoforning taqiqlovchi qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning ko'rsatkichli yashil ishorasi yo'nalishida harakatlanayotgan haydovchi boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/29.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2516,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2517,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2518,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2518
+      ]
+    },
+    {
+      "id": 758,
+      "questionUz": "Ҳаракатланишда устунликка эга:",
+      "questionRu": "Преимущество в движении имеет:",
+      "questionOz": "Harakatlanishda ustunlikka ega:",
+      "explanationUz": "ЙҲҚ 15-боби 102- ва 103- бандларига асосан, светофорнинг рухсат этувчи ишорасида чорраҳага кирган ҳайдовчи ундан чиқишда светофор ишораларидан қатъи назар, мўлжалланган йўналишда ҳаракатланишни давом эттириши керак. Светофорнинг рухсат этувчи ишораси ёнганда ҳайдовчи чорраҳа орқали ҳаракатланишни тугаллаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пунктам 102, 103 главы 15 ПДД, водитель, въехавший на перекресток при разрешающем сигнале светофора, должен выехать в намеченном направлении, независимо от сигналов светофора на выходе с него. При включении разрешающего сигнала светофора водитель обязан уступить дорогу транспортным средствам, завершающим движение через перекресток.",
+      "explanationOz": "YHQ 15-bobi 102 - va 103 - bandlariga asosan, svetoforning ruxsat etuvchi ishorasida chorrahaga kirgan haydovchi undan chiqishda svetofor ishoralaridan qat'i nazar, mo'ljallangan yo'nalishda harakatlanishni davom ettirishi kerak. Svetoforning ruxsat etuvchi ishorasi yonganda haydovchi chorraha orqali harakatlanishni tugallayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/31.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2519,
+          "textUz": "Асосий йўл бўйича чорраҳага чиқаётган автобуснинг ҳайдовчиси",
+          "textRu": "Водитель автобуса; выезжающий на перекресток по главной дороге",
+          "textOz": "Asosiy yo'l bo'yicha chorrahaga chiqayotgan avtobusning haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2520,
+          "textUz": "Чорраҳада қайрилишни тугаллаётган енгил автомобилнинг ҳайдовчиси",
+          "textRu": "Водитель легкого автомобиля; завершающий на перекрестке разворот",
+          "textOz": "Chorrahada qayrilishni tugallayotgan engil avtomobilning haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2521,
+          "textUz": "Светофорнинг рухсат этувчи ишорасида чорраҳага чиққан автобус ҳайдовчиси",
+          "textRu": "Водитель автобуса; выезжающий на перекресток при разрешающем сигнале светофора",
+          "textOz": "Svetoforning ruxsat etuvchi ishorasida chorrahaga chiqqan avtobus haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2520
+      ]
+    },
+    {
+      "id": 759,
+      "questionUz": "Светофорнинг қайси ишорасида автомобилнинг ҳайдовчиси қайрилишни тугаллаши мумкин?",
+      "questionRu": "При каком сигнале светофора водителю автомобиля можно закончить разворот?",
+      "questionOz": "Svetoforning qaysi ishorasida avtomobilning haydovchisi qayrilishni tugallashi mumkin?",
+      "explanationUz": "ЙҲҚ 15-боби 102-бандига мувофиқ, светофорнинг рухсат этувчи ишорасида чорраҳага кирган ҳайдовчи ундан чиқишда светофор ишораларидан қатъи назар, мўлжалланган йўналишда ҳаракатланишни давом эттириши керак. Бироқ чорраҳада ҳайдовчининг ҳаракатланиш йўлида жойлашган светофорлар олдида тўхташ чизиқлари (ёки 5.33 йўл белгиси) бўлса, у ҳар бир светофор ишораларига амал қилиши шарт.",
+      "explanationRu": "Согласно пункту 102 главы 15 ПДД, водитель, въехавший на перекресток при разрешающем сигнале светофора, должен выехать в намеченном направлении, независимо от сигналов светофора на выходе с него. Однако, если на перекрестке перед светофорами, расположенными на пути следования водителя, имеются стоп-линии (или дорожный знак 5.33), водитель обязан руководствоваться сигналами каждого светофора.",
+      "explanationOz": "YHQ 15-bobi 102-bandiga muvofiq, svetoforning ruxsat etuvchi ishorasida chorrahaga kirgan haydovchi undan chiqishda svetofor ishoralaridan qat'i nazar, mo'ljallangan yo'nalishda harakatlanishni davom ettirishi kerak. Biroq chorrahada haydovchining harakatlanish yo'lida joylashgan svetoforlar oldida to'xtash chiziqlari (yoki 5.33 yo'l belgisi) bo'lsa, u har bir svetofor ishoralariga amal qilishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/32.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4280,
+          "textUz": "Қизилда",
+          "textRu": "При красном",
+          "textOz": "Qizilda",
+          "isCorrect": false
+        },
+        {
+          "id": 4281,
+          "textUz": "Яшилда",
+          "textRu": "При зеленом\n",
+          "textOz": "Yashilda",
+          "isCorrect": true
+        },
+        {
+          "id": 4282,
+          "textUz": "Исталганда",
+          "textRu": "При любом\n",
+          "textOz": "Istalganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4281
+      ]
+    },
+    {
+      "id": 760,
+      "questionUz": "Светафорнинг қизил ёки сариқ ишораси билан бир вақтда ёнган қўшимча тармоқнинг йўналтиргичи яшил ишораси йўналишида ҳаракатланаётган транспорт  воситасининг ҳайдовчис�� кимга йўл бериши керак?",
+      "questionRu": "Кому должен уступить дорогуъ водитель транспортного средства, движущийся на зеленый сигнал дополнительной секции одновременно с красным или желтым сигналом светофора?",
+      "questionOz": "Svetaforning qizil yoki sariq ishorasi bilan bir vaqtda yongan qo'shimcha tarmoqning yo'naltirgichi yashil ishorasi yo'nalishida harakatlanayotgan transport  vositasining haydovchisi kimga yo'l berishi kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, йўл-транспорт ҳодисаси — транспорт воситасининг йўлда ҳаракатланиш жараёнида рўй берган, фуқароларнинг ҳалок бўлишига ёки соғлиғига зарар етишига, транспорт воситалари, иншоотлар, юкларнинг шикастланиши ёхуд бошқа моддий зарар етишига сабаб бўлган ҳодиса.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, дорожно-транспортное происшествие — событие, возникшее в процессе движения по дороге транспортного средства, при котором наступила смерть или причинен вред здоровью граждан, повреждены транспортные средства, сооружения, грузы либо причинен иной материальный ущерб.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, yo‘l-transport hodisasi — transport vositasining yo‘lda harakatlanish jarayonida ro‘y bergan, fuqarolarning halok bo‘lishiga yoki sog‘lig‘iga zarar yetishiga, transport vositalari, inshootlar, yuklarning shikastlanishi yoxud boshqa moddiy zarar yetishiga sabab bo‘lgan hodisa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2525,
+          "textUz": "Бошқа йўналишларда ҳаракатланаётган транспортвоситаларига",
+          "textRu": "Должен уступать дорогу транспортным средствам, движущимся с других направлений.",
+          "textOz": "Boshqa yo'nalishlarda harakatlanayotgan transportvositalariga",
+          "isCorrect": true
+        },
+        {
+          "id": 2526,
+          "textUz": "Ўнгдан келаётган транспортвоситаларига",
+          "textRu": "Транспортным средствам, приближающимся справа.",
+          "textOz": "O'ngdan kelayotgan transportvositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2527,
+          "textUz": "Қарама қарши йўналишда тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига",
+          "textRu": "Транспортным средствам, движущиеся во встречном направлении на право или прямо.",
+          "textOz": "Qarama qarshi yo'nalishda to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2525
+      ]
+    },
+    {
+      "id": 761,
+      "questionUz": "Ушбу вазиятдас сиз",
+      "questionRu": "В этой ситуации вы:",
+      "questionOz": "Ushbu vaziyatdas siz",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 105 бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. Бундай чорраҳаларда кейинги ҳаракат йўналишидан қатъий назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади.\r\nЙўл ҳаракати қоидаларининг 107 бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак.\r\nУшбу чорраҳада трамвай биринчи, тўғрига ҳаракатланаётган автобус иккинчи, чапга бурилаётган қизил автомобил учунчи бўлиб ҳаракатланади.",
+      "explanationRu": "Согласно пункту 105 Правил дорожного движения, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Этим же правилом должны руководствоваться между собой водители трамваев. На таких перекрестках трамвай имеет право на приоритет движения перед безрельсовыми транспортными средствами, независимо от направления его движения.\r\nСогласно пункту 107 Правил дорожного движения, при повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо, а также производящим обгон в разрешенных случаях. Этим же правилом должны руководствоваться между собой водители трамваев.\r\nНа этом перекрёстке первым движется трамвай, вторым — автобус, идущий прямо, а третьим — красный автомобиль, поворачивающий налево.",
+      "explanationOz": "Yo‘l harakati qoidalarining 105 bandiga asosan, teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak. Bunday chorrahalarda keyingi harakat yo‘nalishidan qat’iy nazar, tramvay relssiz transport vositalariga nisbatan oldin o‘tish huquqiga ega bo‘ladi.\r\nYo‘l harakati qoidalarining 107 bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo‘ldan qarama-qarshi yo‘nalishdan to‘g‘riga yoki o‘ngga harakatlanayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\r\nUshbu chorrahada tramvay birinchi, to‘g‘riga harakatlanayotgan avtobus ikkinchi, chapga burilayotgan qizil avtomobil uchunchi bo‘lib harakatlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4305,
+          "textUz": "Тўхтамасдан ҳаракатни давом эттиришингиз мумкин",
+          "textRu": "Вы можете продолжать движение, не останавливаясь",
+          "textOz": "To'xtamasdan harakatni davom ettirishingiz mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 4306,
+          "textUz": "Белги олдида тўхташингиз ва светофорнинг рухсат берувчи ишорасини кутишингиз керак",
+          "textRu": "Вы должны остановиться перед знаком и дождаться разрешающего сигнала светофора",
+          "textOz": "Belgi oldida to'xtashingiz va svetoforning ruxsat beruvchi ishorasini kutishingiz kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4306
+      ]
+    },
+    {
+      "id": 762,
+      "questionUz": "Чорраҳадан иккинчи бўлиб қайси транспорт воситаси кесиб ўтади?",
+      "questionRu": "Вторым проедет перекресток:",
+      "questionOz": "Chorrahadan ikkinchi bo'lib qaysi transport vositasi kesib o'tadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.24 белгига асосан, «Юқори тезлик чекланган». Белгида кўрсатилганидан ортиқ тезликда (км/с) ҳаракатланиш тақиқланишини билдиради.\r\nЙҲҚ 1-иловасининг 7-бўлимидаги 7.2.1 белгига асосан, «Таъсир оралиғи». Огоҳлантирувчи белгилар билан белгиланган хавфли жойнинг узунлигини ёки тақиқловчи ва ахборот-кўрсаткич белгиларининг таъсир оралиғини кўрсатади.",
+      "explanationRu": "Знак 3.24 раздела 3 приложения № 1 к ПДД, «Ограничение максимальной скорости». Запрещается движение со скоростью (км/ч), превышающей указанную на знаке.\r\nЗнак 7.2.1 раздела 7 приложения № 1 к ПДД, «Зона действия». Указывает протяженность опасного участка дороги, обозначенного предупреждающими знаками, или зону действия запрещающих и информационно-указательных знаков.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo‘limidagi 3.24 belgiga asosan, «Yuqori tezlik cheklangan». Belgida ko‘rsatilganidan ortiq tezlikda (km/s) harakatlanish taqiqlanishini bildiradi.\r\nYHQ 1-ilovasining 7-bo‘limidagi 7.2.1 belgiga asosan, «Ta’sir oralig‘i». Ogohlantiruvchi belgilar bilan belgilangan xavfli joyning uzunligini yoki taqiqlovchi va axborot-ko‘rsatkich belgilarining ta’sir oralig‘ini ko‘rsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/50.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2530,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобил",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2531,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2532,
+          "textUz": "Яшил автомобил трамвай билан бир вақтда",
+          "textRu": "Зеленый автомобиль одновременно с трамваем",
+          "textOz": "Yashil avtomobil tramvay bilan bir vaqtda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2532
+      ]
+    }
+  ]
+}

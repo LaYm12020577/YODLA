@@ -1,0 +1,1264 @@
+{
+  "title": "42. Первая медицинская помощь (боб 31)",
+  "count": 34,
+  "questions": [
+    {
+      "id": 1177,
+      "questionUz": "Умуртқасининг кўкрак қисми шикастланган киши транспортда қандай ташилади?",
+      "questionRu": "Как транспортировать пострадавшего с повреждением грудного отдела позвоночника?",
+      "questionOz": "Umurtqasining ko'krak qismi shikastlangan kishi transportda qanday tashiladi?",
+      "explanationUz": "Умуртқа поғонаси шикастланганда орқа (умуртқа) мияни жароҳатланишидан сақлаб қолиш учун умуртқа поғоналарининг бир-бирига нисбатан силжишини олдини олиш муҳимдир. Умуртқанинг минимал қўзғалишини таъминлаш учун жароҳатланган кишини қаттиқ текисликка жойлаштириб, унинг ҳаракатини имкон даражада чеклаш лозим.",
+      "explanationRu": "При повреждении позвоночника важно не допустить смещения позвонков относительно друг друга, чтобы избежать травмирования спинного мозга. Для обеспечения минимальной подвижности позвоночника травмированного следует расположить на ровной твердой поверхности и максимально ограничить его перемещения.",
+      "explanationOz": "Umurtqa pog'onasi shikastlanganda orqa (umurtqa) miyani jarohatlanishidan saqlab qolish uchun umurtqa pog'onalarining bir-biriga nisbatan siljishini oldini olish muhimdir. Umurtqaning minimal qo'zg'alishini ta'minlash uchun jarohatlangan kishini qattiq tekislikka joylashtirib, uning harakatini imkon darajada cheklash lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3864,
+          "textUz": "Қаттиқ тахтада орқаси билан ётган ҳолда",
+          "textRu": "Лежа на спине на жестком щите",
+          "textOz": "Qattiq taxtada orqasi bilan yotgan holda",
+          "isCorrect": true
+        },
+        {
+          "id": 3865,
+          "textUz": "Юмшоқ тушамада орқаси билан ётган ҳолда",
+          "textRu": "Лежа на спине на мягкой подстилке",
+          "textOz": "Yumshoq tushamada orqasi bilan yotgan holda",
+          "isCorrect": false
+        },
+        {
+          "id": 3866,
+          "textUz": "Қаттиқ тахтада ёни билан ётган ҳолда",
+          "textRu": "Лежа на боку на жестком щите",
+          "textOz": "Qattiq taxtada yoni bilan yotgan holda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3864
+      ]
+    },
+    {
+      "id": 1178,
+      "questionUz": "Қўл жароҳатланганда кийим қандай тартибда кийгизилади?",
+      "questionRu": "Как правильно надевается одежда при ранении руки?",
+      "questionOz": "Qo'l jarohatlanganda kiyim qanday tartibda kiygiziladi?",
+      "explanationUz": "Шикастланган қўл ёки оёқни мажбурий ҳаракатга солмасдан кийим кийдириш имконини яратиш учун аввал кийим шикастланган, сўнгра шикастланмаган қўл ёки оёққа эҳтиётлик билан кийдирилади.",
+      "explanationRu": "Чтобы иметь возможность одеть одежду на поврежденную конечность, не подвергая ее вынужденным движениям, нужно сначала аккуратно одеть ее на поврежденную конечность, а потом на неповрежденную конечность.",
+      "explanationOz": "Shikastlangan qo'l yoki oyoqni majburiy harakatga solmasdan kiyim kiydirish imkonini yaratish uchun avval kiyim shikastlangan, so'ngra shikastlanmagan qo'l yoki oyoqqa ehtiyotlik bilan kiydiriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3867,
+          "textUz": "Кийим аввал жароҳатланган қўлга, сўнгра соғига кийдирилади",
+          "textRu": "Одежда надевается сначала на раненую, а потом на здоровую руку",
+          "textOz": "Kiyim avval jarohatlangan qo'lga, so'ngra sog'iga kiydiriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3868,
+          "textUz": "Кийим иккала қўлга баравар кийдирилади",
+          "textRu": "Одежда надевается на обе руки сразу",
+          "textOz": "Kiyim ikkala qo'lga baravar kiydiriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3869,
+          "textUz": "Кийим аввал соғ қўлга, сўнгра жароҳатланган қўлга кийдирилади",
+          "textRu": "Одежда надевается сначала на здоровую руку, а потом на раненую",
+          "textOz": "Kiyim avval sog' qo'lga, so'ngra jarohatlangan qo'lga kiydiriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3867
+      ]
+    },
+    {
+      "id": 1179,
+      "questionUz": "Суяк синганда қотириб боғлаш учун нимадан шина сифатида фойдаланиш энг қўлай?",
+      "questionRu": "Какой материал лучше подходит для использования в качестве иммобилизирующей шины при переломе костей?",
+      "questionOz": "Suyak singanda qotirib bog'lash uchun nimadan shina sifatida foydalanish eng qo'lay?",
+      "explanationUz": "Суяклар синганда шикастланган қўл ёки оёқни ҳар қандай қаттиқ восита ёрдамида мустаҳкамлаб, ҳаракатсизлантириш (иммобилизация қилиш) лозим.",
+      "explanationRu": "При переломе костей поврежденные конечности необходимо обездвижить (иммобилизовать), зафиксировав любыми твердыми подручными средствами.",
+      "explanationOz": "Suyaklar singanda shikastlangan qo'l yoki oyoqni har qanday qattiq vosita yordamida mustahkamlab, harakatsizlantirish (immobilizatsiya qilish) lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3870,
+          "textUz": "Бинт",
+          "textRu": "Бинт",
+          "textOz": "Bint",
+          "isCorrect": false
+        },
+        {
+          "id": 3871,
+          "textUz": "Газмол",
+          "textRu": "Ткань",
+          "textOz": "Gazmol",
+          "isCorrect": false
+        },
+        {
+          "id": 3872,
+          "textUz": "Тахта бўлаги",
+          "textRu": "Кусок доски",
+          "textOz": "Taxta bo'lagi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3872
+      ]
+    },
+    {
+      "id": 1180,
+      "questionUz": "Шикастланган кишининг ўмров суяги синганда нима қилиш керак?",
+      "questionRu": "Что необходимо сделать при переломе ключицы у пострадавшего?",
+      "questionOz": "Shikastlangan kishining o'mrov suyagi singanda nima qilish kerak?",
+      "explanationUz": "Қон томирлари (ўмров остидаги артерия (кўктомир) ва нервларнинг шикастланишига олиб келиши мумкин бўлган синган ўмров суягининг силжишига йўл қўймаслик учун тўғри бурчак остида тирсакда букилган қўлни учбурчак рўмолга осиб қўйиб, бинт билан гавдага боғлаб ўраш лозим.",
+      "explanationRu": "С целью предотвратить смещение отломков ключицы, которое может привести к повреждению целостности кровеносных сосудов (подключичной артерии) и нервов, следует подвесить согнутую под прямым углом в локтевом суставе руку на косынке и прибинтовать ее к туловищу.",
+      "explanationOz": "Qon tomirlari (o'mrov ostidagi arteriya (ko'ktomir) va nervlarning shikastlanishiga olib kelishi mumkin bo'lgan singan o'mrov suyagining siljishiga yo'l qo'ymaslik uchun to'g'ri burchak ostida tirsakda bukilgan qo'lni uchburchak ro'molga osib qo'yib, bint bilan gavdaga bog'lab o'rash lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3873,
+          "textUz": "Синган жойга совуқ компресс қўйиш, бинт билан тарангроқ боғлаш",
+          "textRu": "Наложить холодный компресс на место перелома, туго забинтовать",
+          "textOz": "Singan joyga sovuq kompress qo'yish, bint bilan tarangroq bog'lash",
+          "isCorrect": false
+        },
+        {
+          "id": 3874,
+          "textUz": "Қўлтиқ соҳасига тахтакач қўйиш ва тўғрилаб қўйилган қўлини гавдасига қўшиб бинт билан боғлаш",
+          "textRu": "Наложить шину в подмышечную область и прибинтовать выпрямленную руку к туловищу",
+          "textOz": "Qo'ltiq sohasiga taxtakach qo'yish va to'g'rilab qo'yilgan qo'lini gavdasiga qo'shib bint bilan bog'lash",
+          "isCorrect": false
+        },
+        {
+          "id": 3875,
+          "textUz": "Пахта ёки бинт ўрамасини қўлтиқ соҳасига қўйиб тирсагидан букилган қўлини гавдасига қўшиб бинт билан боғлаш",
+          "textRu": "Подложить валик из ваты или бинта в подмышечную область и прибинтовать согнутую в локте руку к туловищу",
+          "textOz": "Paxta yoki bint o'ramasini qo'ltiq sohasiga qo'yib tirsagidan bukilgan qo'lini gavdasiga qo'shib bint bilan bog'lash",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3875
+      ]
+    },
+    {
+      "id": 1181,
+      "questionUz": "Соннинг юмшоқ тўқималари лат еганда биринчи тиббий ёрдам қандай кўрсатилади?",
+      "questionRu": "Какая первая медицинская помощь нужна при повреждении мягких тканей бедра?",
+      "questionOz": "Sonning yumshoq to'qimalari lat eganda birinchi tibbiy yordam qanday ko'rsatiladi?",
+      "explanationUz": "Шикастланган қўл ёки оёқни баланд ҳолатда сақламоқ ва ички қон қуйилишини олдини олиш учун мумкин қадар таранг боғич боғлаш лозим. Шикастланган жойга 15-20 дақиқа муз қўйилади (совутиш учун совуқ компресс, музли халта, совуқ сув ва бошқалар ишлатилиши мумкин). Оғриқни қолдириш учун шикастланган органга ҳаракатсизлик шароити яратилади.",
+      "explanationRu": "Ушибленной конечности следует придать возвышенное положение и по возможности наложить тугую повязку, чтобы уменьшить внутреннее кровоизлияние. К месту ушиба на 15-20 минут прикладывают холод (для охлаждения можно использовать холодный компресс, пузырь со льдом, холодной водой и т.п.). Чтобы снять боль, на поврежденном органе создаются условия бездействия.",
+      "explanationOz": "Shikastlangan qo'l yoki oyoqni baland holatda saqlamoq va ichki qon quyilishini oldini olish uchun mumkin qadar tarang bog'ich bog'lash lozim. Shikastlangan joyga 15-20 daqiqa muz qo'yiladi (sovutish uchun sovuq kompress, muzli xalta, sovuq suv va boshqalar ishlatilishi mumkin). Og'riqni qoldirish uchun shikastlangan organga harakatsizlik sharoiti yaratiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3876,
+          "textUz": "Лат еган жойни қаттиқ боғлаш, 15-20 дақиқага муз солинган халта қўйиш. Оёқни юқори кўтариш, тинч қўйиш",
+          "textRu": "Наложить тугую повязку на поврежденное место, на 15-20 минут приложить мешочек со льдом. Поврежденную конечность приподнять, обеспечить покой",
+          "textOz": "Lat egan joyni qattiq bog'lash, 15-20 daqiqaga muz solingan xalta qo'yish. Oyoqni yuqori ko'tarish, tinch qo'yish",
+          "isCorrect": true
+        },
+        {
+          "id": 3877,
+          "textUz": "Лат еган оёқни таранг қилиб (пастдан юқорига) боғлаш, сингандаги каби шина қўйиш. Бир стаканга ярим чой қошиғида ичимлик сода солиб ичириш, касалхонага жўнатиш",
+          "textRu": "Перевязать неповрежденную ногу снизу на верх; поставить шину, как при переломе Дать выпить стакан чая с пищевой содой. Отправить в больницу",
+          "textOz": "Lat egan oyoqni tarang qilib (pastdan yuqoriga) bog'lash, singandagi kabi shina qo'yish. Bir stakanga yarim choy qoshig'ida ichimlik soda solib ichirish, kasalxonaga jo'natish",
+          "isCorrect": false
+        },
+        {
+          "id": 3878,
+          "textUz": "Оёқни юмшоқ предметга қўйиш",
+          "textRu": "Положить ногу на мягкий предмет",
+          "textOz": "Oyoqni yumshoq predmetga qo'yish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3876
+      ]
+    },
+    {
+      "id": 1182,
+      "questionUz": "Сон суягининг учдан бирининг пастки қисми синганда жароҳатланган одамни транспортда ташиш учун тахтакач қандай қўйилади?",
+      "questionRu": "Как нало��ить транспортную шину при переломе кости в нижней трети бедра?",
+      "questionOz": "Son suyagining uchdan birining pastki qismi singanda jarohatlangan odamni transportda tashish uchun taxtakach qanday qo'yiladi?",
+      "explanationUz": "Сон суяги синган ҳолда иккита тахтакач: бири – ташқари тарафда оёқ кафтидан то қўлтиқости чуқуригача, бошқаси – ички тарафда оёқ кафтидан то човгача қўйилади. Сон суяги синган ҳолда иммобилизация воситаси бўлмаса, шикастланган оёқ соғ оёққа маҳкамланиб қўйилади. Маҳкамловчи боғич синган суякни силжитмаслиги ва жабрланувчига қўшимча оғриқ етказмаслиги лозим. Маҳкамловчи боғич оёқнинг соғ қисмига боғланади.",
+      "explanationRu": "При переломе бедра необходимо наложить две шины. Одну шину с внешней стороны от конца стопы до подмышечной ямки, другую – с внутренней стороны от конца стопы до паха. Если в случае перелома бедра нет иммобилизационных средств, больную ногу фиксируют к здоровой. Фиксирующая повязка не должна смещать обломки кости и причинять дополнительную боль пострадавшему. Ее необходимо накладывать на здоровую часть ноги.",
+      "explanationOz": "Son suyagi singan holda ikkita taxtakach: biri – tashqari tarafda oyoq kaftidan to qo'ltiqosti chuqurigacha, boshqasi – ichki tarafda oyoq kaftidan to chovgacha qo'yiladi. Son suyagi singan holda immobilizasiya vositasi bo'lmasa, shikastlangan oyoq sog'oyoqqa mahkamlanib qo'yiladi. Mahkamlovchi bog'ich singan suyakni siljitmasligi va jabrlanuvchiga qo'shimcha og'riq yetkazmasligi lozim. Mahkamlovchi bog'ich oyoqning sog' qismiga bog'lanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3879,
+          "textUz": "Тахтакачни соннинг бутун узунлигича тос-сондан тизза бўғинигача қўйиб, синган жой бинт билан қаттиқ боғлаб қўйилади",
+          "textRu": "Плотно прибинтовать шину к месту перелома, наложив ее на всю длину бедра от тазобедренного до коленного сустава",
+          "textOz": "Taxtakachni sonning butun uzunligicha tos-sondan tizza bo'g'inigacha qo'yib, singan joy bint bilan qattiq bog'lab qo'yiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3880,
+          "textUz": "Иккита тахтакач оёқнинг ички ва ташқи томонидан қўйилади. Биттасини оёқ тўпиғидан қўлтиқости чуқуригача, иккинчисини тўпиқдан човгача",
+          "textRu": "Наложить две шины с внутренней и наружной стороны ноги, одну-от конца стопы до подмышечной ямки, вторую от конца стопы до паха",
+          "textOz": "Ikkita taxtakach oyoqning ichki va tashqi tomonidan qo'yiladi. Bittasini oyoq to'pig'idan qo'ltiqosti chuqurigacha, ikkinchisini to'piqdan chovgacha",
+          "isCorrect": true
+        },
+        {
+          "id": 3881,
+          "textUz": "Иккита тахтакач оёқнинг икки томонидан тўпиқдан соннинг юқориги учдан бир қисмигача (синган жойдан 15-20 см юқоригача) қўйилади",
+          "textRu": "По обеим сторонам стопы от лодыжки до верхней трети бедра (на 15-20 см выше места перелома) кладут две доски",
+          "textOz": "Ikkita taxtakach oyoqning ikki tomonidan to'piqdan sonning yuqorigi uchdan bir qismigacha (singan joydan 15-20 sm yuqorigacha) qo'yiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3880
+      ]
+    },
+    {
+      "id": 1183,
+      "questionUz": "Тос суяклари синганда биринчи ёрдам қандай кўрсатилади?",
+      "questionRu": "Как оказать первую помощь при переломе костей таза?",
+      "questionOz": "Tos suyaklari singanda birinchi yordam qanday ko'rsatiladi?",
+      "explanationUz": "Тос суяги синганда жабрланувчи текисликка ётқизилади, оёқларни тиззаларида букиб, тагига валик қўйилади. Шу ҳолатда жабрланувчи даволаш муассасасига олиб борилади.",
+      "explanationRu": "При переломе костей таза пострадавшего укладывают на твердую поверхность, под согнутые в коленях ноги подкладывают валик. В этом положении пострадавшего транспортируют в лечебное учреждение.",
+      "explanationOz": "Tos suyagi singanda jabrlanuvchi tekislikka yotqiziladi, oyoqlarni tizzalarida bukib, tagiga valik qo'yiladi. Shu holatda jabrlanuvchi davolash muassasasiga olib boriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3882,
+          "textUz": "Зарарланган жойни қаттиқ боғлаш, шикастланганни ярим ўтирган ҳолатга келтириш",
+          "textRu": "Наложить тугую повязку на место повреждения, пострадавшему придать полу сидячее положение",
+          "textOz": "Zararlangan joyni qattiq bog'lash, shikastlanganni yarim o'tirgan holatga keltirish",
+          "isCorrect": false
+        },
+        {
+          "id": 3883,
+          "textUz": "Шикастланганни қаттиқ юзага орқаси билан ётқизиш, зарарланган жойларга қайноқ иситгич қўйиш",
+          "textRu": "Пострадавшего уложить на спину на твердую поверхность, к местам повреждения приложить горячую грелку",
+          "textOz": "Shikastlanganni qattiq yuzaga orqasi bilan yotqizish, zararlangan joylarga qaynoq isitgich qo'yish",
+          "isCorrect": false
+        },
+        {
+          "id": 3884,
+          "textUz": "Шикастланганни қаттиқ текис юзага ётқизиш, букилган ва икки томонга керилган тиззаларининг бўғинлари остига ғўла шаклида ўрам қўйиш",
+          "textRu": "Пострадавшего уложить на твердую ровную жесткую поверхность, а под согнутые и разведенные коленные суставы подложить валик",
+          "textOz": "Shikastlanganni qattiq tekis yuzaga yotqizish, bukilgan va ikki tomonga kerilgan tizzalarining bo'g'inlari ostiga g'o'la shaklida o'ram qo'yish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3884
+      ]
+    },
+    {
+      "id": 1184,
+      "questionUz": "Қон оқишини тўхтатувчи жгут қўл-оёқларга қандай боғланади?",
+      "questionRu": "Как правильно выбрать место наложения кровоостанавливающего жгута на конечности?",
+      "questionOz": "Qon oqishini to'xtatuvchi jgut qo'l-oyoqlarga qanday bog'lanadi?",
+      "explanationUz": "Жгут қўйилиши деярли барча ҳолларда артериал қон кетишини тўхтатади. Артериал қон кетишини тўхтатиш учун жгут автомобилнинг тиббий қутичасида ҳам мавжуд. Жгут бўлмаган ҳолларда камар, белбоғ, подтяжкалар ва бошқа шунга ўхшаш воситалар қўлланилиши мумкин. Жгут қўл ёки оёққа қон кетиш жойидан юқорироқ жойга икки-уч марта айлантирилиб, фақат кийим устидан қўйилади ёки унинг тагига бир неча қатламдан иборат (даст)рўмол, сочиқ ёхуд бошқа газламадан астар қўйилади. Жгутни чўзиб маҳкамлаш қон кетиши тўхтаган вақтда тўхтатилади. Жгутга у қўйилган вақтни кўрсатувчи кичик қайднома қистириб қўйилади.",
+      "explanationRu": "Наложение жгута практически во всех случаях позволяет остановить артериальное кровотечение. В автомобильной аптечке также имеется жгут для остановки артериального кровотечения. Его можно заменить ремнем, поясом, подтяжками и т.п. Жгут на конечность накладывается выше места кровотечения двумя-тремя оборотами и только поверх одежды или же под него делают подкладку из бинта, сложенного в несколько слоев, платка, полотенца, любой материи. Затяжку жгута прекращают в момент остановки кровотечения. К жгуту необходимо прикрепить записку с указанием времени его наложения.",
+      "explanationOz": "Jgut qo'yilishi deyarli barcha hollarda arterial qon ketishini to'xtatadi. Arterial qon ketishini to'xtatish uchun jgut avtomobilning tibbiy qutichasida ham mavjud. Jgut bo'lmagan hollarda kamar, belbog', podtyajkalar va boshqa shunga o'xshash vositalar qo'llanilishi mumkin. Jgut qo'l yoki oyoqqa qon ketish joyidan yuqoriroq joyga ikki-uch marta aylantirilib, faqat kiyim ustidan qo'yiladi yoki uning tagiga bir necha qatlamdan iborat (dast)ro'mol, sochiq yoxud boshqa gazlamadan astar qo'yiladi. Jgutni cho'zib mahkamlash qon ketishi to'xtagan vaqtda to'xtatiladi. Jgutga u qo'yilgan vaqtni ko'rsatuvchi kichik qaydnoma qistirib qo'yiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3885,
+          "textUz": "Ярадан 10 -15 см пастга",
+          "textRu": "Ниже раны на 10 - 15 см",
+          "textOz": "Yaradan 10 -15 sm pastga",
+          "isCorrect": false
+        },
+        {
+          "id": 3886,
+          "textUz": "Ярадан 10 -15 см юқорига",
+          "textRu": "Выше раны на 10 - 15 см",
+          "textOz": "Yaradan 10 -15 sm yuqoriga",
+          "isCorrect": true
+        },
+        {
+          "id": 3887,
+          "textUz": "Бевосита яранинг ўзига",
+          "textRu": "Непосредственно на рану",
+          "textOz": "Bevosita yaraning o'ziga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3886
+      ]
+    },
+    {
+      "id": 1185,
+      "questionUz": "Автомобилда тиббиёт қутичасини қаерда сақлаш лозим?",
+      "questionRu": "Где положено хранить медицинскую аптечку в автомобиле?",
+      "questionOz": "Avtomobilda tibbiyot qutichasini qaerda saqlash lozim?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3888,
+          "textUz": "Енгил автомобилнинг юкхонасида",
+          "textRu": "В багажнике легкового автомобиля",
+          "textOz": "Engil avtomobilning yukxonasida",
+          "isCorrect": false
+        },
+        {
+          "id": 3889,
+          "textUz": "Тайёрловчи корхона томонидан белгиланган жойларда берк ҳолатда",
+          "textRu": "В закрепленном состоянии в местах; установленных предприятием изготовителем",
+          "textOz": "Tayyorlovchi korxona tomonidan belgilangan joylarda berk holatda",
+          "isCorrect": true
+        },
+        {
+          "id": 3890,
+          "textUz": "Автомобилнинг кузовида кўринадиган жойда",
+          "textRu": "В кузове автомобиля на видном месте",
+          "textOz": "Avtomobilning kuzovida ko'rinadigan joyda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3889
+      ]
+    },
+    {
+      "id": 1186,
+      "questionUz": "Толиқиш ҳайдовчининг диққатига ва эътиборига қандай таъсир қилади?",
+      "questionRu": "Как влияет утомление на внимание и реакцию водителя?",
+      "questionOz": "Toliqish haydovchining diqqatiga va etiboriga qanday tasir qiladi?",
+      "explanationUz": "Ҳайдовчининг чарчаши, толиқиши шубҳасиз ҳаракат хавфсизлигига таъсир қилади. Ҳайдовчининг диққати пасаяди, реакция вақти ошади. Яхши ҳайдовчи вақти-вақти билан бошқарувнинг монотонлигини бартараф этиб, ҳаракатни тўхтатиб туриши керак. Кўпинча хавфсиз ҳаракатланиш учун зарур бўлган диққат даражасини тиклаш учун бир неча дақиқа кифоя қилади.",
+      "explanationRu": "Утомление, усталость бесспорно отражаются на безопасности движения. Внимание ослабляется, время реакции увеличивается. Хороший водитель должен делать паузы в движении, которые время от времени будут прерывать однообразие управления. Нескольких минут часто бывает достаточно, чтобы восстановить уровень внимания, необходимый для безопасного движения.",
+      "explanationOz": "Haydovchining charchashi, toliqishi shubhasiz harakat xavfsizligiga ta'sir qiladi. Haydovchining diqqati pasayadi, reaktsiya vaqti oshadi. Yaxshi haydovchi vaqti-vaqti bilan boshqaruvning monotonligini bartaraf etib, harakatni to'xtatib turishi kerak. Ko'pincha xavfsiz harakatlanish uchun zarur bo'lgan diqqat darajasini tiklash uchun bir necha daqiqa kifoya qiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3891,
+          "textUz": "Ҳайдовчининг диққатига ва эътиборига таъсир қилмайди",
+          "textRu": "Не влияет на внимание и реакцию водителя",
+          "textOz": "Haydovchining diqqatiga va etiboriga tasir qilmaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3892,
+          "textUz": "Ҳайдовчинииг диққати ва эътибори пасаяди",
+          "textRu": "Внимание и реакция водителя снижаются",
+          "textOz": "Haydovchiniig diqqati va etibori pasayadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3893,
+          "textUz": "Ҳайдовчинииг диққати ва эътибори ошади",
+          "textRu": "Внимание и реакция водителя повышаются",
+          "textOz": "Haydovchiniig diqqati va etibori oshadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3892
+      ]
+    },
+    {
+      "id": 1187,
+      "questionUz": "5% ли йод эритмаси (йод настойкаси) нима учун қўлланилади?",
+      "questionRu": "Для чего применяется 5% раствор йода (настойка йода); входящий в комплект аптечки; которой оснащены автотранспортные средства?",
+      "questionOz": "5% li yod eritmasi (yod nastoykasi) nima uchun qo'llaniladi?",
+      "explanationUz": "Йод настойкаси жароҳат ичида тўқиманинг кимёвий шикастланишига олиб келади. Ушбу қоришма суртилганда терининг ташқи қатлами шикастланмайди, балки фойдали равишда дезинфекция қилинади ва бу жараённи боғлашдан аввал амалга ошириш керак.",
+      "explanationRu": "Раствор йода вызывает химическое повреждение ткани внутри раны. Наружный слой кожи не повреждается при смазывании этим раствором, но эффективно дезинфицируется, что необходимо перед наложением марлевой повязки.",
+      "explanationOz": "Yod nastoykasi jarohat ichida to'qimaning kimyoviy shikastlanishiga olib keladi. Ushbu qorishma surtilganda terining tashqi qatlami shikastlanmaydi, balki foydali ravishda dezinfektsiya qilinadi va bu jarayonni bog'lashdan avval amalga oshirish kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4389,
+          "textUz": "Яра атрофидаги терини ишлаш учун",
+          "textRu": "Для обработки кожи вокруг раны",
+          "textOz": "Yara atrofidagi terini ishlash uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 4390,
+          "textUz": "Яра ўта даражада ифлосланганда яранинг бутун юзасига суртиш учун",
+          "textRu": "Для смазывания всей поверхности раны при сильном загрязнении раны",
+          "textOz": "Yara o'ta darajada ifloslanganda yaraning butun yuzasiga surtish uchun",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4389
+      ]
+    },
+    {
+      "id": 1188,
+      "questionUz": "Қаттиқ чарчоқ бошланишининг асосий ташқи аломатлари қандай?",
+      "questionRu": "Каковы основные внешние признаки наступления сильной усталости?",
+      "questionOz": "Qattiq charchoq boshlanishining asosiy tashqi alomatlari qanday?",
+      "explanationUz": "Ҳайдовчи толиқишининг ўзига хос аломатларига уйқу келиши, ланжлик ва диққатнинг пасайиши киради. Бу ҳолатда транспорт воситасини бошқариш хавфли бўлганлиги боис, тақиқланган.",
+      "explanationRu": "Типичными признаками утомления водителя являются сонливость, вялость, притупление внимания. В таком состоянии управление транспортным средством опасно и поэтому запрещено.",
+      "explanationOz": "Haydovchi toliqishining o'ziga xos alomatlariga uyqu kelishi, lanjlik va diqqatning pasayishi kiradi. Bu holatda transport vositasini boshqarish xavfli bo'lganligi bois, taqiqlangan.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3897,
+          "textUz": "Кўз санчиб оғрийди, юз териси оқаради, уйқу босади",
+          "textRu": "Резь в глазах, бледность кожи лица, сонливость",
+          "textOz": "Ko'z sanchib og'riydi, yuz terisi oqaradi, uyqu bosadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3898,
+          "textUz": "Юз ранги тўқ қизил тусга киради, қўл-оёқлар совийди, онги хиралашади",
+          "textRu": "Багрово-красная окраска лица, похолодание конечностей, затуманенное сознание",
+          "textOz": "Yuz rangi to'q qizil tusga kiradi, qo'l-oyoqlar soviydi, ongi xiralashadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3899,
+          "textUz": "Мушакларда ҳорғинлик сезилади, қулоқларда шовқин ғувиллайди, бош айланади, муздек ёпишқоқ тер чиқади",
+          "textRu": "Мышечная слабость, шум в ушах, головокружение, холодный, липкий пот",
+          "textOz": "Mushaklarda horg'inlik seziladi, quloqlarda shovqin g'uvillaydi, bosh aylanadi, muzdek yopishqoq ter chiqadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3897
+      ]
+    },
+    {
+      "id": 1189,
+      "questionUz": "Бош мия ва калла суяги ўртача ҳолатда  жароҳатланган жабрланувчини транспортнинг қайси турида ташиш керак?",
+      "questionRu": "Каким видом транспорта нужно перевозить пострадавшего с черепно-мозговой травмой средней тяжести?",
+      "questionOz": "Bosh miya va kalla suyagi o'rtacha holatda  jarohatlangan jabrlanuvchini transportning qaysi turida tashish kerak?",
+      "explanationUz": "Бош мия суяги шикастланган жабрланувчи фақат махсус жиҳозланган тез тиббий ёрдам ёки қутқариш хизмати автомобилларида ташилади.",
+      "explanationRu": "Транспортировка пострадавшего, получившего черепно-мозговую травму, осуществляется только специально оборудованными автомобилями скорой помощи и служб спасения.",
+      "explanationOz": "Bosh miya suyagi shikastlangan jabrlanuvchi faqat maxsus jihozlangan tez tibbiy yordam yoki qutqarish xizmati avtomobillarida tashiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3900,
+          "textUz": "Йўловчи енгил автомобилида",
+          "textRu": "Попутным легковым автомобилем",
+          "textOz": "Yo'lovchi engil avtomobilida",
+          "isCorrect": false
+        },
+        {
+          "id": 3901,
+          "textUz": "Йўловчи юк автомобилида",
+          "textRu": "Попутным грузовым автомобилем",
+          "textOz": "Yo'lovchi yuk avtomobilida",
+          "isCorrect": false
+        },
+        {
+          "id": 3902,
+          "textUz": "Фақат тез тиббий ёрдами машинасида",
+          "textRu": "Только машиной скорой медицинской помощи",
+          "textOz": "Faqat tez tibbiy yordami mashinasida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3902
+      ]
+    },
+    {
+      "id": 1190,
+      "questionUz": "Кўкрак қафаси шикастланган ярадорни керакли жойга қандай элтиш керак?",
+      "questionRu": "Как нужно транспортировать раненного с повреждением грудной клетки?",
+      "questionOz": "Ko'krak qafasi shikastlangan yaradorni kerakli joyga qanday eltish kerak?",
+      "explanationUz": "Суяк синиқларининг бир бирига нисбатан қўзғалмаслигини таъминлаш учун кўкрак қафасига боғич таранг қилиб боғланади. Бу ҳолда нафас олиш ўтирган ҳолатда эркин бўлган кўкрак-қурсоқ диафрагма пардаси ҳаракатлари ҳисобига амалга оширилади.",
+      "explanationRu": "Чтобы обеспечить неподвижность костных отломков одного относительно другого, нужно наложить тугую повязку на грудную клетку. После этого дыхание обеспечивается только за счет движений диафрагмы, которые наиболее свободны в положении сидя.",
+      "explanationOz": "Suyak siniqlarining bir biriga nisbatan qo'zg'almasligini ta'minlash uchun ko'krak qafasiga bog'ich tarang qilib bog'lanadi. Bu holda nafas olish o'tirgan holatda erkin bo'lgan ko'krak-qursoq diafragma pardasi harakatlari hisobiga amalga oshiriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3903,
+          "textUz": "Яраланган ёни билан ётган ёки ярим ўтирган ҳолда",
+          "textRu": "Лежа на поврежденном боку или полусидя",
+          "textOz": "Yaralangan yoni bilan yotgan yoki yarim o'tirgan holda",
+          "isCorrect": true
+        },
+        {
+          "id": 3904,
+          "textUz": "Соғ ёни билан ётган ёки ўтирган ҳолда",
+          "textRu": "В положении лежа на здоровом боку или сидя",
+          "textOz": "Sog' yoni bilan yotgan yoki o'tirgan holda",
+          "isCorrect": false
+        },
+        {
+          "id": 3905,
+          "textUz": "Орқаси билан ёки қорни билан ётган ҳолда",
+          "textRu": "В положении лежа на спине или на животе",
+          "textOz": "Orqasi bilan yoki qorni bilan yotgan holda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3903
+      ]
+    },
+    {
+      "id": 1191,
+      "questionUz": "Жароҳатдан беҳушланганда биринчи тиббий ёрдамни қандай кўрсатиш керак?",
+      "questionRu": "Как оказать первую медицинскую помощь при травматическом шоке?",
+      "questionOz": "Jarohatdan behushlanganda birinchi tibbiy yordamni qanday ko'rsatish kerak?",
+      "explanationUz": "Қорин бўшлиғининг ёпиқ жароҳатлари ҳолларида гавданинг ҳолати оёқларни тиззаларидан букиб, ён тарафга қараб ётилади. Қорин қисмига муз халтачаси қўйилади.",
+      "explanationRu": "Положение туловища при закрытых травмах брюшной полости – лежа на боку с согнутыми в коленях ногами. На живот прикладывают холод.",
+      "explanationOz": "Qorin bo'shlig'ining yopiq jarohatlari hollarida gavdaning holati oyoqlarni tizzalaridan bukib, yon tarafga qarab yotiladi. Qorin qismiga muz xaltachasi qo'yiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3906,
+          "textUz": "Кийим-бошни ечиш ёки бўшатиш, тоза ҳаво келишини таъминлаш. Нашатир спирти ҳидлатиш. Юзга совуқ сув сепиш. Пешонага ва гарданга илиқ малҳамлар қўйиш",
+          "textRu": "Одежду снять или ослабить. Обеспечить приток свежего воздуха. Дать понюхать нашатырный спирт. Обрызгать лицо холодной водой. На лоб и затылок наложить теплые примочки",
+          "textOz": "Kiyim-boshni echish yoki bo'shatish, toza havo kelishini taminlash. Nashatir spirti hidlatish. Yuzga sovuq suv sepish. Peshonaga va gardanga iliq malhamlar qo'yish",
+          "isCorrect": false
+        },
+        {
+          "id": 3907,
+          "textUz": "Мутлоқ тинч қўйиш. Бошни тушириш, оёқларни кўтариш, баданни иситиш. Қайноқ ичимлик (чой ва шу кабилар) бериш. Боғланган жгутни шифокорсиз ечмаслик ва бўшатмаслик",
+          "textRu": "Полный покой. Голову опустить, ноги приподнять, тело согреть. Дать выпить горячее питье (чай и т.д.). Наложенный жгут без врача не снимать и не ослаблять",
+          "textOz": "Mutloq tinch qo'yish. Boshni tushirish, oyoqlarni ko'tarish, badanni isitish. Qaynoq ichimlik (choy va shu kabilar) berish. Bog'langan jgutni shifokorsiz echmaslik va bo'shatmaslik",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3907
+      ]
+    },
+    {
+      "id": 1192,
+      "questionUz": "Жабрланувчига унинг юрак фаолияти ёки нафас олиши тўхтаганда қандай кетма-кетликда биринчи ёрдам кўрсатиш зарур?",
+      "questionRu": "В какой последовательности необходимо оказывать первую помощь пострадавшему при прекращении у него сердечной деятельности и дыхания?",
+      "questionOz": "Jabrlanuvchiga uning yurak faoliyati yoki nafas olishi to'xtaganda qanday ketma-ketlikda birinchi yordam ko'rsatish zarur?",
+      "explanationUz": "Ўпканинг сунъий вентиляцияси самарали бўлиши учун нафас олиш йўлларига ҳавонинг эркин ўтишини таъминлаш зарур. Оғиз бўшлиғи шиллиқ, қон, қусуқ ва бошқа жисмлардан ҳоли эканлигига ишонч ҳосил қилиш керак. Тўқималарга кислород келиши ва қон айланишини таъминлаш учун ўпкага кислород келишини кучайтириш билан бирга юрак уриш фаолиятини қайта тиклашга дарҳол киришиш лозим.",
+      "explanationRu": "Для того чтобы искусственная вентиляция легких была эффективна, необходимо обеспечить свободное прохождени�� воздуха по дыхательным путям. Нужно убедиться, что полость рта свободна от слизи, крови, рвотных масс и каких-либо предметов. Усилив приток кислорода в легкие, необходимо сразу приступать к восстановлению сердечной деятельности, тем самым обеспечивая движение крови и поступление кислорода к тканям.",
+      "explanationOz": "O'pkaning sun'iy ventilyasiyasi samarali bo'lishi uchun nafas olish yo'llariga havoning erkin o'tishini ta'minlash zarur. Og'iz bo'shlig'i shilliq, qon, qusuq va boshqa jismlardan holi ekanligiga ishonch hosil qilish kerak. To'qimalarga kislorod kelishi va qon aylanishini ta'minlash uchun o'pkaga kislorod kelishini kuchaytirish bilan birga yurak urish faoliyatini qayta tiklashga darhol kirishish lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3908,
+          "textUz": "Юракни массаж қилиш, нафас йўлларини бўшатиш, сунъий нафас олдириш",
+          "textRu": "Выполнить массаж сердца, освободить дыхательные пути, проводить искусственное дыхание",
+          "textOz": "Yurakni massaj qilish, nafas yo'llarini bo'shatish, suniy nafas oldirish",
+          "isCorrect": false
+        },
+        {
+          "id": 3909,
+          "textUz": "Сунъий нафас олдириш, юракни устидан массаж қилиш, нафас йўлларини бўшатиш",
+          "textRu": "Проводить искусственное дыхание, наружный массаж сердца, освободить дыхательные пути",
+          "textOz": "Suniy nafas oldirish, yurakni ustidan massaj qilish, nafas yo'llarini bo'shatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3910,
+          "textUz": "Нафас йўлларини бўшатиш, сунъий нафас олдириш ва юракнинг устидан массаж қилиш",
+          "textRu": "Освободить дыхательные пути, проводить искусственное дыхание и наружный массаж сердца",
+          "textOz": "Nafas yo'llarini bo'shatish, suniy nafas oldirish va yurakning ustidan massaj qilish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3910
+      ]
+    },
+    {
+      "id": 1193,
+      "questionUz": "Агар жонлантиришни (реанимацияни) 2 киши бир вақтда олиб борганда юракни билвосита массаж қилиш ва сунъий нафас олдириш қандай бажарилади?",
+      "questionRu": "Как выполнять непрямой массаж сердца и искусственное дыхание, если оживление (реанимацию) проводят 2 человека одновременно?",
+      "questionOz": "Agar jonlantirishni (reanimasiyani) 2 kishi bir vaqtda olib borganda yurakni bilvosita massaj qilish va suniy nafas oldirish qanday bajariladi?",
+      "explanationUz": "Агар жабрланувчида юрак уриши фаолияти ва нафас олиши тўхтаган бўлса, юракнинг ташқи массажи билан бирга сунъий нафас олдириш амалга оширилади. Бундай ҳолларда тин (нафас) олиш оралиқларида кўкрак қафаси 30 марта кескин босилади.",
+      "explanationRu": "Если у пострадавшего помимо отсутствия сердечной деятельности отсутствует и дыхание, то наряду с проведением наружного массажа сердца проводят и искусственное дыхание. В таких случаях в перерывах между двумя вдохами проводят 30 энергичных надавливаний на грудную клетку.",
+      "explanationOz": "Agar jabrlanuvchida yurak urishi faoliyati va nafas olishi to'xtagan bo'lsa, yurakning tashqi massaji bilan birga sun'iy nafas oldirish amalga oshiriladi. Bunday hollarda tin (nafas) olish oraliqlarida ko'krak qafasi 30 marta keskin bosiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3911,
+          "textUz": "Бир марта кўкрак қафаси босилади, бир марта ҳаво пуфланади ва ҳоказо",
+          "textRu": "Один раз надавливать на грудную клетку, один раз вдувать воздух и т.д",
+          "textOz": "Bir marta ko'krak qafasi bosiladi, bir marta havo puflanadi va hokazo",
+          "isCorrect": false
+        },
+        {
+          "id": 3912,
+          "textUz": "Икки марта ҳаво пуфланади, сўнг юрак соҳаси 30 марта босилади ва ҳоказо",
+          "textRu": "Два раза вдувать воздух, затем 30 раз надавливать на область сердца и т.д",
+          "textOz": "Ikki marta havo puflanadi, so'ng yurak sohasi 30 marta bosiladi va hokazo",
+          "isCorrect": true
+        },
+        {
+          "id": 3913,
+          "textUz": "2-3 марта ҳаво пуфлангандан сўнг 15 марта кўкрак қафаси босилади",
+          "textRu": "После 2-3 раз вдуваний воздуха 15 раз надавливать на грудную клетку",
+          "textOz": "2-3 marta havo puflangandan so'ng 15 marta ko'krak qafasi bosiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3912
+      ]
+    },
+    {
+      "id": 1194,
+      "questionUz": "Болдир суяги ўртасидан синганда транспортда олиб юриш учун тахтакач ёки унинг ўрнига ўтувчи нарса қандай қўйилади?",
+      "questionRu": "Как наложить шину или предмет заменяющий ее при переломе костей середины голени?",
+      "questionOz": "Boldir suyagi o'rtasidan singanda transportda olib yurish uchun taxtakach yoki uning o'rniga o'tuvchi narsa qanday qo'yiladi?",
+      "explanationUz": "Суяк синиқларининг бир бирига нисбатан қўзғалмаслигини таъминлаш учун болдирни икки тахтакач орасида маҳкамлаб, болдир-товон бўғин ва тизза бўғинининг ҳаракатини чегаралаш лозим.",
+      "explanationRu": "Чтобы обеспечить неподвижность костных отломков одного относительно другого, нужно зафиксировать голень между двумя шинами и ограничить движение голеностопного и коленного суставов.",
+      "explanationOz": "Suyak siniqlarining bir biriga nisbatan qo'zg'almasligini ta'minlash uchun boldirni ikki taxtakach orasida mahkamlab, boldir-tovon bo'g'in va tizza bo'g'inining harakatini chegaralash lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3914,
+          "textUz": "Синган жойга қўйиладиган шина ёки унинг ўрнини босувчи нарсани сиқиб боғлаш керак",
+          "textRu": "Плотно прибинтовать шину или замедляющий ее предмет к месту перелома",
+          "textOz": "Singan joyga qo'yiladigan shina yoki uning o'rnini bosuvchi narsani siqib bog'lash kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 3915,
+          "textUz": "Шинани икки томондан бутун болдир узунлигида товондан то тизза бўғинигача қўйиш керак",
+          "textRu": "Наложить шину с 2-х сторон на всю длину голени, от стопы до коленного сустава",
+          "textOz": "Shinani ikki tomondan butun boldir uzunligida tovondan to tizza bo'g'inigacha qo'yish kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 3916,
+          "textUz": "Товон тагидан то сон ўртасигача оёқнинг ички ва ташқи томонидан иккита шина қўйиш керак. Синган жойни, тизза ва болдир-оёқ кафти бўғинларини қимирлатмаслик лозим",
+          "textRu": "Наложить две шины с внутренней и наружной стороны ноги от конца стопы до середины бедра. Обездвижить место перелома, коленный и голеностопный суставы",
+          "textOz": "Tovon tagidan to son o'rtasigacha oyoqning ichki va tashqi tomonidan ikkita shina qo'yish kerak. Singan joyni, tizza va boldir-oyoq kafti bo'g'inlarini qimirlatmaslik lozim",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3916
+      ]
+    },
+    {
+      "id": 1195,
+      "questionUz": "Бензин буғидан заҳарланишнинг аломатлари қандай?",
+      "questionRu": "Каковы признаки отравления парами бензина?",
+      "questionOz": "Benzin bug'idan zaharlanishning alomatlari qanday?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "Etillangan benzin (tetraetilqo'rg'oshin qo'shilgan benzin)ning birdan katta miqdori havoga ajralishidan o'tkir zaharlanish kelib chiqadi va unda ko'ngil aynish, qusish, holsizlanish, bosh aylanishi, ishtahaning yo'qolishi hollari yuzaga keladi. Og'izda metall ta'mi, tilda yot jizm sezilishi kabilar o'ziga xos belgilaridan biridir. Og'ir holatlarda asabiylashish, chayqalib yurish, alahsirash, ko'rish va eshitishga oid gallyusinasiyalar va tomir tortishlar kuzatiladi. Etillanmagan benzindan ham zaharlanish mumkin. Shu kabi zaharlanishning alomatlari etillangan benzindan zaharlanishni eslatadi, biroq yengilroq tarzda o'tadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3917,
+          "textUz": "Кўз ўнги қоронғилашади, бош айланади, мувозанат йўқолади, йиқилади. Томир уриши секинлашади. Оёқ-қўл совийди",
+          "textRu": "Потемнение в глазах, головокружение, потеря равновесия, падение. Заторможенность. Падение кровяного давления. Холодные конечности",
+          "textOz": "Ko'z o'ngi qorong'ilashadi, bosh aylanadi, muvozanat yo'qoladi, yiqiladi. Tomir urishi sekinlashadi. Oyoq-qo'l soviydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3918,
+          "textUz": "Мастга ўхшаб ҳаракатланади, бош айланади, оғрийди, кўнгил айнийди, қайт қилади, мушаклари тортишади. Нафас олиш секинлашади",
+          "textRu": "Возбуждение подобное опьянению, головокружение, головная боль, тошнота, рвота. Судороги скелетных мышц",
+          "textOz": "Mastga o'xshab harakatlanadi, bosh aylanadi, og'riydi, ko'ngil ayniydi, qayt qiladi, mushaklari tortishadi. Nafas olish sekinlashadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3918
+      ]
+    },
+    {
+      "id": 1196,
+      "questionUz": "Қишда болдирга қон тўхтатадиган жгутни қанча муддатга қўйиш мумкин?",
+      "questionRu": "На какой срок может быть наложен кровоостанавливающий жгут на голень зимой?",
+      "questionOz": "Qishda boldirga qon to'xtatadigan jgutni qancha muddatga qo'yish mumkin?",
+      "explanationUz": "Қон тўхтатиш жгути йилнинг совуқ фаслларида бир соатдан ортиқ бўлмаган вақтга қўйилади. Жгут қўйилиши барча қуйи жойлашган тўқималарда қон айланишини тўхтатиш билан боғлиқ. Қон айланишини узоқроқ вақтга тўхтатиш қўл ёки оёқда қон томирлари йўналиши бўйича жгутдан қуйироқ қисмда ҳалокатли ўзгаришларга олиб келади.",
+      "explanationRu": "Кровоостанавливающий жгут накладывается в холодное время года на срок не более одного часа. Наложение жгута связано с прекращением кровообращения во всех нижележащих тканях. Более длительное прекращение кровообращения приводит к необратимым гибельным изменениям в конечности ниже жгута по ходу кровеносных сосудов.",
+      "explanationOz": "Qon to'xtatish jguti yilning sovuq fasllarida bir soatdan ortiq bo'lmagan vaqtga qo'yiladi. Jgut qo'yilishi barcha quyi joylashgan to'qimalarda qon aylanishini to'xtatish bilan bog'liq. Qon aylanishini uzoqroq vaqtga to'xtatish qo'l yoki oyoqda qon tomirlari yo'nalishi bo'yicha jgutdan quyiroq qismda halokatli o'zgarishlarga olib keladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3919,
+          "textUz": "2 соатдан кўп бўлмаган",
+          "textRu": "Не более чем на 2 часа",
+          "textOz": "2 soatdan ko'p bo'lmagan",
+          "isCorrect": false
+        },
+        {
+          "id": 3920,
+          "textUz": "3 соатдан кўп бўлмаган",
+          "textRu": "Не более чем на 3 часа",
+          "textOz": "3 soatdan ko'p bo'lmagan",
+          "isCorrect": false
+        },
+        {
+          "id": 3921,
+          "textUz": "1 соатдан кўп бўлмаган",
+          "textRu": "Не более чем на 1 час",
+          "textOz": "1 soatdan ko'p bo'lmagan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3921
+      ]
+    },
+    {
+      "id": 1197,
+      "questionUz": "Кўкрак қафасининг кўп қисми жароҳатланганда уни қаердан бошлаб бинт билан боғлаш керак?",
+      "questionRu": "Откуда начинают бинтовать грудную клетку при обширном ее ранении?",
+      "questionOz": "Ko'krak qafasining ko'p qismi jarohatlanganda uni qaerdan boshlab bint bilan bog'lash kerak?",
+      "explanationUz": "Кўкрак қафасининг кенг яраланишида жабрланувчига таранг боғич боғланади. Кўкрак қафасининг қуйироқ қисмларидан бошлаб бинт ўралади. Нафас чиқариш пайтида мустаҳкамланади.",
+      "explanationRu": "При обширном ранении грудной клетки следует наложить тугую повязку пострадавшему. Начинают бинтовать от нижних отделов грудной клетки. Фиксация производится в момент выдоха.",
+      "explanationOz": "Ko'krak qafasining keng yaralanishida jabrlanuvchiga tarang bog'ich bog'lanadi. Ko'krak qafasining quyiroq qismlaridan boshlab bint o'raladi. Nafas chiqarish paytida mustahkamlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3922,
+          "textUz": "Кўкрак қафасининг ўртасидан",
+          "textRu": "С середины грудной клетки",
+          "textOz": "Ko'krak qafasining o'rtasidan",
+          "isCorrect": false
+        },
+        {
+          "id": 3923,
+          "textUz": "Кўкрак қафасининг қуйи қисмидан",
+          "textRu": "От нижних отделов грудной клетки",
+          "textOz": "Ko'krak qafasining quyi qismidan",
+          "isCorrect": true
+        },
+        {
+          "id": 3924,
+          "textUz": "Қўлтиқ остидан",
+          "textRu": "От подмышечных ямок",
+          "textOz": "Qo'ltiq ostidan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3923
+      ]
+    },
+    {
+      "id": 1198,
+      "questionUz": "Қўл жароҳатланганда жабрланувчининг кўйлаги, кийими қандай ечилса тўғри бўлади?",
+      "questionRu": "Как правильно снять с пострадавшего рубашку, пиджак при ранении руки?",
+      "questionOz": "Qo'l jarohatlanganda jabrlanuvchining ko'ylagi, kiyimi qanday echilsa to'g'ri bo'ladi?",
+      "explanationUz": "Шикастланган қўл ёки оёқни мажбурий ҳаракатга солмасдан кийим ечиш имконини яратиш учун аввал кийим шикастланмаган, сўнгра шикастланган қўл ёки оёқдан эҳтиётлик билан ечилади.",
+      "explanationRu": "Чтобы иметь возможность снять одежду с поврежденной конечности, не подвергая ее вынужденным движениям, нужно сначала аккуратно снять ее с неповрежденной конечности.",
+      "explanationOz": "Shikastlangan qo'l yoki oyoqni majburiy harakatga solmasdan kiyim yechish imkonini yaratish uchun avval kiyim shikastlanmagan, so'ngra shikastlangan qo'l yoki oyoqdan ehtiyotlik bilan yechiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3925,
+          "textUz": "Кийим-бошни ечишни касал қўлдан бошлаш, сўнг соғ қўлни бўшатиш",
+          "textRu": "Одежду начинать снимать с больной руки, затем освобождать здоровую руку",
+          "textOz": "Kiyim-boshni echishni kasal qo'ldan boshlash, so'ng sog' qo'lni bo'shatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3926,
+          "textUz": "Кийим-бошни иккала қўлдан бир вақтда ечиш",
+          "textRu": "Одежду снимать с обеих рук одновременно",
+          "textOz": "Kiyim-boshni ikkala qo'ldan bir vaqtda echish",
+          "isCorrect": false
+        },
+        {
+          "id": 3927,
+          "textUz": "Кийим-бошни ечишни соғ қўлдан бошлаш, сўнг касал қўлни бўшатиш",
+          "textRu": "Одежду начинать снимать со здоровой руки, затем освобождать больную руку",
+          "textOz": "Kiyim-boshni echishni sog' qo'ldan boshlash, so'ng kasal qo'lni bo'shatish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3927
+      ]
+    },
+    {
+      "id": 1199,
+      "questionUz": "Қорнидан ёпиқ жароҳат олган жабрланувчи қандай ташилади?",
+      "questionRu": "Как транспортировать пострадавшего с закрытой травмой живота?",
+      "questionOz": "Qornidan yopiq jarohat olgan jabrlanuvchi qanday tashiladi?",
+      "explanationUz": "Қорин бўшлиғининг ёпиқ жароҳатлари ҳолларида гавданинг ҳолати оёқларни тиззаларидан букиб, ён тарафга қараб ётилади. Қорин қисмига муз халтачаси қўйилади.",
+      "explanationRu": "Положение туловища при закрытых травмах брюшной полости – лежа на боку с согнутыми в коленях ногами. На живот прикладывают холод.",
+      "explanationOz": "Qorin bo'shlig'ining yopiq jarohatlari hollarida gavdaning holati oyoqlarni tizzalaridan bukib, yon tarafga qarab yotiladi. Qorin qismiga muz xaltachasi qo'yiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3928,
+          "textUz": "Ёнбоши ёки орқасига ётқизилган ҳолатда, лат еган жойга иссиқ грелка қўйилади",
+          "textRu": "В лежачем положении на боку или спине с горячей грелкой на месте ушиба",
+          "textOz": "Yonboshi yoki orqasiga yotqizilgan holatda, lat egan joyga issiq grelka qo'yiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3929,
+          "textUz": "Ётқизилган ҳолатда, лат еган жойига совуқ нарса (муз, малҳам) қўйилади",
+          "textRu": "В лежачем положении с холодом на месте ушиба (лед. Примочка)",
+          "textOz": "Yotqizilgan holatda, lat egan joyiga sovuq narsa (muz, malham) qo'yiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3930,
+          "textUz": "Ярим ўтказилган ҳолатда, тиззалари танага яқинлаштирилади",
+          "textRu": "В положении «полусидя» колени максимально приближены к туловищу",
+          "textOz": "Yarim o'tkazilgan holatda, tizzalari tanaga yaqinlashtiriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3929
+      ]
+    },
+    {
+      "id": 1200,
+      "questionUz": "Бош мия жароҳатланишининг асосий аломатлари:",
+      "questionRu": "Травма головного мозга характеризуется следующими основными признаками:",
+      "questionOz": "Bosh miya jarohatlanishining asosiy alomatlari:",
+      "explanationUz": "ЙҲҚ 1-иловаси 3.2. “Ҳаракатланиш тақиқланган”.",
+      "explanationRu": "ПДД приложение № 1 знак 3.2. “Движение запрещено”.",
+      "explanationOz": "YHQ 1-ilovasi 3.2. “Harakatlanish taqiqlangan”.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3931,
+          "textUz": "Ҳушдан кетиш бир неча сониядан бирнеча соатгача бўлиши мумкин",
+          "textRu": "Потеря создания может длится от нескольких секунд до нескольких часов.",
+          "textOz": "Hushdan ketish bir necha soniyadan birnecha soatgacha bo'lishi mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 3932,
+          "textUz": "Қайт қилиш бир-икки марта, оғир ҳолатларда кўпроқ бўлиши мумкин",
+          "textRu": "Рвота два-три раза, в тяжёлых случаях больше.",
+          "textOz": "Qayt qilish bir-ikki marta, og'ir holatlarda ko'proq bo'lishi mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 3933,
+          "textUz": "Амнезия – хотиранинг йўқолиши,содир бўлган жароҳатланиш билан боғлиқ ва ҳаётдаги баъзи воқеалар хотирасидан ўчади",
+          "textRu": "Амнезия – потеря памяти связанная с полученной травмой и некоторые события жизни стираются из памяти.",
+          "textOz": "Amneziya – xotiraning yo'qolishi,sodir bo'lgan jarohatlanish bilan bog'liq va hayotdagi bazi voqealar xotirasidan o'chadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3934,
+          "textUz": "Барчаси ҳолатлар тўғри",
+          "textRu": "Все вышеперечисленные ситуации.",
+          "textOz": "Barchasi holatlar to'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3934
+      ]
+    },
+    {
+      "id": 1201,
+      "questionUz": "Шокнинг белгилари:",
+      "questionRu": "Симптомы шока:",
+      "questionOz": "Shokning belgilari:",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.20 белгига асосан, «Қувиб ўтиш тақиқланган». Соатига 40 км дан кам тезликда ҳаракатланаётган якка транспорт воситасидан бошқа транспорт воситаларини қувиб ўтиш тақиқланишини билдиради.\r\nЙҲҚ 1-иловасининг 3-бўлимидаги 3.22 белгига асосан, «Юк автомобилларида қувиб ўтиш тақиқланган». Тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобилларида барча транспорт воситаларини қувиб ўтиш тақиқланишини билдиради (соатига 40 км дан кам тезликда ҳаракатланаётган транспорт воситаси, трактор, от-арава, велосипед бундан мустасно).",
+      "explanationRu": "Знак 3.20 раздела 3 приложения № 1 к ПДД, «Обгон запрещен». Запрещается обгон всех транспортных средств, кроме одиночных, движущихся со скоростью менее 40 км/ч.\r\nЗнак 3.22 раздела 3 приложения № 1 к ПДД, «Обгон грузовым автомобилям запрещен». Запрещается грузовым автомобилям с разрешенной максимальной массой более 3,5 т обгон всех транспортных средств (за исключением транспортного средства, трактора, гужевой повозки, велосипеда, движущегося со скоростью менее 40 км/ч).",
+      "explanationOz": "YHQ 1-ilovasining 3-bo‘limidagi 3.20 belgiga asosan, «Quvib o‘tish taqiqlangan». Soatiga 40 km dan kam tezlikda harakatlanayotgan yakka transport vositasidan boshqa transport vositalarini quvib o‘tish taqiqlanishini bildiradi.\r\nYHQ 1-ilovasining 3-bo‘limidagi 3.22 belgiga asosan, «Yuk avtomobillarida quvib o‘tish taqiqlangan». To‘liq vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillarida barcha transport vositalarini quvib o‘tish taqiqlanishini bildiradi (soatiga 40 km dan kam tezlikda harakatlanayotgan transport vositasi, traktor, ot-arava, velosiped bundan mustasno).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3935,
+          "textUz": "Тери ва шиллиқ қаватларининг оқариши",
+          "textRu": "Побледневшая кожа и слизистая поверхность",
+          "textOz": "Teri va shilliq qavatlarining oqarishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3936,
+          "textUz": "Кучли тер ажралиши",
+          "textRu": "Обильное потоотделение",
+          "textOz": "Kuchli ter ajralishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3937,
+          "textUz": "Оғиз қуриши чанқоқлик нақас олишнинг тезлашуви",
+          "textRu": "Сухость во рту, жажда, учащенное дыхание",
+          "textOz": "Og'iz qurishi chanqoqlik naqas olishning tezlashuvi",
+          "isCorrect": false
+        },
+        {
+          "id": 3938,
+          "textUz": "Барча ҳолатлар тўғри",
+          "textRu": "Всё вышеперечисленное",
+          "textOz": "Barcha holatlar to'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3938
+      ]
+    },
+    {
+      "id": 1202,
+      "questionUz": "Бош мия жароҳатланишининг қуйидаги аломатлар билан ҳарактерланади:",
+      "questionRu": "Черепно-мозговая травма характеризуется следующими симптомами:",
+      "questionOz": "Bosh miya jarohatlanishining quyidagi alomatlar bilan harakterlanadi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 169 бандига асосан, чорраҳадан ташқаридаги тартибга солинмаган велосипед йўлкаси билан йўл кесишмасида велосипед ва мопед ҳайдовчилари йўлда ҳаракатланаётган бошқа транспорт воситаларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 169 Правил дорожного движения, вне перекрестков, на нерегулируемом пересечении велосипедной дорожки с дорогой, велосипедисты и водители мопеда должны уступить дорогу транспортным средствам, движущимся по этой дороге.",
+      "explanationOz": "Yo‘l harakati qoidalarining 169 bandiga asosan, chorrahadan tashqaridagi tartibga solinmagan velosiped yo‘lkasi bilan yo‘l kesishmasida velosiped va moped haydovchilari yo‘lda harakatlanayotgan boshqa transport vositalariga yo‘l berishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3939,
+          "textUz": "Ҳушдан кетиш бир неча сониядан бир неча соатгача бўлиши мумкин",
+          "textRu": "Обморок может длиться от нескольких секунд до часа.",
+          "textOz": "Hushdan ketish bir necha soniyadan bir necha soatgacha bo'lishi mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 3940,
+          "textUz": "Қайт қилиш бир-икки марта, оғир ҳолатларда кўпроқ бўлиши мумкин",
+          "textRu": "Рвота может быть однократной или двукратной, в тяжелых случаях чаще.",
+          "textOz": "Qayt qilish bir-ikki marta, og'ir holatlarda ko'proq bo'lishi mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 3941,
+          "textUz": "Амнезия – ҳотиранинг йўқолиши, содир бўлган жароҳатланиш билан боғлиқ ва ҳаётдаги баъзи воқеалар хотирасидан ўчади",
+          "textRu": "Амнезия - потеря памяти, связанная с травмой и исчезновением из памяти некоторых событий жизни.",
+          "textOz": "Amneziya – hotiraning yo'qolishi, sodir bo'lgan jarohatlanish bilan bog'liq va hayotdagi bazi voqealar xotirasidan o'chadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3942,
+          "textUz": "Юқоридаги барча ҳолатлар",
+          "textRu": "Всем вышеперечисленным.",
+          "textOz": "Yuqoridagi barcha holatlar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3942
+      ]
+    },
+    {
+      "id": 1203,
+      "questionUz": "Артериал қон келиш аломатларини кўрсатинг",
+      "questionRu": "Признаки артериального кровотечения:",
+      "questionOz": "Arterial qon kelish alomatlarini ko'rsating",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 143 бандига асосан, қаттиқ ёки эгилувчан улагич билан шатакка олинган автобусда, троллейбусда ва юк автомобили юкхонасида одам ташиш қисман ортиш йўли билан шатакка олишда эса шатакка олинган транспорт воситасининг кабинасида ва юкхонасида, шунингдек шатакка олган транспорт воситасининг юкхонасида одамлар бўлиши тақиқланади.",
+      "explanationRu": "Согласно пункту 143 Правил дорожного движения, при буксировке на гибкой или жесткой сцепке запрещается перевозка людей в буксируемом автобусе, троллейбусе и в кузове буксируемого грузового автомобиля, а при буксировке путем частичной погрузки — нахождение людей в кабине или кузове буксируемого транспортного средства, а также в кузове буксирующего транспортного средства.",
+      "explanationOz": "Yo‘l harakati qoidalarining 143 bandiga asosan, qattiq yoki egiluvchan ulagich bilan shatakka olingan avtobusda, trolleybusda va yuk avtomobili yukxonasida odam tashish qisman ortish yo‘li bilan shatakka olishda esa shatakka olingan transport vositasining kabinasida va yukxonasida, shuningdek shatakka olgan transport vositasining yukxonasida odamlar bo‘lishi taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3943,
+          "textUz": "Қон томирларидан пушти рангли кучли пулсация билан отилиб чиқади",
+          "textRu": "Кровь розового цвета сильной пульсацией бьёт из сосудов.",
+          "textOz": "Qon tomirlaridan pushti rangli kuchli pulsasiya bilan otilib chiqadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3944,
+          "textUz": "Қон томирларидан тўқ қизил рангдаги қон сизиб оқиб чиқади",
+          "textRu": "Темно красная кровь струится из сосудов.",
+          "textOz": "Qon tomirlaridan to'q qizil rangdagi qon sizib oqib chiqadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3945,
+          "textUz": "Майда қон томирларидан ички аъзоларга қоннинг оқиб чиқиши кузатилади",
+          "textRu": "Кровотечение во внутренние органы из мелких кровеносных сосудов",
+          "textOz": "Mayda qon tomirlaridan ichki azolarga qonning oqib chiqishi kuzatiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3943
+      ]
+    },
+    {
+      "id": 1204,
+      "questionUz": "Веноз қон кетиш аломатларини кўрсатинг:",
+      "questionRu": "Признаки венозного кровотечения",
+      "questionOz": "Venoz qon ketish alomatlarini ko'rsating:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 137 бандига асосан, қуйидаги ҳолларда туманга қарши фара чироқларидан фойдаланиш мумкин: сутканинг қоронғи вақтида йўлнинг ёритилмаган қисмларида узоқни ёки яқинни ёритувчи фара чироқлари билан бирга.",
+      "explanationRu": "Согласно пункту 137 Правил дорожного движения, противотуманные фары могут использоваться в следующих случаях: в темное время суток на неосвещенных участках дорог совместно с ближним или дальним светом фар.",
+      "explanationOz": "Yo‘l harakati qoidalarining 137 bandiga asosan, quyidagi hollarda tumanga qarshi fara chiroqlaridan foydalanish mumkin: sutkaning qorong‘i vaqtida yo‘lning yoritilmagan qismlarida uzoqni yoki yaqinni yorituvchi fara chiroqlari bilan birga.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3946,
+          "textUz": "Қон томирларидан пушти рангли қон кучли пулсация билан отилиб чиқади",
+          "textRu": "Розовая кровь бъёт из сосудов пульсацией",
+          "textOz": "Qon tomirlaridan pushti rangli qon kuchli pulsasiya bilan otilib chiqadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3947,
+          "textUz": "Қон томирларидан тўқ қизил рангдаги қон сизиб оқиб чиқади",
+          "textRu": "Из сосудов вытекает темно-красная кровь",
+          "textOz": "Qon tomirlaridan to'q qizil rangdagi qon sizib oqib chiqadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3948,
+          "textUz": "Майда қон томирларидан ички аъзоларга қон сизиб оқиб қичади",
+          "textRu": "Наблюдается приток крови из мелких сосудов к внутренним органам",
+          "textOz": "Mayda qon tomirlaridan ichki azolarga qon sizib oqib qichadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3947
+      ]
+    },
+    {
+      "id": 1205,
+      "questionUz": "Қорин бўшлиғи жароҳатланган одамга овқат, сув, дори-дармон бериши мумкинми?",
+      "questionRu": "Можно ли давать еду, воду, лекарства человеку с травмой живота?",
+      "questionOz": "Qorin bo'shlig'i jarohatlangan odamga ovqat, suv, dori-darmon berishi mumkinmi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 4-бўлимидаги 4.1.1 белгига асосан, «Ҳаракатланиш тўғрига». Фақат белгиларда кўрсатилган кўрсаткичлар йўналишларида ҳаракатланишга рухсат этилади.\r\nЙҲҚ 1-иловасининг 7-бўлимидаги 7.4.1 белгига асосан, «Транспорт воситасининг тури». Белгининг таъсири жорий этилган транспорт воситалари турини кўрсатади. 7.4.1 белги билан ўрнатилган йўл белгисининг таъсири юк ташувчи, шу жумладан, тиркамали, тўлиқ вазни 3,5 тоннадан ортиқ бўлган транспорт воситаларига татбиқ этилади.\r\nЕнгил автомобилга исталган йўналишда ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Знак 4.1.1 раздела 4 приложения № 1 к ПДД, «Движение прямо». Разрешается движение только в направлениях, указанных на знаках стрелками.\r\nЗнак 7.4.1 раздела 7 приложения № 1 к ПДД, «Вид транспортного средства». Указывают вид транспортного средства, на который распространяется действие знака. Дорожный знак 7.4.1 распространяет действие знака на грузовые автомобили, в том числе и с прицепом, с разрешенной максимальной массой более 3,5 т.\r\nЛегковому автомобилю разрешено движение в любом направлении.",
+      "explanationOz": "YHQ 1-ilovasining 4-bo‘limidagi 4.1.1 belgiga asosan, «Harakatlanish to‘g‘riga». Faqat belgilarda ko‘rsatilgan ko‘rsatkichlar yo‘nalishlarida harakatlanishga ruxsat etiladi.\r\nYHQ 1-ilovasining 7-bo‘limidagi 7.4.1 belgiga asosan, «Transport vositasining turi». Belgining ta’siri joriy etilgan transport vositalari turini ko‘rsatadi. 7.4.1 belgi bilan o‘rnatilgan yo‘l belgisining ta’siri yuk tashuvchi, shu jumladan, tirkamali, to‘liq vazni 3,5 tonnadan ortiq bo‘lgan transport vositalariga tatbiq etiladi.\r\nYengil avtomobilga istalgan yo‘nalishda harakatlanishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3949,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 3950,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3950
+      ]
+    },
+    {
+      "id": 1206,
+      "questionUz": "Бош мия жароҳатланганда, мия чайқалганда ёки бўйин қисми жароҳатланганда биринчи ёрдам кўрсатиш:",
+      "questionRu": "Первая помощь при травме головы, сотрясении мозга или травме шеи",
+      "questionOz": "Bosh miya jarohatlanganda, miya chayqalganda yoki bo'yin qismi jarohatlanganda birinchi yordam ko'rsatish:",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.17.1 белгига асосан, «Божхона». Божхона (назорат пункти) олдида тўхтамасдан ўтиб кетиш тақиқланади.",
+      "explanationRu": "Знак 3.17.1 раздела 3 приложения № 1 к ПДД, «Таможня». Запрещается проезд без остановки у таможенного (контрольного) пункта.",
+      "explanationOz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.17.1 белгига асосан, «Божхона». Божхона (назорат пункти) олдида тўхтамасдан ўтиб кетиш тақиқланади.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3951,
+          "textUz": "Жароҳатланган одамни қаттиқ ва текис замбилга солиб, бўйин қисми тагига қаттиқ ёстиқча қўйиб, қўзғатмасдан, маҳкам боғлаб шифохонага юборилади",
+          "textRu": "Пострадавшего кладут на жесткие и плоские носилки, под шею подкладывают подушку и без движения отправляют в больницу",
+          "textOz": "Jarohatlangan odamni qattiq va tekis zambilga solib, bo'yin qismi tagiga qattiq yostiqcha qo'yib, qo'zg'atmasdan, mahkam bog'lab shifoxonaga yuboriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3952,
+          "textUz": "Жарохатланган одамни ёнбошлатиб ётқизиб, бўйин қисми тагига қаттиқ ёстиқча қўйиб, қўзғатмасдан, маҳкам боғлаб шифохонага юборилади",
+          "textRu": "Уложить пострадавшего на бок, подложить под шею твердую подушку, туго связать, не шевелясь, и отправиться в больницу",
+          "textOz": "Jaroxatlangan odamni yonboshlatib yotqizib, bo'yin qismi tagiga qattiq yostiqcha qo'yib, qo'zg'atmasdan, mahkam bog'lab shifoxonaga yuboriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3953,
+          "textUz": "Жарохатланган одамни тинчлантириш, жароҳатланган жой соҳасини совуқ сув муз қўйиш йўллари билан совутиш оғриқни сусайтириш ва қон кетишини камайтириш",
+          "textRu": "Успокоить пострадавшего, охладить поврежденное место холодной водой или льдом, уменьшить боль и кровотечение",
+          "textOz": "Jaroxatlangan odamni tinchlantirish, jarohatlangan joy sohasini sovuq suv muz qo'yish yo'llari bilan sovutish og'riqni susaytirish va qon ketishini kamaytirish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3951
+      ]
+    },
+    {
+      "id": 1207,
+      "questionUz": "Мускул ва пайларнинг эзилиши ҳамда чўзилиши аломатлари қандай?",
+      "questionRu": "Каковы признаки напряжения и растяжения мышц и сухожилий?",
+      "questionOz": "Muskul va paylarning ezilishi hamda cho'zilishi alomatlari qanday?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 98 банди 3 хатбошига асосан, айланма ҳаракатланиш чорраҳасида ҳаракатланаётган транспорт воситалари айланага кириб келаётган транспорт воситаларига нисбатан устунликка (имтиёзга) эга.",
+      "explanationRu": "Согласно абзацу третьего пункта 98 Правил дорожного движения, транспортные средства, движущиеся на перекрестке с круговым движением, имеют приоритет (преимущество) по отношению к транспортным средствам, въезжающим на перекресток.",
+      "explanationOz": "Yo‘l harakati qoidalarining 98 bandi 3 xatboshiga asosan, aylanma harakatlanish chorrahasida harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3954,
+          "textUz": "Жароҳатланган жойда оғриқ сезилади",
+          "textRu": "Ощущается боль в пораженной области",
+          "textOz": "Jarohatlangan joyda og'riq seziladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3955,
+          "textUz": "Жароҳатланган жойда шиши пайдо бўлади, оғриқ сезилади, баъзан шу жойда майда капилляр қон томирлари ёрилаб, қон қуйилишлари натижасида кўкариш пайдо бўлади",
+          "textRu": "В месте повреждения возникает отек, ощущается боль, иногда в этой области лопаются мелкие капиллярные сосуды и в результате кровотечения появляются кров��подтеки",
+          "textOz": "Jarohatlangan joyda shishi paydo bo'ladi, og'riq seziladi, bazan shu joyda mayda kapillyar qon tomirlari yorilab, qon quyilishlari natijasida ko'karish paydo bo'ladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3955
+      ]
+    },
+    {
+      "id": 1208,
+      "questionUz": "Шокнинг белгилари қандай ?",
+      "questionRu": "Каковы признаки шока?",
+      "questionOz": "Shokning belgilari qanday ?",
+      "explanationUz": "ЙҲҚ 1-илова Умумий қоидалар: Йўл ҳаракати хавфсизлиги – йўл ҳаракати қатнашчиларининг йўл-транспорт ҳодисалари ва уларнинг оқибатларидан ҳимояланганлик даражасини акс эттирувчи йўл ҳаракати ҳолати.",
+      "explanationRu": "ПДД общие положения: Безопасность дорожного движения состояние дорожного движения, отражающее степень защищенности его участников от дорожно-транспортных происшествий и их последствий.",
+      "explanationOz": "YHQ 1-ilova Umumiy qoidalar: Yo‘l harakati xavfsizligi – yo‘l harakati qatnashchilarining yo‘l-transport hodisalari va ularning oqibatlaridan himoyalanganlik darajasini aks ettiruvchi yo‘l harakati holati.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3956,
+          "textUz": "Тери ва шиллиқ қаватларнинг оқариши",
+          "textRu": "Воспаление кожи и слизистых оболочек",
+          "textOz": "Teri va shilliq qavatlarning oqarishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3957,
+          "textUz": "Кучли тер ажралиши",
+          "textRu": "Сильное потоотделение",
+          "textOz": "Kuchli ter ajralishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3958,
+          "textUz": "Оғиз қуриши, чанқоқолик, нафас олишнинг тезлашуви",
+          "textRu": "Сухость натощак, жажда, учащенное дыхание",
+          "textOz": "Og'iz qurishi, chanqoqolik, nafas olishning tezlashuvi",
+          "isCorrect": false
+        },
+        {
+          "id": 3959,
+          "textUz": "Эс-ҳушнинг ноаниқлиги, беҳуш ҳолат",
+          "textRu": "Потеря памяти, бессознательное состояние",
+          "textOz": "Es-hushning noaniqligi, behush holat",
+          "isCorrect": false
+        },
+        {
+          "id": 3960,
+          "textUz": "Юқоридаги барча ҳолатлар",
+          "textRu": "Все вышеперечисленное",
+          "textOz": "Yuqoridagi barcha holatlar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3960
+      ]
+    },
+    {
+      "id": 1209,
+      "questionUz": "Қайси ҳолатларда жабрланувчига юрак-ўпка реанимациясини бошлаш керак?",
+      "questionRu": "В каких случаях следует начинать сердечно-легочную реанимацию пострадавшего?",
+      "questionOz": "Qaysi holatlarda jabrlanuvchiga yurak-o'pka reanimasiyasini boshlash kerak?",
+      "explanationUz": "Йўл - транспорт ҳодисаларида биринчи ёрдам фанига  асосан, жабрланувчига юрак-ўпка реанимациясини, хушидан кетишда, нафас олиш фаолияти ва қон айланиши тўхтаганда бошлаш керак.",
+      "explanationRu": "Согласно предмету Первой помощи при дорожно-транспортных происшествиях, пострадавшему следует начать сердечно-легочную реанимацию, при отсутствии у пострадавшего сознания, дыхания и кровообращения.",
+      "explanationOz": "Yo‘l - transport hodisalarida birinchi yordam faniga asosan, jabrlanuvchiga yurak-o‘pka reanimatsiyasini, xushidan ketishda, nafas olish faoliyati va qon aylanishi to‘xtaganda boshlash kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3961,
+          "textUz": "Юрак сохасида оғриқ сезилганда ва нафас олиш қийинлашганда",
+          "textRu": "При наличии болей в области сердца и затрудненного дыхания",
+          "textOz": "Yurak soxasida og'riq sezilganda va nafas olish qiyinlashganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3962,
+          "textUz": "Хушидан кетишда, нафас олиш фаолиятидан қатъий назар",
+          "textRu": "При отсутствии у пострадавшего сознания, независимо от наличия дыхания.",
+          "textOz": "Xushidan ketishda, nafas olish faoliyatidan qatiy nazar",
+          "isCorrect": false
+        },
+        {
+          "id": 3963,
+          "textUz": "Хушидан кетишда, нафас олиш олиш фаолияти ва қон айланиши тўхтаганда",
+          "textRu": "При отсутствии у пострадавшего сознания, дыхания и кровообращения.",
+          "textOz": "Xushidan ketishda, nafas olish olish faoliyati va qon aylanishi to'xtaganda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3963
+      ]
+    },
+    {
+      "id": 1210,
+      "questionUz": "Қўл оёқ учлари( тирсакдан паст қисми, болдир) синишида транспорт шиналари ёки уларни қўлда ясаш учун воситалар бўлмаса биринчи тиббий ёрдам қандай кўрсатилади?",
+      "questionRu": "Как оказывается первая помощь при переломах конечностей, если отсутствуют транспортные шины и подручные средства для их изготовления?",
+      "questionOz": "Qo'l oyoq uchlari( tirsakdan past qismi, boldir) sinishida transport shinalari yoki ularni qo'lda yasash uchun vositalar bo'lmasa birinchi tibbiy yordam qanday ko'rsatiladi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 105 бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. Бундай чорраҳаларда кейинги ҳаракат йўналишидан қатъий назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади.\r\nЙўл ҳаракати қоидаларининг 107 бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак.\r\nУшбу чорраҳада қизил автомобил ҳаракатни бошлайди ва кўкни ўтказиб юбориш учун чорраҳада тўхтайди. Яшил автомобил биринчи, кўк иккинчи ва қизил автомобил охирида ҳаракатни якунлайди.",
+      "explanationRu": "Согласно пункту 105 Правил дорожного движения, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Этим же правилом должны руководствоваться между собой водители трамваев. На таких перекрестках трамвай имеет право на приоритет движения перед безрельсовыми транспортными средствами, независимо от направления его движения.\r\nСогласно пункту 107 Правил дорожного движения, при повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо, а также производящим обгон в разрешенных случаях. Этим же правилом должны руководствоваться между собой водители трамваев.\r\nНа этом перекрестке , красный автомобиль начинает движение и останавливается на перекрестке, чтобы пропустить синий. Зеленый автомобиль пересекает перекресток первым, синий вторым, а красный автомобиль последним, завершая движение.",
+      "explanationOz": "Yo‘l harakati qoidalarining 105 bandiga asosan, teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak. Bunday chorrahalarda keyingi harakat yo‘nalishidan qat’iy nazar, tramvay relssiz transport vositalariga nisbatan oldin o‘tish huquqiga ega bo‘ladi.\r\nYo‘l harakati qoidalarining 107 bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo‘ldan qarama-qarshi yo‘nalishdan to‘g‘riga yoki o‘ngga harakatlanayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\r\nUshbu chorrahada qizil avtomobil harakatni boshlaydi va ko‘kni o‘tkazib yuborish uchun chorrahada to‘xtaydi. Yashil avtomobil birinchi, ko‘k ikkinchi va qizil avtomobil oxirida harakatni yakunlaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3964,
+          "textUz": "Қўлларни тирсакдан букиб, рўмолга осган ҳолда танага боғлаш, оёқларни орасига албатта юмшоқ мато қўйиб бир-бирига боғлаш",
+          "textRu": "Верхнюю конечность, согнутую в локте, подвешивают на косынке и прибинтовывают к туловищу. Нижние конечности прибинтовывают друг к другу, обязательно проложив между ними мягкую ткань",
+          "textOz": "Qo'llarni tirsakdan bukib, ro'molga osgan holda tanaga bog'lash, oyoqlarni orasiga albatta yumshoq mato qo'yib bir-biriga bog'lash",
+          "isCorrect": true
+        },
+        {
+          "id": 3965,
+          "textUz": "Қўлларни тана бўйлаб чўзган ҳолда танага боғлаш, оёқларни орасига юмшоқ мато қўйиб бир-бирига боғлаш",
+          "textRu": "Верхнюю конечность, вытянутую вдоль тела, прибинтовывают к туловищу. Нижние конечности прибинтовывают друг к другу, проложив между ними мягкую ткань",
+          "textOz": "Qo'llarni tana bo'ylab cho'zgan holda tanaga bog'lash, oyoqlarni orasiga yumshoq mato qo'yib bir-biriga bog'lash",
+          "isCorrect": false
+        },
+        {
+          "id": 3966,
+          "textUz": "Қўлларни тирсакдан букиб, рўмолга осган ҳолда танага боғлаш, оёқларни бир-бирига яхшилаб жипслаб текказиб боғлаш",
+          "textRu": "Верхнюю конечность, согнутую в локте, подвешивают на косынке и прибинтовывают к туловищу. Нижние конечности плотно прижимают друг к другу и прибинтовывают",
+          "textOz": "Qo'llarni tirsakdan bukib, ro'molga osgan holda tanaga bog'lash, oyoqlarni bir-biriga yaxshilab jipslab tekkazib bog'lash",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3964
+      ]
+    }
+  ]
+}

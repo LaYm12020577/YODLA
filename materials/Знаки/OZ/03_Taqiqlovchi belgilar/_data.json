@@ -1,0 +1,222 @@
+{
+  "category": "Taqiqlovchi belgilar",
+  "count": 36,
+  "signs": [
+    {
+      "number": "3.1",
+      "description": "«Kirish taqiqlangan».\nBarcha transport vositalarining kirishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.1_resize-min.png.webp",
+      "imageFile": "3.1.webp"
+    },
+    {
+      "number": "3.2",
+      "description": "«Harakatlanish taqiqlangan».\nBarcha transport vositalarining harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.2_resize-min.png.webp",
+      "imageFile": "3.2.webp"
+    },
+    {
+      "number": "3.3",
+      "description": "«Mexanik transport vositalarining harakatlanishi taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.3_resize-min.png.webp",
+      "imageFile": "3.3.webp"
+    },
+    {
+      "number": "3.4",
+      "description": "«Yuk avtomobillarining harakatlanishi taqiqlangan».\nRuxsat etilgan to‘liq vazni 3,5 tonnadan (agar vazni belgida ko‘rsatilmagan bo‘lsa) yoki ruxsat etilgan to‘liq vazni belgida ko‘rsatilgandan ortiq bo‘lgan yuk avtomobillari va transport vositalari tarkiblarining, shuningdek traktorlar, o‘ziyurar uskunalarning harakatlanishi taqiqlanadi.\n3.4. yo‘l belgisi bortlariga qiya oq chiziq tortilgan yoki odamlarni tashish uchun mo‘ljallangan yuk avtomobillarining harakatlanishini taqiqlamaydi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.4_resize-min.png.webp",
+      "imageFile": "3.4.webp"
+    },
+    {
+      "number": "3.5",
+      "description": "«Mototsikllar harakatlanishi taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.5_resize-min.png.webp",
+      "imageFile": "3.5.webp"
+    },
+    {
+      "number": "3.6",
+      "description": "«Traktorlar harakatlanishi taqiqlangan».\nTraktorlar va o‘ziyurar uskunalarning harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.6_resize-min.png.webp",
+      "imageFile": "3.6.webp"
+    },
+    {
+      "number": "3.7",
+      "description": "«Tirkama bilan harakatlanish taqiqlangan».\nYuk avtomobillari va traktorlarning barcha turdagi tirkamalar bilan harakatlanishi, shuningdek, mexanik transport vositalarini shatakka olish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.7_resize-min.png.webp",
+      "imageFile": "3.7.webp"
+    },
+    {
+      "number": "3.8",
+      "description": "«Ot-arava harakatlanishi taqiqlangan».\nOt-arava (chana), otliqlar, yuk ortilgan hayvonlarning harakatlanishi, shuningdek, chorva (poda) haydab o‘tish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.8_resize-min.png.webp",
+      "imageFile": "3.8.webp"
+    },
+    {
+      "number": "3.9",
+      "description": "«Velosipedda harakatlanish taqiqlangan».\nVelosipedda va mopedda harakatlanish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.9_resize-min.png.webp",
+      "imageFile": "3.9.webp"
+    },
+    {
+      "number": "3.10",
+      "description": "«Piyodaning harakatlanishi taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.10_resize-min.png.webp",
+      "imageFile": "3.10.webp"
+    },
+    {
+      "number": "3.11",
+      "description": "«Vazn cheklangan».\nHaqiqiy umumiy vazni belgida ko‘rsatilganidan ortiq bo‘lgan transport vositalarining, shuningdek, transport vositalari tarkiblarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.11_resize.png.webp",
+      "imageFile": "3.11.webp"
+    },
+    {
+      "number": "3.12",
+      "description": "«O‘qqa tushadigan og‘irlik cheklangan».\nHar qanday o‘qiga tushadigan haqiqiy og‘irlik belgida ko‘rsatilganidan ortiq bo‘lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.12_resize-min.png.webp",
+      "imageFile": "3.12.webp"
+    },
+    {
+      "number": "3.13",
+      "description": "«Cheklangan balandlik».\nGabarit balandligi (yuk bilan yoki yuksiz) belgida ko‘rsatilgandan ortiq bo‘lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.13_resize.png.webp",
+      "imageFile": "3.13.webp"
+    },
+    {
+      "number": "3.14",
+      "description": "«Cheklangan kenglik».\nGabarit kengligi (yuk bilan yoki yuksiz) belgida ko‘rsatilganidan ortiq bo‘lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.14_resize.png.webp",
+      "imageFile": "3.14.webp"
+    },
+    {
+      "number": "3.15",
+      "description": "«Cheklangan uzunlik».\nGabarit uzunligi (yuk bilan yoki yuksiz) belgida ko‘rsatilganidan ortiq bo‘lgan transport vositalari (transport vositalari tarkiblari)ning harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.15_resize-min.png.webp",
+      "imageFile": "3.15.webp"
+    },
+    {
+      "number": "3.16",
+      "description": "«Eng kam oraliq».\nBelgida ko‘rsatilganidan kam bo‘ylama oraliq masofada harakatlanish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.16_resize-min.png.webp",
+      "imageFile": "3.16.webp"
+    },
+    {
+      "number": "3.17.1",
+      "description": "«Bojxona».\nBojxona (nazorat punkti) oldida to‘xtamasdan o‘tib ketish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.17.1_resize-min.png.webp",
+      "imageFile": "3.17.1.webp"
+    },
+    {
+      "number": "3.17.2",
+      "description": "«Xavf-xatar».\nYo‘l-transport hodisasi, avariya, yong‘in yoki boshqa xavf-xatar vaziyatlar tufayli, istisnosiz, barcha transport vositalarining bundan keyin harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.17.2_resize-min.png.webp",
+      "imageFile": "3.17.2.webp"
+    },
+    {
+      "number": "3.17.3",
+      "description": "«Nazorat joyi».\nTransport vositalarining tekshirib o‘tkazilishi majburiy bo‘lgan vaqtincha yoki doimiy nazorat punktlarida o‘rnatiladi.\nUshbu yo‘l belgisi 2.5 yo‘l belgisi bilan birga o‘rnatilishi mumkin.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.17.3_resize-min.png.webp",
+      "imageFile": "3.17.3.webp"
+    },
+    {
+      "number": "3.18.1",
+      "description": "«O‘ngga burilish taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.18.1_resize-min.png.webp",
+      "imageFile": "3.18.1.webp"
+    },
+    {
+      "number": "3.18.2",
+      "description": "«Chapga burilish taqiqlanadi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.18.2_resize-min.png.webp",
+      "imageFile": "3.18.2.webp"
+    },
+    {
+      "number": "3.19",
+      "description": "«Qayrilish taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.19_resize-min.png.webp",
+      "imageFile": "3.19.webp"
+    },
+    {
+      "number": "3.20",
+      "description": "«Quvib o‘tish taqiqlangan».\nSoatiga 40 km dan kam tezlikda harakatlanayotgan yakka transport vositasidan boshqa transport vositalarini quvib o‘tish taqiqlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.20_resize-min.png.webp",
+      "imageFile": "3.20.webp"
+    },
+    {
+      "number": "3.21",
+      "description": "«Quvib o‘tish taqiqlangan hududning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.21_resize-min.png.webp",
+      "imageFile": "3.21.webp"
+    },
+    {
+      "number": "3.22",
+      "description": "«Yuk avtomobillarida quvib o‘tish taqiqlangan».\nTo‘liq vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillarida barcha transport vositalarini quvib o‘tish taqiqlanishini bildiradi (soatiga 40 km dan kam tezlikda harakatlanayotgan transport vositasi, traktor, ot-arava, velosiped bundan mustasno).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.22_resize-min.png.webp",
+      "imageFile": "3.22.webp"
+    },
+    {
+      "number": "3.23",
+      "description": "«Yuk avtomobillarida quvib o‘tish taqiqlangan hududning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.23.1_resize-min.png.webp",
+      "imageFile": "3.23.webp"
+    },
+    {
+      "number": "3.24",
+      "description": "«Yuqori tezlik cheklangan».\nBelgida ko‘rsatilganidan ortiq tezlikda (km/s) harakatlanish taqiqlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.24_resize-min.png.webp",
+      "imageFile": "3.24.webp"
+    },
+    {
+      "number": "3.25",
+      "description": "«Yuqori tezlik cheklangan hududning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.25_resize-min.png.webp",
+      "imageFile": "3.25.webp"
+    },
+    {
+      "number": "3.26",
+      "description": "«Tovush moslamalaridan foydalanish taqiqlangan».\nYo‘l transport hodisasining oldini olish hollaridan boshqa vaziyatlarda tovush moslamasidan foydalanish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.26_resize-min.png.webp",
+      "imageFile": "3.26.webp"
+    },
+    {
+      "number": "3.27",
+      "description": "«To‘xtash taqiqlangan».\nTransport vositalarining to‘xtashi va to‘xtab turishi taqiqlanadi (xizmat vazifasini bajarayotgan xodimga biriktirilgan ko‘k yoki qizil yoxud ko‘k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo‘yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.27_resize-min.png.webp",
+      "imageFile": "3.27.webp"
+    },
+    {
+      "number": "3.28",
+      "description": "«To‘xtab turish taqiqlangan».\nTransport vositalarining to‘xtab turishi taqiqlanadi (xizmat vazifasini bajarayotgan xodimga biriktirilgan ko‘k yoki qizil yoxud ko‘k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo‘yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.28_resize-min.png.webp",
+      "imageFile": "3.28.webp"
+    },
+    {
+      "number": "3.29",
+      "description": "«Oyning toq kunlarida to‘xtab turish taqiqlangan».\n(xizmat vazifasini bajarayotgan xodimga biriktirilgan ko‘k yoki qizil yoxud ko‘k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo‘yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.29_resize-min.png.webp",
+      "imageFile": "3.29.webp"
+    },
+    {
+      "number": "3.30",
+      "description": "«Oyning juft kunlarida to‘xtab turish taqiqlangan».\n(xizmat vazifasini bajarayotgan xodimga biriktirilgan ko‘k yoki qizil yoxud ko‘k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo‘yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno).3.29 va 3.30 belgilari qatnov qismining qarama-qarshi tomonlarida bir vaqtda o‘rnatilganda, qatnov qismining har ikkala tomonida soat 19:00 dan 21:00 gacha to‘xtab turishga ruxsat etiladi (joyini o‘zgartirish vaqti).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.30_resize-min.png.webp",
+      "imageFile": "3.30.webp"
+    },
+    {
+      "number": "3.31",
+      "description": "«Barcha cheklovlarning oxiri».\n3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 belgilaridan bir nechtasiga bir vaqtda amal qiladigan hududlarning oxiri.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.31_resize-min.png.webp",
+      "imageFile": "3.31.webp"
+    },
+    {
+      "number": "3.32",
+      "description": "«Xavfli yuk tashiyotgan transport vositasining harakati taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.32_resize-min.png.webp",
+      "imageFile": "3.32.webp"
+    },
+    {
+      "number": "3.33",
+      "description": "«Portlovchi va tez alangalanuvchi yukni tashiyotgan transport vositasining harakati taqiqlangan».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/3.33_resize-min.png.webp",
+      "imageFile": "3.33.webp"
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "title": "Bilet 50",
+  "count": 20,
+  "questions": [
+    {
+      "id": 983,
+      "questionUz": "Шатакка олинган  автомобилни фалокат ёруғлик  ишоралари  носоз бўлганда транспорт воситаси қандай  белгиланиши  керак?",
+      "questionRu": "Как следует обозначить буксируемый автомобиль при отсутствии или неисправности аварийной сигнализации?",
+      "questionOz": "Shatakka olingan  avtomobilni falokat yorug'lik  ishoralari  nosoz bo'lganda transport vositasi qanday  belgilanishi  kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 75 бандига асосан, агар бирор тўсиқ сабабли қарама-қарши йўналишларда ҳаракатланиш қийин бўлса, тўсиқ ўз томонида бўлган ҳайдовчи йўл бериши керак.",
+      "explanationRu": "Согласно пункту 75 Правил дорожного движения, если встречный разъезд затруднён, то водитель на стороне которого имеется препятствие, должен уступить дорогу.",
+      "explanationOz": "Yo‘l harakati qoidalarining 75 bandiga asosan, agar biror to‘siq sababli qarama-qarshi yo‘nalishlarda harakatlanish qiyin bo‘lsa, to‘siq o‘z tomonida bo‘lgan haydovchi yo‘l berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3225,
+          "textUz": "Габарит чироқларини ёқиш",
+          "textRu": "Включить габаритные огни",
+          "textOz": "Gabarit chiroqlarini yoqish",
+          "isCorrect": false
+        },
+        {
+          "id": 3226,
+          "textUz": "Орқа туманга қарши чироқларини ёқиш",
+          "textRu": "Включить задний противотуманные фонаре",
+          "textOz": "Orqa tumanga qarshi chiroqlarini yoqish",
+          "isCorrect": false
+        },
+        {
+          "id": 3227,
+          "textUz": "Шатакка олинган транспорт воситаси орқа томонига фалокат сабабли тўхташ  белгисини ўрнатиш",
+          "textRu": "Установить на задней части буксируемого автомобиля знак аварийной остановки",
+          "textOz": "Shatakka olingan transport vositasi orqa tomoniga falokat sababli to'xtash  belgisini o'rnatish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3227
+      ]
+    },
+    {
+      "id": 984,
+      "questionUz": "Тормоз тизими  ишламайдиган автомобилни вазни сизнинг автомобилингиз вазнини  ярмидан ортиқ бўлса,  уни  шатакка олишингизга  рухсат  этиладими?",
+      "questionRu": "Разрешается ли Вам буксировать автомобиль с недействующей тормозной системой, если фактическая масса у этого автомобиля превышает половину фактической массы Вашего автомобиля?",
+      "questionOz": "Tormoz tizimi  ishlamaydigan avtomobilni vazni sizning avtomobilingiz vaznini  yarmidan ortiq bo'lsa,  uni  shatakka olishingizga  ruxsat  etiladimi?",
+      "explanationUz": "ЙҲҚ 24-боби 145- бандига мувофиқ, ишчи тормоз тизими ишламаётган транспорт воситасининг ҳақиқий вазни шатакка олган транспорт воситасининг ҳақиқий вазнининг ярмидан ортиқ бўлса (ҳақиқий вазни кам бўлган бундай транспорт воситасини фақат қаттиқ улагич ёрдамида ёки қисман ортиш усули билан шатакка олишга йўл қўйилади) шатакка олиш тақиқланади.",
+      "explanationRu": "Согласно пункту 145 главы 24 ПДД, запрещается буксировка транспортного средства с недействующей рабочей тормозной системой, если его фактическая масса превышает половину фактической массы буксирующего транспортного средства (кроме случаев буксировки при меньшей фактической массе таких транспортных средств только на жесткой сцепке или методом частичной погрузки.)",
+      "explanationOz": "YHQ 24-bobi 145 - bandiga muvofiq, ishchi tormoz tizimi ishlamayotgan transport vositasining haqiqiy vazni shatakka olgan transport vositasining haqiqiy vaznining yarmidan ortiq bo'lsa (haqiqiy vazni kam bo'lgan bunday transport vositasini faqat qattiq ulagich yordamida yoki qisman ortish usuli bilan shatakka olishga yo'l qo'yiladi) shatakka olish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3228,
+          "textUz": "Рухсат  этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat  etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3229,
+          "textUz": "Рухсат этилмайди",
+          "textRu": "Не разрешается",
+          "textOz": "Ruxsat etilmaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 3230,
+          "textUz": "Фақат 30 км. тезликда рухсат этилади",
+          "textRu": "Разрешается только при скорости буксировки не более 30 км/ч",
+          "textOz": "Faqat 30 km. tezlikda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3229
+      ]
+    },
+    {
+      "id": 985,
+      "questionUz": "Носоз  транспот воситасини шатакка олган енгил автомобил салонида одам ташишга рухсат этиладими?",
+      "questionRu": "Разрешена ли Вам перевозка людей в салоне легкового автомобиля, буксирующего неисправное транспортное средство?",
+      "questionOz": "Nosoz  transpot vositasini shatakka olgan engil avtomobil salonida odam tashishga ruxsat etiladimi?",
+      "explanationUz": "Ҳаракатланиш тезлиги ортиши билан автомобилнинг танланган ҳаракат траекториясидан ён томонга четлаши ҳам ортиб боради. Бу ғилдиракларнинг ён эластиклиги, қопламанинг нотекислиги, шамолнинг қаршилиги ва руль бошқармасидаги люфт ҳисобига вужудга келади. Шунинг учун, ҳайдовчилар тезликни оширган сайин ён оралиқ масофани ҳам оширишлари керак.",
+      "explanationRu": "При увеличении скорости увеличиваются и поперечные отклонения от задаваемой водителем траектории движения. Это происходит за счет боковой эластичности колес, неровностей покрытия, воздействия ветра и люфтов в механизмах рулевого управления. Поэтому, увеличивая скорость, водители должны увеличивать боковой интервал.",
+      "explanationOz": "Harakatlanish tezligi ortishi bilan avtomobilning tanlangan harakat trayektoriyasidan yon tomonga chetlashi ham ortib boradi. Bu g'ildiraklarning yon elastikligi, qoplamaning notekisligi, shamolning qarshiligi va rul boshqarmasidagi lyuft hisobiga vujudga keladi. Shuning uchun, haydovchilar tezlikni oshirgan sayin yon oraliq masofani ham oshirishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3231,
+          "textUz": "Рухсат  этилади",
+          "textRu": "Разрешена",
+          "textOz": "Ruxsat  etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3232,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3231
+      ]
+    },
+    {
+      "id": 986,
+      "questionUz": "Қаттиқ улагичда шатакка олинган автобусда ёки троллейбусда одам ташишга рухсат етиладими?",
+      "questionRu": "Разрешается ли перевозить людей в автобусе или троллейбусе, при буксировке на жёсткой сцепке?",
+      "questionOz": "Qattiq ulagichda shatakka olingan avtobusda yoki trolleybusda odam tashishga ruxsat etiladimi?",
+      "explanationUz": "Ҳаракат хавфсизлиги асослари талабларига асосан, автомобилни оҳиста (равон ) тезланиш ва оҳиста секинлашиш билан бошқариш усули ёнилғи сарфини тежайди.",
+      "explanationRu": "Согласно требованиям безопасности дорожного движения, способ вождения автомобиля с плавным ускорением и плавным замедлением позволяет экономить расход топлива.",
+      "explanationOz": "Harakat xavfsizligi asoslari talablariga asosan, avtomobilni ohista (ravon ) tezlanish va ohista sekinlashish bilan boshqarish usuli yonilg‘i sarfini tejaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3233,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещено",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3234,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешено",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3233
+      ]
+    },
+    {
+      "id": 987,
+      "questionUz": "Санаб ўтилган қайси ҳолларда эгилувчан улагичда шатакка олиш тақиқланади?",
+      "questionRu": "В каком из перечисленных случаев запрещается буксировка на гибкой сцепке?",
+      "questionOz": "Sanab o'tilgan qaysi hollarda egiluvchan ulagichda shatakka olish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 15-боби 102-бандига мувофиқ, светофорнинг рухсат этувчи ишорасида чорраҳага кирган ҳайдовчи ундан чиқишда светофор ишораларидан қатъи назар, мўлжалланган йўналишда ҳаракатланишни давом эттириши керак. Бироқ чорраҳада ҳайдовчининг ҳаракатланиш йўлида жойлашган светофорлар олдида тўхташ чизиқлари (ёки 5.33 йўл белгиси) бўлса, у ҳар бир светофор ишораларига амал қилиши шарт.",
+      "explanationRu": "Согласно пункту 102 главы 15 ПДД, водитель, въехавший на перекресток при разрешающем сигнале светофора, должен выехать в намеченном направлении, независимо от сигналов светофора на выходе с него. Однако, если на перекрестке перед светофорами, расположенными на пути следования водителя, имеются стоп-линии (или дорожный знак 5.33), водитель обязан руководствоваться сигналами каждого светофора.",
+      "explanationOz": "YHQ 15-bobi 102-bandiga muvofiq, svetoforning ruxsat etuvchi ishorasida chorrahaga kirgan haydovchi undan chiqishda svetofor ishoralaridan qat'i nazar, mo'ljallangan yo'nalishda harakatlanishni davom ettirishi kerak. Biroq chorrahada haydovchining harakatlanish yo'lida joylashgan svetoforlar oldida to'xtash chiziqlari (yoki 5.33 yo'l belgisi) bo'lsa, u har bir svetofor ishoralariga amal qilishi shart.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3235,
+          "textUz": "Фақат тоғли йўлларда",
+          "textRu": "Только по горной дороге",
+          "textOz": "Faqat tog'li yo'llarda",
+          "isCorrect": false
+        },
+        {
+          "id": 3236,
+          "textUz": "Фақат сирпанчиқда",
+          "textRu": "Только на скользкой дороге",
+          "textOz": "Faqat sirpanchiqda",
+          "isCorrect": true
+        },
+        {
+          "id": 3237,
+          "textUz": "Куннинг қоронғи вақтида ва етарлича кўринмаслик шароитида",
+          "textRu": "В темное время суток и в условиях недостаточной видимости",
+          "textOz": "Kunning qorong'i vaqtida va etarlicha ko'rinmaslik sharoitida",
+          "isCorrect": false
+        },
+        {
+          "id": 3238,
+          "textUz": "Барча санаб ўтилган ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3236
+      ]
+    },
+    {
+      "id": 988,
+      "questionUz": "Шатакка олинган автобусда одам ташишга рухсат бериладими?",
+      "questionRu": "Разрешается ли перевозить людейв буксируемом автобусе?",
+      "questionOz": "Shatakka olingan avtobusda odam tashishga ruxsat beriladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 143 бандига асосан, қаттиқ ёки эгилувчан улагич билан шатакка олинган автобусда, троллейбусда ва юк автомобили юкхонасида одам ташиш қисман ортиш йўли билан шатакка олишда эса шатакка олинган транспорт воситасининг кабинасида ва юкхонасида, шунингдек шатакка олган транспорт воситасининг юкхонасида одамлар бўлиши тақиқланади.",
+      "explanationRu": "Согласно пункту 143 Правил дорожного движения, при буксировке на гибкой или жесткой сцепке запрещается перевозка людей в буксируемом автобусе, троллейбусе и в кузове буксируемого грузового автомобиля, а при буксировке путем частичной погрузки — нахождение людей в кабине или кузове буксируемого транспортного средства, а также в кузове буксирующего транспортного средства.",
+      "explanationOz": "Yo‘l harakati qoidalarining 143 bandiga asosan, qattiq yoki egiluvchan ulagich bilan shatakka olingan avtobusda, trolleybusda va yuk avtomobili yukxonasida odam tashish qisman ortish yo‘li bilan shatakka olishda esa shatakka olingan transport vositasining kabinasida va yukxonasida, shuningdek shatakka olgan transport vositasining yukxonasida odamlar bo‘lishi taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3239,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3240,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3241,
+          "textUz": "Фақат ўтирган ҳолда ташишга рухсат берилади",
+          "textRu": "Разрешается только сидячим пассажирам",
+          "textOz": "Faqat o'tirgan holda tashishga ruxsat beriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3240
+      ]
+    },
+    {
+      "id": 989,
+      "questionUz": "Механик транспорт воситаларини шатакка олишда эгилувчан улагичга камида нечта огоҳлантирувчи қурилма ўрнатилади?",
+      "questionRu": "Не менее скольких предупредительных устройств должно устанавливаться при буксировке на гибкой сцепке?",
+      "questionOz": "Mexanik transport vositalarini shatakka olishda egiluvchan ulagichga kamida nechta ogohlantiruvchi qurilma o'rnatiladi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 106 бандига асосан, Асосий йўлнинг йўналиши чорраҳада ўзгарганда, асосий йўлда ҳаракатланаётган ҳайдовчилар ўзаро тенг аҳамиятли йўллар чорраҳасидан ўтиш қоидасига амал қилишлари керак.\r\nИккинчи даражали йўлларда ҳаракатланаётган ҳайдовчилар ҳам ўзаро шу қоидага амал қилишлари керак.\r\nУшбу чорраҳани яшил биринчи, қизил автомобил иккинчи, кўк автомобил учунчи ва сариқ автомобил охирги бўлиб кесиб ўтади.",
+      "explanationRu": "Согласно пункту 106 Правил дорожного движения, Если главная дорога на перекрестке меняет направление, водители, движущиеся по главной дороге, должны руководствоваться между собой правилами проезда перекрестков равнозначных дорог.\r\nЭтим же правилом должны руководствоваться между собой и водители, движущиеся по второстепенным дорогам.\r\nЗеленый автомобиль пересекает этот перекресток первым, красный автомобиль вторым, синий автомобиль третьим и желтый автомобиль последним.",
+      "explanationOz": "Yo‘l harakati qoidalarining 106 bandiga asosan, Asosiy yo‘lning yo‘nalishi chorrahada o‘zgarganda, asosiy yo‘lda harakatlanayotgan haydovchilar o‘zaro teng ahamiyatli yo‘llar chorrahasidan o‘tish qoidasiga amal qilishlari kerak.\r\nIkkinchi darajali yo‘llarda harakatlanayotgan haydovchilar ham o‘zaro shu qoidaga amal qilishlari kerak.\r\nUshbu chorrahani yashil birinchi, qizil avtomobil ikkinchi, ko‘k avtomobil uchunchi va sariq avtomobil oxirgi bo‘lib kesib o‘tadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3242,
+          "textUz": "Камида иккита",
+          "textRu": "Не менее двух",
+          "textOz": "Kamida ikkita",
+          "isCorrect": true
+        },
+        {
+          "id": 3243,
+          "textUz": "Камида учта",
+          "textRu": "Не менее трёх",
+          "textOz": "Kamida uchta",
+          "isCorrect": false
+        },
+        {
+          "id": 3244,
+          "textUz": "Камида битта",
+          "textRu": "Не менее одного",
+          "textOz": "Kamida bitta",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3242
+      ]
+    },
+    {
+      "id": 990,
+      "questionUz": "Бошқаришни ўргатишдаги транспорт воситаси қандай жиҳозланган бўлиши керак?",
+      "questionRu": "Как оборудуется учебное транспортное средство?",
+      "questionOz": "Boshqarishni o'rgatishdagi transport vositasi qanday jihozlangan bo'lishi kerak?",
+      "explanationUz": "ЙҲҚ 25-боби 150-бандига мувофиқ, бошқаришни ўргатиш учун мўлжалланган механик транспорт воситалари «Бошқаришни ўргатиш транспорт воситаси» таниқлик белгиси ва ўргатувчи учун улашиш механизми ва ишчи тормознинг қўшимча тепкилари, қўшимча орқани кўрсатувчи кўзгу билан жиҳозланиши керак.",
+      "explanationRu": "Согласно пункту 150 главы 25 ПДД, механические транспортные средства, предназначенные для обучения вождению, должны быть обозначены опознавательными знаками «Учебное транспортное средство», кроме того, они должны быть оборудованы дополнительными педалями сцепления и рабочего тормоза, зеркалом заднего вида для обучающего.",
+      "explanationOz": "YHQ 25-bobi 150-bandiga muvofiq, boshqarishni o'rgatish uchun mo'ljallangan mexanik transport vositalari \"Boshqarishni o'rgatish transport vositasi\" taniqlik belgisi va o'rgatuvchi uchun ulashish mexanizmi va ishchi tormozning qo'shimcha tepkilari, qo'shimcha orqani ko'rsatuvchi ko'zgu bilan jihozlanishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3245,
+          "textUz": "Қоидаларнинг талабларига асосан таниқлик белгилари билан",
+          "textRu": "Опознавательными знаками по требованиям Правил",
+          "textOz": "Qoidalarning talablariga asosan taniqlik belgilari bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3246,
+          "textUz": "Илашма ва ишчи тормознинг қўшимча тепкилари билан",
+          "textRu": "Дополнительными педалями тормоза и сцепления",
+          "textOz": "Ilashma va ishchi tormozning qo'shimcha tepkilari bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3247,
+          "textUz": "Ўргатувчи учун орқани кўрсатувчи кўзгу билан",
+          "textRu": "Зеркалом заднего вида для обучающего",
+          "textOz": "O'rgatuvchi uchun orqani ko'rsatuvchi ko'zgu bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3248,
+          "textUz": "Санаб ўтилган барча жиҳозлар ва белгилар билан",
+          "textRu": "Со всеми перечисленными приборами и знаками.",
+          "textOz": "Sanab o'tilgan barcha jihozlar va belgilar bilan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3248
+      ]
+    },
+    {
+      "id": 991,
+      "questionUz": "Қоида бўйича неча ёшдан бошлаб енгил автомобилни бошқаришга рухсат этилади?",
+      "questionRu": "С какого возраста правила разрешают управлять легковыми автомобилями?",
+      "questionOz": "Qoida bo'yicha necha yoshdan boshlab engil avtomobilni boshqarishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 25-боби 149-бандига асосан: Транспорт воситасини бошқариш ҳуқуқига эга бўлиши учун ўрганувчи ўқув муддати якунида: “B” ва “C” тоифалари учун — 18 ёшга тўлган бўлиши керак.",
+      "explanationRu": "Пункта 149 главы 25 ПДД, гласит: Обучаемому к концу обучения на право управления транспортными средствами должно быть: — для категорий “В” и “С” — не менее 18 лет.",
+      "explanationOz": "YHQ 25-bobi 149-bandiga asosan: Transport vositasini boshqarish huquqiga ega bo‘lishi uchun o‘rganuvchi o‘quv muddati yakunida: “B” va “C” toifalari uchun — 18 yoshga to‘lgan bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3249,
+          "textUz": "14 ёшдан",
+          "textRu": "С 14 лет",
+          "textOz": "14 yoshdan",
+          "isCorrect": false
+        },
+        {
+          "id": 3250,
+          "textUz": "16 ёшдан",
+          "textRu": "С 16 лет",
+          "textOz": "16 yoshdan",
+          "isCorrect": false
+        },
+        {
+          "id": 3251,
+          "textUz": "18 ёшдан",
+          "textRu": "С 18 лет",
+          "textOz": "18 yoshdan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3251
+      ]
+    },
+    {
+      "id": 992,
+      "questionUz": "Ким ўқув ташкилотларида автомототранспорт воситаларини бошқаришни ўргатиш ҳуқуқига эга?",
+      "questionRu": "Кто имеет право обучать вождению в учебных организациях?",
+      "questionOz": "Kim o'quv tashkilotlarida avtomototransport vositalarini boshqarishni o'rgatish huquqiga ega?",
+      "explanationUz": "ЙҲҚ 25-боби 148-бандига асосан: Автомототранспорт воситасини ёки шаҳар электр транспортини бошқариш бўйича амалий машғулотлар инструктори бошқаришни ўргатиш ҳуқуқини берувчи ҳужжатга, шунингдек тегишли тоифадаги транспорт воситасини бошқариш ҳуқуқини берувчи гувоҳномага эга бўлиши керак.",
+      "explanationRu": "Пункт 148 главы 25 ПДД, гласит: Инструктор практических занятий по управлению автомототранспортным средством или средством городского электрическокого транспорта должен иметь при себе документы на право обучения вождению,а также удостоверение на право управления транспортным средством соответствующей категории.",
+      "explanationOz": "YHQ 25-bobi 148-bandiga asosan: Avtomototransport vositasini yoki shahar elektr transportini boshqarish bo‘yicha amaliy mashg‘ulotlar instruktori boshqarishni o‘rgatish huquqini beruvchi hujjatga, shuningdek tegishli toifadagi transport vositasini boshqarish huquqini beruvchi guvohnomaga ega bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3252,
+          "textUz": "Бошқаришни ўргатиш ҳуқуқини берувчи ҳужжатлари бўлган ҳайдашни ўргатувчи инструктор",
+          "textRu": "Мастер обучения вождению имеющий документы на право обучения вождению",
+          "textOz": "Boshqarishni o'rgatish huquqini beruvchi hujjatlari bo'lgan haydashni o'rgatuvchi instruktor",
+          "isCorrect": true
+        },
+        {
+          "id": 3253,
+          "textUz": "Тажрибали ҳайдовчи",
+          "textRu": "Опытный водител",
+          "textOz": "Tajribali haydovchi",
+          "isCorrect": false
+        },
+        {
+          "id": 3254,
+          "textUz": "3 йиллик ишлаган даври бўлган ҳайдовчи",
+          "textRu": "Водитель со стажем 3 года",
+          "textOz": "3 yillik ishlagan davri bo'lgan haydovchi",
+          "isCorrect": false
+        },
+        {
+          "id": 3255,
+          "textUz": "5 йил ҳайдовчилик ишлаган даврига эга бўлган 1 - ва 2 - тоифа ҳайдовчилар",
+          "textRu": "Водитель 1 -го и 2-го класса; имеющий водительский стаж 5 лет",
+          "textOz": "5 yil haydovchilik ishlagan davriga ega bo'lgan 1 - va 2 - toifa haydovchilar",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3252
+      ]
+    },
+    {
+      "id": 993,
+      "questionUz": "Транспорт воситасини бошқаришни ўргатаётган шахс ҳайдовчи ҳисобланадими?",
+      "questionRu": "Считается ли человек, обучающий вождению транспортного средства, водителем?",
+      "questionOz": "Transport vositasini boshqarishni o'rgatayotgan shaxs haydovchi hisoplanadimi?",
+      "explanationUz": "ЙҲҚ 2-боби 12-банди 3-хатбошига асосан, ҳайдовчига тормоз тизими, руль бошқаруви ишламаётган, улагич мосламаси (автопоезд таркибида) носоз бўлган, сутканинг қоронғи вақтида ёки кўриниш чекланган вазиятларда ёнмайдиган фара чироқлари ва орқа габарит фара чироқлари, ёмғир ёки қор ёғаётган вақтда ойна тозалагич ишламайдиган транспорт воситасини бошқариш тақиқланади.",
+      "explanationRu": "Согласно абзацу 3 пункта 12 главы 2 ПДД, водителю запрещается управлять транспортным средством, если на транспортном средстве тормозная система, рулевое управление, стеклоочиститель во время дождя или снегопада, неисправно сцепное устройство (в составе автопоезда), не горят или отсутствуют фары и задние габаритные огни в темное время суток или в условиях ограниченной видимости.",
+      "explanationOz": "YHQ 2-bob 12-bandi 3-xatboshiga asosan, haydovchiga transport vositasini tormoz tizimi, rul boshqaruvi ishlamayotgan, ulagich moslamasi (avtopoyezd tarkibida) nosoz bo‘lgan, sutkaning qorong‘i vaqtida yoki ko‘rinish cheklangan vaziyatlarda yonmaydigan fara chiroqlari va orqa gabarit fara chiroqlari, yomg‘ir yoki qor yog‘ayotgan vaqtda oyna tozalagich ishlamaydigan transport vositasini boshqarish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3256,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 3257,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3256
+      ]
+    },
+    {
+      "id": 994,
+      "questionUz": "Бу таниклик белгиси урнатилади:",
+      "questionRu": "Это восклицательный знак:",
+      "questionOz": "Bu taniklik belgisi urnatiladi:",
+      "explanationUz": "ЙҲҚ 2 илова: 1.29.1 — сунъий нотекислик (баланд пиёдалар ўтиш жойини билдиради).",
+      "explanationRu": "ПДД приложение № 2: 1.29.1 искусственная неровность (приподнятый пешеходный переход).",
+      "explanationOz": "YHQ 2 ilova: 1.29.1 — sun'iy notekislik (baland piyodalar o‘tish joyini bildiradi).",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3258,
+          "textUz": "Вактинчалик тамирлаш ишлари олиб борилаётган йул кисмларига",
+          "textRu": "Временный ремонт дороги",
+          "textOz": "Vaktinchalik tamirlash ishlari olib borilayotgan yul kismlariga",
+          "isCorrect": false
+        },
+        {
+          "id": 3259,
+          "textUz": "Портловчи ва тез алангаланувчи юкни ташиётган транспорт воситаларига",
+          "textRu": "Транспортных средства с взрывчатыми и легковоспламеняющимися грузами",
+          "textOz": "Portlovchi va tez alangalanuvchi yukni tashiyotgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 3260,
+          "textUz": "Хайдовчи стажи 2 йилдан кам булган хайдовчилар бошкараёт механик транспорт воситалари",
+          "textRu": "Механических транспортных средств управляемых водителями, имеющими водительский стаж менее 2 лет",
+          "textOz": "Xaydovchi staji 2 yildan kam bulgan xaydovchilar boshkarayot mexanik transport vositalari",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3260
+      ]
+    },
+    {
+      "id": 995,
+      "questionUz": "Транспорт вос��таларини бошқаришни дастлабки ўргатиш (бошианғич машғулот) қаерда амалга оширилади?",
+      "questionRu": "Где проводится начальное обучение вождению транспортных средств (начальное обучение)?",
+      "questionOz": "Transport vositalarini boshqarishni dastlabki o'rgatish (boshiang'ich mashg'ulot) qayerda amalga oshiriladi?",
+      "explanationUz": "ЙҲҚ 4-боби 16-бандига асосан: Пиёдаларнинг ташкилий жамланмасига йўлнинг қатнов қисмида бир қаторда тўрт кишидан ортиқ бўлмасдан, фақат транспорт воситаларининг ҳаракат йўналиши бўйлаб ўнг томондан ҳаракатланишга рухсат этилади. Жамланманинг олди ва орқасида чап томондан қизил байроқча, сутканинг қоронғи вақтида ёки етарлича кўринмаслик шароитида эса олдинда оқ, орқада қизил рангли чироқ кўтарган кузатувчилар бўлиши шарт. Болалар гуруҳини тротуарлар ва пиёдалар йўлкаларидангина, улар бўлмаганда эса йўл ёқасидан фақат сутканинг ёруғ вақтида ва катта ёшдагилар кузатувида олиб юришга рухсат этилади.",
+      "explanationRu": "Пункт 16 главы 4 ПДД, гласит:\r\nДвижение организованных колонн пешеходов разрешается в попутном движению транспортных средств направлении только по правой стороне проезжей части дороги, не более чем по четыре человека в ряд.\r\nВпереди и сзади колонны с левой стороны должны находиться сопровождающие с красными флажками, а в темное время суток и при недостаточной видимости — с включенными фонарями: спереди — белого цвета, сзади — красного.\r\nГруппы детей разрешается водить только по тротуарам и пешеходным дорожкам, а при их отсутствии — по проезжей части, только в светлое время суток и в сопровождении взрослых.",
+      "explanationOz": "YHQ 4-bobi 16-bandiga asosan: Piyodalarning tashkiliy jamlanmasiga yo‘lning qatnov qismida bir qatorda to‘rt kishidan ortiq bo‘lmasdan, faqat transport vositalarining harakat yo‘nalishi bo‘ylab o‘ng tomondan harakatlanishga ruxsat etiladi. Jamlanmaning oldi va orqasida chap tomondan qizil bayroqcha, sutkaning qorong‘i vaqtida yoki yetarlicha ko‘rinmaslik sharoitida esa oldinda oq, orqada qizil rangli chiroq ko‘targan kuzatuvchilar bo‘lishi shart. Bolalar guruhini trotuarlar va piyodalar yo‘lkalaridangina, ular bo‘lmaganda esa yo‘l yoqasidan faqat sutkaning yorug‘ vaqtida va katta yoshdagilar kuzatuvida olib yurishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4856,
+          "textUz": "Автомагистралда",
+          "textRu": "На шоссе",
+          "textOz": "Avtomagistralda",
+          "isCorrect": false
+        },
+        {
+          "id": 4857,
+          "textUz": "Аҳоли пунктларида",
+          "textRu": "В населенных пунктах",
+          "textOz": "Aholi punktlarida",
+          "isCorrect": false
+        },
+        {
+          "id": 4858,
+          "textUz": "Турар жой даҳаларида",
+          "textRu": "Размещение в более",
+          "textOz": "Turar joy dahalarida",
+          "isCorrect": false
+        },
+        {
+          "id": 4859,
+          "textUz": "Ёпиқ майдончаларда ёки автодромиарда",
+          "textRu": "На закрытых площадках или в автодроме",
+          "textOz": "Yopiq maydonchalarda yoki avtodromiarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4859
+      ]
+    },
+    {
+      "id": 996,
+      "questionUz": "Ўқув муддати якунида “А” тоифадаги мототранспорт воситасини бошқариш ҳуқуқига эга бўлиш учун неча ёшга тўлган шахсларга имтиҳонлар топширишга рухсат этилади?",
+      "questionRu": "В конце срока обучения к сдаче экзаменов на право управления мототранспортным средством категории \\\"А\\\" допускаются лица, достигшие какого возраста?",
+      "questionOz": "O‘quv muddati yakunida “A” toifadagi mototransport vositasini boshqarish huquqiga ega bo‘lish uchun necha yoshga to‘lgan shaxslarga imtihonlar topshirishga ruxsat etiladi?",
+      "explanationUz": "\"ЙҲҚга 2-ИЛОВА 1.11 банди ва 49-хатбошига асосан: 1.11 — фақат бир томондан қайта тизилишга рухсат этилган йўл қисмларида, бир йўналишдаги ёки қарама-қарши келаётган транспорт оқимларини ажратади; қайрилиб олиш, тўхташ майдончалари ва шунга ўхшашларга кириш-чиқиш жойларида ҳаракатланиш фақат бир йўналишда рухсат этилганлигини кўрсатади;\r\n1.11 чизиғини узуқ-узуқ чизиқ томонидан, сидирға чизиқ томонидан эса фақат қувиб ёки айланиб ўтишни тугатаётганда босиб ўтишга рухсат этилади.\"",
+      "explanationRu": "\"На основании пункта 1.11 Приложения 2 к ПДД и абзаца 49: 1.11 — разделяет транспортные потоки противоположных или попутных направлений на участках дорог, где перестроение разрешено только из одной полосы; обозначает места, предназначенные для разворота, въезда и выезда со стояночных площадок и т. п., где движение разрешено только в одну сторону;\r\nЛинию 1.11 разрешается пересекать со стороны прерывистой, а также и со стороны сплошной, но только при завершении обгона или объезда.\"",
+      "explanationOz": "\"YHQga 2-ILOVA 1.11 bandi va 49-xatboshiga asosan: 1.11 — faqat bir tomondan qayta tizilishga ruxsat etilgan yo‘l qismlarida, bir yo‘nalishdagi yoki qarama-qarshi kelayotgan transport oqimlarini ajratadi; qayrilib olish, to‘xtash maydonchalari va shunga o‘xshashlarga kirish-chiqish joylarida harakatlanish faqat bir yo‘nalishda ruxsat etilganligini ko‘rsatadi;\r\n1.11 chizig‘ini uzuq-uzuq chiziq tomonidan, sidirg‘a chiziq tomonidan esa faqat quvib yoki aylanib o‘tishni tugatayotganda bosib o‘tishga ruxsat etiladi.\"",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3265,
+          "textUz": "17 ёшга",
+          "textRu": "17 лет",
+          "textOz": "17 yoshga",
+          "isCorrect": false
+        },
+        {
+          "id": 3266,
+          "textUz": "16 ёшга",
+          "textRu": "16 лет",
+          "textOz": "16 yoshga",
+          "isCorrect": true
+        },
+        {
+          "id": 3267,
+          "textUz": "14 ёшга",
+          "textRu": "14 лет",
+          "textOz": "14 yoshga",
+          "isCorrect": false
+        },
+        {
+          "id": 3268,
+          "textUz": "18 ёшга",
+          "textRu": "18 лет",
+          "textOz": "18 yoshga",
+          "isCorrect": false
+        },
+        {
+          "id": 3269,
+          "textUz": "15 ёшга",
+          "textRu": "15 лет",
+          "textOz": "15 yoshga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3266
+      ]
+    },
+    {
+      "id": 997,
+      "questionUz": "Юк автомобилининг юкхонасида қанча миқдорда одамларни ташишга рухсат берилади?",
+      "questionRu": "Какое количество людей разрешается перевозить в кузове грузового автомобиля?",
+      "questionOz": "Yuk avtomobilining yukxonasida qancha miqdorda odamlarni tashishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚ 1 – боби 6 – бандига асосан: Ўзиб кетиш — транспорт воситасининг бир йўналишда транспорт воситаси тезлигидан ортиқ тезликда ҳаракатланиши",
+      "explanationRu": "Пункта 6 главы 1 ПДД гласит: Опережение – движение транспортного средства со скоростью, большей скорости попутного транспортного средства.",
+      "explanationOz": "YHQ 1 – bobi 6 – bandiga asosan: O‘zib ketish — transport vositasining bir yo‘nalishda transport vositasi tezligidan ortiq tezlikda harakatlanishi",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3270,
+          "textUz": "20 кишидан ортиқ эмас",
+          "textRu": "Не более 20 человекss",
+          "textOz": "20 kishidan ortiq emas",
+          "isCorrect": false
+        },
+        {
+          "id": 3271,
+          "textUz": "Ташилаётган одамлар сони ўтириш учун жиҳозланган ўринлар миқдоридан ортиқ бўлмаслиги керак",
+          "textRu": "Число перевозимых людей не должно превышать количество оборудованных для сидения мест",
+          "textOz": "Tashilayotgan odamlar soni o'tirish uchun jihozlangan o'rinlar miqdoridan ortiq bo'lmasligi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 3272,
+          "textUz": "Ҳайдовчининг хоҳишига кўра",
+          "textRu": "По усмотрению водителя",
+          "textOz": "Haydovchining xohishiga ko'ra",
+          "isCorrect": false
+        },
+        {
+          "id": 3273,
+          "textUz": "Маъмуриятнинг кўрсатмасига кўра",
+          "textRu": "По указанию администрации",
+          "textOz": "Mamuriyatning ko'rsatmasiga ko'ra",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3271
+      ]
+    },
+    {
+      "id": 998,
+      "questionUz": "Юк тиркамасида одам ташишга рухсат этиладими?",
+      "questionRu": "Разрешается ли перевозка людей на грузовом прицепе?",
+      "questionOz": "Yuk tirkamasida odam tashishga ruxsat etiladimi?",
+      "explanationUz": "Одамларни тракторлар ва бошқа ўзиюрар ускуналар, юк ташиладиган тиркамалар, тиркама-уйча, юк мотоцикллари юкхонасида ташиш тақиқланади.",
+      "explanationRu": "Запрещается перевозить людей на тракторах и других самоходных машинах, на грузовом прицепе, в прицепе – даче, в кузове грузового мотоцикла.",
+      "explanationOz": "Odamlarni traktorlar va boshqa oziyurar uskunalar, yuk tashiladigan tirkamalar, tirkama-uycha, yuk motosikllari yukxonasida tashish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3274,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3275,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3276,
+          "textUz": "Фақат юкни кузатиб борувчи шахсга рухсат этилади",
+          "textRu": "Разрешается только лицам; сопровождающим груз",
+          "textOz": "Faqat yukni kuzatib boruvchi shaxsga ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3274
+      ]
+    },
+    {
+      "id": 999,
+      "questionUz": "12 ёшга етмаган болаларни транспорт воситасининг олдинги ўриндиғида ташишга рухсат этиладими?",
+      "questionRu": "Разрешается ли перевозить детей; не достигших 12-летнего возраста в кабине грузового автомобиля?",
+      "questionOz": "12 yoshga etmagan bolalarni transport vositasining oldingi o'rindig'ida tashishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 26-боби 159-банди 5-хатбошига асосан: Одамларни ташиш қуйидаги ҳолларда тақиқланади: 12 ёшга тўлмаган болаларни мотоцикл, электромотоцикл, мопед ва скутернинг орқа ўриндиғида, шунингдек, болаларни ушлаб турувчи махсус қурилма ўрнатилмаган транспорт воситасининг олд ўриндиғида.",
+      "explanationRu": "Абзацу 5 пункта 159 главы 26 ПДД, Запрещается перевозить людей в следующих случаях: запрещается перевозить детей до 12 лет на заднем сиденье мотоцикла, электромотоцикла, мопеда и скутера, а также на переднем сиденье легкового автомобиля при отсутствии специального детского удерживающего устройства.",
+      "explanationOz": "YHQ 26-bobi 159-bandi 5-xatboshiga asosan: Odamlarni tashish quyidagi hollarda taqiqlanadi: 12 yoshga to‘lmagan bolalarni mototsikl, elektromototsikl, moped va skuterning orqa o‘rindig‘ida, shuningdek, bolalarni ushlab turuvchi maxsus qurilma o‘rnatilmagan transport vositasining old o‘rindig‘ida.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3277,
+          "textUz": "Болаларни ушлаб турувчи махсус қурилма ўрнатилган бўлса рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Bolalarni ushlab turuvchi maxsus qurilma o'rnatilgan bo'lsa ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3278,
+          "textUz": "Фақат катта ёшдаги йўловчи ҳамроҳ бўлганида рухсат этилади",
+          "textRu": "Разрешается только в сопровождении взрослого пассажира",
+          "textOz": "Faqat katta yoshdagi yo'lovchi hamroh bo'lganida ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3279,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3277
+      ]
+    },
+    {
+      "id": 1000,
+      "questionUz": "Болаларни ташкилий ташишда қандай талаблар қўйилади?",
+      "questionRu": "Каковы требования для организованной перевозки группа детей?",
+      "questionOz": "Bolalarni tashkiliy tashishda qanday talablar qo'yiladi?",
+      "explanationUz": "Болалар гуруҳини ташкилий ташишда автобус (микроавтобус)да катта ёшли кузатиб борувчи(лар) бўлиши шарт. Бундай автобус (микроавтобус)ларнинг олди ва орқа томонига «Болалар гуруҳини ташиш» таниқлик белгиси ўрнатилиши керак.",
+      "explanationRu": "При организованной перевозке группы детей в автобусе (микроавтобусе) с детьми должен находиться взрослый сопровождающий (сопровождающие). Автобус (микроавтобус) должно иметь спереди и сзади опознавательные знаки «Перевозка группы детей».",
+      "explanationOz": "Bolalar guruhini tashkiliy tashishda avtobus (mikroavtobus)da katta yoshli kuzatib boruvchi(lar) bo'lishi shart. Bunday avtobus (mikroavtobus)larning oldi va orqa tomoniga \"Bolalar guruhini tashish\" taniqlik belgisi o'rnatilishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4860,
+          "textUz": "Болалар гуруҳини ташкилий ташишда транспорт воситасида катта ёшли кузатиб борувчи бўлиши шарт",
+          "textRu": "При организовонной перевозки группы детей в автобусе должен присутствовать сопровождающий ",
+          "textOz": "Bolalar guruhini tashkiliy tashishda transport vositasida katta yoshli kuzatib boruvchi bo'lishi shart",
+          "isCorrect": false
+        },
+        {
+          "id": 4861,
+          "textUz": "Болалар гуруҳини ташкилий ташиш учун мўлжалланган транспорт воситасининг олд ва орқа томонига «Болалар гуруҳини ташиш» таниқлик белгиси ўрнатилиши керак",
+          "textRu": "На передней и задней части транспортного средства; должен быть установлен опозновательный знак «Перевозка детей»",
+          "textOz": "Bolalar guruhini tashkiliy tashish uchun mo'ljallangan transport vositasining old va orqa tomoniga «Болалар гуруҳини ташиш» taniqlik belgisi o'rnatilishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 4862,
+          "textUz": "Белгиланган йўналишдаги транспорт воситаларига дахли бўлмаган автобусларда саккиз ва ундан ортиқ болаларнинг ташкилий ташилиши",
+          "textRu": "Организованная перевозка восьми и более детей на автобусах, не относящиеся к маршрутным транспортым средствам",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalariga daxli bo'lmagan avtobuslarda sakkiz va undan ortiq bolalarning tashkiliy tashilishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4863,
+          "textUz": "Барча санаб ўтилган талаблар",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan talablar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4863
+      ]
+    },
+    {
+      "id": 1001,
+      "questionUz": "Одамларни ташишга мослаштирилмаган юк автомобили юкхонасида одам ташишга рухсат этиладими?",
+      "questionRu": "Разрешается ли проезд в кузове грузового автомобиля; не оборудованного для перевозки людей?",
+      "questionOz": "Odamlarni tashishga moslashtirilmagan yuk avtomobili yukxonasida odam tashishga ruxsat etiladimi?",
+      "explanationUz": "Одам ташиш учун мослаштирилмаган юк автомобилларининг юкхонасида фақат юкни олиш учун бораётган ёки уни кузатиб бораётган шахсларнинг бўлишига йўл қўйилади, бунда улар борт сатҳидан пастда ўтириш учун ўриндиқлар билан таъминланган бўлиши керак.",
+      "explanationRu": "Проезд в кузове грузового автомобиля, не оборудованном для перевозки людей, разрешается только лицам, сопровождающим груз или следующим за его получением, при условии, что они обеспечены местом для сидения, расположенным ниже уровня бортов.",
+      "explanationOz": "Odam tashish uchun moslashtirilmagan yuk avtomobillarining yukxonasida faqat yukni olish uchun borayotgan yoki uni kuzatib borayotgan shaxslarning bo'lishiga yo'l qo'yiladi, bunda ular bort sathidan pastda o'tirish uchun o'rindiqlar bilan ta'minlangan bo'lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3284,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3285,
+          "textUz": "Автомагистралларга тегишли бўлмаган йўлларда рухсат этилади",
+          "textRu": "Разрешается на дорогах; не относящихся к автомагистралям",
+          "textOz": "Avtomagistrallarga tegishli bo'lmagan yo'llarda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3286,
+          "textUz": "Фақат юкни кузатиб борувчи шахсларга шу шарт биланки, улар бортларидан пастда жойлашган ўтирадиган жой билан таъминланган бўлсалар рухсат этилади",
+          "textRu": "Разрешается только лицам, сопровождающим груз или следующим за его получением, при условии обеспечения их местом для сидения, расположенным ниже уровня бортов",
+          "textOz": "Faqat yukni kuzatib boruvchi shaxslarga shu shart bilanki, ular bortlaridan pastda joylashgan o'tiradigan joy bilan taminlangan bo'lsalar ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3286
+      ]
+    },
+    {
+      "id": 1002,
+      "questionUz": "Енгил автомобилларнинг олдинги ўриндиғида болаларни ташишга рухсат этиладими?",
+      "questionRu": "Разрешается ли перевозка детей на переднем сиденье легкового автомобиля?",
+      "questionOz": "Engil avtomobillarning oldingi o'rindig'ida bolalarni tashishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 26-боби 159-бандининг бешинчи хатбошисига асосан, одамларни ташиш қуйидаги ҳолларда тақиқланади: 12 ёшга тўлмаган болаларни мотоцикл, электромотоцикл, мопед ва скутернинг орқа ўриндиғида, шунингдек, болаларни ушлаб турувчи махсус қурилма ўрнатилмаган транспорт воситасининг олд ўриндиғида;",
+      "explanationRu": "Пункта 159 главы 26 ПДД, гласит: Запрещается перевозить людей в следующих случаях: - запрещается перевозить детей до 12 лет на заднем сиденье мотоцикл, электромотоцикл, мопед и скутера, а также на переднем сиденье легкового автомобиля при отсутствии специального детского удерживающего устройства.",
+      "explanationOz": "YHQ 26-bobi 159-bandining beshinchi xatboshisiga asosan, odamlarni tashish quyidagi hollarda taqiqlanadi: 12 yoshga to'lmagan bolalarni mototsikl, elektromototsikl, moped va skuterning orqa o‘rindig‘ida, shuningdek, bolalarni ushlab turuvchi maxsus qurilma oʻrnatilmagan transport vositasining old o‘rindig‘ida;",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3287,
+          "textUz": "7 ёшдан кичик бўлмаган болаларни ташишга рухсат этилади",
+          "textRu": "Разрешается перевозка детей в возрасте не моложе 7 лет",
+          "textOz": "7 yoshdan kichik bo'lmagan bolalarni tashishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3288,
+          "textUz": "12 ёш ва ундан катта бўлган болаларни ташишга рухсат этилади",
+          "textRu": "Разрешается перевозка детей достигших 12-летнего возраста и старше",
+          "textOz": "12 yosh va undan katta bo'lgan bolalarni tashishga ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3289,
+          "textUz": "Катта ёшли йўловчи бўлганда ёшидан қатъий назар рухсат этилади",
+          "textRu": "Разрешается независимо от возраста при наличии взрослого пассажира",
+          "textOz": "Katta yoshli yo'lovchi bo'lganda yoshidan qatiy nazar ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3288
+      ]
+    }
+  ]
+}

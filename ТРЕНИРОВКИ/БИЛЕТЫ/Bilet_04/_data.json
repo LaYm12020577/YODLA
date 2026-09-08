@@ -1,0 +1,767 @@
+{
+  "title": "Bilet 4",
+  "count": 20,
+  "questions": [
+    {
+      "id": 61,
+      "questionUz": "Транспорт воситаси ҳайдовчиси томонидан чиқарилган ҳавотади этанол буғлари контсентрасияси қанча миқдорни кўрсатган ҳолларда ДЙҲХХ ходими ҳайдовчига нисбатан алкоголли ичимлик эстеъмол қилганлиги факти юзасидан маъмурий баённома расмийлаштиради",
+      "questionRu": "В случаях, когда концентрация паров этанола, выделяемых водителем транспортного средства, указывает на это, сотрудник DYHXX составит административный отчет о факте употребления водителем алкогольного напитка",
+      "questionOz": "Transport vositasi haydovchisi tomonidan chiqarilgan havotadi etanol bug'lari kontsentrasiyasi qancha miqdorni ko'rsatgan hollarda DYHXX xodimi haydovchiga nisbatan alkogolli ichimlik este'mol qilganligi fakti yuzasidan ma'muriy bayonnoma rasmiylashtiradi",
+      "explanationUz": "Ҳайдовчининг нафасида этанол миқдори 0,135 миллиграмм ва ундан юқори бўлса, у маст ҳолатда деб ҳисобланади ва белгиланган тартибда маъмурий баённома расмийлаштирилади.",
+      "explanationRu": "Если содержание этанола в выдыхаемом водителем воздухе составляет 0,135 миллиграмма и выше, водитель считается находящимся в состоянии опьянения, и в установленном порядке оформляется административный протокол.",
+      "explanationOz": "Haydovchining nafasida etanol miqdori 0,135 milligramm va undan yuqori bo'lsa, mast holat deb hisoblanadi va ma'muriy bayonnoma rasmiylashtiriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4900,
+          "textUz": "Пуфланган ҳавонинг бир литрида 0,105 миллиграмм ва ундан юқори бўлган ҳаллорда",
+          "textRu": "В случае концентрации 0,105 миллиграмма на литр подаваемого воздуха и выше ",
+          "textOz": "Puflangan havoning bir litrida 0,105 milligramm va undan yuqori bo'lgan hallorda ",
+          "isCorrect": false
+        },
+        {
+          "id": 4901,
+          "textUz": "Пуфланган ҳавонинг бир литрида 0,135 миллиграмм ва ундан юқори бўлган ҳаллорда",
+          "textRu": "При концентрации 0,135 миллиграмма или более на литр выдыхаемого воздуха",
+          "textOz": "Puflangan havoning bir litrida 0,135 milligramm va undan yuqori bo'lgan hallorda ",
+          "isCorrect": true
+        },
+        {
+          "id": 4902,
+          "textUz": "Пуфланган ҳавонинг бир литрида 0,255 миллиграмм ва ундан юқори бўлган ҳаллорда",
+          "textRu": "При концентрации 0,255 миллиграмма или более на литр выдыхаемого воздуха",
+          "textOz": "Puflangan havoning bir litrida 0,255 milligramm va undan yuqori bo'lgan hallorda ",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4901
+      ]
+    },
+    {
+      "id": 62,
+      "questionUz": "Автомобилда болаларни ҳимоя қилиш тизимини жойлаштириш учун қайси жой энг хавфсиз ҳисобланади?",
+      "questionRu": "Где безопаснее всего разместить детское удерживающее устройство в автомобиле?",
+      "questionOz": "Avtomobilda bolalarni himoya qilish tizimini joylashtirish uchun qaysi joy eng xavfsiz hisoblanadi?",
+      "explanationUz": "Болалар учун ҳимоя ўриндиғини жойлаштириш учун энг хавфсиз жой — орқа ўрта ўриндиқ ҳисобланади. Бу жой тўқнашув вақтида энг кам зарарга учрайди, чунки у транспорт воситасининг барча томонларидан нисбатан узоқда жойлашган.",
+      "explanationRu": "Самым безопасным местом для установки детского удерживающего устройства считается среднее сиденье заднего ряда. При столкновении оно подвергается наименьшему риску, поскольку расположено на наибольшем удалении от всех сторон автомобиля.",
+      "explanationOz": "Bolalar uchun himoya o'rindig'ini joylashtirish uchun eng xavfsiz joy — orqa o'rta o'rindiq. Bu joy to'qnashuv vaqtida eng kam zararga uchraydi, chunki u barcha tomonlardan uzoqda joylashgan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4903,
+          "textUz": "Орқа ўрта ўриндиқ",
+          "textRu": "Заднее среднее сиденье",
+          "textOz": "Orqa o'rta o'rindiq",
+          "isCorrect": true
+        },
+        {
+          "id": 4904,
+          "textUz": "Олди ўриндиқ",
+          "textRu": "Переднее сиденье",
+          "textOz": "Oldi o'rindiq",
+          "isCorrect": false
+        },
+        {
+          "id": 4905,
+          "textUz": "Ҳайдовчи орқасидаги ўриндиқ",
+          "textRu": "Место за водителем",
+          "textOz": "Haydovchi orqasidagi o'rindiq ",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4903
+      ]
+    },
+    {
+      "id": 63,
+      "questionUz": "Пиёдаларга йўлни пиёдалар ўтиш жойидан ташқарида кесиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли пешеходам переходить дорогу вне пешеходного перехода?",
+      "questionOz": "Piyodalarga yo'lni piyodalar o'tish joyidan tashqarida kesib o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 4-боби 17-бандига асосан, пиёдаларга кўринадиган оралиқда ўтиш жойи ёки чорраҳа бўлмаса, ажратувчи минтақасиз ва тўсиқсиз йўллардан йўлнинг икки томони яхши кўринадиган жойидан, қатнов қисмининг четига нисбатан тўғри бурчак остида кесиб ўтиш рухсат этилади.",
+      "explanationRu": "Согласно пункту 17 главы 4 ПДД, при отсутствии в зоне видимости перехода или перекрестка разрешается переходить дорогу под прямым углом к краю проезжей части на участках без разделительной полосы и ограждений там, где она хорошо просматривается в обе стороны.",
+      "explanationOz": "YHQ 4-bobi 17-bandiga asosan, piyodalarga ko'rinadigan oraliqda o'tish joyi yoki chorraha bo'lmasa, ajratuvchi mintaqasiz va to'siqsiz yo'llardan yo'lning ikki tomoni yaxshi ko'rinadigan joyidan, qatnov qismining chetiga nisbatan to'g'ri burchak ostida kesib o'tish ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4551,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 4552,
+          "textUz": "Йўлни қатнов қисми четига тўғри бурчак остида, унинг иккала томони яхши кўриниб турадиган, кўриниш масофасида ўтиш жойи ёки чорраҳа бўлмаса, ажратувчи бўлаксиз ва тусиқсиз йўлларда кесиб ўтиш рухсат этилади.",
+          "textRu": "Разрешается переходить проезжую часть под прямым углом к её краю, на участках дороги с хорошей видимостью в обе стороны, при отсутствии в пределах видимости пешеходного перехода или перекрёстка, на дорогах без разделительной полосы и без ограждений.",
+          "textOz": "Yo'lning qatnov qismi chetiga to'g'ri burchak ostida, uning ikkala tomoni yaxshi ko'rinib turadigan, ko'rinish masofasida o'tish joyi yoki chorraha bo'lmasa, ajratuvchi bo'laksiz va to'siqsiz yo'llarda kesib o'tish ruxsat etiladi.",
+          "isCorrect": true
+        },
+        {
+          "id": 4553,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4552
+      ]
+    },
+    {
+      "id": 64,
+      "questionUz": "Қайси жавобда йўловчилар учун чиқиш ва тушиш майдончаси бўлмаган шароитдаги жойлар тўлиқ кўрсатилган?",
+      "questionRu": "В каком ответе наиболее полно указаны места; посадки и высадки пассажиров при отсутствии посадочной площадки?",
+      "questionOz": "Qaysi javobda yo'lovchilar uchun chiqish va tushish maydonchasi bo'lmagan sharoitdagi joylar to'liq ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 5-боби 23-банди 1-хатбошига асосан, йўловчилар транспорт воситасига фақат у тўлиқ тўхтагандан сўнг тротуар ёки йўл ёқаси томондан чиқишга ва тушишга мажбурдирлар.",
+      "explanationRu": "Согласно абзацу 1 пункта 23 главы 5 ПДД, пассажиры обязаны производить посадку и высадку со стороны тротуара или обочины и только после полной остановки транспортного средства.",
+      "explanationOz": "YHQ 5-bobi 23-bandi 1-xatboshiga asosan, yo'lovchilar transport vositasiga faqat u to'liq to'xtagandan so'ng trotuar yoki yo'l yoqasi tomondan chiqishga va tushishga majburdirlar.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 198,
+          "textUz": ". Қатнов қисми ёки тротуар томонидан",
+          "textRu": "На проезжей части или тротуаре",
+          "textOz": ". Qatnov qismi yoki trotuar tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 199,
+          "textUz": "Тротуар томонидан",
+          "textRu": "На тротуаре",
+          "textOz": "Trotuar tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 200,
+          "textUz": "Йўл ёқасида ёки қатнов қисми томонидан",
+          "textRu": "На обочине или на проезжей части",
+          "textOz": "Yo'l yoqasida yoki qatnov qismi tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 201,
+          "textUz": "Тротуарда ёки йўл ёқаси томонидан",
+          "textRu": "Со стороны тротуара или обочины",
+          "textOz": "Trotuarda yoki yo'l yoqasi tomonidan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        201
+      ]
+    },
+    {
+      "id": 65,
+      "questionUz": "Қайси расмда пиёдалар қоидани бузмай ҳаракатланмоқда?",
+      "questionRu": "На каком рисунке пешеходы двигаются без нарушения правил?",
+      "questionOz": "Qaysi rasmda piyodalar qoidani buzmay harakatlanmoqda?",
+      "explanationUz": "ЙҲҚ 4-боби 15-банди 1-ва 3-хатбошиларига асосан, пиёдалар тротуарлардан, пиёдалар йўлкаларидан, пиёда ва велосипед йўлкаларидан, улар бўлмаганда эса йўл ёқаларидан ҳаракатланиши керак. Қатнов қисми четида ҳаракатланаётган пиёдалар транспорт воситаларининг ҳаракатланишига қарама-қарши йўналишда юришлари керак.",
+      "explanationRu": "Согласно абзацу 1 и 3 пункта 15 главы 4 ПДД, пешеходы должны двигаться по тротуарам или пешеходным дорожкам, а при их отсутствии – по обочинам. При движении по краю проезжей части пешеходы должны идти навстречу движению транспортных средств.",
+      "explanationOz": "YHQ 4-bobi 15-bandi 1-va 3-xatboshilariga asosan, piyodalar trotuarlardan, piyodalar yo'lkalaridan, piyoda va velosiped yo'lkalaridan, ular bo'lmaganda esa yo'l yoqalaridan harakatlanishi kerak. Qatnov qismi chetida harakatlanayotgan piyodalar transport vositalarining harakatlanishiga qarama-qarshi yo'nalishda yurishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/12.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4119,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На левом рисунке",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4120,
+          "textUz": "Ўнгдаги расмда",
+          "textRu": "На правом рисунке",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4121,
+          "textUz": "Иккала расмда",
+          "textRu": "На обоих рисунках",
+          "textOz": "Ikkala rasmda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4121
+      ]
+    },
+    {
+      "id": 66,
+      "questionUz": "Пиёдалар ўтиш жойи бўлмаганда пиёдаларга йўл қатнов қисмининг қайси жойидан кесиб ўтишга рухсат этилади?",
+      "questionRu": "В каком месте разрешается пешеходам пересекать проезжую часть при отсутствии пешеходного перехода?",
+      "questionOz": "Piyodalar o'tish joyi bo'lmaganda piyodalarga yo'l qatnov qismining qaysi joyidan kesib o'tishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 4-боби 17-банди 2-хатбошига асосан, пиёдаларга кўринадиган оралиқда ўтиш жойи ёки чорраҳа бўлмаса, ажратувчи минтақасиз ва тўси��сиз йўллардан йўлнинг икки томони яхши кўринадиган жойидан, қатнов қисмининг четига нисбатан тўғри бурчак остида кесиб ўтиш рухсат этилади.",
+      "explanationRu": "Согласно абзацу 2 пункта 17 главы 4 ПДД, при отсутствии в зоне видимости перехода или перекрестка разрешается переходить дорогу под прямым углом к краю проезжей части на участках без разделительной полосы и ограждений там, где она хорошо просматривается в обе стороны.",
+      "explanationOz": "YHQ 4-bobi 17-bandi 2-xatboshiga asosan, piyodalarga ko'rinadigan oraliqda o'tish joyi yoki chorraha bo'lmasa, ajratuvchi mintaqasiz va to'siqsiz yo'llardan yo'lning ikki tomoni yaxshi ko'rinadigan joyidan, qatnov qismining chetiga nisbatan to'g'ri burchak ostida kesib o'tish ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 205,
+          "textUz": "Чорраҳаларда тротуарлар ёки йўл ёқаси чизиқлари бўйлаб",
+          "textRu": "На перекрестках по линии тротуаров или обочин",
+          "textOz": "Chorrahalarda trotuarlar yoki yo'l yoqasi chiziqlari bo'ylab",
+          "isCorrect": false
+        },
+        {
+          "id": 206,
+          "textUz": "Қатнов қисмининг чеккасидан тўғри бурчак бўйлаб, ажратувчи бўлаксиз, ҳар икки томон яхши кўринадиган жойлардан",
+          "textRu": "На участках; где она хорошо просматривается в обе стороны под прямым углом к краю проезжей части",
+          "textOz": "Qatnov qismining chekkasidan to'g'ri burchak bo'ylab, ajratuvchi bo'laksiz, har ikki tomon yaxshi ko'rinadigan joylardan",
+          "isCorrect": false
+        },
+        {
+          "id": 207,
+          "textUz": "Барча санаб ўтилган жойлардан",
+          "textRu": "Во всех перечисленных местах",
+          "textOz": "Barcha sanab o'tilgan joylardan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        207
+      ]
+    },
+    {
+      "id": 67,
+      "questionUz": "Йўловчиларга ҳайдовчи транспорт воситасини бошқараётганда, уни чалғитишга рухсат этиладими?",
+      "questionRu": "Разрешается ли пассажирам отвлекать водителя при управлении транспортным средством?",
+      "questionOz": "Yo'lovchilarga haydovchi transport vositasini boshqarayotganda, uni chalg'itishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 5-боби 24-банди 1-хатбошига асосан, йўловчиларга транспорт воситаси ҳаракатланаётган вақтда ҳайдовчини бошқаришдан чалғитиш (унга халақит бериш) тақиқланади.",
+      "explanationRu": "Согласно абзацу 1 пункта 24 главы 5 ПДД, пассажирам запрещается отвлекать водителя (или мешать ему) от управления транспортным средством во время движения транспортного средства.",
+      "explanationOz": "YHQ 5-bobi 24-bandi 1-xatboshiga asosan, yo'lovchilarga transport vositasi harakatlanayotgan vaqtda haydovchini boshqarishdan chalg'itish (o'nga halaqit berish) taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 208,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 209,
+          "textUz": "Белгиланган йўналишдаги транспорт воситаларида фақат бир марталик чипталар сотиб олиш учун рухсат этилади",
+          "textRu": "Разрешается только для покупки разовых талонов в маршрутных транспортных средствах",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalarida faqat bir martalik chiptalar sotib olish uchun ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 210,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        210
+      ]
+    },
+    {
+      "id": 68,
+      "questionUz": "Қатнов қисми томонидан йўловчиларнинг тушиши ва чиқишига қайси ҳолларда рухсат этилади?",
+      "questionRu": "В каком случае разрешается посадка и высадка пассажиров со стороны проезжей части?",
+      "questionOz": "Qatnov qismi tomonidan yo'lovchilarning tushishi va chiqishiga qaysi hollarda ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 5-бобининг 23-банди 2-хатбошисига асосан, йўловчиларнинг транспорт воситаларидан тротуар ёки йўл ёқаси томондан тушиши ёки уларга чиқишининг иложи бўлмаган ҳолларда, агар бу ҳаракат хавф туғдирмаса ёки бошқа йўл ҳаракати қатнашчиларига халақит бермаса, йўлнинг қатнов қисми томонидан амалга оширилиши мумкин.",
+      "explanationRu": "Согласно абзацу 2 пункта 23 главы 5 ПДД, если посадка и высадка невозможна со стороны тротуара или обочины, она может осуществляться со стороны проезжей части при условии, что это будет безопасно и не создаст помех другим участникам движения.",
+      "explanationOz": "YHQ 5-bobining 23-bandi 2-xatboshisiga asosan, yo'lovchilarning transport vositalaridan trotuar yoki yo'l yoqasi tomondan tushishi yoki ularga chiqishining iloji bo'lmagan hollarda, agar bu harakat xavf tug'dirmasa yoki boshqa yo'l harakati qatnashchilariga xalaqit bermasa, yo'lning qatnov qismi tomonidan amalga oshirilishi mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4269,
+          "textUz": "Транспорт воситаси мажбурий тўхтаганда",
+          "textRu": "При вынужденной остановке транспортного средства",
+          "textOz": "Transport vositasi majburiy to'xtaganda",
+          "isCorrect": false
+        },
+        {
+          "id": 4270,
+          "textUz": "Ҳайдовчининг хоҳишига кўра шу шарт биланки, бу хавф-хатардан ҳоли бўлса ва бошқа ҳаракат қатнашчиларига ҳалақит бермаса",
+          "textRu": "По усмотрению водителя при условии, что это будет безопасно и не создает помех другим участникам движения",
+          "textOz": "Haydovchining xohishiga ko'ra shu shart bilanki, bu xavf-xatardan holi bo'lsa va boshqa harakat qatnashchilariga halaqit bermasa",
+          "isCorrect": false
+        },
+        {
+          "id": 4271,
+          "textUz": "Тротуар томондан ёки йўл ёқасидан иложи бўлмаса шу шарт биланки бу ҳол хавф-хатарсиз бўлса ва бошқа ҳаракат қатнашчиларига ҳалақит бермаса",
+          "textRu": "Если это невозможно сделать со стороны тротуара или обочины и при условии, что это будет безопасно и не создает помех другим участникам движения",
+          "textOz": "Trotuar tomondan yoki yo'l yoqasidan iloji bo'lmasa shu shart bilanki bu hol xavf-xatarsiz bo'lsa va boshqa harakat qatnashchilariga halaqit bermasa",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4271
+      ]
+    },
+    {
+      "id": 69,
+      "questionUz": "Пиёдалар ўтиш жойидан ташқарида йулнинг қатнов қисмидан ажратувчи бўлак бўлганда пиёдаларнинг ўтишларига рухсат этиладими?",
+      "questionRu": "Разрешается ли пешеходам переходить проезжую часть вне пешеходного перехода при наличии разделительной полосы?",
+      "questionOz": "Piyodalar o'tish joyidan tashqarida yulning qatnov qismidan ajratuvchi bo'lak bo'lganda piyodalarning o'tishlariga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 4-боби 17-банди 2-хатбошисига асосан, пиёдаларга кўринадиган оралиқда ўтиш жойи ёки чорраҳа бўлмаса, ажратувчи минтақасиз ва тўсиқсиз йўллардан йўлнинг икки томони яхши кўринадиган жойидан, қатнов қисмининг четига нисбатан тўғри бурчак остида кесиб ўтиш рухсат этилади. Ажратувчи минтақали йўлларда тақиқланади.",
+      "explanationRu": "Согласно абзацу 2 пункта 17 главы 4 ПДД, при отсутствии в зоне видимости перехода или перекрестка разрешается переходить дорогу под прямым углом к краю проезжей части на участках без разделительной полосы и ограждений там, где она хорошо просматривается в обе стороны. Запрещается при наличии разделительной полосы.",
+      "explanationOz": "YHQ 4-bobi 17-bandi 2-xatboshisiga asosan, piyodalarga ko'rinadigan oraliqda o'tish joyi yoki chorraha bo'lmasa, ajratuvchi mintaqasiz va to'siqsiz yo'llardan yo'lning ikki tomoni yaxshi ko'rinadigan joyidan, qatnov qismining chetiga nisbatan to'g'ri burchak ostida kesib o'tish ruxsat etiladi. Ajratuvchi mintaqali yo'llarda taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 214,
+          "textUz": "Йўлнинг ҳар икки томони кўринадиган жойларда рухсат этилади",
+          "textRu": "Разрешается в местах где дорога просматривается в обе стороны",
+          "textOz": "Yo'lning har ikki tomoni ko'rinadigan joylarda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 215,
+          "textUz": "Фақат аҳоли пунктларидан ташқарида рухсат этилади",
+          "textRu": "Разрешается только вне населенных пунктов",
+          "textOz": "Faqat aholi punktlaridan tashqarida ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 216,
+          "textUz": "Фақат аҳоли пунктларида рухсат этилади",
+          "textRu": "Разрешается только в населенных пунктах",
+          "textOz": "Faqat aholi punktlarida ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 217,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        217
+      ]
+    },
+    {
+      "id": 70,
+      "questionUz": "Тротуар ёки пиёдалар йўлкаси бўлмаганда, пиёдалар велосипед йўлкаси бўйлаб ҳаракат қила оладиларми?",
+      "questionRu": "Могут ли пешеходы двигаться по велосипедным дорожкам при отсутствии тротуара или пешеходной дорожки?",
+      "questionOz": "Trotuar yoki piyodalar yo'lkasi bo'lmaganda, piyodalar velosiped yo'lkasi bo'ylab harakat qila oladilarmi?",
+      "explanationUz": "ЙҲҚ 4-боби 15-банди 1-хатбошиига асосан, пиёдалар тротуарлардан, пиёдалар йўлкаларидан, пиёда ва велосипед йўлкаларидан, улар бўлмаганда эса йўл ёқаларидан ҳаракатланиши керак.",
+      "explanationRu": "Согласно абзацу 1  пункта 15 главы 4 ПДД, пешеходы должны двигаться по тротуарам, пешеходным дорожкам, пешеходным и велосипедным дорожкам, а при их отсутствии – по обочинам.",
+      "explanationOz": "YHQ 4-bob 15-bandi 1-xatboshiga asosan, piyodalar trotuarlardan, piyodalar yo'lkalaridan, piyoda va velosiped yo'lkalaridan, ular bo'lmaganda esa yo'l yoqalaridan harakatlanishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 218,
+          "textUz": "Ҳаракат қила оладилар",
+          "textRu": "Могут",
+          "textOz": "Harakat qila oladilar",
+          "isCorrect": true
+        },
+        {
+          "id": 219,
+          "textUz": "Агар велосипедларнинг ҳаракатланишини қийинлаштирмаса, ҳаракат қила оладилар",
+          "textRu": "Могут, если это не затрудняет движение велосипедов",
+          "textOz": "Agar velosipedlarning harakatlanishini qiyinlashtirmasa, harakat qila oladilar",
+          "isCorrect": false
+        },
+        {
+          "id": 220,
+          "textUz": "Ҳаракат қила олмайдилар",
+          "textRu": "Не могут",
+          "textOz": "Harakat qila olmaydilar",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        218
+      ]
+    },
+    {
+      "id": 71,
+      "questionUz": "Пиёдалар қатнов қисмининг четидан қандай юришлари керак?",
+      "questionRu": "Как должны двигаться пешеходы по проезжей части при отсутствии тротуара",
+      "questionOz": "Piyodalar qatnov qismining chetidan qanday yurishlari kerak?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 221,
+          "textUz": "Йўл ҳаракат қисмининг четидан ҳаракатланаётган транспорт воситаларига қарши",
+          "textRu": "По краю проезжей части навстречу движению транспортных средств",
+          "textOz": "Yo'l harakat qismining chetidan harakatlanayotgan transport vositalariga qarshi",
+          "isCorrect": true
+        },
+        {
+          "id": 222,
+          "textUz": "Йўл ёқасидан ёки қатнов қисмининг четидан транспорт воситаларининг ҳаракати бўйлаб",
+          "textRu": "По обочине или краю проезжей части по ходу движения транспортных средств",
+          "textOz": "Yo'l yoqasidan yoki qatnov qismining chetidan transport vositalarining harakati bo'ylab",
+          "isCorrect": false
+        },
+        {
+          "id": 223,
+          "textUz": "Ҳар қандай йўналищда",
+          "textRu": "В любом направлении",
+          "textOz": "Har qanday yo'nalishda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        221
+      ]
+    },
+    {
+      "id": 72,
+      "questionUz": "Пиёдалар тўхтаб турган автобус ва троллейбуснинг қайси томонидан йўлни кесиб ўтишлари керак?",
+      "questionRu": "Пешеходы при пересечении дороги с какой стороны обязаны обходить стоящий автобус и троллейбус?",
+      "questionOz": "Piyodalar to'xtab turgan avtobus va trolleybusning qaysi tomonidan yo'lni kesib o'tishlari kerak?",
+      "explanationUz": "Пиёдалар автобус ёки троллейбуснинг орқа томонидан ўтишлари керак. Бундай ҳолда улар йўлда ҳаракатланаётган транспорт воситаларини олдиндан кўришлари ва хавфсизлик чораларини кўришлари мумкин.",
+      "explanationRu": "Пешеходы должны обходить автобус или троллейбус сзади. В этом случае они могут заранее увидеть транспортные средства, движущиеся по дороге, и принять необходимые меры предосторожности.",
+      "explanationOz": "Piyodalar avtobus yoki trolleybusning orqa tomonidan o'tishlari kerak. Orqadan o'tsalar, yo'ldan kelayotgan mashinalarni ko'rib oldindan ehtiyot bo'lishadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4906,
+          "textUz": "Олди томонидан",
+          "textRu": "Спереди",
+          "textOz": "Oldi tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 4907,
+          "textUz": "Орқа томонидан",
+          "textRu": "Сзади",
+          "textOz": "Orqa tomonidan",
+          "isCorrect": true
+        },
+        {
+          "id": 4908,
+          "textUz": "Исталган томонидан",
+          "textRu": "С любой стороны",
+          "textOz": "Istalgan tomonidan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4907
+      ]
+    },
+    {
+      "id": 73,
+      "questionUz": "Пиёдалар тўхтаб турган автобус ва троллейбуснинг қайси томонидан йўлни кесиб ўтишлари керак?",
+      "questionRu": "Пешеходы при пересечении дороги с какой стороныобязаны обходить стоя��ий автобус и троллейбус?",
+      "questionOz": "Piyodalar to'xtab turgan avtobus va trolleybusning qaysi tomonidan yo'lni kesib o'tishlari kerak?",
+      "explanationUz": "Пиёдалар автобус ёки троллейбуснинг орқа томонидан ўтишлари керак. Бундай ҳолда улар йўлда ҳаракатланаётган транспорт воситаларини олдиндан кўришлари ва хавфсизлик чораларини кўришлари мумкин.",
+      "explanationRu": "Пешеходы должны обходить автобус или троллейбус сзади. В этом случае они могут заранее увидеть транспортные средства, движущиеся по дороге, и принять необходимые меры предосторожности.",
+      "explanationOz": "Piyodalar avtobus yoki trolleybusning orqa tomonidan oʻtishlari kerak. Bunday holatda ular yoʻlda harakatlanayotgan transport vositalarini oldindan koʻrishlari va xavfsizlik choralarini koʻrishlari mumkin.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4909,
+          "textUz": "Олди томонидан",
+          "textRu": "Спереди",
+          "textOz": "Oldi tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 4910,
+          "textUz": "Орқа томонидан",
+          "textRu": "Сзади",
+          "textOz": "Orqa tomonidan",
+          "isCorrect": true
+        },
+        {
+          "id": 4911,
+          "textUz": "Исталган томонидан",
+          "textRu": "С любой стороны",
+          "textOz": "Istalgan tomonidan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4910
+      ]
+    },
+    {
+      "id": 74,
+      "questionUz": "Тротуар ва пиёдалар йўлкаси бўлмаганда болалар гуруҳини йўлда қандай тартибда олиб юриш мумкин?",
+      "questionRu": "Как водить группы детей при отсутствии пешеходных дорожек и тротуара?",
+      "questionOz": "Trotuar va piyodalar yo'lkasi bo'lmaganda bolalar guruhini yo'lda qanday tartibda olib yurish mumkin?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 7-бўлимидаги 7.12 белгига асосан, «Хавфли йўл ёқаси». Йўл ишлари бажарилаётгани сабабли йўл ёқасига чиқиш хавфли эканлиги ҳақида огоҳлантиради. 1.23 белгиси билан қўлланилади.",
+      "explanationRu": "Знак 7.12 раздела 7 приложения № 1 к ПДД, «Опасная обочина». Предупреждает, что съезд на обочину опасен в связи с проведением на ней ремонтных работ. Применяется со знаком 1.23.",
+      "explanationOz": "YHQ 1-ilovasining 7-bo‘limidagi 7.12 belgiga asosan, «Xavfli yo‘l yoqasi». Yo‘l ishlari bajarilayotgani sababli yo‘l yoqasiga chiqish xavfli ekanligi haqida ogohlantiradi. 1.23 belgisi bilan qo‘llaniladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 230,
+          "textUz": "Қатнов қисми четидан катта ёшдагилар кузатувида олиб юришга рухсат этилади",
+          "textRu": "С краю проезжей части в сопровождении взрослых",
+          "textOz": "Qatnov qismi chetidan katta yoshdagilar kuzatuvida olib yurishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 231,
+          "textUz": "Йўл ёқасидан фақат кундузи ва катта ёшдагилар кузатувида олиб юришга рухсат этилади",
+          "textRu": "По обочинам, только в светлое время суток и в сопровождении взрослых",
+          "textOz": "Yo'l yoqasidan faqat kunduzi va katta yoshdagilar kuzatuvida olib yurishga ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        231
+      ]
+    },
+    {
+      "id": 75,
+      "questionUz": "Йўловчиларга тақиқланади?",
+      "questionRu": "Пассажирам запрещается?",
+      "questionOz": "Yo'lovchilarga taqiqlanadi?",
+      "explanationUz": "Йўловчиларга хавфли ҳаракатларни амалга ошириш тақиқланади. Ҳаракатланаётган транспорт воситасининг эшикларини очиш, бортли автомобилда тик туриш ҳамда ҳайдовчини чалғитиш тақиқланган. Шунинг учун барча жавоблар тўғри ҳисобланади.",
+      "explanationRu": "Пассажирам запрещается совершать опасные действия. Запрещается открывать двери во время движения транспортного средства, стоять в кузове грузового автомобиля и отвлекать водителя. Поэтому правильным является ответ: все перечисленные варианты.",
+      "explanationOz": "Yo'lovchilarga xavfli harakatlar qilish taqiqlangan. Harakatda eshik ochish, bortli mashinada tik turish va haydovchini chalg'itish barchasi taqiqlangan, shuning uchun barcha javoblar to'g'ri.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4912,
+          "textUz": "Транспорт воситаси ҳаракатланаётган вақтда ҳайдовчини бошқаришдан чалғитиш ва унга халақит бериш",
+          "textRu": "Отвлекать водителя или мешать ему во время движения транспортного средства",
+          "textOz": "Transport vositasi harakatlanayotgan vaqtda haydovchini boshqarishdan chalg'itish va unga xalaqit berish",
+          "isCorrect": false
+        },
+        {
+          "id": 4913,
+          "textUz": "Ҳаракатланаётган бортли юк автомобилларида тик туриш, бортларда ёки ундан юқоридаги юк устида ўтириш",
+          "textRu": "Стоять на движущихся платформах грузовиков, сидеть на бортах или на грузах над ними.",
+          "textOz": "Harakatlanayotgan bortli yuk avtomobillarida tik turish, bortlarda yoki undan yuqoridagi yuk ustida o'tirish",
+          "isCorrect": false
+        },
+        {
+          "id": 4914,
+          "textUz": "Транспорт воситаси ҳаракатланаётган вақтда унинг эшикларини очиш",
+          "textRu": "Запрещено открывать двери движущегося транспортного средства.",
+          "textOz": "Transport vositasi harakatlanayotgan vaqtda uning eshiklarini ochish",
+          "isCorrect": false
+        },
+        {
+          "id": 4915,
+          "textUz": "Барча кўрсатилган жавоблар тўғри",
+          "textRu": "Все выше указанные ответы верны",
+          "textOz": "Barcha ko'rsatilgan javoblar to'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4915
+      ]
+    },
+    {
+      "id": 76,
+      "questionUz": "Трамвайни кўрсатилганидек олд қисмидан йўлни кесиб ўтишга рухсат бериладими?",
+      "questionRu": "Разрешается ли переходить дорогу перед трамваем, как показано на рисунке?",
+      "questionOz": "Tramvayni ko'rsatilganidek old qismidan yo'lni kesib o'tishga ruxsat beriladimi?",
+      "explanationUz": "Трамвай тўхтаб турган ва йўловчилар тушаётган вазиятда, ҳайдовчи трамвайнинг олд қисмидан эҳтиёткорлик билан ўтиши мумкин. Сабаби, трамвайнинг орқа қисмидан ўтилганда қарама-қарши йўналишда келаётган трамвай кўринмай қолиши мумкин. Пиёдаларнинг тўхтаб турган трамвайнинг орқа томонидан ўтиши эса тўсиқ ортидан йўлга чиқишга тенг бўлиб, бу хавфли ҳисобланади ва тақиқланади.",
+      "explanationRu": "Если трамвай остановился для посадки или высадки пассажиров, водитель может осторожно объехать его спереди. Это связано с тем, что при обходе сзади можно не заметить трамвай, движущийся во встречном направлении. Для пешеходов обход стоящего трамвая сзади приравнивается к выходу на проезжую часть из-за препятствия, что является опасным и запрещается.",
+      "explanationOz": "Tramvay to'xtab turgan va yo'lovchilar tushayotgan vaziyatda, haydovchi tramvayning old qismidan ehtiyotkorlik bilan o'tishi mumkin. Sababi orqa tarafdan o'tishsa qarama-qarshi tramvay ularni ko'rmay qolishi mumkin. Piyodalar to'xtab turgan tramvay orqasidan o'tishsa to'siq tarafan chiqishga teng bo'lib qoladi. Bu esa piyodalarga taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4916,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 4917,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 4918,
+          "textUz": "Истаган томонидан рухсат берилади",
+          "textRu": "Разрешено с любой стороны",
+          "textOz": "Istagan tomonidan ruxsat beriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4916
+      ]
+    },
+    {
+      "id": 77,
+      "questionUz": "Қайси расмда пиёда қоидани бузган ҳолда йўлни кесиб ўтябди?",
+      "questionRu": "В какой картинке пешеход переходит дорогу с нарушением правил?",
+      "questionOz": "Qaysi rasmda piyoda qoidani buzgan holda yo'lni kesib o'tyabdi?",
+      "explanationUz": "Учинчи расмда пиёда йўлни пиёдалар ўтиш жойи мавжуд бўлмаган жойдан кесиб ўтмоқда. Эътиборли жиҳати шундаки, йўлда ажратувчи минтақа мавжуд. Бу ҳолат йўл ҳаракати қоидаларини бузиш ҳисобланади. Бошқа расмларда эса пиёдалар махсус белгиланган пиёдалар ўтиш жойидан («зебра») ёки қоидаларга мувофиқ рухсат этилган жойдан фойдаланмоқдалар.",
+      "explanationRu": "На третьем изображении пешеход пересекает дорогу в месте, где отсутствует пешеходный переход. Следует обратить внимание на то, что на дороге имеется разделительная полоса. Такая ситуация считается нарушением Правил дорожного движения. На остальных изображениях пешеходы пользуются специально обозначенным пешеходным переходом («зеброй») либо переходят дорогу в разрешённом месте в соответствии с правилами.",
+      "explanationOz": "Uchinchi rasmda piyoda yo'lning o'rtasidan, piyodalar o'tish joyi bo'lmagan joydan kesib o'tmoqda, e'tiborli jihati Yo'lda ajratuvchi mintaqa mavjud. Bu holat  qoidabuzarlik hisoblanadi. Boshqa rasmlarda piyodalar maxsus belgilangan piyodalar o'tish joyidan (zebra) yoki to'g'ri joydan foydalanmoqdalar.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4919,
+          "textUz": "1-2-расмдаги пиёда",
+          "textRu": "На рисунке 1-2",
+          "textOz": "1-2-rasmdagi piyoda",
+          "isCorrect": false
+        },
+        {
+          "id": 4920,
+          "textUz": "3-расмдаги пиёда",
+          "textRu": "На рисунке 3",
+          "textOz": "3-rasmdagi piyoda",
+          "isCorrect": true
+        },
+        {
+          "id": 4921,
+          "textUz": "4-расмдаги пиёда",
+          "textRu": "На рисунке 4",
+          "textOz": "4-rasmdagi piyoda",
+          "isCorrect": false
+        },
+        {
+          "id": 4922,
+          "textUz": "Барча расмдаги пиёда",
+          "textRu": "На всех картинах",
+          "textOz": "Barcha rasmdagi piyoda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4920
+      ]
+    },
+    {
+      "id": 78,
+      "questionUz": "Қайси расмда пиёдалар қоидани бузмай ҳаракатланмоқда?",
+      "questionRu": "На каком снимке пешеходы движутся без нарушения правил?",
+      "questionOz": "Qaysi rasmda piyodalar qoidani buzmay harakatlanmoqda?",
+      "explanationUz": "Чапдаги расмда пиёдалар йўлнинг қатнов қисмида, транспорт воситалари ҳаракатланаётган йўналиш бўйича юришмоқда ва бу йўл ҳаракати қоидаларини бузиш ҳисобланади. Ўнгдаги расмда эса пиёдалар йўлнинг четида, ўзларига ажратилган ҳудудда ёки пиёдалар йўлакчасида хавфсиз ҳаракатланмоқдалар.",
+      "explanationRu": "На изображении слева пешеходы движутся по проезжей части в направлении движения транспортных средств, что является нарушением Правил дорожного движения. На изображении справа пешеходы безопасно передвигаются по краю дороги, по специально отведённой для них зоне или по пешеходной дорожке.",
+      "explanationOz": "Chapdagi rasmda piyodalar yo'lning qatnov qismida yo'nalish bo'yicha harakatlanmoqda vabu  qoidabuzarlikdir.  O'ngdagi rasmda piyodalar yo'lning chetida, o'zlariga ajratilgan joyda yoki piyodalar yo'lakchasida xavfsiz yurishmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4923,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На картинке слева",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4924,
+          "textUz": "Ўнгдаги расмда",
+          "textRu": "На картинке справа",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 4925,
+          "textUz": "Иккала расмда",
+          "textRu": "На обеих картинках",
+          "textOz": "Ikkala rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4924
+      ]
+    },
+    {
+      "id": 79,
+      "questionUz": "Қайси расмда пиёдаларнинг ташкилий жамланмаси йўлнинг қатнов қисмида қоидани бузмай харакатланмоқда?",
+      "questionRu": "На каком изображении организованная группа пешеходов движется по проезжей части, не нарушая правила?",
+      "questionOz": "Qaysi rasmda piyodalarning tashkiliy jamlanmasi yo'lning qatnov qismida qoidani buzmay xarakatlanmoqda?",
+      "explanationUz": "Пиёдалар гуруҳи йўлнинг ўнг томонида, йўл ҳаракати йўналиши бўйича ҳаракатланмоқда ва бу тўғри ҳисобланади. Иккинчи расмда эса пиёдалар йўлнинг чап томонида ҳаракатланмоқда, бу эса йўл ҳаракати қоидаларига зид ҳисобланади.",
+      "explanationRu": "Группа пешеходов движется по правой стороне дороги в направлении движения транспортных средств, что является правильным. На втором изображении пешеходы идут по левой стороне дороги, что противоречит Правилам дорожного движения.",
+      "explanationOz": "Piyodalar guruhi yo'lning o'ng tomonida, yo'l harakati yo'nalishi bo'yicha ketmoqda va bu to'g'ri. Ikkinchi rasmda esa piyodalar chap tomonda ketmoqda, bu qoidaga zid.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4926,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": true
+        },
+        {
+          "id": 4927,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4928,
+          "textUz": "1,2",
+          "textRu": "1,2",
+          "textOz": "1,2",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4926
+      ]
+    },
+    {
+      "id": 80,
+      "questionUz": "Пиёдаларга қатнов қисмидан кесиб ўтишга рухсат этиладими ?",
+      "questionRu": "Разрешено ли пешеходам переходить проезжую часть?",
+      "questionOz": "Piyodalarga qatnov qismidan kesib o'tishga ruxsat etiladimi ?",
+      "explanationUz": "Расмда транспорт воситалари яқинлашиб келмоқда ва пиёда учун йўлни хавфсиз кесиб ўтиш имконияти мавжуд эмас. Пиёда фақат ҳаракат хавфсиз эканлигига ишонч ҳосил қилгандан кейингина қатнов қисмига чиқиши мумкин.",
+      "explanationRu": "На изображении к пешеходному переходу приближаются транспортные средства, и у пешехода отсутствует возможность безопасно перейти дорогу. Пешеход может выйти на проезжую часть только после того, как убедится в безопасности перехода.",
+      "explanationOz": "Rasmda transport vositalari yaqinlashib kelmoqda va piyoda uchun yoʻlni xavfsiz kesib oʻtish imkoniyati mavjud emas. Piyoda faqat harakat xavfsiz ekanligiga ishonch hosil qilgandan keyingina qatnov qismiga chiqishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4929,
+          "textUz": "Рухсат этилади",
+          "textRu": "Допустимый",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 4930,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещенный",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 4931,
+          "textUz": "Барча ҳолатда рухсат этилади",
+          "textRu": "Разрешено во всех случаях",
+          "textOz": "Barcha holatda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4930
+      ]
+    }
+  ]
+}

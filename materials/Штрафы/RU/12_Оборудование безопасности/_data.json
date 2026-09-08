@@ -1,0 +1,56 @@
+{
+  "category": "Оборудование безопасности",
+  "count": 5,
+  "fines": [
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Непристёгнутый шлем мотоциклиста или пассажира",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Перевозка детей без детского кресла",
+      "fineBhm": "2.00",
+      "fineUzs": "824000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 1,
+      "violation": "Непристёгнутый ремень безопасности",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 2,
+      "violation": "Отсутствие аптечки, огнетушителя или аварийного знака",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 2,
+      "violation": "Отсутствие техосмотра",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

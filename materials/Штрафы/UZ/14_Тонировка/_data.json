@@ -1,0 +1,26 @@
+{
+  "category": "Тонировка",
+  "count": 2,
+  "fines": [
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Рухсатномасиз тонировка қилинган автомобилдан фойдаланиш",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Рухсатномасиз тонировка қилинган автомобилдан қайта фойдаланиш (такрорий)",
+      "fineBhm": "40.00",
+      "fineUzs": "16480000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    }
+  ]
+}

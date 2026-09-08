@@ -1,0 +1,36 @@
+{
+  "category": "Правила полос движения",
+  "count": 3,
+  "fines": [
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Выезд на встречную полосу",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Движение по автобусной полосе (впервые)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Движение по автобусной полосе (повторно)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    }
+  ]
+}

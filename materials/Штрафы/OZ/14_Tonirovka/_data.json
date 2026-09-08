@@ -1,0 +1,26 @@
+{
+  "category": "Tonirovka",
+  "count": 2,
+  "fines": [
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Ruxsatnomasiz tonirovka qilingan avtomobildan foydalanish",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Ruxsatnomasiz tonirovka qilingan avtomobildan qayta foydalanish (takroriy)",
+      "fineBhm": "40.00",
+      "fineUzs": "16480000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    }
+  ]
+}

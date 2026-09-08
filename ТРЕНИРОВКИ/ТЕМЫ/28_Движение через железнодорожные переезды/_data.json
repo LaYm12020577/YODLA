@@ -1,0 +1,742 @@
+{
+  "title": "28. Движение через железнодорожные переезды (боб 18)",
+  "count": 18,
+  "questions": [
+    {
+      "id": 875,
+      "questionUz": "Светофорнинг тақиқловчи ишорасида ва шлагбаум очиқ бўлганда ҳайдовчи нима қилиши керак?",
+      "questionRu": "Как должен поступить водитель при запрещающем сигнале светофора и открытом шлагбауме?",
+      "questionOz": "Svetoforning taqiqlovchi ishorasida va shlagbaum ochiq bo'lganda haydovchi nima qilishi kerak?",
+      "explanationUz": "ЙҲҚ 18-боби 119-бандига асосан, кесишма орқали ҳаракатланиш тақиқланган ҳолларда ҳайдовчи тўхташ чизиғи, 2.5 «Тўхтамасдан ҳаракатланиш тақиқланган» йўл белгиси ёки светофор олдида, улар бўлмаганда шлагбаумга камида 5 метр қолганда тўхташи керак.",
+      "explanationRu": "Согласно пункту 119 главы 18 ПДД, в случаях, когда движение через переезд запрещено, водитель должен остановиться у стоп-линии, дорожного знака 2.5 «Движение без остановки запрещено» или у светофора, если их нет — не ближе 5 м от шлагбаума.",
+      "explanationOz": "YHQ 18-bobi 119-bandiga asosan, kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to'xtash chizig'i, 2.5 \"To'xtamasdan harakatlanish taqiqlangan\" yo'l belgisi yoki svetofor oldida, ular bo'lmaganda shlagbaumga kamida 5 metr qolganda to'xtashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2865,
+          "textUz": "Яқинлашиб келаётган поезд йўқлигига шахсан ишонч ҳосил қилиши ва кесишмадан ўтиши керак",
+          "textRu": "Убедиться в том; что нет приближающегося поезда; и пересечь железную дорогу",
+          "textOz": "Yaqinlashib kelayotgan poezd yo'qligiga shaxsan ishonch hosil qilishi va kesishmadan o'tishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2866,
+          "textUz": "Шлагбаумнинг ҳолатига асосланган ҳолда кесишмадан ўтиши керак",
+          "textRu": "Пересечь железную дорогу; основываясь на положении шлагбаума",
+          "textOz": "Shlagbaumning holatiga asoslangan holda kesishmadan o'tishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2867,
+          "textUz": "Шлагбаумгача 10 метрдан яқин бўлмаган масофада тўхташ",
+          "textRu": "Остановиться на расстоянии не более 10 метров до шлагбаума",
+          "textOz": "Shlagbaumgacha 10 metrdan yaqin bo'lmagan masofada to'xtash",
+          "isCorrect": false
+        },
+        {
+          "id": 2868,
+          "textUz": "Тўхташ чизиғи олдида, «Тўхтамасдан ҳаракатланиш тақиқланган» белгиси олдида, агар улар йўқ бўлca шлагбаумгача 5 метрдан яқин бўлмаган масофада тўхташ",
+          "textRu": "Остановиться у \"Стоп линии\", у знака \"движение без остановки запрещено\", если их нет - остановиться на расстоянии не менее 5 метров до шлагбаума",
+          "textOz": "To'xtash chizig'i oldida, «Тўхтамасдан ҳаракатланиш тақиқланган» belgisi oldida, agar ular yo'q bo'lca shlagbaumgacha 5 metrdan yaqin bo'lmagan masofada to'xtash",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2868
+      ]
+    },
+    {
+      "id": 876,
+      "questionUz": "Темир йўл кесишмаси олдида турган транспорт воситаларини қарама-қарши ҳаракатланиш бўлагига чиқиб айланиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли объезжать стоящие перед переездом транспортные средства при закрытом шлагбауме?",
+      "questionOz": "Temir yo'l kesishmasi oldida turgan transport vositalarini qarama-qarshi harakatlanish bo'lagiga chiqib aylanib o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 6-хатбошига асосан, кесишма олдида турган транспорт воситаларини қарама-қарши ҳаракатланиш бўлагига чиқиб айланиб ўтиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 6 пункта 118 главы 18 ПДД, запрещается объезжать с выездом на полосу встречного движения стоящие перед переездом транспортные средства.",
+      "explanationOz": "YHQ 18-bobi 118-bandi 6-xatboshiga asosan, kesishma oldida turgan transport vositalarini qarama-qarshi harakatlanish bo'lagiga chiqib aylanib o'tish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2869,
+          "textUz": "Рухсат этилади, агар рўпарадан келаётган транспорт воситалари йўқ бўлса",
+          "textRu": "Разрешается, если нет встречных транспортных средств",
+          "textOz": "Ruxsat etiladi, agar ro'paradan kelayotgan transport vositalari yo'q bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 2870,
+          "textUz": "Фақат ён кажавасиз мотоциклларга рухсат берилади",
+          "textRu": "Разрешается только мотоциклам без бокового прицепа",
+          "textOz": "Faqat yon kajavasiz motosikllarga ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2871,
+          "textUz": "Агар айланиб ўтаётган транспорт воситасининг тезлиги 8 км/с дан кам бўлса, тақиқланади",
+          "textRu": "Запрещается если скорость объезжающего транспортного средства менее 8 км/час",
+          "textOz": "Agar aylanib o'tayotgan transport vositasining tezligi 8 km/s dan kam bo'lsa, taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2872,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2872
+      ]
+    },
+    {
+      "id": 877,
+      "questionUz": "Темир йўл кесишмасида умумий хатар ишораси сифатида қуйидаги ишоралар туркуми хизмат қилади:",
+      "questionRu": "Звуковым сигналом общей тревоги на железнодорожном переезде служат серия из:",
+      "questionOz": "Temir yo'l kesishmasida umumiy xatar ishorasi sifatida quyidagi ishoralar turkumi xizmat qiladi:",
+      "explanationUz": "ЙҲҚ 18-боби 120-банди 6-хатбоши изоҳига асосан, битта узун ва учта қисқа товушли ишоралар умумий хатар ишораси ҳисобланади.",
+      "explanationRu": "Согласно абзацу 6 пункта 120 главы 14 ПДД, сигналом общей тревоги служат серии из одного длинного и трёх коротких звуковых сигналов.",
+      "explanationOz": "YHQ 18-bobi 120-bandi 6-xatboshi izohiga asosan, bitta uzun va uchta qisqa tovushli ishoralar umumiy xatar ishorasi hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2873,
+          "textUz": "Иккита узун ва иккита қисқа товушли ишоралари",
+          "textRu": "Двух длинных и двух коротких сигналов",
+          "textOz": "Ikkita uzun va ikkita qisqa tovushli ishoralari",
+          "isCorrect": false
+        },
+        {
+          "id": 2874,
+          "textUz": "Битта узун ва учта қисқа товушли ишоралари",
+          "textRu": "Одного длинного и трех коротких сигналов",
+          "textOz": "Bitta uzun va uchta qisqa tovushli ishoralari",
+          "isCorrect": true
+        },
+        {
+          "id": 2875,
+          "textUz": "Учта узун ва учта қисқа товушли ишоралари",
+          "textRu": "Трех длинных и трех коротких сигналов",
+          "textOz": "Uchta uzun va uchta qisqa tovushli ishoralari",
+          "isCorrect": false
+        },
+        {
+          "id": 2876,
+          "textUz": "Учта узун ва битта қисқа товушли ишоралари",
+          "textRu": "Трех длинных и одного короткого сигнала",
+          "textOz": "Uchta uzun va bitta qisqa tovushli ishoralari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2874
+      ]
+    },
+    {
+      "id": 878,
+      "questionUz": "Темир йўл изларини қаерда кесиб ўтишга рухсат берилади?",
+      "questionRu": "Где разрешается пересекать железнодорожные пути?",
+      "questionOz": "Temir yo'l izlarini qaerda kesib o'tishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚ 18 – боби 116 – бандига асосан: Транспорт воситаларининг ҳайдовчилари темир йўлларни фақат темир йўл кесишмалари орқали поэйзд (локомотив, дрезина) ларга йўл бериб кесиб ўтишлари мумкин.\r\nШунга кўра, темирйўл йўлларини исталган жойда кесиб ўтиш мумкин эмас, фақат белгиланган жойларда, яъни темирйўл кесишмаларидан ўтиш мумкин.",
+      "explanationRu": "Пункта 116 главы 18 ПДД гласит: Водители транспортных средств могут пересекать железнодорожные пути только по железнодорожным переездам, уступив дорогу поезду (локомотиву, дрезине). Соответственно, нельзя пересекать железнодорожные пути где попало, можно только в установленных для этого местах, т.е. по железнодорожным переездам.",
+      "explanationOz": "YHQ 18 – bobi 116 – bandiga asosan: Transport vositalarining haydovchilari temir yo‘llarni faqat temir yo‘l kesishmalari orqali poeyzd (lokomotiv, drezina) larga yo‘l berib kesib o‘tishlari mumkin.\r\nShunga ko‘ra, temiryo‘l yo‘llarini istalgan joyda kesib o‘tish mumkin emas, faqat belgilangan joylarda, ya’ni temiryo‘l kesishmalaridan o‘tish mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2877,
+          "textUz": "Кўриниш иккала йўналишда 1000 метрдан кам бўлмаган жойларда",
+          "textRu": "В местах; где видимость в обоих направлениях не менее 1000 м",
+          "textOz": "Ko'rinish ikkala yo'nalishda 1000 metrdan kam bo'lmagan joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2878,
+          "textUz": "Ҳайдовчининг нуқтаи назарича энг қулай жойларда",
+          "textRu": "В местах; наиболее удобных; с точки зрения водителя",
+          "textOz": "Haydovchining nuqtai nazaricha eng qulay joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2879,
+          "textUz": "Кесиб ўтиш учун белгилаб қўйилган жойларда",
+          "textRu": "В установленных для этого местах",
+          "textOz": "Kesib o'tish uchun belgilab qo'yilgan joylarda",
+          "isCorrect": true
+        },
+        {
+          "id": 2880,
+          "textUz": "Темир йўл бекатига 1000 метрдан кам бўлмаган масофада",
+          "textRu": "На расстоянии не менее 1000 метров до железнодорожного станции",
+          "textOz": "Temir yo'l bekatiga 1000 metrdan kam bo'lmagan masofada",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2879
+      ]
+    },
+    {
+      "id": 879,
+      "questionUz": "Қуйидаги ҳолларнинг қайси бирида темир йўл кесишмасига кириш таъқиқланади?",
+      "questionRu": "В каких случаях запрещается выезжать на железнодорожный переезд?",
+      "questionOz": "Quyidagi hollarning qaysi birida temir yo'l kesishmasiga kirish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 18 – боби 118 – бандининг иккинчи хатбошисига асосан, темир йўл кесишмасига қуйдаги ҳолларда кириш тақиқланади: шлагбаум ҳолатидан қатъи назар, светофорнинг тақиқловчи ишорасида.",
+      "explanationRu": "Пункта 118 главы 18 ПДД гласит: Запрещается въезжать на железнодорожный переезд в следующих случаях: на запрещающий сигнал светофора вне зависимости от положения шлагбаума.",
+      "explanationOz": "YHQ 18 – bobi 118 – bandining ikkinchi xatboshisiga asosan, temir yo‘l kesishmasiga quydagi hollarda kirish taqiqlanadi: shlagbaum holatidan qat’i nazar, svetoforning taqiqlovchi ishorasida.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2881,
+          "textUz": "Светофорнинг таъқиқловчи ишорасида шлагбаум очиқ турган ҳолатда",
+          "textRu": "Шлагбаум открыт; но горит запрещающий сигнал светофора",
+          "textOz": "Svetoforning taqiqlovchi ishorasida shlagbaum ochiq turgan holatda",
+          "isCorrect": true
+        },
+        {
+          "id": 2882,
+          "textUz": "Қишлоқ хўжалиги машинасини механик транспорт воситасига юклаб олиб ўтиш ҳолатида",
+          "textRu": "Сельскохозяйственная машина загружена на механическое транспортное средство",
+          "textOz": "Qishloq xo'jaligi mashinasini mexanik transport vositasiga yuklab olib o'tish holatida",
+          "isCorrect": false
+        },
+        {
+          "id": 2883,
+          "textUz": "Тезлиги 8 км/с дан кўп бўлган транспорт воситалари",
+          "textRu": "Если скорость движения механического транспортного средства превышает 8 км/ч",
+          "textOz": "Tezligi 8 km/s dan ko'p bo'lgan transport vositalari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2881
+      ]
+    },
+    {
+      "id": 880,
+      "questionUz": "Қуйидагилар поездни тўхтатиш ишораси бўлиб хизмат қилади:",
+      "questionRu": "Сигналом остановки поезда служит:",
+      "questionOz": "Quyidagilar poezdni to'xtatish ishorasi bo'lib xizmat qiladi:",
+      "explanationUz": "ЙҲҚ 18-боби 120-банди 5-хатбоши изоҳига асосан, поезд машинистига тўхташ ишораси қўлни (кундузи ёрқин мато парчаси ёки аниқ кўринадиган бирор нарса билан, тунда эса машъала ёки чироқ билан) гир айлантириш орқали берилади.",
+      "explanationRu": "Согласно абзацу 5 пункта 120 главы 14 ПДД, сигналом остановки для машиниста поезда служит круговое движение руки (днём с лоскутом яркой материи или каким-либо хорошо видимым предметом, ночью – с факелом или фонарем).",
+      "explanationOz": "YHQ 18-bobi 120-bandi 5-xatboshi izohiga asosan, poyezd mashinistiga to'xtash ishorasi qo'lni (kunduzi yorqin mato parchasi yoki aniq ko'rinadigan biror narsa bilan, tunda esa mash'ala yoki chiroq bilan) gir aylantirish orqali beriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2884,
+          "textUz": "Қўлни (кундузи-бир парча ёрқин мато ёки аниқ кўринадиган бир нарса билан, тунда- машъала ёки чироқ билан) гир айлантириш",
+          "textRu": "Круговое движение руки (днем с лоскутом яркой материал или каким-либо хорошо видимым предметом, ночью с факелом или фонарем)",
+          "textOz": "Qo'lni (kunduzi-bir parcha yorqin mato yoki aniq ko'rinadigan bir narsa bilan, tunda- mashala yoki chiroq bilan) gir aylantirish",
+          "isCorrect": true
+        },
+        {
+          "id": 2885,
+          "textUz": "Қўлдаги таёқчани ёки қизил байроқни бошидан юқори кўтариб туриш",
+          "textRu": "Поднятая над головой рука с жезлом или красным флагом",
+          "textOz": "Qo'ldagi tayoqchani yoki qizil bayroqni boshidan yuqori ko'tarib turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2886,
+          "textUz": "Қўлларини олдинга узатиб туриш",
+          "textRu": "Вытянутая вперед рука",
+          "textOz": "Qo'llarini oldinga uzatib turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2887,
+          "textUz": "Олдинга узатилган қўлларни юқорига ва пастга тебратиш",
+          "textRu": "Покачивание вверх и вниз вытянутой вперед рукой",
+          "textOz": "Oldinga uzatilgan qo'llarni yuqoriga va pastga tebratish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2884
+      ]
+    },
+    {
+      "id": 881,
+      "questionUz": "Хизмат вазифасини бажараётганда шлагбаумни ўзбошимчалик билан очишга ёки уни айланиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли самовольно открывать шлагбаум или объезжать его при выполнении служебного задания?",
+      "questionOz": "Xizmat vazifasini bajarayotganda shlagbaumni o'zboshimchalik bilan ochishga yoki uni aylanib o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 7-хатбошига асосан, шлагбаумни ўзбошимчалик билан очиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 7 пункта 118 главы 18 ПДД, запрещается самовольно открывать шлагбаум.",
+      "explanationOz": "YHQ 18-bobi 118-bandi 7-xatboshiga asosan, shlagbaumni o'zboshimchalik bilan ochish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2888,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2889,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2890,
+          "textUz": "Агар яқинлашиб келаётган поезд йўқ бўлса, ҳайдовчининг ихтиёрига қараб рухсат этилади",
+          "textRu": "Разрешается по усмотрению водителя, если вблизи нет приближающегося поезда",
+          "textOz": "Agar yaqinlashib kelayotgan poezd yo'q bo'lsa, haydovchining ixtiyoriga qarab ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2891,
+          "textUz": "Темир йўл кесишмаси навбатчиси бўлмаган ҳолдагина рухсат этилади",
+          "textRu": "Разрешается при отсутствии дежурного по переезду",
+          "textOz": "Temir yo'l kesishmasi navbatchisi bo'lmagan holdagina ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2888
+      ]
+    },
+    {
+      "id": 882,
+      "questionUz": "Ҳайдовчи яқинлашиб келаётган поездни ўтказиб юбориши учун «Тўхташ» ётиқ чизиғи ёки «Тўхтамасдан ҳаракатланиш тақиқланган» белгисидан қандай масофада тўхташи керак?",
+      "questionRu": "На каком расстоянии от «Стоп- линии» или знака « Движение без остановки запрещено» должен остановиться водитель для пропуска приближающегося поезда?",
+      "questionOz": "Haydovchi yaqinlashib kelayotgan poezdni o'tkazib yuborishi uchun «To'xtash» yotiq chizig'i yoki «To'xtamasdan harakatlanish taqiqlangan» belgisidan qanday masofada to'xtashi kerak?",
+      "explanationUz": "ЙҲҚ 18 – боби 119 – бандига асосан: Кесишма орқали ҳаракатланиш тақиқланган ҳолларда ҳайдовчи тўхташ чизиғи, 2.5 йўл белгиси ёки светофор олдида, улар бўлмаганда шлагбаумга камида 5 метр, шлагбаум бўлмаганда эса биринчи темир йўл изига камида 10 метр қолганда тўхташи керак.",
+      "explanationRu": "Пункту 119 главы 18 ПДД гласит: В случаях, когда движение через переезд запрещено, водитель должен остановиться у стоп-линий, знака 2.5 или светофора, если их нет-не ближе 5 м от шлагбаума, а при отсутствии шлагбаума не ближе 10 м до первого рельса. Как видно, остановиться нужно непосредственно у “Стоп-линии” или знака 2.5.",
+      "explanationOz": "YHQ 18 – bobi 119 – bandiga asosan: Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetоfor oldida, ular bo‘lmaganda shlagbaumga kamida 5 metr, shlagbaum bo‘lmaganda  esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2892,
+          "textUz": "1,5 м",
+          "textRu": "1,5 м",
+          "textOz": "1,5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2893,
+          "textUz": "2,5 м",
+          "textRu": "2,5 м",
+          "textOz": "2,5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2894,
+          "textUz": "5 м",
+          "textRu": "5 м",
+          "textOz": "5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2895,
+          "textUz": "10 м",
+          "textRu": "10 м",
+          "textOz": "10 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2896,
+          "textUz": "Бевосита «Тўхташ» ётиқ чизиғи ёки белги олдида",
+          "textRu": "Непосредственно у «Стоп- линий» и (или) знака",
+          "textOz": "Bevosita «Тўхташ» yotiq chizig'i yoki belgi oldida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2896
+      ]
+    },
+    {
+      "id": 883,
+      "questionUz": "Шлагбаумни ўзбошимчалик билан очиш ёки айланиб ўтишга рухсат бериладими?",
+      "questionRu": "Разрешается ли открывать шлагбаум или объезжать его?",
+      "questionOz": "Shlagbaumni o'zboshimchalik bilan ochish yoki aylanib o'tishga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 7-хатбошига асосан, шлагбаумни ўзбошимчалик билан очиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 7 пункта 118 главы 18 ПДД, запрещается самовольно открывать шлагбаум.",
+      "explanationOz": "YHQ 18-bobi 118-bandi 7-xatboshiga asosan, shlagbaumni o'zboshimchalik bilan ochish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2897,
+          "textUz": "Рухсат берилади, фақат светофор ўчган бўлса",
+          "textRu": "Разрешается если светофор выключен",
+          "textOz": "Ruxsat beriladi, faqat svetofor o'chgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 2898,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2898
+      ]
+    },
+    {
+      "id": 884,
+      "questionUz": "Темир йўл кесишмаси олдида тўхтагандан кейин ҳаракатни бошлашдан олдин ҳайдовчи:",
+      "questionRu": "Перед началом движения после остановки перед железнодорожным переездом водитель должен:",
+      "questionOz": "Temir yo'l kesishmasi oldida to'xtagandan keyin harakatni boshlashdan oldin haydovchi:",
+      "explanationUz": "ЙҲҚ 18-бобининг 117-бандига асосан, темир йўл кесишмасига яқинлашиб уни кесиб ўтмоқчи бўлган ҳайдовчи кесишма навбатчисининг кўрсатмаларига, светофорлар ишораларига, йўл белгиларига, йўл чизиқларига, шлагбаум ҳолатига амал қилиши ва яқинлашаётган поезд (локомотив, дрезина) йўқлигига ишонч ҳосил қилиш шарт.",
+      "explanationRu": "Согласно пункту 117 главы 18 ПДД, при приближении к железнодорожному переезду водитель обязан руководствоваться требованиями дорожных знаков и разметки, сигналами светофоров, положением шлагбаума, указаниями дежурного по переезду и убедиться в отсутствии приближающегося поезда (локомотива, дрезины).",
+      "explanationOz": "YHQ 18-bobining 117-bandiga asosan, temir yo'l kesishmasiga yaqinlashib uni kesib o'tmoqchi bo'lgan haydovchi kesishma navbatchisining ko'rsatmalariga, svetoforlar ishoralariga, yo'l belgilariga, yo'l chiziqlariga, shlagbaum holatiga amal qilishi va yaqinlashayotgan poyezd (lokomotiv, drezina) yo'qligiga ishonch hosil qilish shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2899,
+          "textUz": "Ҳаракат хавфсизлигини таъминловчи тезлик билан кесишма орқали ҳаракатни бошлаши керак",
+          "textRu": "Начать движение через переезд со скоростью обеспечивающей безопасность движения",
+          "textOz": "Harakat xavfsizligini taminlovchi tezlik bilan kesishma orqali harakatni boshlashi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2900,
+          "textUz": "Биринчи узатмада кесишмадан ўтиши керак",
+          "textRu": "Проехать переезд на первой передаче",
+          "textOz": "Birinchi uzatmada kesishmadan o'tishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2901,
+          "textUz": "Яқинлашиб келаётган поезднинг йўқлигига ишонч ҳосил қилиши керак",
+          "textRu": "Убедиться в отсутствии приближающегося поезда",
+          "textOz": "Yaqinlashib kelayotgan poezdning yo'qligiga ishonch hosil qilishi kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2901
+      ]
+    },
+    {
+      "id": 885,
+      "questionUz": "Навбатчининг ҳайдовчига қаратилган қайси ҳолати темир йўл кесишмаси орқали ҳаракатланишни тақиқловчи ишора ҳисобланади?",
+      "questionRu": "Сигналом запрещающим движение через железнодорожный переезд является положение дежурного обращенного к водителю:",
+      "questionOz": "Navbatchining haydovchiga qaratilgan qaysi holati temir yo'l kesishmasi orqali harakatlanishni taqiqlovchi ishora hisoblanadi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 3-хатбошига асосан, кесишма навбатчисининг тақиқловчи ишорасида (навбатчи ҳайдовчига олди ёки орқаси билан туриб жезлни, қизил чироқ ёки байроқчани юқорига кўтариб турса ёки қўлларини ёнга узатса) темир йўл кесишмасига кириш тақиқланади.",
+      "explanationRu": "Согласно абзацу 3 пункта 118 главы 18 ПДД, запрещается выезжать на железнодорожный переезд при запрещающем сигнале дежурного по переезду (дежурный обращён к водителю грудью или спиной с поднятым над головой жезлом, красным фонарём или флажком, либо с вытянутыми в сторону руками).",
+      "explanationOz": "YHQ 18-bobi 118-bandi 3-xatboshiga asosan, kesishma navbatchisining taqiqlovchi ishorasida (navbatchi haydovchiga oldi yoki orqasi bilan turib jezlni, qizil chiroq yoki bayroqchani yuqoriga ko'tarib tursa yoki qo'llarini yonga uzatsa) temir yo'l kesishmasiga kirish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2902,
+          "textUz": "Ҳайдовчига чап ёки ўнг элкасини ўгириб, таёқчани (қизил байроқни) бошидан юқори кўтариб туриш",
+          "textRu": "Левым или правым плечом с поднятым над головой жезлом (красным флагом)",
+          "textOz": "Haydovchiga chap yoki o'ng elkasini o'girib, tayoqchani (qizil bayroqni) boshidan yuqori ko'tarib turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2903,
+          "textUz": "Кўкрагини ёки орқасини ўгириб, таёқчани (қизил байроқни) бошидан юқори кўтариб туриши ёки қўлларини ёнига узатиб туриши",
+          "textRu": "Грудью или спиной с поднятым над головой жезлом (красным флагом) или с вытянутыми в стороны руками",
+          "textOz": "Ko'kragini yoki orqasini o'girib, tayoqchani (qizil bayroqni) boshidan yuqori ko'tarib turishi yoki qo'llarini yoniga uzatib turishi",
+          "isCorrect": true
+        },
+        {
+          "id": 2904,
+          "textUz": "Исталган елкаси ёки кўкрагини ўгириб, таёқчани (қизил байроқни) бошидан юқори кўтариб туриши",
+          "textRu": "Любым плечом или грудью с поднятым над головой жезлом (красным флагом)",
+          "textOz": "Istalgan elkasi yoki ko'kragini o'girib, tayoqchani (qizil bayroqni) boshidan yuqori ko'tarib turishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2903
+      ]
+    },
+    {
+      "id": 886,
+      "questionUz": "Занжирли бўлган қишлоқ хўжалик, йўл қурилиши ва механик транспорт воситаларига темир йўл кесишмасидан ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли переезжать через железнодорожный переезд сельскохозяйственным, дорожным и строительным механическим транспортным средствам на гусеничном ходу?",
+      "questionOz": "Zanjirli bo'lgan qishloq xo'jalik, yo'l qurilishi va mexanik transport vositalariga temir yo'l kesishmasidan o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 8-хатбошига асосан, транспорт ҳолатига келтирилмаган қишлоқ хўжалиги, йўл қурилиши, қурилиш ва бошқа машина ҳамда механизмларни кесишма орқали олиб ўтиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 8 пункта 118 главы 18 ПДД, запрещается провозить через переезд в нетранспортном положении сельскохозяйственные, дорожные, строительные и другие машины и механизмы.",
+      "explanationOz": "YHQ 18-bobi 118-bandi 8-xatboshiga asosan, transport holatiga keltirilmagan qishloq xo'jaligi, yo'l qurilishi, qurilish va boshqa mashina hamda mexanizmlarni kesishma orqali olib o'tish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2905,
+          "textUz": "Агар темир йўл бошлиғининг рухсати бўлса, рухсат этилади",
+          "textRu": "Разрешается, если получено разрешение начальника дистанции пути железной дороги",
+          "textOz": "Agar temir yo'l boshlig'ining ruxsati bo'lsa, ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2906,
+          "textUz": "Механик транспорт воситаларига юклаб олиб ўтишга рухсат этилади",
+          "textRu": "Разрешается загруженными на механические транспортные средства в транспортном положении",
+          "textOz": "Mexanik transport vositalariga yuklab olib o'tishga ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 2907,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2906
+      ]
+    },
+    {
+      "id": 887,
+      "questionUz": "Секинюрар транспорт воситаларининг темир йўл кесишмаси орқали ҳаракатланишига фақат темир йўл бошлиғининг рухсати билан ҳаракат тезлиги қуйидагидан кам бўлганда йўл қўйилади",
+      "questionRu": "Только с разрешения начальника дистанции пути железной дороги допускается движение через переезд транспортных средств скорость движения которых менее:",
+      "questionOz": "Sekinyurar transport vositalarining temir yo'l kesishmasi orqali harakatlanishiga faqat temir yo'l boshlig'ining ruxsati bilan harakat tezligi quyidagidan kam bo'lganda yo'l qo'yiladi",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 18-bobi 118-bandi 9-xatboshiga asosan, temir yo'l distantsiyasi boshlig'ining ruxsatisiz tezligi soatiga 8 kilometrdan kam bo'lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2908,
+          "textUz": "3 км/с",
+          "textRu": "3 км/ч",
+          "textOz": "3 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 2909,
+          "textUz": "5 км/с",
+          "textRu": "5 км/ч",
+          "textOz": "5 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 2910,
+          "textUz": "8 км/с",
+          "textRu": "8 км/ч",
+          "textOz": "8 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 2911,
+          "textUz": "10 км/с",
+          "textRu": "10 км/ч",
+          "textOz": "10 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 2912,
+          "textUz": "30 км/с",
+          "textRu": "30 км/ч",
+          "textOz": "30 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2910
+      ]
+    },
+    {
+      "id": 888,
+      "questionUz": "Темир йўл кесишмасидан ўтишда ҳайдовчи нимага амал қилиши керак?",
+      "questionRu": "Чем должен руководствоваться водитель при проезд железнодорожного переезда?",
+      "questionOz": "Temir yo'l kesishmasidan o'tishda haydovchi nimaga amal qilishi kerak?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 18-bobining 117-bandiga asosan, temir yo'l kesishmasiga yaqinlashib uni kesib o'tmoqchi bo'lgan haydovchi kesishma navbatchisining ko'rsatmalariga, svetoforlar ishoralariga, yo'l belgilariga, yo'l chiziqlariga, shlagbaum holatiga amal qilishi va yaqinlashayotgan poyezd (lokomotiv, drezina) yo'qligiga ishonch hosil qilish shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2913,
+          "textUz": "Шлагбаумнинг ҳолатига ва ёруғлик ишорасига",
+          "textRu": "Положением шлагбаума и световой сигнализацией",
+          "textOz": "Shlagbaumning holatiga va yorug'lik ishorasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2914,
+          "textUz": "Йўл белгилари ва чизиқларига",
+          "textRu": "Дорожными знаками и разметкой",
+          "textOz": "Yo'l belgilari va chiziqlariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2915,
+          "textUz": "Темир йўл кесишмаси навбатчисининг кўрсатмалари ва ишораларига",
+          "textRu": "Указаниями и сигналами дежурного по переезду",
+          "textOz": "Temir yo'l kesishmasi navbatchisining ko'rsatmalari va ishoralariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2916,
+          "textUz": "Барча санаб ўтилган талабларга",
+          "textRu": "Всеми перечисленными требованиями",
+          "textOz": "Barcha sanab o'tilgan talablarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2916
+      ]
+    },
+    {
+      "id": 889,
+      "questionUz": "Кесишма орқали ҳаракатланиш ҳолларида ҳайдовчи тўхташ чизиғи 2.5 «Тўхтамасдан ҳаракатланиш тақиқланган» йўл белгиси ёки светофор бўлмаганда, ўтиб кетаётган поездни ўтказиб юборишга қоида бўйича шлагбаумгача камида қанча масофа қолганида тўхташ керак?",
+      "questionRu": "На каком наименьшем расстоянии до шлагбаума правила обязывают водителя остановиться у железнодорожного переезда для пропуска приближающегося поезда при отсутствии стоп-линии знака 2.5 «Движение без остановки запрещено» и светофора?",
+      "questionOz": "Kesishma orqali harakatlanish hollarida haydovchi to'xtash chizig'i 2.5 «To'xtamasdan harakatlanish taqiqlangan» yo'l belgisi yoki svetofor bo'lmaganda, o'tib ketayotgan poezdni o'tkazib yuborishga qoida bo'yicha shlagbaumgacha kamida qancha masofa qolganida to'xtash kerak?",
+      "explanationUz": "ЙҲҚ 18-боби 119-бандига асосан: Кесишма орқали ҳаракатланиш тақиқланган ҳолларда ҳайдовчи тўхташ чизиғи, 2.5 йўл белгиси ёки светофор олдида, улар бўлмаганда шлагбаумга камида 5 метр, шлагбаум бўлмаганда эса биринчи темир йўл изига камида 10 метр қолганда тўхташи керак.",
+      "explanationRu": "Пункту 119 главы 18 ПДД, гласит: В случаях, когда движение через переезд запрещено, водитель должен остановиться у стоп-линий, знака 2.5 или светофора, если их нет - не ближе 5 метр шлагбаума, а при отсутствии шлагбаума не ближе 10 м до первого рельса.",
+      "explanationOz": "YHQ 18-bobi 119-bandiga asosan: Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetofor oldida, ular bo‘lmaganda shlagbaumga kamida 5 metr, shlagbaum bo‘lmaganda esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2917,
+          "textUz": "1 м",
+          "textRu": "1 м",
+          "textOz": "1 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2918,
+          "textUz": "5 м",
+          "textRu": "5 м",
+          "textOz": "5 m",
+          "isCorrect": true
+        },
+        {
+          "id": 2919,
+          "textUz": "10 м",
+          "textRu": "10 м",
+          "textOz": "10 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2920,
+          "textUz": "15 м",
+          "textRu": "15 м",
+          "textOz": "15 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2921,
+          "textUz": "20 м",
+          "textRu": "20 м",
+          "textOz": "20 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2918
+      ]
+    },
+    {
+      "id": 890,
+      "questionUz": "Ушбу ҳолатда  Сизга темир йўл кесишмасига чиқишга рухсат  этиладими?",
+      "questionRu": "Разрешено ли Вам въехать на железнодорожный переезд?",
+      "questionOz": "Ushbu holatda  Sizga temir yo'l kesishmasiga chiqishga ruxsat  etiladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 88 банди 2 хатбошига асосан, аҳоли пунктларида ўртада трамвай йўли бўлмаган, ҳар йўналишда биттадан тасмаси бўлган, шунингдек бир томонлама ҳаракат ташкил этилган йўлларда йўлнинг чап томонида тўхташ ва тўхтаб туришга рухсат этилади.\r\nЙўл ҳаракати қоидаларининг 91 бандига асосан, қуйидагиларда тўхташ тақиқланади: пиёдалар ўтиш жойларида ва улардан олдин 10 метрдан кам масофа қолганда.",
+      "explanationRu": "Согласно абзацу второго пункта 88 Правил дорожного движения, на левой стороне дороги остановка и стоянка разрешаются в населенных пунктах на дорогах без трамвайного пути посередине, с одной полосой движения в каждую сторону, а также с односторонним движением.\r\nСогласно пункту 91 Правил дорожного движения, остановка запрещается в следующих местах: на пешеходных переходах и ближе 10 м перед ними.",
+      "explanationOz": "Yo‘l harakati qoidalarining 88 bandi 2 xatboshiga asosan, aholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, shuningdek bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi.\r\nYo‘l harakati qoidalarining 91 bandiga asosan, quyidagilarda to‘xtash taqiqlanadi: piyodalar o‘tish joylarida va ulardan oldin 10 metrdan kam masofa qolganda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/39.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2922,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 2923,
+          "textUz": "Ҳа, яқинлашиб келаётган поезд йўқ  бўлса        ",
+          "textRu": "Да, если отсутствует приближающийся \u000bпоезд",
+          "textOz": "Ha, yaqinlashib kelayotgan poezd yo'q  bo'lsa        ",
+          "isCorrect": false
+        },
+        {
+          "id": 2924,
+          "textUz": "Йўқ ",
+          "textRu": "Нет",
+          "textOz": "Yo'q ",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2924
+      ]
+    },
+    {
+      "id": 891,
+      "questionUz": "Ҳайдовчи поездни ўтказиб юбориши учун тўғри тўхтаганми?",
+      "questionRu": "Правильно ли водитель остановился для предоставления преимущества поезду?",
+      "questionOz": "Haydovchi poyezdni o‘tkazib yuborishi uchun to‘g‘ri to‘xtaganmi?",
+      "explanationUz": "\"ЙҲҚга 1-ИЛОВА 3.18.1 ва 3.18.2 бандларига асосан: 3.18.1. «Ўнгга бурилиш тақиқланган».\r\n3.18.2. «Чапга бурилиш тақиқланади».\"",
+      "explanationRu": "\"На основании пунктов 3.18.1 и 3.18.2 Приложения 1 к ПДД: 3.18.1. «Поворот направо запрещен».\r\n3.18.2. «Поворот налево запрещен».\"",
+      "explanationOz": "\"YHQga 1-ILOVA 3.18.1 va 3.18.2 bandlariga asosan: 3.18.1. «O‘ngga burilish taqiqlangan».\r\n3.18.2. «Chapga burilish taqiqlanadi».\"",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2925,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 2926,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo‘q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2926
+      ]
+    },
+    {
+      "id": 892,
+      "questionUz": "Қизил автомобиль ҳайдовчиси яқинлашиб келаётган поездини ўтказиб юбориш учун тўғри тўхтадими?",
+      "questionRu": "Водитель красного автомобиля правильно ли остановился, чтобы пропустить приближающийся поезд?",
+      "questionOz": "Qizil avtomobil haydovchisi yaqinlashib kelayotgan poyezdni o‘tkazib yuborish uchun to‘g‘ri to‘xtadimi?",
+      "explanationUz": "ЙҲҚнинг 8-боб. 119-бандига асосан: 119. Кесишма орқали ҳаракатланиш тақиқланган ҳолларда ҳайдовчи тўхташ чизиғи, 2.5 йўл белгиси ёки светофор олдида, улар бўлмаганда шлагбаумга камида 5 метр, шлагбаум бўлмаганда эса биринчи темир йўл изига камида 10 метр қолганда тўхташи керак.",
+      "explanationRu": "На основании пункта 119 главы 18 ПДД: 119. В случаях, когда движение через переезд запрещено, водитель должен остановиться у стоп-линии, дорожного знака 2.5 или светофора, если их нет — не ближе 5 м от шлагбаума, а при отсутствии шлагбаума — не ближе 10 м до ближайшего рельса.",
+      "explanationOz": "YHQning 8-bob. 119-bandiga asosan: 119. Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetofor oldida, ular bo‘lmaganda shlagbaumga kamida 5 metr, shlagbaum bo‘lmaganda esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2927,
+          "textUz": "Тўғри тўхтади",
+          "textRu": "Остановился правильно",
+          "textOz": "To‘g‘ri to‘xtadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2928,
+          "textUz": "Нотўғри тўхтади",
+          "textRu": "Остановился неправильно",
+          "textOz": "Noto‘g‘ri to‘xtadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2928
+      ]
+    }
+  ]
+}

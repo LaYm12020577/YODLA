@@ -1,0 +1,830 @@
+{
+  "title": "Bilet 53 (PRO)",
+  "count": 20,
+  "questions": [
+    {
+      "id": 1043,
+      "questionUz": "Индивидуал ҳаракатланиш воситаларини неча ёшдан бошқаришга рухсат берилади?",
+      "questionRu": "С какого возраста разрешается управление индивидуальными средствами передвижения?",
+      "questionOz": "Individual harakatlanish vositalarini necha yoshdan boshqarishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚнинг 10-боб. 68-бандига асосан: 68. Тезлигини соатига 40 километрдан ошириши мумкин бўлмаган ёки техник сабабларга кўра тезлигини бундан ошира олмайдиган транспорт воситалари айланиб ўтиш, қувиб ўтиш, чапга бурилиш ёки қайрилиб олиш учун қайта тизилишдан ёки рухсат этилган ҳолларда йўлнинг чап томонида тўхташдан бошқа ҳолларда фақат четки ўнг қаторида ҳаракатланишлари керак.",
+      "explanationRu": "На основании пункта 68 главы 10 ПДД: 68. Транспортные средства, скорость движения которых не должна превышать 40 км/ч или которые по техническим причинам не могут развивать такую скорость, должны двигаться по крайней правой полосе, кроме случаев объезда, обгона или перестроения перед поворотом налево, разворотом или остановкой, в разрешенных случаях, на левой стороне дороги.",
+      "explanationOz": "YHQning 10-bob. 68-bandiga asosan: 68. Tezligini soatiga 40 kilometrdan oshirishi mumkin bo‘lmagan yoki texnik sabablarga ko‘ra tezligini bundan oshira olmaydigan transport vositalari aylanib o‘tish, quvib o‘tish, chapga burilish yoki qayrilib olish uchun qayta tizilishdan yoki ruxsat etilgan hollarda yo‘lning chap tomonida to‘xtashdan boshqa hollarda faqat chetki o‘ng qatorida harakatlanishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3426,
+          "textUz": "12",
+          "textRu": "12",
+          "textOz": "12",
+          "isCorrect": false
+        },
+        {
+          "id": 3427,
+          "textUz": "14",
+          "textRu": "14",
+          "textOz": "14",
+          "isCorrect": true
+        },
+        {
+          "id": 3428,
+          "textUz": "16",
+          "textRu": "16",
+          "textOz": "16",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3427
+      ]
+    },
+    {
+      "id": 1044,
+      "questionUz": "Вэлосипэдни бошқаришга нэча ёшдан рухсат этилади?",
+      "questionRu": "С какого возраста разрешается управление велосипедом?",
+      "questionOz": "Velosipedni boshqarishga necha yoshdan ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 28-боб. 165-бандга асосан: 165. Йўлда велосипед, индивидуал ҳаракатланиш воситаларини ва аравани бошқариш, миниладиган ёки юк ортиладиган ҳайвонларни ҳайдаб ўтиш 14 ёшдан кичик бўлмаган, мопед ва скутерни бошқариш эса 16 ёшдан кичик бўлмаган шахсларга рухсат этилади.",
+      "explanationRu": "На основании пункта 165 главы 28 ПДД: 165. Управлять велосипедом, средствами индивидуальной мобильности и гужевой повозкой, быть погонщиком вьючных или верховых животных при движении по дорогам разрешается лицам не моложе 14 лет, а мопедом и скутером — не моложе 16 лет.",
+      "explanationOz": "YHQning 28-bob. 165-bandga asosan: 165. Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3429,
+          "textUz": "12 ёш",
+          "textRu": "С 12 лет",
+          "textOz": "12 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3430,
+          "textUz": "14 ёш",
+          "textRu": "С 14 лет",
+          "textOz": "14 yosh",
+          "isCorrect": true
+        },
+        {
+          "id": 3431,
+          "textUz": "16 ёш",
+          "textRu": "С 16 лет",
+          "textOz": "16 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3432,
+          "textUz": "18 ёш",
+          "textRu": "С 18 лет",
+          "textOz": "18 yosh",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3430
+      ]
+    },
+    {
+      "id": 1045,
+      "questionUz": "Миниладиган уй ҳайвонларини бошқаришга нэча ёшдан рухсат этилади?",
+      "questionRu": "С какого возраста разрешается управление верховыми домашними животными?",
+      "questionOz": "Miniladigan uy hayvonlarini boshqarishga necha yoshdan ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 28-боб. 165-бандга асосан: 165. Йўлда велосипед, индивидуал ҳаракатланиш воситаларини ва аравани бошқариш, миниладиган ёки юк ортиладиган ҳайвонларни ҳайдаб ўтиш 14 ёшдан кичик бўлмаган, мопед ва скутерни бошқариш эса 16 ёшдан кичик бўлмаган шахсларга рухсат этилади.",
+      "explanationRu": "На основании пункта 165 главы 28 ПДД: 165. Управлять велосипедом, средствами индивидуальной мобильности и гужевой повозкой, быть погонщиком вьючных или верховых животных при движении по дорогам разрешается лицам не моложе 14 лет, а мопедом и скутером — не моложе 16 лет.",
+      "explanationOz": "YHQning 28-bob. 165-bandga asosan: 165. Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3433,
+          "textUz": "12 ёш",
+          "textRu": "С 12 лет",
+          "textOz": "12 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3434,
+          "textUz": "14 ёш",
+          "textRu": "С 14 лет",
+          "textOz": "14 yosh",
+          "isCorrect": true
+        },
+        {
+          "id": 3435,
+          "textUz": "16 ёш",
+          "textRu": "С 16 лет",
+          "textOz": "16 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3436,
+          "textUz": "18 ёш",
+          "textRu": "С 18 лет",
+          "textOz": "18 yosh",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3434
+      ]
+    },
+    {
+      "id": 1046,
+      "questionUz": "Велосипедчиларга велосипед йўлкаси бўлганда қатнов қисмидан ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли велосипедистам двигаться по проезжей части, если имеется велосипедная дорожка?",
+      "questionOz": "Velosipedchilarga velosiped yo‘lkasi bo‘lganda qatnov qismidan harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚга 1-ИЛОВА 3.18.2 ва 5.7.2 ҳамда 5.10.2 бандига асосан: 3.18.2. «Чапга бурилиш тақиқланади». 5.7.2. «Бир томонлама ҳаракатли йўлга чиқиш». Ҳаракатланиш бир томонлама бўлган йўлга ёки қатнов қисмига чиқиш. 5.10.2. «Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлга чиқиш».",
+      "explanationRu": "На основании пунктов 3.18.2 и 5.7.2, а также 5.10.2 Приложения 1 к ПДД: 3.18.2. «Поворот налево запрещен». Действие знаков 3.18.1 и 3.18.2 распространяется на пересечение проезжих частей, перед которыми установлен знак. 5.7.2. «Выезд на дорогу с односторонним движением». Выезд на дорогу или проезжую часть с односторонним движением. 5.10.2. «Выезд на дорогу с полосой для маршрутных транспортных средств».",
+      "explanationOz": "YHQga 1-ILOVA 3.18.2 va 5.7.2 hamda 5.10.2 bandiga asosan: 3.18.2. «Chapga burilish taqiqlanadi». 5.7.2. «Bir tomonlama harakatli yo‘lga chiqish». Harakatlanish bir tomonlama bo‘lgan yo‘lga yoki qatnov qismiga chiqish. 5.10.2. «Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lga chiqish».",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3437,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3438,
+          "textUz": "Бошқа ҳаракат қатнашчиларига халақит бермаса рухсат этилади",
+          "textRu": "Разрешается, если это не мешает другим участникам движения",
+          "textOz": "Boshqa harakat qatnashchilariga xalaqit bermasa ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3439,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3439
+      ]
+    },
+    {
+      "id": 1047,
+      "questionUz": "Бундай таниқлик белгиси билан белгиланадиган транспорт воситаси:",
+      "questionRu": "Таким опознавательным знаком обозначается транспортное средство:",
+      "questionOz": "Bunday taniqlik belgisi bilan belgilanadigan transport vositasi:",
+      "explanationUz": "ЙҲҚ 29-боби 176-банди 9-изоҳига асосан, «Узун ўлчамли транспорт воситаси» — юкли ва юксиз узунлиги 20 метрдан ошадиган транспорт воситасининг, икки ёки ундан кўпроқ тиркамали автопоездларнинг орқасида — кенглиги 40 миллиметр бўлган қизил ҳошияли, ўлчами 1200х200 миллиметр бўлган, сариқ рангли, нур қайтарувчи тўртбурчак шаклидаги белги.",
+      "explanationRu": "Согласно определению 9 пункта 176 главы 29 ПДД, «Длинномерное транспортное средство» — знак в виде прямоугольника размером 1200x200 мм желтого цвета с каймой красного цвета шириной 40 мм, с символикой состава транспортных средств — сзади транспортных средств, длина которых с грузом или без груза более 20 м, и автопоездов с двумя и более прицепами.",
+      "explanationOz": "YHQ 29-bobi 176-bandi 9-izohiga asosan, \"Uzun o'lchamli transport vositasi\" — yukli va yuksiz uzunligi 20 metrdan oshadigan transport vositasining, ikki yoki undan ko'proq tirkamali avtopoezdlarning orqasida — kengligi 40 millimetr bo'lgan qizil hoshiyali, o'lchami 1200x200 millimetr bo'lgan, sariq rangli, nur qaytaruvchi to'rtburchak shaklidagi belgi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3440,
+          "textUz": "Оғир вазнли ва йирик ўлчамли юкларни ташувчи",
+          "textRu": "Перевозящее тяжеловесные и крупногабаритные грузы",
+          "textOz": "Og'ir vaznli va yirik o'lchamli yuklarni tashuvchi",
+          "isCorrect": false
+        },
+        {
+          "id": 3441,
+          "textUz": "Узунлиги юк билан ёки юксиз 20 метрдан ортиқ бўлган транспорт воситаси",
+          "textRu": "Транспортное средство длина которого с грузом или без груза более 20м",
+          "textOz": "Uzunligi yuk bilan yoki yuksiz 20 metrdan ortiq bo'lgan transport vositasi",
+          "isCorrect": true
+        },
+        {
+          "id": 3442,
+          "textUz": "Фургон юкхонасида одамларни ташувчи",
+          "textRu": "Перевозящее людей в кузове-фургоне",
+          "textOz": "Furgon yukxonasida odamlarni tashuvchi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3441
+      ]
+    },
+    {
+      "id": 1048,
+      "questionUz": "Механик транспорт воситалари ва унинг тиркамаларининг эгалари техник ҳолатидан қатъий назар; харид қилган (олган) пайтдан бошлаб шу муддат мобайнида ДЙҲХ хизматида рўйхатдан ўтказишлари керак:",
+      "questionRu": "Владельцы механических транспортных средств и прицепов к ним должны зарегистрировать их в ГСБДД независимо от технического состояния с момента приобретения (получения) в течении:",
+      "questionOz": "Mexanik transport vositalari va uning tirkamalarining egalari texnik holatidan qatiy nazar; xarid qilgan (olgan) paytdan boshlab shu muddat mobaynida DYHX xizmatida ro'yxatdan o'tkazishlari kerak:",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3443,
+          "textUz": "2 кун",
+          "textRu": "2 суток",
+          "textOz": "2 kun",
+          "isCorrect": false
+        },
+        {
+          "id": 3444,
+          "textUz": "10 кун",
+          "textRu": "10 суток",
+          "textOz": "10 kun",
+          "isCorrect": true
+        },
+        {
+          "id": 3445,
+          "textUz": "5 кун",
+          "textRu": "5 суток",
+          "textOz": "5 kun",
+          "isCorrect": false
+        },
+        {
+          "id": 3446,
+          "textUz": "15 кун",
+          "textRu": "15 суток",
+          "textOz": "15 kun",
+          "isCorrect": false
+        },
+        {
+          "id": 3447,
+          "textUz": "30 кун",
+          "textRu": "30 суток",
+          "textOz": "30 kun",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3444
+      ]
+    },
+    {
+      "id": 1049,
+      "questionUz": "Транспорт воситаларидан фойдаланиш ва техник ҳолатига жавобгар мансабдор шахслар мажбур:",
+      "questionRu": "Должностные лица; ответственные за эксплуатацию и техническое состояние транспортных средств обязаны:",
+      "questionOz": "Transport vositalaridan foydalanish va texnik holatiga javobgar mansabdor shaxslar majbur:",
+      "explanationUz": "ЙҲҚ 29-боби 180-бандининг биринчи ва иккинчи хатбошиларига асосан, транспорт воситаларининг техник ҳолатига ва улардан фойдаланишга жавобгар бўлган мансабдор ва бошқа шахсларга қуйидагилар тақиқланади: техник носоз, тегишли рухсатсиз қайта жиҳозланган, белгиланган тартибда рўйхатдан ўтказилмаган ёки даврий давлат техник кўригидан ўтказилмаганлиги туфайли фойдаланиш тақиқланган транспорт воситаларини йўлга чиқариш;\r\nмастлик (гиёҳванд моддалар, алкагол ва бошқалар) ҳолатида ёки сезгирлик ва эътиборни сусайтирадиган дори-дармонлар таъсирида, йўл ҳаракати хавфсизлигига таҳдид соладиган чарчоқлик ёки бетоблик ҳолатида, шунингдек тегишли тоифадаги транспорт воситаларини бошқариш ҳуқуқи бўмаган, белгиланган муддатда тиббий кўрикдан ўтмаган, транспорт воситалари эгаларининг Фуқаролик жавобгарлигини мажбурий суғурта қилиш бўйича суғурта полиси бўлмаган шахсларни транспорт воситасини бошқаришга қўйиш.",
+      "explanationRu": "Пункту 180 главы 29 ПДД, гласит: Должностным и другим лицам, ответственным за техническое состояние транспортных средств и их эксплуатацию, запрещается: - выпускать на линию транспортные средства, эксплуатация которых запрещена из-за технической неисправности, переоборудованные без соответствующего разрешения, не зарегистрированные в установленном порядке или не прошедшие государственного периодического технического осмотра;\r\nдопускать к управлению транспортным средством лиц, находящихся в состоянии любого опьянения (алкогольного, наркотического и др.) или под воздействием лекарственных препаратов, снижающих реакцию и внимание, в утомленном или болезненном состоянии, угрожающем безопасности дорожного движения, а также лиц, не имеющих права управления транспортным средством данной категории, не прошедших в установленные сроки медицинского освидетельствования и состоящих на учете, как систематически употребляющие спиртные напитки и наркотические вещества;\r\nвыпускать на дороги с асфальтовым или цементобетонным покрытием трактора и другие самоходные механизмы на гусеничном ходу.\r\nСледовательно, все перечисленные действия должны быть выполнены должностными лицами.",
+      "explanationOz": "YHQ 29-bobi 180-bandining birinchi va ikkinchi xatboshilariga asosan, transport vositalarining texnik holatiga va ulardan foydalanishga javobgar bo‘lgan mansabdor va boshqa shaxslarga quyidagilar taqiqlanadi: texnik nosoz, tegishli ruxsatsiz qayta jihozlangan, belgilangan tartibda ro‘yxatdan o‘tkazilmagan yoki davriy davlat texnik ko‘rigidan o‘tkazilmaganligi tufayli foydalanish taqiqlangan transport vositalarini yo‘lga chiqarish;\r\nmastlik (giyohvand moddalar, alkagol va boshqalar) holatida yoki sezgirlik va e’tiborni susaytiradigan dori-darmonlar ta’sirida, yo‘l harakati xavfsizligiga tahdid soladigan charchoqlik yoki betoblik holatida, shuningdek tegishli toifadagi transport vositalarini boshqarish huquqi bo‘magan, belgilangan muddatda tibbiy ko‘rikdan o‘tmagan, transport vositalari egalarining Fuqarolik javobgarligini majburiy sug‘urta qilish bo‘yicha sug‘urta polisi bo‘lmagan shaxslarni transport vositasini boshqarishga qo‘yish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3448,
+          "textUz": "Белгиланган муддатда тиббиёт кўригидан ўтмаган шахсларнинг транспорт воситаларини бошқаришига йўл қўймасликка",
+          "textRu": "Не допускать к управлению транспортными средствами лиц; не прошедших в установленный срок медицинского освидетельствования",
+          "textOz": "Belgilangan muddatda tibbiyot ko'rigidan o'tmagan shaxslarning transport vositalarini boshqarishiga yo'l qo'ymaslikka",
+          "isCorrect": false
+        },
+        {
+          "id": 3449,
+          "textUz": "Техник ҳолати ва жиҳозлари қоидаларнинг талабларига мос келмайдиган транспорт воситаларини йўлга чиқармасликка",
+          "textRu": "Не выпускать на линию транспортные средства; техническое состояние и оборудование которых не отвечают требованиям Правил",
+          "textOz": "Texnik holati va jihozlari qoidalarning talablariga mos kelmaydigan transport vositalarini yo'lga chiqarmaslikka",
+          "isCorrect": false
+        },
+        {
+          "id": 3450,
+          "textUz": "Белгиланган тартибда рўйхатдан ўтказилмаган транспорт воситаларини йўлга чиқармасликка",
+          "textRu": "Не выпускать на линию технические средства; не зарегистрированные в установленном порядке",
+          "textOz": "Belgilangan tartibda ro'yxatdan o'tkazilmagan transport vositalarini yo'lga chiqarmaslikka",
+          "isCorrect": false
+        },
+        {
+          "id": 3451,
+          "textUz": "Барча санаб ўтилганларни бажаришга",
+          "textRu": "Выполнить все перечисленные действия",
+          "textOz": "Barcha sanab o'tilganlarni bajarishga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3451
+      ]
+    },
+    {
+      "id": 1050,
+      "questionUz": "Қайси ҳолларда автомобиллар шундай таниқлик белгилари билан белгиланади?",
+      "questionRu": "Таким опознавательным знаком обозначаются автомобили:",
+      "questionOz": "Qaysi hollarda avtomobillar shunday taniqlik belgilari bilan belgilanadi?",
+      "explanationUz": "ЙҲҚ 29-боби 176-бандида келтирилган 4-изоҳга асосан, «Кар ҳайдовчи» — кар-соқов ёки кар ҳайдовчи бошқараётган транспорт воситасининг олд ва орқа томонларида — ичига учи пастга йўналган ҳаёлий тенг томонли учбурчакнинг бурчаклари бўйича диаметри 40 миллиметр бўлган учта қора доира туширилган, диаметри 160 миллиметрни ташкил этадиган сариқ рангли доира кўринишида.",
+      "explanationRu": "Согласно определению 4, данному в пункте 176 главы 29 ПДД, «Глухонемой водитель» — знак в виде желтого круга диаметром 160 мм с нанесенными внутри тремя черными кружками диаметром 40 мм — спереди и сзади механических транспортных средств, управляемых глухонемыми или глухими водителями.",
+      "explanationOz": "YHQ 29-bobi 176-bandida keltirilgan 4-izohga asosan, \"Kar haydovchi\" — kar-soqov yoki kar haydovchi boshqarayotgan transport vositasining old va orqa tomonlarida — ichiga uchi pastga yo'nalgan hayoliy teng tomonli uchburchakning burchaklari bo'yicha diametri 40 millimetr bo'lgan uchta qora doira tushirilgan, diametri 160 millimetrni tashkil etadigan sariq rangli doira ko'rinishida.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3452,
+          "textUz": "Хавфли юклар ташиётган",
+          "textRu": "Перевозящими опасные грузы",
+          "textOz": "Xavfli yuklar tashiyotgan",
+          "isCorrect": false
+        },
+        {
+          "id": 3453,
+          "textUz": "Ногиронлар бошқараётган",
+          "textRu": "Управляемые инвалидами",
+          "textOz": "Nogironlar boshqarayotgan",
+          "isCorrect": false
+        },
+        {
+          "id": 3454,
+          "textUz": "Кар-соқов ёки кар ҳайдовчилар бошқараётганда",
+          "textRu": "Управляемые глухонемыми и глухими водителями",
+          "textOz": "Kar-soqov yoki kar haydovchilar boshqarayotganda",
+          "isCorrect": true
+        },
+        {
+          "id": 3455,
+          "textUz": "Икки йилгача ҳайдовчилик иш даврига эга бўлган ҳайдовчилар бошқараётган",
+          "textRu": "Управляемые водителями имеющими водительский стаж до 2-х лет",
+          "textOz": "Ikki yilgacha haydovchilik ish davriga ega bo'lgan haydovchilar boshqarayotgan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3454
+      ]
+    },
+    {
+      "id": 1051,
+      "questionUz": "Транспорт воситалари ушбу таниқли белгилари билан белгиланади:",
+      "questionRu": "Таким опознавательным знаком обозначаются транспортные средства:",
+      "questionOz": "Transport vositalari ushbu taniqli belgilari bilan belgilanadi:",
+      "explanationUz": "ЙҲҚ 29-боби 176-банди 12-хатбошига асосан, «Ногиронлиги бўлган шахс» — биринчи ёки иккинчи гуруҳ ногиронлиги бўлган шахс бошқараётган, шунингдек, ногиронлиги бўлган шахсларни ёки ногиронлиги бўлган болаларни ташиётган транспорт воситаларининг олд ва орқа томонларида — барча томонлари 150 миллиметрдан бўлган ва ичига 7.17 йўл белгисининг қора рангли тимсоли туширилган сариқ рангли квадрат кўринишидаги белги.",
+      "explanationRu": "Согласно определению абзаца 12 пункта 176 главы 29 ПДД, «Инвалид» — знак в виде квадрата желтого цвета размером сторон — 150 мм и изображением символа дорожного знака 7.17 черного цвета — спереди и сзади механических транспортных средств, управляемых инвалидами I и II групп.",
+      "explanationOz": "YHQ 29-bobi 176-bandi 12-xatboshiga asosan, \"Nogironligi bo'lgan shaxs\" — birinchi yoki ikkinchi guruh nogironligi bo'lgan shaxs boshqarayotgan, shuningdek, nogironligi bo'lgan shaxslarni yoki nogironligi bo'lgan bolalarni tashiyotgan transport vositalarining old va orqa tomonlarida — barcha tomonlari 150 millimetrdan bo'lgan va ichiga 7.17 yo'l belgisining qora rangli timsoli tushirilgan sariq rangli kvadrat ko'rinishidagi belgi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3456,
+          "textUz": "Кар ёки кар-соқов ҳайдовчилар бошқараётган",
+          "textRu": "Управляемые глухими или глухонемыми водителями",
+          "textOz": "Kar yoki kar-soqov haydovchilar boshqarayotgan",
+          "isCorrect": false
+        },
+        {
+          "id": 3457,
+          "textUz": "Ногирон бошқараётган",
+          "textRu": "Управляемые инвалидами",
+          "textOz": "Nogiron boshqarayotgan",
+          "isCorrect": true
+        },
+        {
+          "id": 3458,
+          "textUz": "Хавфли юклар ташиётган",
+          "textRu": "Перевозящими опасные грузы",
+          "textOz": "Xavfli yuklar tashiyotgan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3457
+      ]
+    },
+    {
+      "id": 1052,
+      "questionUz": "Транспорт воситаси ушбу таниқлик белгиси билан белгиланади:",
+      "questionRu": "Таким опознавательным знаком обозначается транспортное средство:",
+      "questionOz": "Transport vositasi ushbu taniqlik belgisi bilan belgilanadi:",
+      "explanationUz": "ЙҲҚ 29-боби 176-банди 7-изоҳига асосан, «Хавфли юк» — хавфли юкни ташиётган транспорт воситасининг олд ва орқа томонига ўрнатилган ўлчами 690 х 300 миллиметр, ўнг қисми 400 х 300 миллиметр бўлган зарғалдоқ рангли, чап қисми эса юкнинг хавфли хусусиятини билдириб турган белгилар туширилган қора ҳошияли (кенглиги 15 миллиметр) оқ рангдаги тўртбурчак шаклидаги белги.",
+      "explanationRu": "Согласно определению 7 пункта 176 главы 29 ПДД, «Опасный груз» — знак в виде прямоугольника размером 690x300 мм, правая часть которого размером 400x300 мм окрашена в оранжевый, а левая — в белый цвет с каймой черного цвета (шириной 15 мм) и обозначениями, характеризующими опасные свойства груза — спереди и сзади транспортных средств, перевозящих такие грузы.",
+      "explanationOz": "YHQ 29-bobi 176-bandi 7-izohiga asosan, \"Xavfli yuk\" — xavfli yukni tashiyotgan transport vositasining old va orqa tomoniga o'rnatilgan o'lchami 690 x 300 millimetr, o'ng qismi 400 x 300 millimetr bo'lgan zarg'aldoq rangli, chap qismi esa yukning xavfli xususiyatini bildirib turgan belgilar tushirilgan qora hoshiyali (kengligi 15 millimetr) oq rangdagi to'rtburchak shaklidagi belgi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3459,
+          "textUz": "Ногирон бошқараётган",
+          "textRu": "Управляемые инвалидами",
+          "textOz": "Nogiron boshqarayotgan",
+          "isCorrect": false
+        },
+        {
+          "id": 3460,
+          "textUz": "Оғир вазнли ва йирик ўлчамда",
+          "textRu": "Перевозящее тяжеловесные и крупногабаритные грузы",
+          "textOz": "Og'ir vaznli va yirik o'lchamda",
+          "isCorrect": false
+        },
+        {
+          "id": 3461,
+          "textUz": "Хавфли юклар ташиётган",
+          "textRu": "Перевозящими опасные грузы",
+          "textOz": "Xavfli yuklar tashiyotgan",
+          "isCorrect": true
+        },
+        {
+          "id": 3462,
+          "textUz": "Кар-соқов ёки кар ҳайдовчилар бошқараётган",
+          "textRu": "Управляемые глухонемыми и глухими водителями",
+          "textOz": "Kar-soqov yoki kar haydovchilar boshqarayotgan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3461
+      ]
+    },
+    {
+      "id": 1053,
+      "questionUz": "Куннинг қоронғи вақтида ва етарлича кўринмайдиган шароитларда йўлда қолдирилган йўл машиналари, қурилиш материаллари, қурилмалар ва ҳоказолар белгиланиши керак:",
+      "questionRu": "В темное время суток и в условиях недостаточной видимости оставленные на дороге дорожные машины, строи��ельные материалы, конструкции и т.п. должны быть обозначены:",
+      "questionOz": "Kunning qorong'i vaqtida va etarlicha ko'rinmaydigan sharoitlarda yo'lda qoldirilgan yo'l mashinalari, qurilish materiallari, qurilmalar va hokazolar belgilanishi kerak:",
+      "explanationUz": "ЙҲҚ 29-боби 182-бандига асосан: Йўлларда таъмирлаш ишларини бажаришга жавобгар мансабдор ва бошқа шахслар ишлар олиб борилаётган жойда йўл ҳаракати хавфсизлигини таъминлашга мажбур. Бундай жойлар, шунингдек йўлдан ташқарига олиб чиқиш имконияти бўлмаган иш бажармаётган йўл машиналари, қурилиш материаллари, қурилма ва шунга ўхшашлар тегишли йўл белгилари, йўналтирувчи ва тўсувчи мосламалар билан, сутканинг қоронғи вақтида ва етарлича кўринмайдиган шароитда эса, қўшимча қизил ёки сариқ чироқли ишоралар билан белгиланиши керак. Таъмирлаш ишлари тугагандан сўнг транспорт воситалари ва пиёдаларнинг хавфсиз ҳаракатланиши таъминланган бўлиши керак.",
+      "explanationRu": "Пункту 182 главы 29 ПДД, гласит: Должностные и иные лица, ответственные за производство ремонтных работ на дорогах, обязаны обеспечивать безопасность движения в местах проведения работ. Эти места, а также неработающие дорожные машины, строительные материалы, конструкции и тому подобное, которые не могут быть убраны за пределы дороги, должны быть обозначены соответствующими дорожными знаками, снабжены направляющими и ограждающими устройствами, а в темное время суток и в условиях недостаточной видимости - дополнительно красными или желтыми сигнальными огнями. После окончания ремонтных работ необходимо обеспечить безопасное движение транспортных средств и пешеходов. Соответственно, оставленные на дороге дорожные машины и т.п. должны быть обозначены всеми перечисленными способами.",
+      "explanationOz": "YHQ 29-bobi 182-bandiga asosan: Yo‘llarda ta’mirlash ishlarini bajarishga javobgar mansabdor va boshqa shaxslar ishlar olib borilayotgan joyda yo‘l harakati xavfsizligini ta’minlashga majbur. Bunday joylar, shuningdek yo‘ldan tashqariga olib chiqish imkoniyati bo‘lmagan ish bajarmayotgan yo‘l mashinalari, qurilish materiallari, qurilma va shunga o‘xshashlar tegishli yo‘l belgilari, yo‘naltiruvchi va to‘suvchi moslamalar bilan, sutkaning qorong‘i vaqtida va yetarlicha ko‘rinmaydigan sharoitda esa, qo‘shimcha qizil yoki sariq chiroqli ishoralar bilan belgilanishi kerak. Ta’mirlash ishlari tugagandan so‘ng transport vositalari va piyodalarning xavfsiz harakatlanishi ta’minlangan bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3463,
+          "textUz": "Тегишли йўл белгилари билан",
+          "textRu": "Соответствующими дорожными знаками",
+          "textOz": "Tegishli yo'l belgilari bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3464,
+          "textUz": "Йўналтирувчи ва теварагини ўровчи мосламалар билан",
+          "textRu": "Направляющими и ограждающими устройствами",
+          "textOz": "Yo'naltiruvchi va tevaragini o'rovchi moslamalar bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3465,
+          "textUz": "Қизил ёки сариқ ёриткич чироқлари билан",
+          "textRu": "Красными или желтыми сигнальными огнями",
+          "textOz": "Qizil yoki sariq yoritkich chiroqlari bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3466,
+          "textUz": "Барча санаб ўтилган ҳоллар бажарилиши керак",
+          "textRu": "Всеми перечисленными обозначениями",
+          "textOz": "Barcha sanab o'tilgan hollar bajarilishi kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3466
+      ]
+    },
+    {
+      "id": 1054,
+      "questionUz": "Кўрсатилган белгилардан қай бири автопоездни билдириш учун ўрнатилади?",
+      "questionRu": "Какой из указанных знаков устанавливаются для обозначения автопоезда?",
+      "questionOz": "Ko'rsatilgan belgilardan qay biri avtopoezdni bildirish uchun o'rnatiladi?",
+      "explanationUz": "ЙҲҚ 29-боби 176-бандида берилган 1-изоҳга асосан, «Автопоезд» — юк автомобиллари ва ғилдиракли трактор (1,4 тонна ва ундан юқори)ларда тиркама бўлганда, шунингдек туташтирилган автобус ва троллейбус кабиналари томининг олд қисми ўртасига бир қатор қилиб 150 дан 300 миллиметргача оралиқда кўндаланг жойлашган учта зарғалдоқ рангли чироқ ёки ичидан ёритиладиган, томонларининг ҳар бири 250 миллиметр бўлган сариқ рангли учбурчак шаклидаги белги.",
+      "explanationRu": "Согласно определению 1, данному в пункте 176 главы 29 ПДД, «Автопоезд» — знак в виде трех фонарей оранжевого цвета, расположенных горизонтально, посередине над передней частью кабины с промежутком между ними от 150 до 300 мм или в виде равностороннего треугольника желтого цвета, каждая сторона которого 250 мм, с устройством для внутреннего освещения — на грузовых автомобилях и колесных тракторах (1,4 т и выше) с прицепами, а также на сочлененных автобусах и троллейбусах.",
+      "explanationOz": "YHQ 29-bobi 176-bandida berilgan 1-izohga asosan, \"Avtopoezd\" — yuk avtomobillari va g'ildirakli traktor (1,4 tonna va undan yuqori)larda tirkama bo'lganda, shuningdek tutashtirilgan avtobus va trolleybus kabinalari tomining old qismi o'rtasiga bir qator qilib 150 dan 300 millimetrgacha oraliqda ko'ndalang joylashgan uchta zarg'aldoq rangli chiroq yoki ichidan yoritiladigan, tomonlarining har biri 250 millimetr bo'lgan sariq rangli uchburchak shaklidagi belgi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/21.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3467,
+          "textUz": "Чап белги",
+          "textRu": "Левый знак",
+          "textOz": "Chap belgi",
+          "isCorrect": false
+        },
+        {
+          "id": 3468,
+          "textUz": "Ўнг белги",
+          "textRu": "Правый знак",
+          "textOz": "O'ng belgi",
+          "isCorrect": false
+        },
+        {
+          "id": 3469,
+          "textUz": "Ҳар икки белги",
+          "textRu": "Оба знака",
+          "textOz": "Har ikki belgi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3469
+      ]
+    },
+    {
+      "id": 1055,
+      "questionUz": "Мазкур таниқлик белгиси нимани билдиради?",
+      "questionRu": "Что обозначает данный опознавательный знак?",
+      "questionOz": "Mazkur taniqlik belgisi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 29-бобида 176-бандида келтирилган 2-изоҳга асосан, «Турумланган» (тишли, шипли) — турумланган шинали механик транспорт воситаларининг орқасида — ичига қора рангда «Т» ҳарфи туширилган, қизил ҳошияли, оқ рангли учи юқорига йўналтирилган тенг томонли учбурчак кўринишида. Учбурчакнинг томонлари 200 миллиметрдан кам бўлмаслиги, ҳошиясининг кенглиги учбурчак томонининг 1/10 қисмига тенг бўлиши керак.",
+      "explanationRu": "Согласно определению 2, данному в пункте 176 главы 29 ПДД, «Шипы» — знак в виде равностороннего треугольника белого цвета с каймой красного цвета, в который вписана буква «Т» черного цвета — сзади механических транспортных средств, имеющих шипованные шины. Стороны треугольника от 200 до 300 мм в зависимости от вида транспортного средства, ширина каймы равна 1/10 стороны.",
+      "explanationOz": "YHQ 29-bobida 176-bandida keltirilgan 2-izohga asosan, \"Turumlangan\" (tishli, shipli) — turumlangan shinali mexanik transport vositalarining orqasida — ichiga qora rangda \"T\" harfi tushirilgan, qizil hoshiyali, oq rangli uchi yuqoriga yo'naltirilgan teng tomonli uchburchak ko'rinishida. Uchburchakning tomonlari 200 millimetrdan kam bo'lmasligi, hoshiyasining kengligi uchburchak tomonining 1/10 qismiga teng bo'lishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3470,
+          "textUz": "Олдинда қатнов қисми нотекис бўлган йўл қисмини",
+          "textRu": "Впереди участок дороги имеющий неровности на проезжей части",
+          "textOz": "Oldinda qatnov qismi notekis bo'lgan yo'l qismini",
+          "isCorrect": false
+        },
+        {
+          "id": 3471,
+          "textUz": "Олдинда шу йўналишда ҳаракатланиш учун уч бўлакли йўл қисмини",
+          "textRu": "Впереди участок дороги с тремя полосами для движения в данной направлении",
+          "textOz": "Oldinda shu yo'nalishda harakatlanish uchun uch bo'lakli yo'l qismini",
+          "isCorrect": false
+        },
+        {
+          "id": 3472,
+          "textUz": "Механик транспорт воситасида тишли турумланган (шиплар) шиналар ўрнатилганини",
+          "textRu": "Транспортное средство оборудованное шипованными шинами",
+          "textOz": "Mexanik transport vositasida tishli turumlangan (shiplar) shinalar o'rnatilganini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3472
+      ]
+    },
+    {
+      "id": 1056,
+      "questionUz": "Автомобилга ўрнатилган бу таниқлик белги нимани билдиради?",
+      "questionRu": "Что означает данный опознавательный знак установленный на автомобиле?",
+      "questionOz": "Avtomobilga o'rnatilgan bu taniqlik belgi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 26-боби 176-бандининг ўн учинчи хатбошисига асосан: “Шифокор” шифокор-ҳайдовчи бошқараётган транспорт воситасининг олд ва орқа томонига ўрнатиладиган, томонлари 140 миллиметр бўлган, кўк рангли, тўртбурчак ичида диаметри 90 миллиметрли оқ доирага қалинлиги 25 миллиметрли қизил хоч тасвири туширилган белги.",
+      "explanationRu": "Пункту 176 главы 26 ПДД, гласит: «Врач» - знак в виде квадрата синего цвета размером сторон 140 мм с вписанным белым кругом диаметром 90 мм, на который нанесен красный крест шириной штриха 25 мм может быть установлен спереди и сзади автомобилей, управляемых водителями врачами.",
+      "explanationOz": "YHQ 26-bobi 176-bandining o‘n uchinchi xatboshisiga asosan: “Shifokor” shifokor-haydovchi boshqarayotgan transport vositasining old va orqa tomoniga o‘rnatiladigan, tomonlari 140 millimetr bo‘lgan, ko‘k rangli, to‘rtburchak ichida diametri 90 millimetrli oq doiraga qalinligi 25 millimetrli qizil xoch tasviri tushirilgan belgi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3473,
+          "textUz": "Автомобил шифокор ҳайдовчига тегишли эканини",
+          "textRu": "Автомобиль принадлежит водителю врачу",
+          "textOz": "Avtomobil shifokor haydovchiga tegishli ekanini",
+          "isCorrect": true
+        },
+        {
+          "id": 3474,
+          "textUz": "Автомобил ҳайдовчи ногиронга тегишли эканини",
+          "textRu": "Автомобиль принадлежит водителю инвалиду",
+          "textOz": "Avtomobil haydovchi nogironga tegishli ekanini",
+          "isCorrect": false
+        },
+        {
+          "id": 3475,
+          "textUz": "Автомобил уйда тиббий ёрдами кўрсатиш учун мўлжалланганини",
+          "textRu": "Автомобиль предназначен для оказания медпомощи на дому",
+          "textOz": "Avtomobil uyda tibbiy yordami ko'rsatish uchun mo'ljallanganini",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3473
+      ]
+    },
+    {
+      "id": 1057,
+      "questionUz": "N2; N3; О3; О4; М2; М3 тоифадаги автотранспорт воситаларининг орқа деворига ёзилиши керак?",
+      "questionRu": "На задней стенке кузова автотранспортных средств категорий N2; N3; O3; O4; M2; M3 (кроме особо малых) должен быть нанесен:",
+      "questionOz": "N2; N3; O3; O4; M2; M3 toifadagi avtotransport vositalarining orqa devoriga yozilishi kerak?",
+      "explanationUz": "ЙҲҚ 29-боби 175-бандининг иккинчи хатбошисига асосан: Юк автомобиллари, тиркамалар (енгил автомобиллар тиркамаларидан ташқари) ва автобуслар (микроавтобуслардан ташқари) кузовининг орқа деворига унинг давлат рақам белгиси ва ҳарфлари ёзилиши керак. Рақамнинг баландлиги 300 миллиметр, кенглиги 120 миллиметр, чизиғининг йўғо��лиги 30 миллиметрдан кам бўлмаслиги, ҳарфлар баландлиги эса рақам ўлчамларининг 2/3 қисмига тенг бўлиши керак.",
+      "explanationRu": "Абзацу 2 пункта 175 главы 29 ПДД, гласит: На задней стенке кузова грузовых автомобилей, прицепов (за исключением прицепов к легковым автомобилям) и автобусов (кроме микроавтобусов) должны быть нанесены номера и буквы государственного регистрационного номерного знака. Высота цифр должна быть 300 мм, ширина 120 мм, толщина штриха 30 мм, размер высоты букв 2/3 от размера цифр.",
+      "explanationOz": "YHQ 29-bobi 175-bandining ikkinchi xatboshisiga asosan: Yuk avtomobillari, tirkamalar (yengil avtomobillar tirkamalaridan tashqari) va avtobuslar (mikroavtobuslardan tashqari) kuzovining orqa devoriga uning davlat raqam belgisi va harflari yozilishi kerak. Raqamning balandligi 300 millimetr, kengligi 120 millimetr, chizig‘ining yo‘g‘onligi 30 millimetrdan kam bo‘lmasligi, harflar balandligi esa raqam o‘lchamlarining 2/3 qismiga teng bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3476,
+          "textUz": "Транспорт воситасининг тегишлиги ҳақида таниқлик белгиси",
+          "textRu": "Опознавательный знак о принадлежности транспортного средства",
+          "textOz": "Transport vositasining tegishligi haqida taniqlik belgisi",
+          "isCorrect": false
+        },
+        {
+          "id": 3477,
+          "textUz": "Яхши кўринадиган рақам белгиси",
+          "textRu": "Хорошо видимый номерной знак",
+          "textOz": "Yaxshi ko'rinadigan raqam belgisi",
+          "isCorrect": true
+        },
+        {
+          "id": 3478,
+          "textUz": "Таниқлик ва рақам белгилари",
+          "textRu": "Общеизвестные знаки",
+          "textOz": "Taniqlik va raqam belgilari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3477
+      ]
+    },
+    {
+      "id": 1058,
+      "questionUz": "Болаларни ташишда транспорт воситаси қайси таниқли белгиси билан белгиланади?",
+      "questionRu": "Каким опознавательным знаком обозначается транспортное средство при перевозке групп детей?",
+      "questionOz": "Bolalarni tashishda transport vositasi qaysi taniqli belgisi bilan belgilanadi?",
+      "explanationUz": "ЙҲҚ 29-боби 176-бандида келтирилган 3-изоҳга асосан, «Болалар гуруҳини ташиш» — болалар гуруҳини ташкилий ташишда, транспорт воситасининг олд ва орқа томонларига қизил ҳошияли, ичига 1.21 йўл белгисидаги болалар тимсолининг тасвири туширилган, сариқ рангдаги, томонлари тенг бўлган тўртбурчак (квадрат) кўринишидаги белги. Тўртбурчакнинг томонлари 250 — 300 миллиметргача, ҳошиянинг кенглиги тўртбурчак томонининг 1/10 қисмига тенг бўлиши керак.",
+      "explanationRu": "Согласно определению 3, данному в пункте 176 главы 29 ПДД, «Перевозка группы детей» — знак в виде квадрата желтого цвета с каймой красного цвета и с черным изображением символа дорожного знака 1.21 устанавливается спереди и сзади транспортного средства при организованной перевозке группы детей. Сторона квадратного знака должна быть от 250 до 300 мм, а ширина каймы — 1/10 стороны.",
+      "explanationOz": "YHQ 29-bobi 176-bandida keltirilgan 3-izohga asosan, \"Bolalar guruhini tashish\" — bolalar guruhini tashkiliy tashishda, transport vositasining old va orqa tomonlariga qizil hoshiyali, ichiga 1.21 yo'l belgisidagi bolalar timsolining tasviri tushirilgan, sariq rangdagi, tomonlari teng bo'lgan to'rtburchak (kvadrat) ko'rinishidagi belgi. To'rtburchakning tomonlari 250 — 300 millimetrgacha, hoshiyaning kengligi to'rtburchak tomonining 1/10 qismiga teng bo'lishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/34.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3479,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 3480,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 3481,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3481
+      ]
+    },
+    {
+      "id": 1059,
+      "questionUz": "Ушбу белги ўрнатилади:",
+      "questionRu": "Данный знак устанавливается:",
+      "questionOz": "Ushbu belgi o‘rnatiladi:",
+      "explanationUz": "ЙҲҚга 1-ИЛОВА 1.14 бандига асосан: 1.14. «Тик баландлик».",
+      "explanationRu": "На основании пункта 1.14 Приложения 1 к ПДД: 1.14. «Крутой подъем».",
+      "explanationOz": "YHQga 1-ILOVA 1.14 bandiga asosan: 1.14. «Tik balandlik».",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3482,
+          "textUz": "“Болалар уйи” ёки оромгоҳлари олдидан ўтган йўл қисмларида ўрнатилади",
+          "textRu": "На участках дороги, проходящих перед «детским домом» или лагерем отдыха",
+          "textOz": "“Bolalar uyi” yoki oromgohlari oldidan o‘tgan yo‘l qismlarida o‘rnatiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3483,
+          "textUz": "Мактаб ёки мактабгача таълим муассасалари олдида",
+          "textRu": "Перед школой или дошкольным образовательным учреждением",
+          "textOz": "Maktab yoki maktabgacha ta’lim muassasalari oldida",
+          "isCorrect": true
+        },
+        {
+          "id": 3484,
+          "textUz": "Кўзи ожиз пиёдалар ҳаракатланиш эҳтимоли кўп бўлган йўл қисмларида ўрнатилади",
+          "textRu": "На участках дороги, где велика вероятность движения слепых пешеходов",
+          "textOz": "Ko‘zi ojiz piyodalar harakatlanish ehtimoli ko‘p bo‘lgan yo‘l qismlarida o‘rnatiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3483
+      ]
+    },
+    {
+      "id": 1060,
+      "questionUz": "Тиббиёт қутичаси ва ўт ўчиргич бўлмаган қандай траснпорт воситаларидан фойнадаланиш тақиқланади?",
+      "questionRu": "Эксплуатация каких транспортных средств запрещена, если у них отсутствуют аптечка и огнетушитель?",
+      "questionOz": "Tibbiyot qutichasi va o't o'chirgich bo'lmagan qanday trasnport vositalaridan foynadalanish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 3 – иловаси 7.10 – бандига асосан: Транспорт воситалари қуйдагилар билан жиҳозланмаган бўлса улардан фойдаланиш тақиқланади:\r\nМ2, М3 тоифадаги – фавқулодда ҳолатларда ойнани синдириш учун фойдаланиладиган болғача, тиббиёт қутичаси, 2 та ўт ўчиргич (биттаси ҳайдовчининг кабинасида, иккинчиси – йўловчилар салонида), мажбурий тўхтаганини билдирувчи белги (ёки милтилловчи қизил чироқ) ва нур қайтаргичли камзул (жилет);\r\nМ1, Н1, Н2, Н3, тоифадаги, микроавтобус ва ғилдиракли тракторларда тиббиёт қутучаси, ўт ўчиргич, мажбурий тўхтаганлигини билдирувчи белги (ёки милтилловчи қизил чироқ) ва нур қайтаргичли камзул (жилет);\r\nМ3, N2, N3 тоифадаги – ўзи юруб кетишидан сақловчи, ғилдирак диаметрига мувофиқ (камида иккита) тиргак;\r\nО тоифадаги, тракторлар, аравалар ва бошқа ўзиюрар машиналарда – ташқи нур қайтаргичлар;\r\nкажавали мотоциклларда – тиббиёт қутучаси, мажбурий тўхтаганлигини билдирувчи белги.",
+      "explanationRu": "В соответствии с пунктом 7.10 Приложения 3 ПДД: Эксплуатация транспортных средств запрещается, если они не оборудованы следующим: \r\nкатегории М2, М3 — молоток для разбивания стекол в чрезвычайной ситуации, медицинская аптечка, огнетушитель (2 шт. один огнетушитель должен находиться в кабине водителя, второй в пассажирском салоне), знак аварийной остановки (или мигающий красный фонарь), и световозвращающий жилет; \r\nмикроавтобусах, автотранспортных средствах категорий М1, N1, N2, N3 и на колесных тракторах медицинская аптечка, огнетушитель, знак аварийной остановки (или мигающий красный фонарь) и световозвращающий жилет;\r\nкатегорий М3, N2, N3, — противооткатные упоры (не менее двух) соответствующие диаметру колес автотранспортного средства; \r\nкатегории О, тракторах, гужевых повозках и других самоходных машинах внешние световозвращатели; на мотоцикле с боковым прицепом медицинская аптечка, знак аварийной остановки.",
+      "explanationOz": "YHQ 3 – ilovasi 7.10 – bandiga asosan: Transport vositalari quydagilar bilan jihozlanmagan bo‘lsa ulardan foydalanish taqiqlanadi:\r\nM2, M3 toifadagi – favqulodda holatlarda oynani sindirish uchun foydalaniladigan bolg‘acha, tibbiyot qutichasi, 2 ta o‘t o‘chirgich (bittasi haydovchining kabinasida, ikkinchisi – yo‘lovchilar salonida), majburiy to‘xtaganini bildiruvchi belgi (yoki miltillovchi qizil chiroq) va nur qaytargichli kamzul (jilet);\r\nM1, N1, N2, N3, toifadagi, mikroavtobus va g‘ildirakli traktorlarda tibbiyot qutuchasi, o‘t o‘chirgich, majburiy to‘xtaganligini bildiruvchi belgi (yoki miltillovchi qizil chiroq) va nur qaytargichli kamzul (jilet);\r\nM3, N2, N3 toifadagi – o‘zi yurub ketishidan saqlovchi, g‘ildirak diаmetriga muvofiq (kamida ikkita) tirgak;\r\nO toifadagi, traktorlar, aravalar va boshqa o‘ziyurar mashinalarda – tashqi nur qaytargichlar;\r\nkajavali mototsikllarda – tibbiyot qutuchasi, majburiy to‘xtaganligini bildiruvchi belgi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3485,
+          "textUz": "Фақат « M1 » тоифали траснпорт воситаcи",
+          "textRu": "Только категории транспортных средств « М1 »",
+          "textOz": "Faqat « M1 » toifali trasnport vositasi",
+          "isCorrect": false
+        },
+        {
+          "id": 3486,
+          "textUz": "Фақат « M2; M3; N1 » тоифали траснпорт воситаcи",
+          "textRu": "Только категории транспортных средств « М2, М3, N1 »",
+          "textOz": "Faqat « M2; M3; N1 » toifali trasnport vositasi",
+          "isCorrect": false
+        },
+        {
+          "id": 3487,
+          "textUz": "Фақат « N2; N3 » тоифали траснпорт воситаcи",
+          "textRu": "Только категории транспортных средств « N2, N3 »",
+          "textOz": "Faqat « N2; N3 » toifali trasnport vositasi",
+          "isCorrect": false
+        },
+        {
+          "id": 3488,
+          "textUz": "Ҳамма санаб ўтилган транспорт воситаларидан",
+          "textRu": "Все указанные категории транспортных средств",
+          "textOz": "Hamma sanab o'tilgan transport vositalaridan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3488
+      ]
+    },
+    {
+      "id": 1061,
+      "questionUz": "Қайси шартларда транспорт воситаларидан фойдаланиш таъқиқланади?",
+      "questionRu": "При каких условиях запрещается эксплуатация транспортных средств?",
+      "questionOz": "Qaysi shartlarda transport vositalaridan foydalanish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 3 – иловаси 1 – бўлимнинг 1.3 ва 1.4 – бандларига асосан, транспорт воситаларидан фойдаланиш тақиқланади: \r\nГидравлик тормоз юрутмасининг зичлиги (герметиклиги) бузулган бўлса.\r\nДвигател ишламай турганда пневматик ёки пневмогидравлик тормоз юрутмасининг зичлигини бузулиши, бошқарув қисмлари уланмаганда – 30 дақиқада, уланганида – 15 дақиқада тизимдаги ҳаво босимини 0,05 МПа дан кўпга пасайишига сабаб бўлса, ғилдираклардаги тормоз камераларидан сиқилган ҳаво чиқаётган бўлса. \r\nЙҲҚ 2 – боби 12 – бандининг учунчи хатбошисига асосан: тормоз тизими, рул бошқаруви ишламаётган, улагич мосламаси ( автопоезд таркибида ) носоз бўлган, қоронғи вақтда ёки етарлича кўринмайдиган шароитда – олд чироқлар ва орқа габарит чироқлари бўлмаган ёки ёнмаётган, ёмғир, қор ёғаётган вақтда ҳайдовчи томонидаги ойна тозалагич ишламаётган транспорт воситаларини бошқариш тақиқланади.\r\nШу билан барча кўрсатилган шартлар асосида транспорт воситаларидан фойдаланиш тақиқланади.",
+      "explanationRu": "В соответствии с пунктами 1.3 и 1.4 раздела 1 приложения 3 к ПДД, использование транспортных средств запрещается: \r\nНарушена герметичность гидравлического тормозного привода;\r\nНарушение герметичности пневматического тормозного привода вызывает падение давления воздуха при неработающем компрессоре более чем на 0,05 МПа (0,5 кг/кв. см) за 30 мин. при свободном положении органов управления тормозной системой или за 15 мин. при включенных органах управления. \r\nВ соответствии с третьим абзацем пункта 12 главы 2 ПДД: управлять транспортным средством, если на транспортном средстве не работает тормозная система, рулевое управление, стеклоочиститель во время дождя или снегопада, неисправно сцепное устройство (в составе автопоезда), не горят или отсутствуют фары и задние габаритные огни в темное время суток или в условиях ограниченной видимости.\r\nСоответственно, при всех указанных условиях эксплуатация транспортных средств запрещена.",
+      "explanationOz": "YHQ 3 – ilovasi 1 – bo‘limning 1.3 va 1.4 – bandlariga asosan, transport vositalaridan foydalanish taqiqlanadi: \r\nGidravlik tormoz yurutmasining zichligi (germetikligi) buzulgan bo‘lsa.\r\nDvigatel ishlamay turganda pnevmatik yoki pnevmogidravlik tormoz yurutmasining zichligini buzulishi, boshqaruv qismlari ulanmaganda – 30 daqiqada, ulanganida – 15 daqiqada tizimdagi havo bosimini 0,05 MPa dan ko‘pga pasayishiga sabab bo‘lsa, g‘ildiraklardagi tormoz kameralaridan siqilgan havo chiqayotgan bo‘lsa. \r\nYHQ 2 – bobi 12 – bandining uchunchi xatboshisiga asosan: tormoz tizimi, rul boshqaruvi ishlamayotgan, ulagich moslamasi ( avtopoyezd tarkibida ) nosoz bo‘lgan, qorong‘i vaqtda yoki yetarlicha ko‘rinmaydigan sharoitda – old chiroqlar va orqa gabarit chiroqlari bo‘lmagan yoki yonmayotgan, yomg‘ir, qor yog‘ayotgan vaqtda haydovchi tomonidagi oyna tozalagich ishlamayotgan transport vositalarini boshqarish taqiqlanadi.\r\nShu bilan barcha ko‘rsatilgan shartlar asosida transport vositalaridan foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3489,
+          "textUz": "Гидравлик тормоз тизимидан суюқлик оқаётган бўлса",
+          "textRu": "Не действует рабочая тормозная система",
+          "textOz": "Gidravlik tormoz tizimidan suyuqlik oqayotgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 3490,
+          "textUz": "Ишчи тормоз тизими самарадорлиги талабга жавоб бермайди",
+          "textRu": "Подтекает жидкость из системы гидравлических тормозов",
+          "textOz": "Ishchi tormoz tizimi samaradorligi talabga javob bermaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3491,
+          "textUz": "Компрессор пневматик тормоз тизимида ўрнатилган босимни таъминлай олмаган ҳолатда",
+          "textRu": "Компрессор не обеспечивает установленного давления в системе пневматических тормозов",
+          "textOz": "Kompressor pnevmatik tormoz tizimida o'rnatilgan bosimni taminlay olmagan holatda",
+          "isCorrect": false
+        },
+        {
+          "id": 3492,
+          "textUz": "Кўрсатилган барча ҳолатларда",
+          "textRu": "При всех указанных условиях",
+          "textOz": "Ko'rsatilgan barcha holatlarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3492
+      ]
+    },
+    {
+      "id": 1062,
+      "questionUz": "M2, M3 тоифали автотранспорт воситалари шина протекторлари нақшларининг қолдиқ баландлиги камида қанча бўлиши керак?",
+      "questionRu": "Какой должна быть минимальная остаточная высота рисунка протектора шин транспортных средств категорий M2 и M3?",
+      "questionOz": "M2, M3 toifali avtotransport vositalari shina protektorlari naqshlarining qoldiq balandligi kamida qancha bo'lishi kerak?",
+      "explanationUz": "ЙҲҚ 3 – иловаси 153 – бандига асосан:\r\nШина протектори нақшларининг қолдиқ баландлиги Н2, Н3, О3, О4 тоифадаги автотранспорт воситалари учун - 1,0 мм дан кам бўлса; М1, Н1, О1, О2 тоифадаги автотранспорт воситалари учун - 1,6 мм дан, кам бўлса; М2, М3 тоифадаги автотранспорт воситалари учун - 2,0 мм дан кам бўлса;\r\nМотоцикл, электромотоцикл, мопед ва скутерлар учун - 0,8 мм дан кам бўлса.\r\nИзоҳ: тиркамалар шинаси нақшларининг қолдиқ баландлиги шатакчи транспорт воситаси шиналари учун белгиланган меъёр кабидир.",
+      "explanationRu": "Шины имеют остаточную высоту рисунка протектора для автотранспортных средств категории N2, N3, O3, O4 менее 1,0 мм; для M1, N1, O1, O2 менее 1,6 мм, для автотранспортных средств категорий М2, МЗ, менее 2,0 мм, для мотоциклов, электромотоциклов, мопедов и скутеров - если она меньше 0,8 мм.\r\nПримечание: для прицепа устанавливаются нормы остаточной высоты рисунка протектора шин, аналогичные нормам для шин автомобилей-тягачей.",
+      "explanationOz": "YHQ 3 – ilovasi 153 – bandiga asosan:\r\nShina protektori naqshlarining qoldiq balandligi N2, N3, O3, O4 toifadagi avtotransport vositalari uchun - 1,0 mm dan kam bo‘lsa; M1, N1, O1, O2 toifadagi avtotransport vositalari uchun - 1,6 mm dan, kam bo‘lsa; M2, M3 toifadagi avtotransport vositalari uchun - 2,0 mm dan kam bo‘lsa;\r\nMototsikl, elektromototsikl, moped va skuterlar uchun - 0,8 mm dan kam bo‘lsa.\r\nIzoh: tirkamalar shinasi naqshlarining qoldiq balandligi shatakchi transport vositasi shinalari uchun belgilangan me’yor kabidir.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3493,
+          "textUz": "0,8 мм.",
+          "textRu": "0,8 мм.",
+          "textOz": "0,8 mm.",
+          "isCorrect": false
+        },
+        {
+          "id": 3494,
+          "textUz": "1,2 мм.",
+          "textRu": "1,2 мм.",
+          "textOz": "1,2 mm.",
+          "isCorrect": false
+        },
+        {
+          "id": 3495,
+          "textUz": "1,6 мм",
+          "textRu": "1,6 мм.",
+          "textOz": "1,6 mm",
+          "isCorrect": false
+        },
+        {
+          "id": 3496,
+          "textUz": "2 мм.",
+          "textRu": "2 мм.",
+          "textOz": "2 mm.",
+          "isCorrect": true
+        },
+        {
+          "id": 3497,
+          "textUz": "2,5 мм.",
+          "textRu": "2,5 мм.",
+          "textOz": "2,5 mm.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3496
+      ]
+    }
+  ]
+}

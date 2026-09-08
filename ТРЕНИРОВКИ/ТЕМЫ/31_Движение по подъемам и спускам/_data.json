@@ -1,0 +1,103 @@
+{
+  "title": "31. Движение по подъемам и спускам (боб 21)",
+  "count": 3,
+  "questions": [
+    {
+      "id": 916,
+      "questionUz": "Ким йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Kim yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 21 – боби 128 – бандга асосан: Йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларида, қарама – қарши йўналишларда ҳаракатланишни қийинлаштирадиган биром – бир тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак.",
+      "explanationRu": "Предупреждающий знак 1.14 \"Крутой подъем\". Пункту 128 главы 21 ПДД гласит: На уклонах, обозначенных знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск. В данном случае водитель грузового автомобиля движется на спуск, поэтому он должен уступить дорогу.",
+      "explanationOz": "YHQ 21 – bobi 128 – bandga asosan: Yo‘lning 1.13 va 1.14 yo‘l belgilari bilan belgilangan qiyaliklarida, qarama – qarshi yo‘nalishlarda harakatlanishni qiyinlashtiradigan birom – bir to‘siq bo‘lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3005,
+          "textUz": "Юк автомобиль ҳайдовчиси",
+          "textRu": "Водитель грузовика",
+          "textOz": "Yuk avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 3006,
+          "textUz": "Енгил автомобиль ҳайдовчиси",
+          "textRu": "Водитель легкового автомобиля",
+          "textOz": "Engil avtomobil haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3005
+      ]
+    },
+    {
+      "id": 917,
+      "questionUz": "Қайси транспорт воситаси ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasi haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 21-боби 128-бандига асосан, агар йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларда, қарама-қарши йўналишларда ҳаракатланишни қийинлаштирадиган тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак.",
+      "explanationRu": "Согласно пункту 128 главы 21 ПДД, на уклонах, обозначенных дорожными знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск.",
+      "explanationOz": "YHQ 21-bobi 128-bandiga asosan, agar yo'lning 1.13 va 1.14 yo'l belgilari bilan belgilangan qiyaliklarda, qarama-qarshi yo'nalishlarda harakatlanishni qiyinlashtiradigan to'siq bo'lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3007,
+          "textUz": "Автобуснинг ҳайдовчиси",
+          "textRu": "Водитель автобуса",
+          "textOz": "Avtobusning haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 3008,
+          "textUz": "Юк ташувчи автомобилнинг ҳайдовчиси",
+          "textRu": "Водитель грузовика",
+          "textOz": "Yuk tashuvchi avtomobilning haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3008
+      ]
+    },
+    {
+      "id": 918,
+      "questionUz": "Агар тегишли белгилар билан белгиланган қияликларда юзма-юз келаётган транспортларнинг ўтиб кетиши қийин бўлса, йўл бериш зарур:",
+      "questionRu": "Если встречный разъезд на уклонах, обозначенных соответствующими знаками, затруднен, необходимо уступить дорогу:",
+      "questionOz": "Agar tegishli belgilar bilan belgilangan qiyaliklarda yuzma-yuz kelayotgan transportlarning o'tib ketishi qiyin bo'lsa, yo'l berish zarur:",
+      "explanationUz": "ЙҲҚ 21-боби 128-бандига асосан, агар йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларда, қарама-қарши йўналишларда ҳаракатланишни қийинлаштирадиган тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак.",
+      "explanationRu": "Согласно пункту 128 главы 21 ПДД, на уклонах, обозначенных дорожными знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск.",
+      "explanationOz": "YHQ 21-bobi 128-bandiga asosan, agar yo'lning 1.13 va 1.14 yo'l belgilari bilan belgilangan qiyaliklarda, qarama-qarshi yo'nalishlarda harakatlanishni qiyinlashtiradigan to'siq bo'lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/33.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3009,
+          "textUz": "Пастлик томон ҳаракатланаётган транспорт воситасига",
+          "textRu": "Транспортному средству; движущемуся на спуск",
+          "textOz": "Pastlik tomon harakatlanayotgan transport vositasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3010,
+          "textUz": "Белгиланган йўналишдаги транспорт воситасига",
+          "textRu": "Маршрутному транспортному средству",
+          "textOz": "Belgilangan yo'nalishdagi transport vositasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3011,
+          "textUz": "Баландликка ҳаракатланаётган транспорт воситасига",
+          "textRu": "Транспортному средству; движущемуся на подъем",
+          "textOz": "Balandlikka harakatlanayotgan transport vositasiga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3011
+      ]
+    }
+  ]
+}

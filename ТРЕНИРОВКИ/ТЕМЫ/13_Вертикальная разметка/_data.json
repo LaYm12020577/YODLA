@@ -1,0 +1,191 @@
+{
+  "title": "13. Вертикальная разметка (боб 2.2)",
+  "count": 5,
+  "questions": [
+    {
+      "id": 408,
+      "questionUz": "Бу йўл чизиғи нимани билдиради?",
+      "questionRu": "Эта дорожная разметка применяется для обозначения:",
+      "questionOz": "Bu yo'l chizig'i nimani bildiradi?",
+      "explanationUz": "Демак, бу ерда тўғри жавоб — йўл иншоотларининг ҳаракатдаги транспорт воситаларига хавф туғдириши мумкин бўлган тик элементларини билдиради.\r\n\r\nСодда қилиб айтганда, ушбу тик йўл чизиқлари кўприклар, йўл ўтказгичлар, таянчлар ва бошқа йўл иншоотларининг чегараларини кўрсатади. Улар ҳайдовчиларга хавфли жойларни яққол кўрсатиб, транспорт воситасининг ушбу иншоотларга урилиб кетишининг олдини олишга хизмат қилади.\r\n\r\nДемак, амалий маънода бу чизиқлар кўприк ва бошқа йўл иншоотларининг чегараларини билдиради.",
+      "explanationRu": "Правильный ответ заключается в том, что данная вертикальная разметка обозначает элементы дорожных сооружений, которые могут представлять опасность для движущихся транспортных средств.\r\n\r\nЕсли объяснить проще, такая разметка показывает границы мостов, путепроводов, опор и других дорожных сооружений. Она помогает водителям заранее заметить опасные элементы и избежать столкновения с ними.\r\n\r\nСледовательно, на практике эта разметка обозначает границы мостов и других дорожных сооружений.",
+      "explanationOz": "Demak, bu yerda toʻgʻri javob — yoʻl inshootlarining harakatdagi transport vositalariga xavf tugʻdirishi mumkin boʻlgan tik elementlarini bildiradi.\r\n\r\nSodda qilib aytganda, ushbu tik yoʻl chiziqlari ko‘priklar, yo‘l o‘tkazgichlar, tayanchlar va boshqa yoʻl inshootlarining chegaralarini ko‘rsatadi. Ular haydovchilarga xavfli joylarni yaqqol ko‘rsatib, transport vositasining ushbu inshootlarga urilib ketishining oldini olishga xizmat qiladi.\r\n\r\nDemak, amaliy maʼnoda bu chiziqlar ko‘prik va boshqa yo‘l inshootlarining chegaralarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5711,
+          "textUz": "Йўллар остин-устун ўтадиган чорраҳаларни",
+          "textRu": "Дорожной развязки на разных уровнях",
+          "textOz": "Yo'llar ostin-ustun o'tadigan chorrahalarni",
+          "isCorrect": false
+        },
+        {
+          "id": 5712,
+          "textUz": "Ҳаракатланиш тезлиги 40 км/с гача чекланган қисмини",
+          "textRu": "Участка дороги, на котором скорость движения ограничена до 40 км/ч",
+          "textOz": "Harakatlanish tezligi 40 km/s gacha cheklangan qismini",
+          "isCorrect": false
+        },
+        {
+          "id": 5713,
+          "textUz": "Йўл иншоотларининг ҳаракатдаги транспорт воситаларига хавф туғдирадиган тик бўлакларини",
+          "textRu": "Вертикальных элементов дорожных сооружений, когда они представляют опасность для движущихся транспортных средств",
+          "textOz": "Yo'l inshootlarining harakatdagi transport vositalariga xavf tug'diradigan tik bo'laklarini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5713
+      ]
+    },
+    {
+      "id": 409,
+      "questionUz": "Бу тик йўл чизиғи нимани билдиради?",
+      "questionRu": "Что обозначает эта вертикальная дорожная разметка?",
+      "questionOz": "Bu tik yo'l chizig'i nimani bildiradi?",
+      "explanationUz": "Тик йўл чизиқлари бўйича саволларда ушбу чизиқ йўл четидаги тўсиқларнинг ён чегарасини билдиради.\r\n\r\nСодда қилиб айтганда, у ҳайдовчига йўлнинг четида жойлашган тўсиқ ёки ҳимоя қурилмасининг чегарасини кўрсатади.\r\n\r\nЭътибор бериш керак: агар тик чизиқлар оқ-қора зебра кўринишида давом этаётган бўлса, улар одатда хавфли бурилишлар ёки кичик радиусли эгри чизиқлар билан боғлиқ бўлиши мумкин. Аммо ушбу ҳолатда гап кичик радиус ҳақида эмас.\r\n\r\nДемак, тўғри жавоб — йўлнинг бошқа қисмларида йўл четидаги тўсиқларнинг ён чегарасини билдиради.",
+      "explanationRu": "В вопросах по вертикальной разметке данная разметка обозначает боковую границу дорожных ограждений, расположенных у края дороги.\r\n\r\nПроще говоря, она показывает водителю границу защитного ограждения или другого препятствия, находящегося возле проезжей части.\r\n\r\nСледует помнить, что если разметка выполнена в виде чередующихся чёрно-белых полос, она может использоваться для обозначения опасных поворотов или участков с малым радиусом кривой. Однако в данном случае речь идёт не о малом радиусе.\r\n\r\nСледовательно, правильный ответ — обозначает боковую границу дорожных ограждений на других участках дороги.",
+      "explanationOz": "Tik yoʻl chiziqlari bo‘yicha savollarda ushbu chiziq yoʻl chetidagi toʻsiqlarning yon chegarasini bildiradi.\r\n\r\nSodda qilib aytganda, u haydovchiga yoʻlning chetida joylashgan toʻsiq yoki himoya qurilmasining chegarasini ko‘rsatadi.\r\n\r\nEʼtibor berish kerak: agar tik chiziqlar oq-qora zebra ko‘rinishida davom etayotgan bo‘lsa, ular odatda xavfli burilishlar yoki kichik radiusli egri chiziqlar bilan bog‘liq bo‘lishi mumkin. Ammo ushbu holatda gap kichik radius haqida emas.\r\n\r\nDemak, toʻgʻri javob — yoʻlning boshqa qismlarida yoʻl chetidagi toʻsiqlarning yon chegarasini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5714,
+          "textUz": "Йўлнинг хавфли жойларидаги ҳаракатланиш бўлаги чегарасини билдиради",
+          "textRu": "Обозначает границы полос движения в опасных местах на дорогах",
+          "textOz": "Yo'lning xavfli joylaridagi harakatlanish bo'lagi chegarasini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 5715,
+          "textUz": "Йўлнинг бошқа қисмларида йўл четидаги тўсиқларнинг ён чегарасини белгилайди",
+          "textRu": "Обозначает боковые поверхности ограждений дорог на других участках",
+          "textOz": "Yo'lning boshqa qismlarida yo'l chetidagi to'siqlarning yon chegarasini belgilaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 5716,
+          "textUz": "Хавфли йўл қисмларида бордюрларни белгилайди",
+          "textRu": "Обозначает бордюры на опасных участках",
+          "textOz": "Xavfli yo'l qismlarida bordyurlarni belgilaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 5717,
+          "textUz": "Йўналтирувчи устунчалар, бетон ёки темир-бетон устунчалар, тўсиқ устунчалари ва шунга ўхшашларни белгилайди",
+          "textRu": "Обозначает направляющие столбики, надолбы, опоры ограждений и т.п",
+          "textOz": "Yo'naltiruvchi ustunchalar, beton yoki temir-beton ustunchalar, to'siq ustunchalari va shunga o'xshashlarni belgilaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5715
+      ]
+    },
+    {
+      "id": 410,
+      "questionUz": "Мазкур тик чизиқлар нимани англатади?",
+      "questionRu": "Что обозначает данная вертикальная разметка?",
+      "questionOz": "Mazkur tik chiziqlar nimani anglatadi?",
+      "explanationUz": "Кўриб турганингиздек, ушбу чизиқ бир қарашда кичик радиусли бурилишни билдирувчи белгига ўхшаши мумкин. Лекин бу ҳолатда у кичик радиусли бурилишни билдирмайди.\r\n\r\nСабаби, унда уч хил ранг қўлланилган бўлиб, бу йўлнинг бошқа қисмларидаги тўсиқларнинг ён юзаларини билдирувчи тик йўл чизиғи ҳисобланади.\r\n\r\nУшбу чизиқлар ҳайдовчиларга йўл четидаги тўсиқлар, дарахтлар, иншоотлар ёки бошқа хавф туғдириши мумкин бўлган объектларнинг чегараларини кўрсатади. Мақсад — транспорт воситасининг йўлдан чиқиб кетиши ёки тўсиққа урилиб кетишининг олдини олиш.\r\n\r\nДемак, тўғри жавоб — йўлнинг бошқа қисмларидаги тўсиқларнинг ён юзаларини билдиради.",
+      "explanationRu": "Как видно на рисунке, эта разметка может напоминать обозначение поворота малого радиуса. Однако в данном случае она не относится к таким участкам.\r\n\r\nПричина в том, что здесь используется трёхцветная окраска, характерная для вертикальной разметки, обозначающей боковые поверхности препятствий на других участках дороги.\r\n\r\nТакая разметка помогает водителям видеть границы препятствий, деревьев, сооружений и других объектов возле дороги. Её назначение — предотвратить съезд автомобиля с дороги и столкновение с препятствием.\r\n\r\nСледовательно, правильный ответ — обозначает боковые поверхности препятствий на других участках дороги.",
+      "explanationOz": "Koʻrib turganingizdek, ushbu chiziq bir qarashda kichik radiusli burilishni bildiruvchi belgiga oʻxshashi mumkin. Lekin bu holatda u kichik radiusli burilishni bildirmaydi.\r\n\r\nSababi, unda uch xil rang qoʻllanilgan bo‘lib, bu yoʻlning boshqa qismlaridagi toʻsiqlarning yon yuzalarini bildiruvchi tik yoʻl chizigʻi hisoblanadi.\r\n\r\nUshbu chiziqlar haydovchilarga yoʻl chetidagi toʻsiqlar, daraxtlar, inshootlar yoki boshqa xavf tugʻdirishi mumkin bo‘lgan obyektlarning chegaralarini ko‘rsatadi. Maqsad — transport vositasining yoʻldan chiqib ketishi yoki toʻsiqqa urilib ketishining oldini olish.\r\n\r\nDemak, toʻgʻri javob — yoʻlning boshqa qismlaridagi toʻsiqlarning yon yuzalarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/35.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5718,
+          "textUz": "Йўлниг кичик радиусли бурилишларини йўл четига ўрнатилган тўсиқларнинг ён юзаларини билдиради",
+          "textRu": "Боковые поверхности ограждения дорог на закруглениях малого радиуса",
+          "textOz": "Yo'lnig kichik radiusli burilishlarini yo'l chetiga o'rnatilgan to'siqlarning yon yuzalarini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 5719,
+          "textUz": "Бошқа жойлардаги тўсиқларнинг ён юзаларини билдиради",
+          "textRu": "Обозначает боковые поверхности ограждений дорог на других участках",
+          "textOz": "Boshqa joylardagi to'siqlarning yon yuzalarini bildiradi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5719
+      ]
+    },
+    {
+      "id": 411,
+      "questionUz": "Ушбу тик чизиқ нимани билдиради?",
+      "questionRu": "Что означает эта вертикальная разметка?",
+      "questionOz": "Ushbu tik chiziq nimani bildiradi?",
+      "explanationUz": "Агар тик йўл чизиғи зебрасимон, яъни оқ-қора навбатма-навбат чизиқлар кўринишида бўлса, у одатда кичик радиусли бурилишлар, кескин бурилишлар ва бошқа хавфли участкалардаги йўл тўсиқларининг ён юзаларини билдиради.\r\n\r\nБундай чизиқлар ҳайдовчининг эътиборини хавфли жойларга қаратиш ва йўналишни аниқ кўрсатиш учун қўлланилади.\r\n\r\nДемак, тўғри жавоб — йўлнинг кичик радиусли бурилишлари, кескин бурилишлари ва бошқа хавфли жойларидаги йўл тўсиқларининг ён ю��аларини билдиради.",
+      "explanationRu": "Если вертикальная разметка выполнена в виде «зебры», то есть в виде чередующихся чёрно-белых полос, она обычно обозначает боковые поверхности дорожных ограждений на участках с малыми радиусами поворота, крутыми изгибами дороги и в других опасных местах.\r\n\r\nТакая разметка привлекает внимание водителей и помогает лучше ориентироваться на опасных участках дороги.\r\n\r\nСледовательно, правильный ответ — обозначает боковые поверхности дорожных ограждений на участках с малыми радиусами поворота и в других опасных местах.",
+      "explanationOz": "Agar tik yoʻl chizigʻi zebrasimon, yaʼni oq-qora navbatma-navbat chiziqlar ko‘rinishida bo‘lsa, u odatda kichik radiusli burilishlar, keskin burilishlar va boshqa xavfli uchastkalardagi yoʻl toʻsiqlarining yon yuzalarini bildiradi.\r\n\r\nBunday chiziqlar haydovchining eʼtiborini xavfli joylarga qaratish va yoʻnalishni aniq ko‘rsatish uchun qoʻllaniladi.\r\n\r\nDemak, toʻgʻri javob — yoʻlning kichik radiusli burilishlari, keskin burilishlari va boshqa xavfli joylaridagi yoʻl toʻsiqlarining yon yuzalarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/44.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5720,
+          "textUz": "Темир йўл кесишмасига яқинлашганлик ҳақида",
+          "textRu": "О приближении к железнодорожному переезду",
+          "textOz": "Temir yo'l kesishmasiga yaqinlashganlik haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 5721,
+          "textUz": "Хавфли чорраҳага яқинлашганлик ҳақида",
+          "textRu": "О приближении к опасному перекрестку",
+          "textOz": "Xavfli chorrahaga yaqinlashganlik haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 5722,
+          "textUz": "Йўлнинг кичик радиусли бурилиш, тик нишаблик ва бошқа хавфли жойларида йўл тўсиқларининг ён юзаларини билдиради",
+          "textRu": "Обозначает боковые поверхности ограждения дорог на закруглениях малого радиуса крутых спусках и на других опасных участках",
+          "textOz": "Yo'lning kichik radiusli burilish, tik nishablik va boshqa xavfli joylarida yo'l to'siqlarining yon yuzalarini bildiradi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5722
+      ]
+    },
+    {
+      "id": 412,
+      "questionUz": "Йўл тўсиғига чизилган тик чизиқ нимани билдиради?",
+      "questionRu": "О чем обозначает Вас вертикальная разметка, нанесенная на ограждение дороги?",
+      "questionOz": "Yo'l to'sig'iga chizilgan tik chiziq nimani bildiradi?",
+      "explanationUz": "Демак, бу ерда кичик радиусли бурилиш ҳақида гап кетмоқда. Буни зебрасимон, яъни оқ-қора навбатма-навбат чизиқлардан билиб олиш мумкин.\r\n\r\nБундай тик йўл чизиғи йўлнинг кичик радиусли бурилишларида, кескин бурилишларда ва бошқа хавфли жойларда ўрнатилган йўл тўсиқларининг ён юзаларини билдиради.\r\n\r\nДемак, тўғри жавоб — йўлнинг кичик радиусли бурилишлари, кескин бурилишлари ва бошқа хавфли жойларидаги йўл тўсиқларининг ён юзаларини билдиради.",
+      "explanationRu": "Здесь речь идёт об участке с малым радиусом поворота. Это можно определить по разметке в виде «зебры», то есть по чередующимся чёрно-белым полосам.\r\n\r\nТакая вертикальная разметка обозначает боковые поверхности дорожных ограждений на участках с малыми радиусами поворота, крутыми изгибами дороги и в других опасных местах.\r\n\r\nСледовательно, правильный ответ — обозначает боковые поверхности дорожных ограждений на участках с малыми радиусами поворота, крутыми поворотами и в других опасных местах.",
+      "explanationOz": "Demak, bu yerda kichik radiusli burilish haqida gap ketmoqda. Buni zebrasimon, yaʼni oq-qora navbatma-navbat chiziqlardan bilib olish mumkin.\r\n\r\nBunday tik yoʻl chizigʻi yoʻlning kichik radiusli burilishlarida, keskin burilishlarda va boshqa xavfli joylarda oʻrnatilgan yoʻl toʻsiqlarining yon yuzalarini bildiradi.\r\n\r\nDemak, toʻgʻri javob — yoʻlning kichik radiusli burilishlari, keskin burilishlari va boshqa xavfli joylaridagi yoʻl toʻsiqlarining yon yuzalarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5723,
+          "textUz": "Темир йўл кесишмасига яқинлашганлик ҳақида",
+          "textRu": "Обозначает приближении к железнодорожному переезду",
+          "textOz": "Temir yo'l kesishmasiga yaqinlashganlik haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 5724,
+          "textUz": "Хавфли чорраҳага яқинлашганлик ҳақида",
+          "textRu": "Обозначает приближении к опасному перекрестку",
+          "textOz": "Xavfli chorrahaga yaqinlashganlik haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 5725,
+          "textUz": "Йўлнинг кичик радиусли бурилиш, тик нишаблик ва бошқа хавфли жойларда йўл тўсиқларининг ён юзаларини билдиради",
+          "textRu": "Обозначает боковые поверхности ограждений дорог на закруглениях малого радиуса, крутых спусках, других опасных участках",
+          "textOz": "Yo'lning kichik radiusli burilish, tik nishablik va boshqa xavfli joylarda yo'l to'siqlarining yon yuzalarini bildiradi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5725
+      ]
+    }
+  ]
+}

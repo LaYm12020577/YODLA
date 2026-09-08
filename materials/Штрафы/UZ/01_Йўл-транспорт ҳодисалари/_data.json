@@ -1,0 +1,36 @@
+{
+  "category": "Йўл-транспорт ҳодисалари",
+  "count": 3,
+  "fines": [
+    {
+      "article": 133,
+      "subArticle": null,
+      "violation": "Енгил тан жароҳатига олиб келган қоидабузарлик",
+      "fineBhm": "7.00",
+      "fineUzs": "2884000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "ёки 3 йилгача ҳайдовчилик гувоҳномасидан маҳрум этиш",
+      "repeatOffense": false
+    },
+    {
+      "article": 134,
+      "subArticle": null,
+      "violation": "Мол-мулкка зарар етказиш (моддий зарар)",
+      "fineBhm": "4.00",
+      "fineUzs": "1648000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": "ёки 1 йил муддатга ҳайдовчилик гувоҳномасидан маҳрум этиш",
+      "repeatOffense": false
+    },
+    {
+      "article": 134,
+      "subArticle": null,
+      "violation": "ЙТҲ жойидан қочиш",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": "ёки 15 суткагача маъмурий қамоқ, 1-2 йилга гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": false
+    }
+  ]
+}

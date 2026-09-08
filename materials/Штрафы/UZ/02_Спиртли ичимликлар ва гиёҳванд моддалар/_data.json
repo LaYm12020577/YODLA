@@ -1,0 +1,46 @@
+{
+  "category": "Спиртли ичимликлар ва гиёҳванд моддалар",
+  "count": 4,
+  "fines": [
+    {
+      "article": 131,
+      "subArticle": null,
+      "violation": "Маст ҳолатда такрорий транспорт бошқариш",
+      "fineBhm": "50.00",
+      "fineUzs": "20600000",
+      "penaltyPoints": "12.0",
+      "additionalPenalty": "3 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш ёки маъмурий қамоқ",
+      "repeatOffense": true
+    },
+    {
+      "article": 131,
+      "subArticle": 1,
+      "violation": "Маст ҳолда транспорт воситасини бошқариш",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "10.0",
+      "additionalPenalty": "1,5-3 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": false
+    },
+    {
+      "article": 131,
+      "subArticle": 2,
+      "violation": "Мастлик ҳолатида тиббий кўрикдан ўтишдан бош тортиш",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "8.0",
+      "additionalPenalty": "1,5-3 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": false
+    },
+    {
+      "article": 131,
+      "subArticle": 3,
+      "violation": "Маст ҳайдовчига транспорт воситасини бошқарувини топшириш",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

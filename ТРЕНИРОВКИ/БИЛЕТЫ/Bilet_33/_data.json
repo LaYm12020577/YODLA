@@ -1,0 +1,767 @@
+{
+  "title": "Bilet 33",
+  "count": 20,
+  "questions": [
+    {
+      "id": 643,
+      "questionUz": "Автомобил ҳайдовчиси уни бошқа транспорт воситалари қувиб ўтаётганда қандай ҳаракат қилиши керак?",
+      "questionRu": "Как должен действовать водитель автомобиля при обгоне его другим транспортным средством?",
+      "questionOz": "Avtomobil haydovchisi uni boshqa transport vositalari quvib o'tayotganda qanday harakat qilishi kerak?",
+      "explanationUz": "ЙҲҚ 12-боби 84-бандига мувофиқ, қувиб ўтилаётган транспорт воситасининг ҳайдовчисига ҳаракатланиш тезлигини ошириш ёки бошқа хатти-ҳаракатлар билан қувиб ўтишга тўсқинлик қилиш тақиқланади.",
+      "explanationRu": "Согласно пункту 84 главы 12 ПДД, водителю обгоняемого транспортного средства запрещается препятствовать обгону повышением скорости движения или иными действиями.",
+      "explanationOz": "YHQ 12-bobi 84-bandiga muvofiq, quvib o'tilayotgan transport vositasining haydovchisiga harakatlanish tezligini oshirish yoki boshqa xatti-harakatlar bilan quvib o'tishga to'sqinlik qilish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2162,
+          "textUz": "Ҳаракат бўлагини ўзгартирмай, ўнг бурилиш ишорасини бериши",
+          "textRu": "Не изменяя полосы движения, подать сигнал указателем правого поворота",
+          "textOz": "Harakat bo'lagini o'zgartirmay, o'ng burilish ishorasini berishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2163,
+          "textUz": "Ҳаракат тезлигини ошириш ёки бошқа хатти-ҳаракатлар билан қувиб ўтишга тўсқинлик қилмаслиги",
+          "textRu": "Не препятствовать обгону повышением скорости движения или иными действиями",
+          "textOz": "Harakat tezligini oshirish yoki boshqa xatti-harakatlar bilan quvib o'tishga to'sqinlik qilmasligi",
+          "isCorrect": true
+        },
+        {
+          "id": 2164,
+          "textUz": "Ҳаракат тезлигини камайтириши, товуш ишора бериши",
+          "textRu": "Снизить скорость движения, подать звуковой сигнал",
+          "textOz": "Harakat tezligini kamaytirishi, tovush ishora berishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2163
+      ]
+    },
+    {
+      "id": 644,
+      "questionUz": "Бу жойда қувиб ўтишга рухсат этилганми?",
+      "questionRu": "Разрешается ли обгон на этом участке дороги?",
+      "questionOz": "Bu joyda quvib o'tishga ruxsat etilganmi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2165,
+          "textUz": "Қувиб ўтилаётган транспорт воситаси 40 км/с дан кам тезлик билан ҳаракатланганда рухсат этилади",
+          "textRu": "Разрешается если обгоняемый автомобиль движется со скоростью меньше чем 40 км/ч",
+          "textOz": "Quvib o'tilayotgan transport vositasi 40 km/s dan kam tezlik bilan harakatlanganda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2166,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2167,
+          "textUz": "Агар қувиб ўтиш темир йўл кесишмасигача тугаса, рухсат этилади",
+          "textRu": "Разрешается, если обгон завершается до железнодорожного переезда",
+          "textOz": "Agar quvib o'tish temir yo'l kesishmasigacha tugasa, ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2166
+      ]
+    },
+    {
+      "id": 645,
+      "questionUz": "Сиз қувиб ўтиш учун чиқдингиз ва бехосдан рўпарадан келаётган автобусни кўриб қолдингиз. Агар Сиз қувиб ўтишни тугаллай олишингизга ишончингиз бўлмаса, Сиз:",
+      "questionRu": "Вы выехали для обгона и неожиданно увидели встречный автомобиль. Если Вы не уверены в том что сумеете завершить обгон. Вы должны:",
+      "questionOz": "Siz quvib o'tish uchun chiqdingiz va bexosdan ro'paradan kelayotgan avtobusni ko'rib qoldingiz. Agar Siz quvib o'tishni tugallay olishingizga ishonchingiz bo'lmasa, Siz:",
+      "explanationUz": "ЙҲҚ 12-боби 82-банди, қувиб ўтишни бошлашдан олдин ҳайдовчи ўзи ўтмоқчи бўлган ҳаракатланиш бўлаги қувиб ўтиш учун етарлича масофада бўш эканлигига, қувиб ўтиш жараёнида ҳаракатланишга хавф туғдирмаслигига ва бошқа ҳаракат қатнашчиларига халақит бермаслигига, қувиб ўтишни тугаллаётганда қувиб ўтилаётган транспорт воситасига халақит бермасдан илгари эгаллаган қаторга қайтиб ўта олишига ишонч ҳосил қилиши шарт.",
+      "explanationRu": "Согласно пункту 82 главы 12 ПДД, прежде чем начать обгон водитель обязан убедиться в том, что полоса движения, на которую он намерен выехать, свободна на достаточном для обгона расстоянии и в процессе обгона он не создаст опасности для движения и помех другим участникам движения, по завершении обгона он сможет, не создавая помех обгоняемому транспортному средству, вернуться на ранее занимаемую полосу.",
+      "explanationOz": "YHQ 12-bobi 82-bandi, quvib o'tishni boshlashdan oldin haydovchi o'zi o'tmoqchi bo'lgan harakatlanish bo'lagi quvib o'tish uchun yetarlicha masofada bo'sh ekanligiga, quvib o'tish jarayonida harakatlanishga xavf tug'dirmasligiga va boshqa harakat qatnashchilariga xalaqit bermasligiga, quvib o'tishni tugallayotganda quvib o'tilayotgan transport vositasiga xalaqit bermasdan ilgari egallagan qatorga qaytib o'ta olishiga ishonch hosil qilishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2168,
+          "textUz": "Товуш хабарини бериб ва фараларни ёқиб қувиб ўтишни уни тугаллагунча давом эттиришингиз керак",
+          "textRu": "Продолжить обгон до его завершения подавая звуковой сигнал и включив фары",
+          "textOz": "Tovush xabarini berib va faralarni yoqib quvib o'tishni uni tugallaguncha davom ettirishingiz kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2169,
+          "textUz": "Тезликни аста кўпайтиришингиз ва қувиб ўтишни тезроқ тугаллашингиз керак",
+          "textRu": "Слегка увеличить скорость и быстрее завершить обгон",
+          "textOz": "Tezlikni asta ko'paytirishingiz va quvib o'tishni tezroq tugallashingiz kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2170,
+          "textUz": "Тезликни камайтиришингиз ва аввал эгаллаган бўлагингизга қайтишингиз керак",
+          "textRu": "Снизить скорость и вернуться на ранее занимаемую полосу",
+          "textOz": "Tezlikni kamaytirishingiz va avval egallagan bo'lagingizga qaytishingiz kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2170
+      ]
+    },
+    {
+      "id": 646,
+      "questionUz": "Тягач ҳайдовчиси нима қилиши керак?",
+      "questionRu": "Что должен делать водитель тягача?",
+      "questionOz": "Tyagach haydovchisi nima qilishi kerak?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4615,
+          "textUz": "Хавфли бурилишдан 100 метр ўтиб туриб тўхташ ва орқасида тўпланган транспорт воситаларини ўтказиб юбориши",
+          "textRu": "Через 100 метров от опасного поворота остановиться и пропустить автомобили скопившиеся сзади",
+          "textOz": "Xavfli burilishdan 100 metr o'tib turib to'xtash va orqasida to'plangan transport vositalarini o'tkazib yuborishi",
+          "isCorrect": true
+        },
+        {
+          "id": 4616,
+          "textUz": "Ўша тезлик билан ҳаракатни давом эттириши",
+          "textRu": "Продолжать движение не изменяя скорость",
+          "textOz": "O'sha tezlik bilan harakatni davom ettirishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4617,
+          "textUz": "Қўли билан ўзини рўпара бўлакдан қувиб ўтишлари ҳақида ишора қилиши керак",
+          "textRu": "Указать рукой на обгон по параллельной полосе",
+          "textOz": "Qo'li bilan o'zini ro'para bo'lakdan quvib o'tishlari haqida ishora qilishi kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4615
+      ]
+    },
+    {
+      "id": 647,
+      "questionUz": "Мазкур вазиятда қизил автомобилга қувиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли водителю красного автомобиля выполнить обгон в данной ситуации?",
+      "questionOz": "Mazkur vaziyatda qizil avtomobilga quvib o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 12-боби 86-банди 2-хатбошига асосан, қувиб ўтиш қуйидаги ҳолларда тақиқланади - тартибга солинмайдиган чорраҳаларда асосий ҳисобланмайдиган йўлларда ҳаракатланишда.",
+      "explanationRu": "Согласно абзацу 2 пункта 86 главы 12 ПДД, обгон запрещен - на нерегулируемых перекрестках при движении по дороге, не являющейся главной.",
+      "explanationOz": "YHQ 12-bobi 86-bandi 2-xatboshiga asosan, quvib o'tish quyidagi hollarda taqiqlanadi - tartibga solinmaydigan chorrahalarda asosiy hisoblanmaydigan yo'llarda harakatlanishda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2174,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 2175,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2176,
+          "textUz": "Қувиб ўтилаётган транспорт воситасинг тезлиги 40 км/с дан кам бўлганда рухсат этилади",
+          "textRu": "Разрешается при условии; что скорость обгоняемого менее 40 км/ч",
+          "textOz": "Quvib o'tilayotgan transport vositasing tezligi 40 km/s dan kam bo'lganda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2174
+      ]
+    },
+    {
+      "id": 648,
+      "questionUz": "Аҳоли пунктларида маълум ҳаракат тезлигига риоя этаётган йирик ўлчамли транспорт воситасининг ҳайдовчиси қандай йўл тутиши керак?",
+      "questionRu": "Как должен поступить водитель крупногабаритного транспортного средства, соблюдающего определенную скорость движения в населенном пункте?",
+      "questionOz": "Aholi punktlarida malum harakat tezligiga rioya etayotgan yirik o'lchamli transport vositasining haydovchisi qanday yo'l tutishi kerak?",
+      "explanationUz": "ЙҲҚ 12-боби 87 бандига асосан, аҳоли пунктларидан ташқаридаги йўлларда секин ҳаракатланадиган, катта ҳажмли ёки катта ҳажмли юк ташиётган транспорт воситасини қувиб ўтиш қийин бўлган ҳолларда унинг ҳайдовчиси ушбу транспорт воситасини иложи борича йўлнинг ўнг томонига олиши, зарур бўлганда эса орқасида тўпланиб қолган транспорт воситаларини ўтказиб юбориш учун тўхташи керак. Аҳоли пунктларида эса юқорида келтирилган талаблар йўқ, у ҳаракатни давом эттириши мумкин.",
+      "explanationRu": "Согласно пункту 87 главы 12 ПДД, водитель тихоходного или крупногабаритного транспортного средства вне населённых пунктов в случаях, когда обгон этого транспортного средства затруднён, должен принять как можно правее, а при необходимости – остановиться, чтобы пропустить скопившиеся за ним транспортные средства. Однако, в населенных пунктах нет вышеупомянутых требований,  он может продолжить движение.",
+      "explanationOz": "YHQ 12-bobi 87 bandiga asosan, aholi punktlaridan tashqaridagi yo'llarda sekin harakatlanadigan, katta hajmli yoki katta hajmli yuk tashiyotgan transport vositasini quvib o'tish qiyin bo'lgan hollarda uning haydovchisi ushbu transport vositasini iloji boricha yo'lning o'ng tomoniga olishi, zarur bo'lganda esa orqasida to'planib qolgan transport vositalarini o'tkazib yuborish uchun to'xtashi kerak. Aholi punktlarida esa yuqorida keltirilgan talablar yo'q, u harakatni davom ettirishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/27.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4618,
+          "textUz": "Тўхташи ва орқасида тўпланиб қолган транспорт воситаларини ўтказиб юбориши",
+          "textRu": "Остановиться и пропустить скопившиеся за ним транспортные средства",
+          "textOz": "To'xtashi va orqasida to'planib qolgan transport vositalarini o'tkazib yuborishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4619,
+          "textUz": "Ҳаракатни давом эттириши",
+          "textRu": "Продолжить движение",
+          "textOz": "Harakatni davom ettirishi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4619
+      ]
+    },
+    {
+      "id": 649,
+      "questionUz": "Мазкур вазиятда қувиб ўтишга рухсат этилган��и?",
+      "questionRu": "Разрешен ли обгон в данной ситуации?",
+      "questionOz": "Mazkur vaziyatda quvib o'tishga ruxsat etilganmi?",
+      "explanationUz": "ЙҲҚ 12-боби 86-банд 4-хатбошисига асосан, темир йўл кесишмаларида ва уларгача 100 метрдан кам масофа қолганда қувиб ўтиш тақиқланади. Аҳоли пунктларидан ташқарида такрорланадиган иккинчи 1.2 белги йўлнинг хавфли қисми бошланишига камида 50 метр (кўпи билан 100 метр) қолганда ўрнатилади.",
+      "explanationRu": "Согласно абзацу 4 пункта 86 главы 12 ПДД, обгон запрещён на железнодорожных переездах и ближе чем за 100 метр перед ними. Вне населенных пунктов знак 1.2. повторяются. Второй знак устанавливается на расстоянии не менее 50 метр (не более 100 метр) до начала опасного участка.",
+      "explanationOz": "YHQ 12-bobi 86-band 4-xatboshisiga asosan, temir yo'l kesishmalarida va ulargacha 100 metrdan kam masofa qolganda quvib o'tish taqiqlanadi. Aholi punktlaridan tashqarida takrorlanadigan ikkinchi 1.2 belgi yo'lning xavfli qismi boshlanishiga kamida 50 metr (ko'pi bilan 100 metr) qolganda o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/27.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2179,
+          "textUz": "40 км/соатдан кам тезлик билан ҳаракатланаётган фақат якка транспорт воситаларига рухсат этилган",
+          "textRu": "Разрешен, только одиночных транспортных средств, движущихся со скоростью менее 40 км/час",
+          "textOz": "40 km/soatdan kam tezlik bilan harakatlanayotgan faqat yakka transport vositalariga ruxsat etilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 2180,
+          "textUz": "Тақиқланган",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlangan",
+          "isCorrect": true
+        },
+        {
+          "id": 2181,
+          "textUz": "Ҳамма ҳолларда рухсат этилган",
+          "textRu": "Разрешен во всех случаях",
+          "textOz": "Hamma hollarda ruxsat etilgan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2180
+      ]
+    },
+    {
+      "id": 650,
+      "questionUz": "Қувиб ўтиш нима?",
+      "questionRu": "Что такое обгон?",
+      "questionOz": "Quvib o'tish nima?",
+      "explanationUz": "ЙҲҚ 1-боби 6-банди 24-тушунчасига асосан, қувиб ўтиш — бир ёки бир нечта транспорт воситаларини қарама-қарши йўналишда ҳаракатланиш учун мўлжалланган тасмага чиқиб, сўнгра илгари эгаллаган қаторига қайтиб ўтиш билан боғлиқ бўлган ўзиб кетиш.",
+      "explanationRu": "Согласно определению 24 пункт 6 главы 1 ПДД, обгон – опережение одного или нескольких транспортных средств, связанное с выездом на полосу, предназначенную для встречного движения, и последующим возвращением на ранее занимаемую полосу.",
+      "explanationOz": "YHQ 1-bobi 6-bandi 24-tushunchasiga asosan, quvib o'tish — bir yoki bir nechta transport vositalarini qarama-qarshi yo'nalishda harakatlanish uchun mo'ljallangan tasmaga chiqib, so'ngra ilgari egallagan qatoriga qaytib o'tish bilan bog'liq bo'lgan o'zib ketish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2182,
+          "textUz": "Эгаллаган ҳаракатланиш бўлагидан чиқиб олдинда кетаётган транспорт воситасидан ўзиб кетиш",
+          "textRu": "Опережение одного или нескольких транспортных средств другим связанное с выездом из занимаемой полосы",
+          "textOz": "Egallagan harakatlanish bo'lagidan chiqib oldinda ketayotgan transport vositasidan o'zib ketish",
+          "isCorrect": false
+        },
+        {
+          "id": 2183,
+          "textUz": "Бир ёки бир нечта транспорт воситаларини қарама-қарши йўналишда ҳаракатланиш учун мўлжалланган тасмага чиқиб, сўнгра илгари эгаллаган қаторига қайтиб ўтиш билан боғлиқ бўлган ўзиб кетиш",
+          "textRu": "Опережение одного или нескольких транспортных средств, связанное с выездом на полосу встречного движения и последующим возвращением на ранее занимаемую полосу",
+          "textOz": "Bir yoki bir nechta transport vositalarini qarama-qarshi yo'nalishda harakatlanish uchun mo'ljallangan tasmaga chiqib, so'ngra ilgari egallagan qatoriga qaytib o'tish bilan bog'liq bo'lgan o'zib ketish",
+          "isCorrect": true
+        },
+        {
+          "id": 2184,
+          "textUz": "Кам тезлик билан қўшни қаторда ҳаракатланаётган бир ёки бир қанча транспорт воситаларидан ўзиб кетиш",
+          "textRu": "Опережение одного или нескольких транспортных средств движущихся в соседнем ряду с меньшей скоростью",
+          "textOz": "Kam tezlik bilan qo'shni qatorda harakatlanayotgan bir yoki bir qancha transport vositalaridan o'zib ketish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2183
+      ]
+    },
+    {
+      "id": 651,
+      "questionUz": "Ҳайдовчи қувиб ўтишни бошлашдан олдин нимага ишонч ҳосил қилиши керак?",
+      "questionRu": "В чем должен убедиться водитель прежде чем начать обгон?",
+      "questionOz": "Haydovchi quvib o'tishni boshlashdan oldin nimaga ishonch hosil qilishi kerak?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 12-bobi 82-bandi 3-xatboshiga asosan, quvib o'tishni boshlashdan oldin haydovchi shu tasmada orqada harakatlanayotgan transport vositasi quvib o'tishni boshlamaganligiga ishonch hosil qilishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2185,
+          "textUz": "Қувиб ўтаётган транспорт воситасидан анча тезроқ ҳаракатланишига",
+          "textRu": "В том что он движется гораздо быстрее водителя обгоняемого транспортного средства",
+          "textOz": "Quvib o'tayotgan transport vositasidan ancha tezroq harakatlanishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2186,
+          "textUz": "Шу бўлак бўйича олдинда ҳаракатланаётган транспорт воситасининг ҳайдовчиси чапга бурилиш (қайта тизилиш) ҳақида ишора бермаганига",
+          "textRu": "В том что водитель транспортного средства движущегося впереди по той же полосе не подал сигнал о повороте (перестроении) налево",
+          "textOz": "Shu bo'lak bo'yicha oldinda harakatlanayotgan transport vositasining haydovchisi chapga burilish (qayta tizilish) haqida ishora bermaganiga",
+          "isCorrect": true
+        },
+        {
+          "id": 2187,
+          "textUz": "У чиқишга мўлжалланган йўл қисми 1000 м масофада бўш эканлигига",
+          "textRu": "В том что участок дороги на который он намерен выехать свободен на расстоянии 1000 м",
+          "textOz": "U chiqishga mo'ljallangan yo'l qismi 1000 m masofada bo'sh ekanligiga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2186
+      ]
+    },
+    {
+      "id": 652,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси қувиб ўтишни тўғри бажаряпти?",
+      "questionRu": "Водитель какого транспортного средства правильно выполняет обгон?",
+      "questionOz": "Qaysi transport vositasining haydovchisi quvib o'tishni to'g'ri bajaryapti?",
+      "explanationUz": "ЙҲҚ 10-бобининг 66-бандига мувофиқ, ҳаракат икки томонлама бўлган ва чизиқлар билан белгиланган (1.9 йўл чизиғи билан белгиланганидан ташқари) учта тасмали йўлларда, икки йўналишда ҳаракатланиш учун мўлжалланган ўрта қаторга фақат қувиб ўтиш, айланиб ўтиш, чапга бурилиш ва қайрилиб олиш учунгина чиқишга рухсат этилади. Қарама-қарши йўналишда ҳаракатланиш учун мўлжалланган четки чап қаторни эгаллаш тақиқланади.",
+      "explanationRu": "Согласно пункту 66 главы 10 ПДД, на дорогах с двусторонним движением, имеющих три полосы, обозначенные разметкой (за исключением дорожной разметки 1.9), из которых средняя используется для движения в обоих направлениях, разрешается выезжать на эту полосу только для обгона, объезда, поворота налево или разворота. Выезжать на крайнюю левую полосу, предназначенную для встречного движения, запрещается.",
+      "explanationOz": "YHQ 10-bobining 66-bandiga muvofiq, harakat ikki tomonlama bo'lgan va chiziqlar bilan belgilangan (1.9 yo'l chizig'i bilan belgilanganidan tashqari) uchta tasmali yo'llarda, ikki yo'nalishda harakatlanish uchun mo'ljallangan o'rta qatorga faqat quvib o'tish, aylanib o'tish, chapga burilish va qayrilib olish uchungina chiqishga ruxsat etiladi. Qarama-qarshi yo'nalishda harakatlanish uchun mo'ljallangan chetki chap qatorni egallash taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/31.7.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2188,
+          "textUz": "Юк автомобилининг ҳайдовчиси",
+          "textRu": "Водитель грузового автомобиля",
+          "textOz": "Yuk avtomobilining haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2189,
+          "textUz": "Енгил автомобилнинг ҳайдовчиси",
+          "textRu": "Водитель легкового автомобиля",
+          "textOz": "Engil avtomobilning haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2190,
+          "textUz": "Ҳар иккиси тўғри",
+          "textRu": "Оба правильно",
+          "textOz": "Har ikkisi to'g'ri",
+          "isCorrect": false
+        },
+        {
+          "id": 2191,
+          "textUz": "Ҳар иккиси нотўғри",
+          "textRu": "Оба неправильно",
+          "textOz": "Har ikkisi noto'g'ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2188
+      ]
+    },
+    {
+      "id": 653,
+      "questionUz": "Қувиб ўтилаётган транспорт воситасининг ҳайдовчисига нима тақиқланади?",
+      "questionRu": "Что запрещается водителю обгоняемого транспортного средства?",
+      "questionOz": "Quvib o'tilayotgan transport vositasining haydovchisiga nima taqiqlanadi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2192,
+          "textUz": "40 км/соатдан ортиқ тезлик билан ҳаракат қилиш",
+          "textRu": "Двигаться со скоростью более 40 км/час",
+          "textOz": "40 km/soatdan ortiq tezlik bilan harakat qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2193,
+          "textUz": "Ўз транспорт воситасининг ҳаракат тезлигини камайтириш билан қувиб ўтишга тўсқинлик қилиш",
+          "textRu": "Препятствовать обгону снижением скорости движения своего транспортного средства",
+          "textOz": "O'z transport vositasining harakat tezligini kamaytirish bilan quvib o'tishga to'sqinlik qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 2194,
+          "textUz": "Ҳаракат тезлигини ошириш ёки бошқа ҳатти-ҳаракатлар йўли билан қувиб ўтишга тўсқинлик қилиш",
+          "textRu": "Препятствовать обгону путем повышения скорости движения или иными действиями",
+          "textOz": "Harakat tezligini oshirish yoki boshqa hatti-harakatlar yo'li bilan quvib o'tishga to'sqinlik qilish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2194
+      ]
+    },
+    {
+      "id": 654,
+      "questionUz": "Қувиб ўтиш қайси ҳоллардан тақиқланади?",
+      "questionRu": "Обгон запрещается?",
+      "questionOz": "Quvib o'tish qaysi hollardan taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 12-боби 86-банд 4-хатбошисига асосан, темир йўл кесишмаларида ва уларгача 100 метрдан кам масофа қолганда қувиб ўтиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 4 пункта 86 главы 12 ПДД, обгон запрещён на железнодорожных переездах и ближе чем за 100 метр перед ними.",
+      "explanationOz": "YHQ 12-bobi 86-band 4-xatboshisiga asosan, temir yo'l kesishmalarida va ulargacha 100 metrdan kam masofa qolganda quvib o'tish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2195,
+          "textUz": "Темир йўл кесишмаларида ва уларгача 100 м дан кам масофа қолганда",
+          "textRu": "На железнодорожных переездах и ближе; чем за 100 м перед ними",
+          "textOz": "Temir yo'l kesishmalarida va ulargacha 100 m dan kam masofa qolganda",
+          "isCorrect": true
+        },
+        {
+          "id": 2196,
+          "textUz": "Темир йўл кесишмаларида ва уларгача 100 м дан кўп масофа қолганда",
+          "textRu": "На железнодорожных переездах и более чем 100 м от них",
+          "textOz": "Temir yo'l kesishmalarida va ulargacha 100 m dan ko'p masofa qolganda",
+          "isCorrect": false
+        },
+        {
+          "id": 2197,
+          "textUz": "Темир йўл кесишмаларида ва аҳоли яшайдиган жойлардан ташқарида улардан 100 м кўп масофа қолганда",
+          "textRu": "На железнодорожных переездах и более чем 100 м от них вне населенных пунктов",
+          "textOz": "Temir yo'l kesishmalarida va aholi yashaydigan joylardan tashqarida ulardan 100 m ko'p masofa qolganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2195
+      ]
+    },
+    {
+      "id": 655,
+      "questionUz": "Бу жойда автобусни қувиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли обгонять автобус в этом месте?",
+      "questionOz": "Bu joyda avtobusni quvib o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 12-боби 86-банд 4-хатбошисига асосан, темир йўл кесишмаларида ва уларгача 100 ме��рдан кам масофа қолганда қувиб ўтиш тақиқланади. Аҳоли пунктларидан ташқарида такрорланадиган биринчи 1.1 белги йўлнинг хавфли қисми бошланишидан 150 — 300 метр олдин ўрнатилади.",
+      "explanationRu": "Согласно абзацу 4 пункта 86 главы 12 ПДД, обгон запрещён на железнодорожных переездах и ближе чем за 100 метр перед ними. Вне населенных пунктов знак 1.1. повторяются. Первый знак устанавливается на расстоянии 150 — 300 м до начала опасного участка..",
+      "explanationOz": "YHQ 12-bobi 86-band 4-xatboshisiga asosan, temir yo‘l kesishmalarida va ulargacha 100 metrdan kam masofa qolganda quvib o‘tish taqiqlanadi. Aholi punktlaridan tashqarida takrorlanadigan birinchi 1.1 belgi yo‘lning xavfli qismi boshlanishidan 150 — 300 metr oldin o‘rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/33.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2198,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 2199,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2198
+      ]
+    },
+    {
+      "id": 656,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси қувиб ўтишни тўғри бажаряпти?",
+      "questionRu": "Водитель какого транспортного средства выполняет обгон правильно?",
+      "questionOz": "Qaysi transport vositasining haydovchisi quvib o'tishni to'g'ri bajaryapti?",
+      "explanationUz": "ЙҲҚ 10-бобининг 66-бандига мувофиқ, ҳаракат икки томонлама бўлган ва чизиқлар билан белгиланган (1.9 йўл чизиғи билан белгиланганидан ташқари) учта тасмали йўлларда, икки йўналишда ҳаракатланиш учун мўлжалланган ўрта қаторга фақат қувиб ўтиш, айланиб ўтиш, чапга бурилиш ва қайрилиб олиш учунгина чиқишга рухсат этилади. Қарама-қарши йўналишда ҳаракатланиш учун мўлжалланган четки чап қаторни эгаллаш тақиқланади.",
+      "explanationRu": "Согласно пункту 66 главы 10 ПДД, на дорогах с двусторонним движением, имеющих три полосы, обозначенные разметкой (за исключением дорожной разметки 1.9), из которых средняя используется для движения в обоих направлениях, разрешается выезжать на эту полосу только для обгона, объезда, поворота налево или разворота. Выезжать на крайнюю левую полосу, предназначенную для встречного движения, запрещается.",
+      "explanationOz": "YHQ 10-bobining 66-bandiga muvofiq, harakat ikki tomonlama bo'lgan va chiziqlar bilan belgilangan (1.9 yo'l chizig'i bilan belgilanganidan tashqari) uchta tasmali yo'llarda, ikki yo'nalishda harakatlanish uchun mo'ljallangan o'rta qatorga faqat quvib o'tish, aylanib o'tish, chapga burilish va qayrilib olish uchungina chiqishga ruxsat etiladi. Qarama-qarshi yo'nalishda harakatlanish uchun mo'ljallangan chetki chap qatorni egallash taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/35.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2200,
+          "textUz": "Яшил автомобил ҳайдовчиси",
+          "textRu": "Водитель зеленого автомобиля",
+          "textOz": "Yashil avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2201,
+          "textUz": "Кўк автомобил ҳайдовчиси",
+          "textRu": "Водитель синего автомобиля",
+          "textOz": "Ko'k avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2202,
+          "textUz": "Иккала ҳайдовчи тўғри бажармоқда",
+          "textRu": "Оба водителя правильно обгоняют",
+          "textOz": "Ikkala haydovchi to'g'ri bajarmoqda",
+          "isCorrect": false
+        },
+        {
+          "id": 2203,
+          "textUz": "Иккала ҳайдовчиларга қувиб ўтиш тақиқланган",
+          "textRu": "Обоим водителям обгон запрещен",
+          "textOz": "Ikkala haydovchilarga quvib o'tish taqiqlangan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2200
+      ]
+    },
+    {
+      "id": 657,
+      "questionUz": "Темир йўл кесишмалари ва уларга яқин жойларда қувиб ўтишга тегишли қандай йўл ҳаракати қоидалари амал қилади?",
+      "questionRu": "Какие ограничения, относящиеся к обгону, действуют на железнодорожных переездах и вблизи них?",
+      "questionOz": "Temir yo'l kesishmalari va ularga yaqin joylarda quvib o'tishga tegishli qanday yo'l harakati qoidalari amal qiladi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.20 йўл чизиғига асосан, ҳайдовчини 1.13 чизиғига яқинлашаётгани ҳақида огоҳлантиради.\r\nЙҲҚ 2-иловасининг 1-бўлимидаги 1.13 йўл чизиғига асосан, кесишаётган йўлда ҳаракатланаётган транспорт воситасига йўл бериш учун тўхташ зарур бўлганда, ҳайдовчига транспорт воситасини тўхтатиш жойини кўрсатади.",
+      "explanationRu": "Дорожная разметка 1.20 раздела 1 приложения № 2 к ПДД, предупреждает о приближении к разметке 1.13.\r\nДорожная разметка 1.13 раздела 1 приложения № 2 к ПДД, указывает место, где водитель должен при необходимости остановиться, уступая дорогу транспортным средствам, движущимся по пересекаемой дороге.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo‘limidagi 1.20 yo‘l chizig‘iga asosan, haydovchini 1.13 chizig‘iga yaqinlashayotgani haqida ogohlantiradi.\r\nYHQ 2-ilovasining 1-bo‘limidagi 1.13 yo‘l chizig‘iga asosan, kesishayotgan yo‘lda harakatlanayotgan transport vositasiga yo‘l berish uchun to‘xtash zarur bo‘lganda, haydovchiga transport vositasini to‘xtatish joyini ko‘rsatadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2204,
+          "textUz": "Темир йўл кесишмаларида ва уларга 100 метрдан кам масофа қолганда қувиб ўтиш тақиқланади                ",
+          "textRu": "Обгон запрещен на переезде и ближе чем за 100 м перед ним",
+          "textOz": "Temir yo'l kesishmalarida va ularga 100 metrdan kam masofa qolganda quvib o'tish taqiqlanadi                ",
+          "isCorrect": true
+        },
+        {
+          "id": 2205,
+          "textUz": "Қувиб ўтиш фақат темир йўл кесишмаларидан кейин тақиқланади",
+          "textRu": "Обгон запрещен только на после переезда",
+          "textOz": "Quvib o'tish faqat temir yo'l kesishmalaridan keyin taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2206,
+          "textUz": "Темир йўл кесишмаларида, уларга 100 метрдан кам масофа қолганда ва темир йўл кесишмаларидан кейин 100 метр  давомида қувиб ўтиш тақиқланади ",
+          "textRu": "Обгон запрещен на переезде и на расстоянии 100 м до и после него",
+          "textOz": "Temir yo'l kesishmalarida, ularga 100 metrdan kam masofa qolganda va temir yo'l kesishmalaridan keyin 100 metr  davomida quvib o'tish taqiqlanadi ",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2204
+      ]
+    },
+    {
+      "id": 658,
+      "questionUz": "Қандай холларда қувиб ўтиш тақиқланади?",
+      "questionRu": "В каких случаях обгон запрещен?",
+      "questionOz": "Qanday xollarda quvib o'tish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 2-боби 9-банди: Қуйидаги шахсларга хавфсизлик камарини тақмасликка рухсат берилади:\r\n- автомобилнинг орқа ўриндиғидаги 12 ёшгача бўлган болалар (ушбу Қоидаларнинг 159-бандига мувофиқ);\r\n- ҳомиладор аёллар;\r\n- саломатлиги хавфсизлик камари тақиш имконини бермайдиган беморлар (Соғлиқни сақлаш вазирлиги томонидан белгиланган касалликлар рўйхатига мувофиқ ва ушбу касалликлар билан касалланганлиги бўйича тиббий маълумотнома мавжуд бўлганда).",
+      "explanationRu": "Пункта 9 главы 2 ПДД, гласит: — детям до 12 лет, находящимся на заднем сиденье автомобиля (в соответствии с пунктом 159 Правил);\r\n— беременным женщинам, больным (при наличии справки согласно министерству Здравоохранения перечня болезней и при наличии заболеваний согласно этого перечня), состояние которых не позволяет им пристегнуться ремнем безопасности;",
+      "explanationOz": "YHQ 2-bobi 9-bandi: Quyidagi shaxslarga xavfsizlik kamarini taqmaslikka ruxsat beriladi:\r\n- avtomobilning orqa o‘rindig‘idagi 12 yoshgacha bo‘lgan bolalar (ushbu Qoidalarning 159-bandiga muvofiq);\r\n- homilador ayollar;\r\n- salomatligi xavfsizlik kamari taqish imkonini bermaydigan bemorlar (Sog‘liqni saqlash vazirligi tomonidan belgilangan kasalliklar ro‘yxatiga muvofiq va ushbu kasalliklar bilan kasallanganligi bo‘yicha tibbiy ma’lumotnoma mavjud bo‘lganda).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2207,
+          "textUz": "Тартибга солинган чорахаларда",
+          "textRu": "На регулируемых перекрёстках",
+          "textOz": "Tartibga solingan choraxalarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2208,
+          "textUz": "Тепаликнинг охирида ва йўлнинг кўриниши чекланган жойларда",
+          "textRu": "В конце подъёма и на других участках дорог с ограничения видимостю",
+          "textOz": "Tepalikning oxirida va yo'lning ko'rinishi cheklangan joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2209,
+          "textUz": "Тартибга солинмаган чорахаларда асосий хисобланмайдиган йўлларда харакатланишда",
+          "textRu": "На нерегулируемых перекрёстках при движении по дороге не являешься главной",
+          "textOz": "Tartibga solinmagan choraxalarda asosiy xisoblanmaydigan yo'llarda xarakatlanishda",
+          "isCorrect": false
+        },
+        {
+          "id": 2210,
+          "textUz": "Санаб ўтилган барча холларда",
+          "textRu": "Во всех причисленных случаях",
+          "textOz": "Sanab o'tilgan barcha xollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2210
+      ]
+    },
+    {
+      "id": 659,
+      "questionUz": "Бу белгилардан қайси бири мактаб ва мактабгача таълим ташкилотлари олдида ўрнатилади?",
+      "questionRu": "Какой из этих знаков установлен перед школами и дошкольными образовательными организациями?",
+      "questionOz": "Bu belgilardan qaysi biri maktab va maktabgacha talim tashkilotlari oldida o'rnatiladi?",
+      "explanationUz": "ЙҲҚ 7-боби 31-бандига мувофиқ, светофорнинг доирали яшил ишораси ҳаракатланишга рухсат беради. ЙҲҚ 7-боби 36-бандига мувофиқ, трамвайларнинг ҳаракатланишини тартибга солиш учун «Т» — ҳарфи кўринишида жойлашган тўртта доирасимон оқ ранг ишорали светофорлар қўлланилиши мумкин. Юқоридаги бир ёки бир нечта ва пастки ишора бир вақтнинг ўзида ёнганда, ҳаракатланишга рухсат этилади. Улардан чапдагиси чапга, ўнгдагиси ўнг томонга бурилишга, ўртадагиси тўғрига юришга рухсат беради. Агар юқоридаги учта ишора бир вақтда ёнса, ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно пункта 31 главы 7 ПДД, круглый зеленый сигнал светофора разрешает движение. Согласно пункта 36 главы 7 ПДД, для регулирования движения трамваев, могут применяться светофоры с четырьмя круглыми сигналами бело-лунного цвета, расположенными в виде буквы «Т». Движение разрешается при включении одновременно нижнего сигнала и одного или нескольких верхних. Из них левый разрешает движение налево, средний — прямо, правый — направо. Если включены только три верхних сигнала, то движение запрещено.",
+      "explanationOz": "YHQ 7-bobi 31-bandiga muvofiq, svetoforning doirali yashil ishorasi harakatlanishga ruxsat beradi. YHQ 7-bobi 36-bandiga muvofiq, tramvaylarning harakatlanishini tartibga solish uchun \"T\" — harfi ko'rinishida joylashgan to'rtta doirasimon oq rang ishorali svetoforlar qo'llanilishi mumkin. Yuqoridagi bir yoki bir nechta va pastki ishora bir vaqtning o'zida yonganda, harakatlanishga ruxsat etiladi. Ulardan chapdagisi chapga, o'ngdagisi o'ng tomonga burilishga, o'rtadagisi to'g'riga yurishga ruxsat beradi. Agar yuqoridagi uchta ishora bir vaqtda yonsa, harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2211,
+          "textUz": "«А»\n",
+          "textRu": "«А»\n",
+          "textOz": "«А»\n",
+          "isCorrect": false
+        },
+        {
+          "id": 2212,
+          "textUz": "«Б» ",
+          "textRu": "«Б» ",
+          "textOz": "«Б» ",
+          "isCorrect": true
+        },
+        {
+          "id": 2213,
+          "textUz": "«В»\n",
+          "textRu": "«В»\n",
+          "textOz": "«В»\n",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2212
+      ]
+    },
+    {
+      "id": 660,
+      "questionUz": "Кайси расмларда кувиб утиш курсатилган?",
+      "questionRu": "На каких изображениях показан обгон?",
+      "questionOz": "Kaysi rasmlarda kuvib utish kursatilgan?",
+      "explanationUz": "ЙҲҚ 13-боби 88-банди: Аҳоли пунктларида ўртада трамвай йўли бўлмаган, ҳар йўналишда биттадан тасмаси бўлган, Шунингдек, бир томонлама ҳаракат ташкил этилган йўлларда йўлнинг чап томонида тўхташ ва тўхтаб туришга рухсат этилади. ЙҲҚ 17.1-боби 115.1-банди: Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлдан йўналишли жамоат транспорти воситалари ҳаракатланиши мумкин. Бошқа транспорт воситалари ушбу йўлакда ҳаракатланиши тақиқланади, бундан тезкор ва махсус хизматларнинг транспорт воситалари мустасно.",
+      "explanationRu": "Пункта 88 главы 13 ПДД, гласит: На левой стороне дороги остановка и стоянка разрешаются в населенных пунктах на дорогах с односторонним движением, имеющим две полосы движения, при отсутствии трамвайных путей посередине. Пункта 115.1 главы 17.1 ПДД, гласит: По дороге с выделенной полосой для маршрутного общественного транспорта могут двигаться только маршрутные транспортные средства. Движение других транспортных средств по этой полосе запрещается, за исключением транспортных средств оперативных и специальных служб.",
+      "explanationOz": "YHQ 13-bobi 88-bandi: Aholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, Shuningdek, bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi. YHQ 17.1-bobi 115.1-bandi: Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘ldan yo‘nalishli jamoat transporti vositalari harakatlanishi mumkin. Boshqa transport vositalari ushbu yo‘lakda harakatlanishi taqiqlanadi, bundan tezkor va maxsus xizmatlarning transport vositalari mustasno.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2214,
+          "textUz": "Факат биринчи ва иккинчи расмларда",
+          "textRu": "Только на первом и втором изображениях",
+          "textOz": "Fakat birinchi va ikkinchi rasmlarda",
+          "isCorrect": true
+        },
+        {
+          "id": 2215,
+          "textUz": "Фагат биринчи ва учинчи расмларда",
+          "textRu": "Только на первом и третьем изображениях",
+          "textOz": "Fagat birinchi va uchinchi rasmlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2216,
+          "textUz": "Факат биринчи, иккинчи ва туртинчи расмларда",
+          "textRu": "Только на первом, втором и четвёртом изображениях",
+          "textOz": "Fakat birinchi, ikkinchi va turtinchi rasmlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2217,
+          "textUz": "Фагат биринчи расмда",
+          "textRu": "Только на первом изображении",
+          "textOz": "Fagat birinchi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 2218,
+          "textUz": "Барча расмларда",
+          "textRu": "На всех изображениях",
+          "textOz": "Barcha rasmlarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2214
+      ]
+    },
+    {
+      "id": 661,
+      "questionUz": "Ушбу жойда қувиб ўтишга рухсат бериладими?",
+      "questionRu": "Разрешен ли здесь обгон?",
+      "questionOz": "Ushbu joyda quvib o‘tishga ruxsat beriladimi?",
+      "explanationUz": "\"ЙҲҚнинг 26-боб. 159-банд 2 ва 4-хатбошига асосан: 159. Одамларни ташиш қуйидаги ҳолларда тақиқланади:\r\nболаларни юк автомобилларининг юкхонасида;\r\nТракторлар ва бошқа ўзиюрар ускуналар, юк ташиладиган тиркамалар, тиркама-уйча, юк мотоцикллари, электромотоцикллар, мопедлар ва скутерлар юкхонасида.\"",
+      "explanationRu": "\"На основании абзацев 2 и 4 пункта 159 главы 26 ПДД: 159. Запрещается перевозить людей в следующих случаях:\r\nдетей в кузове грузового автомобиля;\r\nна тракторах и других самоходных устройства, в грузовом прицепе, в прицепе-даче, в кузове грузовых мотоциклов, электромотоциклов, мопедов и скутеров.\"",
+      "explanationOz": "\"YHQning 26-bob. 159-band 2 va 4-xatboshiga asosan: 159. Odamlarni tashish quyidagi hollarda taqiqlanadi:\r\nbolalarni yuk avtomobillarining yukxonasida;\r\nTraktorlar va boshqa o‘ziyurar uskunalar, yuk tashiladigan tirkamalar, tirkama-uycha, yuk mototsikllari, elektromototsikllar, mopedlar va skuterlar yukxonasida.\"",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2219,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2220,
+          "textUz": "Олдиндаги транспорт воситаси тезлиги 40 км/с дан кам бўлса",
+          "textRu": "Если скорость обгоняемого транспортного средства менее 40 км/ч",
+          "textOz": "Oldindagi transport vositasi tezligi 40 km/s dan kam bo‘lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 2221,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2221
+      ]
+    },
+    {
+      "id": 662,
+      "questionUz": "Аҳоли пунктларида қувиб ўтишда қандай огоҳлантириш ишораларидан фойдаланиш мумкин?",
+      "questionRu": "Какие предупредительные сигналы можно использовать при обгоне в населённых пунктах?",
+      "questionOz": "Aholi punktlarida quvib o‘tishda qanday ogohlantirish ishoralaridan foydalanish mumkin?",
+      "explanationUz": "\"ЙҲҚнинг 8-боб. 48-банд 2 ва 3-хатбоши ва 49-бандига асосан: 48. Товушли ишоралар фақат қуйидаги ҳолларда қўлланилиши мумкин:\r\nаҳоли пунктларидан ташқарида бошқа ҳайдовчиларни қувиб ўтиш ҳақида огоҳлантириш учун; Юқорида кўрсатилган ҳоллардан ташқари товушли ишоралардан фойдаланиш тақиқланади. \r\n49. Қувиб ўтиш ҳақида товушли ишора ўрнига ёки у билан бирга фара чироқларини ёқиб-ўчириб, огоҳлантириш ишорасини ҳам бериш мумкин.\"",
+      "explanationRu": "На основании абзацев 2 и 3 пункта 48 и пункта 49 главы 8 ПДД: 48. Звуковые сигналы могут применяться только в следующих случаях:\r\nвне населенных пунктов при обгоне, для предупреждения других водителей; Запрещается применение звуковых сигналов кроме случаев, указанных выше. \r\n49. Вместо звукового сигнала об обгоне или же вместе с ним может подаваться предупредительный сигнал переключением фар.",
+      "explanationOz": "\"YHQning 8-bob. 48-band 2 va 3-xatboshi va 49-bandiga asosan: 48. Tovushli ishoralar faqat quyidagi hollarda qo‘llanilishi mumkin:\r\naholi punktlaridan tashqarida boshqa haydovchilarni quvib o‘tish haqida ogohlantirish uchun; Yuqorida ko‘rsatilgan hollardan tashqari tovushli ishoralardan foydalanish taqiqlanadi. \r\n49. Quvib o‘tish haqida tovushli ishora o‘rniga yoki u bilan birga fara chiroqlarini yoqib-o‘chirib, ogohlantirish ishorasini ham berish mumkin.\"",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2222,
+          "textUz": "Фараларнинг узоқни ёритувчи чироқларидан",
+          "textRu": "Фары дальнего света",
+          "textOz": "Faralarning uzoqni yorituvchi chiroqlaridan",
+          "isCorrect": true
+        },
+        {
+          "id": 2223,
+          "textUz": "Товушли ишоралардан",
+          "textRu": "Звуковые сигналы",
+          "textOz": "Tovushli ishoralardan",
+          "isCorrect": false
+        },
+        {
+          "id": 2224,
+          "textUz": "1 ва 2",
+          "textRu": "1 и 2",
+          "textOz": "1 va 2",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2222
+      ]
+    }
+  ]
+}

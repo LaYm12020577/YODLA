@@ -1,0 +1,46 @@
+{
+  "category": "Алкоголь и наркотики",
+  "count": 4,
+  "fines": [
+    {
+      "article": 131,
+      "subArticle": null,
+      "violation": "Повторное управление ТС в состоянии опьянения",
+      "fineBhm": "50.00",
+      "fineUzs": "20600000",
+      "penaltyPoints": "12.0",
+      "additionalPenalty": "лишение водительского удостоверения на 3 года или административный арест",
+      "repeatOffense": true
+    },
+    {
+      "article": 131,
+      "subArticle": 1,
+      "violation": "Управление ТС в состоянии опьянения",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "10.0",
+      "additionalPenalty": "лишение водительского удостоверения на 1,5-3 года",
+      "repeatOffense": false
+    },
+    {
+      "article": 131,
+      "subArticle": 2,
+      "violation": "Отказ от медицинского освидетельствования",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "8.0",
+      "additionalPenalty": "лишение водительского удостоверения на 1,5-3 года",
+      "repeatOffense": false
+    },
+    {
+      "article": 131,
+      "subArticle": 3,
+      "violation": "Передача управления ТС лицу в состоянии опьянения",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

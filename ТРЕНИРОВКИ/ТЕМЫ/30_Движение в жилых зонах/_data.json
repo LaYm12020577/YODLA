@@ -1,0 +1,332 @@
+{
+  "title": "30. Движение в жилых зонах (боб 20)",
+  "count": 9,
+  "questions": [
+    {
+      "id": 907,
+      "questionUz": "Мазкур белги билан белгиланган ҳудудда қандай чекланишлар киритилган?",
+      "questionRu": "Какие ограничения установлены на территории; обозначенной указанным знакам?",
+      "questionOz": "Mazkur belgi bilan belgilangan hududda qanday cheklanishlar kiritilgan?",
+      "explanationUz": "ЙҲҚ 20-боби 124-бандига асосан, турар-жой даҳаларида механик транспорт воситасини бошқаришни ўргатиш,  двигатели ишлаб турган ҳолда тўхтаб туриш, рухсат этилган тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобилларининг махсус ажратилган, йўл белгилари ва (ёки) йўл чизиқлари билан белгиланган жойлардан ташқарида тўхтаб туриши тақиқланади.",
+      "explanationRu": "Согласно абзацу 1 пункта 124 главы 20 ПДД, в жилой зоне запрещается учебная езда на механических транспортных средствах, стоянка с работающим двигателем, стоянка грузовых автомобилей с разрешенной максимальной массой более 3,5 т вне специально выделенных и обозначенных дорожными знаками и (или) дорожной разметкой мест.",
+      "explanationOz": "YHQ 20-bobi 124-bandiga asosan, turar-joy dahalarida mexanik transport vositasini boshqarishni o'rgatish, dvigateli ishlab turgan holda to'xtab turish, ruxsat etilgan to'liq vazni 3,5 tonnadan ortiq bo'lgan yuk avtomobillarining maxsus ajratilgan, yo'l belgilari va (yoki) yo'l chiziqlari bilan belgilangan joylardan tashqarida to'xtab turishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2979,
+          "textUz": "Ҳаракат тезлигини 5км/с ошмаслиги кераклигини билдиради",
+          "textRu": "Запрещается движение со скоростью более 5км/ч",
+          "textOz": "Harakat tezligini 5km/s oshmasligi kerakligini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 2980,
+          "textUz": "Транспорт воситаларини бошқаришни ўргатиш",
+          "textRu": "Обучение вождению транспортных средств",
+          "textOz": "Transport vositalarini boshqarishni o'rgatish",
+          "isCorrect": true
+        },
+        {
+          "id": 2981,
+          "textUz": "Кириб, чиқиб кетиш ҳаракати тақиқланади",
+          "textRu": "Запрещается сквозное движение",
+          "textOz": "Kirib, chiqib ketish harakati taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2982,
+          "textUz": "Енгил автомобилларнинг тунда тўхтаб туришини тақиқлайди",
+          "textRu": "Запрещается стоянка в ночное время легковых автомобилей",
+          "textOz": "Engil avtomobillarning tunda to'xtab turishini taqiqlaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2980
+      ]
+    },
+    {
+      "id": 908,
+      "questionUz": "Енгил автомобил ҳайдовчиси йўл бериши керакми?",
+      "questionRu": "Обязан ли водитель легкового автомобиля уступить дорогу?",
+      "questionOz": "Engil avtomobil haydovchisi yo'l berishi kerakmi?",
+      "explanationUz": "ЙҲҚ 20-боби 126-бандига асосан, турар-жой даҳаларидан чиқишда ҳайдовчилар бошқа ҳаракат қатнашчиларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 126 главы 20 ПДД, «Конец жилой зоны», при выезде из жилых зон водители должны уступить дорогу другим участникам движения.",
+      "explanationOz": "YHQ 20-bobi 126-bandiga asosan, turar-joy dahalaridan chiqishda haydovchilar boshqa harakat qatnashchilariga yo'l berishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2983,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 2984,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2983
+      ]
+    },
+    {
+      "id": 909,
+      "questionUz": "Рулда ўрганувчи бўлса, қайси томонга ҳаракатланишга рухсат берилади?",
+      "questionRu": "В каком направлении разрешено движение этому транспортному средству, если за рулем находится обучаемый?",
+      "questionOz": "Rulda o'rganuvchi bo'lsa, qaysi tomonga harakatlanishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚ 20-боби 124-банди 1-хатбошига асосан, турар жой даҳаларида механик транспорт воситасини бошқаришни ўргатиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 1 пункта 124 главы 20 ПДД, в жилой зоне запрещается учебная езда на механических транспортных средствах.",
+      "explanationOz": "YHQ 20-bobi 124- bandi 1-xatboshiga asosan, turar joy dahalarida mexanik transport vositasini boshqarishni o'rganish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2985,
+          "textUz": "Ҳамма томонга",
+          "textRu": "В любом",
+          "textOz": "Hamma tomonga",
+          "isCorrect": false
+        },
+        {
+          "id": 2986,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 2987,
+          "textUz": "Ўнгга, чапга ва қайрилиш",
+          "textRu": "Направо, налево и в обратном направлении",
+          "textOz": "O'ngga, chapga va qayrilish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2987
+      ]
+    },
+    {
+      "id": 910,
+      "questionUz": "Қуйидаги ҳолатда ҳайдовчи пиёдаларга йўл бериши лозимми?",
+      "questionRu": "Обязан ли водитель уступить дорогу пешеходам в данном месте?",
+      "questionOz": "Quyidagi holatda haydovchi piyodalarga yo'l berishi lozimmi?",
+      "explanationUz": "ЙҲҚ 20-бобининг 123-бандига мувофиқ, турар жой даҳалари (кириш ва чиқиш 5.38 ва 5.39 йўл белгилари билан белгиланган ҳудудлар)да пиёдаларга тротуарлар ҳамда қатнов қисмида ҳаракатланишга рухсат этилади. Бунда пиёдалар имтиёзга эга бўладилар, бироқ улар транспорт воситаларининг ҳаракатланишига асоссиз халақит бермасликлари керак.",
+      "explanationRu": "Согласно пункту 123 главы 20 ПДД, в жилой зоне (территории, въезды и выезды с которых обозначены знаками 5.38 и 5.39) движение пешеходов разрешается по тротуарам и проезжей части. При этом пешеходы имеют приоритет, однако, они не должны создавать необоснованные помехи для движения транспортных средств.",
+      "explanationOz": "YHQ 20-bobining 123-bandiga muvofiq, turar joy dahalari (kirish va chiqish 5.38 va 5.39 yo'l belgilari bilan belgilangan hududlar)da piyodalarga trotuarlar hamda qatnov qismida harakatlanishga ruxsat etiladi. Bunda piyodalar imtiyozga ega bo'ladilar, biroq ular transport vositalarining harakatlanishiga asossiz xalaqit bermasliklari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2988,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 2989,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2988
+      ]
+    },
+    {
+      "id": 911,
+      "questionUz": "Турар жой даҳаларида қандай ҳаракатлар тақиқланган?",
+      "questionRu": "Какие действия запрещены в жилой зоне?",
+      "questionOz": "Turar joy dahalarida qanday harakatlar taqiqlangan?",
+      "explanationUz": "Йўл ҳаракати қоидаларига 3-илова 3 бандига асосан, ёритувчи чироқ нурининг йўналиши бузилган бўлса, агар ташқи ёритгичлар ва нур қайтаргичлар белгиланган тартибда ишламаётган ёки ифлосланган бўлса, олд қисмида — оқ ёки сариқ рангдан бошқа рангли туманга қарши фаралар, сариқ ёки зарғалдоқ рангдан бошқа рангли бурилишни кўрсатадиган милтилловчи чироқ, оқ рангдан бошқа рангли нур қайтаргичлар ўрнатилган бўлса фойдаланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 3 Приложение № 3 к Правилам дорожного движения, запрещается эксплуатация транспортных средств при нарушена регулировка фар, не работают в установленном режиме или загрязнены внешние световые приборы и световозвращатели, на транспортном средстве установлены:\r\nспереди — противотуманные фары с огнями любого цвета, кроме белого или жёлтого, указатели поворота с огнями любого цвета, кроме жёлтого или оранжевого, а световозвращающие приспособления — любого цвета, кроме белого.",
+      "explanationOz": "Yo‘l harakati qoidalariga 3-ilova 3 bandiga asosan, yorituvchi chiroq nurining yo‘nalishi buzilgan bo‘lsa, agar tashqi yoritgichlar va nur qaytargichlar belgilangan tartibda ishlamayotgan yoki ifloslangan bo‘lsa, old qismida — oq yoki sariq rangdan boshqa rangli tumanga qarshi faralar, sariq yoki zarg‘aldoq rangdan boshqa rangli burilishni ko‘rsatadigan miltillovchi chiroq, oq rangdan boshqa rangli nur qaytargichlar o‘rnatilgan bo‘lsa foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2990,
+          "textUz": "Фақат ўқув машғулотларини бажариш",
+          "textRu": "Только учебная езда",
+          "textOz": "Faqat o'quv mashg'ulotlarini bajarish",
+          "isCorrect": false
+        },
+        {
+          "id": 2991,
+          "textUz": "Фақат двигатель ишлаб турганда тўхтаб туриш",
+          "textRu": "Только стоянка с работающим двигателем",
+          "textOz": "Faqat dvigatel ishlab turganda to'xtab turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2992,
+          "textUz": "Барча санаб ўтилган ҳолларда",
+          "textRu": "Все вышеперечисленные действия",
+          "textOz": "Barcha sanab o'tilgan hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2992
+      ]
+    },
+    {
+      "id": 912,
+      "questionUz": "Пиёдалар турар жой даҳасида қаерда ҳаракатланишлари мумкин?",
+      "questionRu": "Где могут двигаться пешеходы в жилой зоне?",
+      "questionOz": "Piyodalar turar joy dahasida qaerda harakatlanishlari mumkin?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 138 бандига асосан, сутканинг ёруғ вақтида қуйидаги ҳолларда яқинни ёритувчи фара чироқлари ёқилиши керак: транспорт воситалари ташкилий жамланма сафида ҳаракатланаётганда; йўловчиларни ташиётган автобуслар ва йўналишли транспорт воситаларида; болалар гуруҳини ташкилий ташишда; хавфли, катта ўлчамли ва оғир вазнли юкларни ташишда;\r\nмеханик транспорт воситаларини шатакка олишда (шатакка олиб кетаётган транспорт воситасида); кучли ёғингарчилик (ёмғир, қор) шароитида; мотоцикл ва мопедларда.",
+      "explanationRu": "Согласно пункту 138 Правил дорожного движения, в светлое время суток ближний свет фар должен быть включен в следующих случаях: при движении в составе организованной транспортной колонны; на автобусах и маршрутных транспортных средствах, перевозящих пассажиров; при организованной п��ревозке группы детей; при перевозке опасных, крупногабаритных и тяжеловесных грузов; \r\nпри буксировке механических транспортных средств (на буксирующем транспортном средстве); на мотоциклах и мопедах.",
+      "explanationOz": "Yo‘l harakati qoidalarining 138 bandiga asosan, sutkaning yorug‘ vaqtida quyidagi hollarda yaqinni yorituvchi fara chiroqlari yoqilishi kerak: transport vositalari tashkiliy jamlanma safida harakatlanayotganda; yo‘lovchilarni tashiyotgan avtobuslar va yo‘nalishli transport vositalarida; bolalar guruhini tashkiliy tashishda; xavfli, katta o‘lchamli va og‘ir vaznli yuklarni tashishda;\r\nmexanik transport vositalarini shatakka olishda (shatakka olib ketayotgan transport vositasida); kuchli yog‘ingarchilik (yomg‘ir, qor) sharoitida; mototsikl va mopedlarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2993,
+          "textUz": "Фақат тратуарда",
+          "textRu": "Только по тротуарам",
+          "textOz": "Faqat tratuarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2994,
+          "textUz": "Фақат қатнов қисмидан",
+          "textRu": "По тротуарам и в один ряд по краю проезжей части",
+          "textOz": "Faqat qatnov qismidan",
+          "isCorrect": false
+        },
+        {
+          "id": 2995,
+          "textUz": "Тратуарда, ҳамда қатнов қисмида",
+          "textRu": "По тротуарам и по проезжей части",
+          "textOz": "Tratuarda, hamda qatnov qismida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2995
+      ]
+    },
+    {
+      "id": 913,
+      "questionUz": "Турар жой даҳаларидан чиқишда ҳайдовчилар:",
+      "questionRu": "При выезде из жилой зоны водитель:",
+      "questionOz": "Turar joy dahalaridan chiqishda haydovchilar:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 126 бандига асосан, турар жой даҳаларидан чиқишда ҳайдовчилар бошқа ҳаракат қатнашчиларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 126 Правил дорожного движения, при выезде из жилых зон водители должны уступить дорогу другим участникам движения.",
+      "explanationOz": "Yo‘l harakati qoidalarining 126 bandiga asosan, turar joy dahalaridan chiqishda haydovchilar boshqa harakat qatnashchilariga yo‘l berishlari ker",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2996,
+          "textUz": "Бошқа ҳаракат қатнашчиларига йўл бериши керак",
+          "textRu": "Должен уступить дорогу другим участникам движения",
+          "textOz": "Boshqa harakat qatnashchilariga yo'l berishi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 2997,
+          "textUz": "Бошқа ҳаракат қатнашчиларига нисбатан имтиёзга ега",
+          "textRu": "Он имеет приоритет перед другими участниками движения",
+          "textOz": "Boshqa harakat qatnashchilariga nisbatan imtiyozga ega",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2996
+      ]
+    },
+    {
+      "id": 914,
+      "questionUz": "Турар жой даҳасидан йўлга чиқишда йўл бериш зарур?\n",
+      "questionRu": "При выезде из жилой зоны необходимо уступить дорогу?",
+      "questionOz": "Turar joy dahasidan yo'lga chiqishda yo'l berish zarur?\n",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 126 бандига асосан, турар жой даҳаларидан чиқишда ҳайдовчилар бошқа ҳаракат қатнашчиларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 126 Правил дорожного движения, при выезде из жилых зон водители должны уступить дорогу другим участникам движения.",
+      "explanationOz": "Yo‘l harakati qoidalarining 126 bandiga asosan, turar joy dahalaridan chiqishda haydovchilar boshqa harakat qatnashchilariga yo‘l berishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2998,
+          "textUz": "Ўнг томондан яқинлашиб келаётган транспорт воситаларига",
+          "textRu": "Только транспортным средствам, приближающимся справа",
+          "textOz": "O'ng tomondan yaqinlashib kelayotgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2999,
+          "textUz": "Чап томондан яқинлашиб келаётган транспорт воситаларига",
+          "textRu": "Только транспортным средствам, приближающимся слева",
+          "textOz": "Chap tomondan yaqinlashib kelayotgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 3000,
+          "textUz": "Кўк рангли ялт-ялт етувчи чироқча-маёқча ёқилган транспорт воситаларига",
+          "textRu": "Только транспортным средствам с включенным проблесковым маячком",
+          "textOz": "Ko'k rangli yalt-yalt etuvchi chiroqcha-mayoqcha yoqilgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 3001,
+          "textUz": "Барча транспорт воситаларига ",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga ",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3001
+      ]
+    },
+    {
+      "id": 915,
+      "questionUz": "Турар жой даҳаларида пиёдалар йўлнинг қайси қисмида ҳаракатланишлари керак?",
+      "questionRu": "Где могут двигаться пешеходы в жилой зоне?",
+      "questionOz": "Turar joy dahalarida piyodalar yo'lning qaysi qismida harakatlanishlari kerak?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.28 йўл чизиғига асосан, тақиқловчи йўл белгиларини такрорловчи йўл чизиғи.",
+      "explanationRu": "Дорожная разметка 1.28 раздела 1 приложения № 2 к ПДД, дорожная разметка, дублирующая запрещающие знаки.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo‘limidagi 1.28 yo‘l chizig‘iga asosan, taqiqlovchi yo‘l belgilarini takrorlovchi yo‘l chizig‘i.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3002,
+          "textUz": "Тротуардан ёки қатнов қисмидан",
+          "textRu": "По тротуарам и по проезжей части",
+          "textOz": "Trotuardan yoki qatnov qismidan",
+          "isCorrect": true
+        },
+        {
+          "id": 3003,
+          "textUz": "Фақат тротуар бўйича",
+          "textRu": "Только по тротуарам",
+          "textOz": "Faqat trotuar bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 3004,
+          "textUz": "Қатнов қисми четида бир қатор бўлиб",
+          "textRu": "В один ряд по краю проезжей части",
+          "textOz": "Qatnov qismi chetida bir qator bo'lib",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3002
+      ]
+    }
+  ]
+}

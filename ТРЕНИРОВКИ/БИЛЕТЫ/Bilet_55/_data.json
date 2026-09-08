@@ -1,0 +1,795 @@
+{
+  "title": "Bilet 55 (PRO)",
+  "count": 20,
+  "questions": [
+    {
+      "id": 1083,
+      "questionUz": "М2; М3 тоифадаги автотранспорт воситаларининг шина протектори нақшларининг баландлиги қуйидагилардан кам бўлмаслиги керак:",
+      "questionRu": "Высота рисунка протектора шин автомобилей категорий М2, М3 не должна быть менее:",
+      "questionOz": "M2; M3 toifadagi avtotransport vositalarining shina protektori naqshlarining balandligi quyidagilardan kam bo'lmasligi kerak:",
+      "explanationUz": "ЙҲҚ 3-иловасининг 5.1-бандига мувофиқ, агар шина протектори нақшларининг қолдиқ баландлиги N2, N3, О3, О4 тоифадаги автотранспорт воситалари учун — 1,0 мм дан кам бўлса; М1, N1, О1, О2 тоифадаги автотранспорт воситалари учун — 1,6 мм дан, кам бўлса; М2, М3 тоифадаги автотранспорт воситалари учун — 2,0 мм дан кам бўлса; мотоцикл ва мопедлар (скутерлар, квадроцикллар) учун — 0,8 мм дан кам бўлса транспорт воситасидан фойдаланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 5.1 приложения № 3 к ПДД, запрещается эксплуатация транспортных средств, если шины имеют остаточную высоту рисунка протектора для автотранспортных средств категорий N2, N3, О3, О4 менее 1,0 мм; для автотранспортных средств категорий М1, N1, О1, О2 менее 1,6 мм; для автотранспортных средств категорий М2, М3 менее 2,0 мм; для мотоциклов и мопедов (скутеров, квадрациклов) менее 0,8 мм.",
+      "explanationOz": "YHQ 3-ilovasining 5.1-bandiga muvofiq, agar shina protektori naqshlarining qoldiq balandligi N2, N3, O3, o4 toifadagi avtotransport vositalari uchun — 1,0 mm dan kam bo'lsa; M1, N1, O1, O2 toifadagi avtotransport vositalari uchun — 1,6 mm dan, kam bo'lsa; M2, M3 toifadagi avtotransport vositalari uchun — 2,0 mm dan kam bo'lsa; motosikl va mopedlar (skuterlar, Kvadrosikllar) uchun — 0,8 mm dan kam bo'lsa transport vositasidan foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3573,
+          "textUz": "0,8 мм",
+          "textRu": "0,8 мм",
+          "textOz": "0,8 mm",
+          "isCorrect": false
+        },
+        {
+          "id": 3574,
+          "textUz": "1,0 мм",
+          "textRu": "1,0 мм",
+          "textOz": "1,0 mm",
+          "isCorrect": false
+        },
+        {
+          "id": 3575,
+          "textUz": "1,6 мм",
+          "textRu": "1,6 мм",
+          "textOz": "1,6 mm",
+          "isCorrect": false
+        },
+        {
+          "id": 3576,
+          "textUz": "2,0 мм",
+          "textRu": "2,0 мм",
+          "textOz": "2,0 mm",
+          "isCorrect": true
+        },
+        {
+          "id": 3577,
+          "textUz": "2,5 мм",
+          "textRu": "2,5 мм",
+          "textOz": "2,5 mm",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3576
+      ]
+    },
+    {
+      "id": 1084,
+      "questionUz": "Санаб ўтилган ҳоллардан қайси бирида транспорт воситаларидан фойдаланишга рухсат этилади?",
+      "questionRu": "В каком из перечисленных случаев разрешается эксплуатация транспортных средств?",
+      "questionOz": "Sanab o'tilgan hollardan qaysi birida transport vositalaridan foydalanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 3-иловасининг 5-бо лимидаги 5.7 бандига мувофиқ, транспорт воситаларидан фойдаланишни таъқиқловчи шартлар: М1, М2, М3 тоифаларни 1 классидаги автотранспорт воситаларини олдинги ўқига\r\nиккинчи таъмирлаш класси бўйича қайта тикланган шиналар ўрнатилган бўлса.",
+      "explanationRu": "Пункту 5.7 раздела 5 приложения Nº 3 к ПДД, условия при которых запрешается эксплуатация автотранспортных средств: на передней оси автотранспортных средств категории M1, М2, МЗ класса 1 установлены шины, востановленные по второму классу ремонта.",
+      "explanationOz": "YHQ 3-ilovasining 5-bo limidagi 5.7 bandiga muvofiq, transport vositalaridan foydalanishni ta'qiqlovchi shartlar: M1, M2, M3 toifalarni 1 klassidagi avtotransport vositalarini oldingi o‘qiga\r\nikkinchi ta'mirlash klassi bo‘yicha qayta tiklangan shinalar o‘rnatilgan bo‘lsa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3578,
+          "textUz": "Шиналар ўлчами ва йўл қўйиладиган босими бўйича транспорт воситасининг русумига мос эмас",
+          "textRu": "Шины по размеру и допустимой нагрузке не соответствуют модели транспортного средства",
+          "textOz": "Shinalar o'lchami va yo'l qo'yiladigan bosimi bo'yicha transport vositasining rusumiga mos emas",
+          "isCorrect": false
+        },
+        {
+          "id": 3579,
+          "textUz": "Транспорт воситасининг битта ўқига диаганал шиналар радиал шиналар билан бирга ўрнатилган",
+          "textRu": "На одну ось транспортного средства установлены диагональные шины совместно с радиальными",
+          "textOz": "Transport vositasining bitta o'qiga diaganal shinalar radial shinalar bilan birga o'rnatilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 3580,
+          "textUz": "М1 тоифадаги автотранспорт воситаларининг олдинги ўқига биринчи тоифада таъмирланган шиналар ўрнатилган",
+          "textRu": "На переднюю ось легкового автомобиля категории М1 установлены шины, восстановленные по первому классу ремонта",
+          "textOz": "M1 toifadagi avtotransport vositalarining oldingi o'qiga birinchi toifada tamirlangan shinalar o'rnatilgan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3580
+      ]
+    },
+    {
+      "id": 1085,
+      "questionUz": "Транспорт воситасининг бир ўқига излари ҳар хил нақшли шиналар ўрнатишга рухсат этиладими?",
+      "questionRu": "Разрешается ли установка шин с различным рисунком протектора на одну ось транспортного средства?",
+      "questionOz": "Transport vositasining bir o'qiga izlari har xil naqshli shinalar o'rnatishga ruxsat etiladimi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3581,
+          "textUz": "Автомобилнинг фақат орқа ўқига олдинги бошқарувчи кўприк билан бирга рухсат этилади",
+          "textRu": "Разрешается только на заднюю ось автомобиля с передним ведущим мостом",
+          "textOz": "Avtomobilning faqat orqa o'qiga oldingi boshqaruvchi ko'prik bilan birga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3582,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3583,
+          "textUz": "Фақат юк автомобилига рухсат этилади",
+          "textRu": "Разрешается только на грузовой автомобиль",
+          "textOz": "Faqat yuk avtomobiliga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3584,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3582
+      ]
+    },
+    {
+      "id": 1086,
+      "questionUz": "Иккинчи даража таъмирлаш йўли билан тикланган шиналарни М1 тоифадаги автотранспорт воситаларига ўрнатишга рухсат этиладими?",
+      "questionRu": "Разрешается ли установка шин; восстановленных по второму классу ремонта на легковых автомобилях?",
+      "questionOz": "Ikkinchi daraja tamirlash yo'li bilan tiklangan shinalarni M1 toifadagi avtotransport vositalariga o'rnatishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 3-иловаси 5-бўлимининг 5.7.-бандига асосан: 5.7. М1, М2, М3 тоифаларни 1 классидаги автотранспорт воситаларини олдинги ўқига, М3 тоифани 2 ва 3 классидаги автотранспорт воситаларини ўрта ва орқа ўқларига иккинчи таъмирлаш класси бўйича қайта тикланган шиналар ўрнатилган бўлса фойдаланиш тақиқланади.",
+      "explanationRu": "В \"Условиях, при которых запрещается эксплуатация транспортных средств\" (приложение №3 к ПДД) сказано, что эксплуатация транспортных средств запрещена, если: 5.7. На передней оси легкового автомобиля и автобуса (кроме междугородного) установлены шины, восстановленные по второму классу ремонта. Как видно, запрещается на передней оси легкового автомобиля устанавливать шины, восстановленные по второму классу ремонта. Соответственно, на задней оси разрешается.",
+      "explanationOz": "YHQ 3-ilovasi 5-bo‘limining 5.7.-bandiga asosan: 5.7. M1, M2, M3 toifalarni 1 klassidagi avtotransport vositalarini oldingi o‘qiga, M3 toifani 2 va 3 klassidagi avtotransport vositalarini o‘rta va orqa o‘qlariga ikkinchi ta‘mirlash klassi bo‘yicha qayta tiklangan shinalar o‘rnatilgan bo‘lsa foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3585,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3586,
+          "textUz": "Автомобилнинг ҳар икки ўқига рухсат этилади",
+          "textRu": "Разрешается на обоих осях автомобиля",
+          "textOz": "Avtomobilning har ikki o'qiga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3587,
+          "textUz": "Фақат орқа ўқига рухсат этилади",
+          "textRu": "Разрешается только на задней оси",
+          "textOz": "Faqat orqa o'qiga ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3587
+      ]
+    },
+    {
+      "id": 1087,
+      "questionUz": "Қандай ҳолларда транспорт воситасидан фойдаланишга рухсат этилади?",
+      "questionRu": "В каких случаях разрешается пользоваться транспортным средством?",
+      "questionOz": "Qanday hollarda transport vositasidan foydalanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 3-иловаси 7-бўлимининг 7.19.-бандига асосан: 7.19. Газли таъминлаш тизими билан жиҳозланган автобус ва автомобил газ баллонларининг ташқи томонида кўрсатилган техник кўрсатгичлар техник паспортдаги маълумотларга мос келмаса, охирги ва режалаштирилаётган текширувларнинг санаси бўлмаса.",
+      "explanationRu": "Пункту 7.19 раздела 7 приложения № 3 к ПДД, технические параметры, указанные на наружной поверхности газовых баллонов автомобилей и автобусов, оснащенных газовой системой питания, не соответствуют данным технического паспорта, отсутствуют д��ты последнего и планируемого освидетельствования.",
+      "explanationOz": "YHQ 3-ilovasi 7-bo‘limining 7.19.-bandiga asosan: 7.19. Gazli ta‘minlash tizimi bilan jihozlangan avtobus va avtomobil gaz ballonlarining tashqi tomonida ko‘rsatilgan texnik ko‘rsatgichlar texnik pasportdagi ma‘lumotlarga mos kelmasa, oxirgi va rejalashtirilayotgan tekshiruvlarning sanasi bo‘lmasa",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3588,
+          "textUz": "Транспорт воситасининг ташқи юзасига қонун ҳужжатларига мос келмайдиган ва ҳаракат хавфсизлигига салбий таъсир кўрсатадиган турли хил тасвирлар тушурилган бўлса",
+          "textRu": "Если на внешней поверхности транспортного средства нанесены различные изображения, которые не соответствуют законодательству и негативно влияют на безопасность передвижения",
+          "textOz": "Transport vositasining tashqi yuzasiga qonun hujjatlariga mos kelmaydigan va harakat xavfsizligiga salbiy tasir ko'rsatadigan turli xil tasvirlar tushurilgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 3589,
+          "textUz": "Газ таъминлаш тизими билан жиҳозланган автобус ва автомобиль газ баллонларининг ташқи томонида кўрсатилган техник кўрсаткичлар (параметрлар) техник паспортдаги маълумотларга (кўрсаткичларга) мос келса, охирги ва режалаштирилган текширишларнинг санаси бўлса",
+          "textRu": "При соответствии технических показателей (параметров), указанных на внешней стороне газовых баллонов автобуса и автомобиля, оборудованных системой газоснабжения, данным (показателям) в техническом паспорте, дата последнего и планового осмотров",
+          "textOz": "Gaz taminlash tizimi bilan jihozlangan avtobus va avtomobil gaz ballonlarining tashqi tomonida ko'rsatilgan texnik ko'rsatkichlar (parametrlar) texnik pasportdagi malumotlarga (ko'rsatkichlarga) mos kelsa, oxirgi va rejalashtirilgan tekshirishlarning sanasi bo'lsa",
+          "isCorrect": true
+        },
+        {
+          "id": 3590,
+          "textUz": "Ишлаб чиқарувчи корхона томонидан кўзда тутилмаган ҳолларда кузов (кабина) бир неча хил рангга бўялган бўлса (махсус транспорт воситалари бундан мустасно)",
+          "textRu": "При окраске кузова (кабины) в несколько разных цветов в случаях, не предусмотренных заводом-изготовителем (кроме спецавтомобилей)",
+          "textOz": "Ishlab chiqaruvchi korxona tomonidan ko'zda tutilmagan hollarda kuzov (kabina) bir necha xil rangga bo'yalgan bo'lsa (maxsus transport vositalari bundan mustasno)",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3589
+      ]
+    },
+    {
+      "id": 1088,
+      "questionUz": "Спидометр жиҳозлари тамғаланмаган транспорт воситаларидан фойдаланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли эксплуатация транспортных средств с неопломбированным спидометровым оборудованием?",
+      "questionOz": "Spidometr jihozlari tamg'alanmagan transport vositalaridan foydalanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 3-иловаси 7-бўлимининг 7.6.-бандига асосан: 7.6. Спидометр қурилмаси носоз ва тамғаланмаган (шахсий транспорт воситалари, мотоцикл, электромотоцикл, скутер ва мопедлардан ташқари) бўлса фойдаланиш тақиқланади.",
+      "explanationRu": "В “Условиях, при которых запрещается эксплуатация транспортных средств” (приложение №3 к ПДД) сказано, что эксплуатация транспортных средств запрещена, если: 7.6. Неисправно и не опломбировано спидометровое оборудование (исключая транспортные средства, принадлежащие индивидуальным владельцам, мотоциклы, электромотоциклов, скутеров и мопедов).",
+      "explanationOz": "YHQ 3-ilovasi 7-bo‘limining 7.6.-bandiga asosan: 7.6. Spidometr qurilmasi nosoz va tamg‘alanmagan (shaxsiy transport vositalari, mototsikl, elektromototsikl, skuter va mopedlardan tashqari) bo‘lsa foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3591,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3592,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3593,
+          "textUz": "Фақат хусусий эгаларига тегишли автомобиллар, мотоцикллар ва мопедларга рухсат этилади",
+          "textRu": "Разрешается только автомобилей, мотоциклов и мопедов, принадлежащих индивидуальным владельцам",
+          "textOz": "Faqat xususiy egalariga tegishli avtomobillar, motosikllar va mopedlarga ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3593
+      ]
+    },
+    {
+      "id": 1089,
+      "questionUz": "Қоидалар транспорт воситаларининг ҳаракатланишни давом эттиришни қандай ҳолларда тақиқлайди?",
+      "questionRu": "В каком случае Правила запрещают дальнейшее движение транспортных средств?",
+      "questionOz": "Qoidalar transport vositalarining harakatlanishni davom ettirishni qanday hollarda taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 2-боби 12-банди 3-хатбошига мувофиқ, ҳайдовчига улагич мосламаси (автопоезд таркибида) носоз бўлган транспорт воситасини бошқариш тақиқланади.",
+      "explanationRu": "Согласно абзацу 3 пункта 12 главы 2 ПДД, водителю запрещается управлять транспортным средством, если на транспортном средстве неисправен сцепное устройство (в составе автопоезда).",
+      "explanationOz": "YHQ 2-bob 12-bandi 3-xatboshiga muvofiq, haydovchiga ulagich moslamasi (avtopoyezd tarkibida) nosoz bo'lgan transport vositasini boshqarish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3594,
+          "textUz": "Кузов (кабина) қисмлари ва бўёғига ташқи томондан анчагина шикаст етган бўлса",
+          "textRu": "Имеются значительные внешние повреждения деталей кузова (кабины) и окраски",
+          "textOz": "Kuzov (kabina) qismlari va bo'yog'iga tashqi tomondan anchagina shikast etgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 3595,
+          "textUz": "Улагич мосламаси носоз бўлса (автопоезд таркибида)",
+          "textRu": "Неисправно сцепное устройство (в составе автопоезда)",
+          "textOz": "Ulagich moslamasi nosoz bo'lsa (avtopoezd tarkibida)",
+          "isCorrect": true
+        },
+        {
+          "id": 3596,
+          "textUz": "Кузов (кабина) қисмлари ва бўёғига ташқи томондан анчагина шикаст етган бўлса ҳамда рессораларнинг ўзак қатлами ёки марказий болти шикастланган ҳолларда",
+          "textRu": "Разрушен коренной лист или центральный болт рессоры",
+          "textOz": "Kuzov (kabina) qismlari va bo'yog'iga tashqi tomondan anchagina shikast etgan bo'lsa hamda ressoralarning o'zak qatlami yoki markaziy bolti shikastlangan hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3595
+      ]
+    },
+    {
+      "id": 1090,
+      "questionUz": "Санаб ўтилган қайси ҳолатда транспорт воситасидан фойдаланишга рухсат этилади?",
+      "questionRu": "В каком случае  разрешается эксплуатация транспортного средства?",
+      "questionOz": "Sanab o'tilgan qaysi holatda transport vositasidan foydalanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.2 «Ҳаракатланиш тақиқланган» белгисига мувофиқ, барча транспорт воситаларининг ҳаракатланиши тақиқланишини билдиради ва ЙҲҚ 1-иловасининг 3-бўлими 3.3 «Механик транспорт воситаларининг ҳаракатланиши тақиқланган» белгисига мувофиқ, двигатель билан ҳаракатга келтириладиган транспорт воситаларининг (мопеддан ташқари), ҳамда барча тракторларнинг ва ўзиюрар мосламаларнинг ҳаракатланиши тақиқланишини билдиради. Белгига амал қилиш белгиланган зонада жойлашган корхоналарга хизмат кўрсатувчи транспорт воситаларига, шунингдек, белгиланган зонада яшайдиган ёки ишлайдиган фуқароларга хизмат қилувчи ёки уларга тегишли бўлган транспорт воситаларига таъсир қилмайди.",
+      "explanationRu": "Согласно знаку 3.2 раздела 3 приложения № 1 к ПДД, «Движение запрещено», запрещается движение всех транспортных средств и согласно знаку 3.3 раздела 3 приложения № 1 к ПДД, «Движение механических транспортных средств запрещено», запрещается движение транспортных средств (кроме мопеда), приводимое в движение двигателем, а также любых тракторов и самоходных механизмов. Действие знаков не распространяется на транспортные средства, которые обслуживают предприятия, находящиеся в обозначенной зоне, а также обслуживают или принадлежат гражданам, проживающим или работающим в обозначенной зоне.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.2 \"Harakatlanish taqiqlangan\" belgisiga muvofiq, barcha transport vositalarining harakatlanishi taqiqlanishini bildiradi va YHQ 1-ilovasining 3-bo'limi 3.3 \"Mexanik transport vositalarining harakatlanishi taqiqlangan\" belgisiga muvofiq, dvigatel bilan harakatga keltiriladigan transport vositalarining (mopeddan tashqari), hamda barcha traktorlarning va o'ziyurar moslamalarning harakatlanishi taqiqlanishini bildiradi. Belgiga amal qilish belgilangan zonada joylashgan korxonalarga xizmat ko'rsatuvchi transport vositalariga, shuningdek, belgilangan zonada yashaydigan yoki ishlaydigan fuqarolarga xizmat qiluvchi yoki ularga tegishli bo'lgan transport vositalariga ta'sir qilmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3597,
+          "textUz": "Ташқи ёритгич асбоблари ифлосланган бўлса",
+          "textRu": "Загрязнены внешние световые приборы",
+          "textOz": "Tashqi yoritgich asboblari ifloslangan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 3598,
+          "textUz": "Ёритувчи чироқ нурининг йўналиши бузилган бўлса",
+          "textRu": "Нарушена регулировка фар",
+          "textOz": "Yorituvchi chiroq nurining yo'nalishi buzilgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 3599,
+          "textUz": "Олд қисмида - оқ ёки сариқ рангли туманга қарши фаралар ўрнатилган бўлса",
+          "textRu": "Спереди - установлены белые или желтые противотуманные фары",
+          "textOz": "Old qismida - oq yoki sariq rangli tumanga qarshi faralar o'rnatilgan bo'lsa",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3599
+      ]
+    },
+    {
+      "id": 1091,
+      "questionUz": "М3 тоифадаги автотранспорт воситаларининг бошқарув қурилмасидаги қандай энг катта люфт йиғиндисига йўл қўйилади:",
+      "questionRu": "Суммарный люфт в рулевом управлении в регламентированных условиях испытаний автотранспортного средства категория М3 не должен превышать следующих значений:",
+      "questionOz": "M3 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig'indisiga yo'l qo'yiladi:",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимига асосан, 1.5 ётиқ чизиғи — икки ёки уч бўлакли йўлларда қарама-қарши йўналишларда ҳаракатланаётган транспорт воситалари оқимларини ажратади; бир йўналишда ҳаракатланиш учун мўлжалланган икки ёки ундан кўпроқ бўлакли йўлларда бўлакларнинг чегараларини билдиради. 1.5 чизиғини исталган томондан босиб ўтиш мумкин.",
+      "explanationRu": "Согласно раздела 1 приложения № 2 к ПДД, горизонтальная разметка 1.5 — разделяет транспортные потоки противоположных направлений на дорогах, имеющих две или три полосы; обозначает границы полос движения при наличии двух и более полос, предназначенных для движения в одном направлении. Линию 1.5 пересекать разрешается с любой стороны.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limiga asosan, 1.5 yotiq chizig'i — ikki yoki uch bo'lakli yo'llarda qarama-qarshi yo'nalishlarda harakatlanayotgan transport vositalari oqimlarini ajratadi; bir yo'nalishda harakatlanish uchun mo'ljallangan ikki yoki undan ko'proq bo'lakli yo'llarda bo'laklarning chegaralarini bildiradi. 1.5 chizig'ini istalgan tomondan bosib o'tish mumkin.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3600,
+          "textUz": "10°",
+          "textRu": "10°",
+          "textOz": "10°",
+          "isCorrect": false
+        },
+        {
+          "id": 3601,
+          "textUz": "20°",
+          "textRu": "20°",
+          "textOz": "20°",
+          "isCorrect": true
+        },
+        {
+          "id": 3602,
+          "textUz": "25°",
+          "textRu": "25°",
+          "textOz": "25°",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3601
+      ]
+    },
+    {
+      "id": 1092,
+      "questionUz": "Қайси ҳолларда транспорт воситасидан фойдаланиш тақиқланади?",
+      "questionRu": "В каком случае запрещается эксплуатация транспортного средства?",
+      "questionOz": "Qaysi hollarda transport vositasidan foydalanish taqiqlanadi?",
+      "explanationUz": "Йўл ҳаракати қоидаларига 3-илова 7.2 бандига асосан, товушли ишора ишламаса транспорт воситасидан фойдаланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 7.2 Приложение № 3 к Правилам дорожного движения, запрещается эксплуатация транспортных,  если не работает звуковой сигнал.",
+      "explanationOz": "Yo‘l harakati qoidalariga 3-ilova 7.2 bandiga asosan, tovushli ishora ishlamasa transport vositasidan foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3603,
+          "textUz": "Ёнилғи даражасини кўрсатиш қурилмаси ишламайди",
+          "textRu": "Не работает указатель уровня топлива",
+          "textOz": "Yonilg'i darajasini ko'rsatish qurilmasi ishlamaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3604,
+          "textUz": "Ўт олдириш тизими носоз",
+          "textRu": "Нарушена система  зажигания",
+          "textOz": "O't oldirish tizimi nosoz",
+          "isCorrect": false
+        },
+        {
+          "id": 3605,
+          "textUz": "Двигатель қийинчилик билан ишга тушади",
+          "textRu": "Затруднен пуск двигателя",
+          "textOz": "Dvigatel qiyinchilik bilan ishga tushadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3606,
+          "textUz": "Товуш сигналлари ишламайди",
+          "textRu": "Не работает звуковой сигнал",
+          "textOz": "Tovush signallari ishlamaydi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3606
+      ]
+    },
+    {
+      "id": 1093,
+      "questionUz": "Сиз енгил автомобилдан қайси жиҳозлар мавжуд бўлмаганда фойдаланишингиз мумкин?",
+      "questionRu": "Вы имеете право эксплуатировать легковой автомобиль при отсутствии?",
+      "questionOz": "Siz engil avtomobildan qaysi jihozlar mavjud bo'lmaganda foydalanishingiz mumkin?",
+      "explanationUz": "ЙҲҚ 8-боби 46-бандига мувофиқ, бурилиш (чапга бурилиш) кўрсатгичлари билан берилаётган ишора манёврни тугаллагач, дарҳол тўхтатилиши керак. Ишоралар бошқа йўл ҳаракати қатнашчиларини чалғитмаслиги керак.",
+      "explanationRu": "Согласно пункту 46 главы 8 ПДД, подача сигнала указателями поворотов (левого поворота) должна прекращаться немедленно после его завершения. Подаваемый сигнал не должен вводить в заблуждение других участников дорожного движения.",
+      "explanationOz": "YHQ 8-bobi 46-bandiga muvofiq, burilish (chapga burilish) ko'rsatgichlari bilan berilayotgan ishora manyovrni tugallagach, darhol to'xtatilishi kerak. Ishoralar boshqa yo'l harakati qatnashchilarini chalg'itmasligi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3607,
+          "textUz": "Тиббий қутича",
+          "textRu": "Аптечки",
+          "textOz": "Tibbiy quticha",
+          "isCorrect": false
+        },
+        {
+          "id": 3608,
+          "textUz": "Ўт ўчиргич",
+          "textRu": "Огнетушителя",
+          "textOz": "O't o'chirgich",
+          "isCorrect": false
+        },
+        {
+          "id": 3609,
+          "textUz": "Фалокат тўхташ белгиси",
+          "textRu": "Знака аварийной остановки",
+          "textOz": "Falokat to'xtash belgisi",
+          "isCorrect": false
+        },
+        {
+          "id": 3610,
+          "textUz": "Ғилдираб кетишга қарши мослама",
+          "textRu": "Противооткатных упоров",
+          "textOz": "G'ildirab ketishga qarshi moslama",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3610
+      ]
+    },
+    {
+      "id": 1094,
+      "questionUz": "Қандай аломатлар чарчаш белгилари ҳисобланади?",
+      "questionRu": "Каковы типичные признаки наступившего утомления водителя?",
+      "questionOz": "Qanday alomatlar charchash belgilari hisoblanadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 5-бўлимидаги 5.7.1 белгига асосан, «Бир томонлама ҳаракатли йўлга чиқиш». Ҳаракатланиш бир томонлама бўлган йўлга ёки қатнов қисмига чиқиш. Чапга  бурилишни  тақиқлайди.\r\nЙҲҚ 1-иловасининг 5-бўлимидаги 5.10.2 белгига асосан, «Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлга чиқиш».Чапга  бурилишни  тақиқлайди.",
+      "explanationRu": "Знак 5.7.1 раздела 5 приложения № 1 к ПДД, «Выезд на дорогу с односторонним движением». Выезд на дорогу или проезжую часть с односторонним движением. Запрещают поворот налево.\r\nЗнак 5.10.2 раздела 5 приложения № 1 к ПДД, «Выезд на дорогу с полосой для маршрутных транспортных средств». Запрещает поворот налево.",
+      "explanationOz": "YHQ 1-ilovasining 5-bo‘limidagi 5.7.1 belgiga asosan, «Bir tomonlama harakatli yo‘lga chiqish». Harakatlanish bir tomonlama bo‘lgan yo‘lga yoki qatnov qismiga chiqish. Chapga burilishni taqiqlaydi.\r\nYHQ 1-ilovasining 5-bo‘limidagi 5.10.2 belgiga asosan, «Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lga chiqish».Chapga burilishni taqiqlaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3611,
+          "textUz": "Уйқучанлик, бўшашиш, диққатнинг сусайиши",
+          "textRu": "Сонливость, вялость, снижение внимания",
+          "textOz": "Uyquchanlik, bo'shashish, diqqatning susayishi",
+          "isCorrect": true
+        },
+        {
+          "id": 3612,
+          "textUz": "Зўриқиш, асабийлашиш",
+          "textRu": "Zo'riqish, asabiylashish",
+          "textOz": "Zo'riqish, asabiylashish",
+          "isCorrect": false
+        },
+        {
+          "id": 3613,
+          "textUz": "Бош айланиши, кўзларга қум кирган каби ачишиш, терлаш аломати",
+          "textRu": "Головокружение, ощущение песка в глазах, потливость",
+          "textOz": "Bosh aylanishi, ko'zlarga qum kirgan kabi achishish, terlash alomati",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3611
+      ]
+    },
+    {
+      "id": 1095,
+      "questionUz": "Санаб ўтилган қайси транспорт воситаларини ўт ўчиргичсиз тасарруф этишга рухсат этилади?",
+      "questionRu": "Какие из перечисленных транспортных средств разрешается эксплуатировать без огнетушителя?",
+      "questionOz": "Sanab o'tilgan qaysi transport vositalarini o't o'chirgichsiz tasarruf etishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 4-бўлимидаги 4.6 белгига асосан, «Пиёдалар йўлкаси».",
+      "explanationRu": "Знак 4.6 раздела 4 приложения № 1 к ПДД, «Пешеходная дорожка».",
+      "explanationOz": "YHQ 1-ilovasining 4-bo‘limidagi 4.6 belgiga asosan, «Piyodalar yo‘lkasi».",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3614,
+          "textUz": "Автомобилларни",
+          "textRu": "Автомобили",
+          "textOz": "Avtomobillarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3615,
+          "textUz": "Автобусларни",
+          "textRu": "Автобусы",
+          "textOz": "Avtobuslarni",
+          "isCorrect": false
+        },
+        {
+          "id": 3616,
+          "textUz": "Барча мотоциклларни",
+          "textRu": "Все мотоциклы",
+          "textOz": "Barcha motosikllarni",
+          "isCorrect": true
+        },
+        {
+          "id": 3617,
+          "textUz": "Фақат  ён кажавасиз  мотоциклларни",
+          "textRu": "Только мотоциклы без бокового прицепа.",
+          "textOz": "Faqat  yon kajavasiz  motosikllarni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3616
+      ]
+    },
+    {
+      "id": 1096,
+      "questionUz": "Енгил автомобилнинг орқа ойнасига парда ёки жалюзилар  ўрнатиш  мумкинми?",
+      "questionRu": "Разрешается ли устанавливать шторки или жалюзи на заднем стекле легкового автомобиля?",
+      "questionOz": "Engil avtomobilning orqa oynasiga parda yoki jalyuzilar  o'rnatish  mumkinmi?",
+      "explanationUz": "Ҳайдовчининг реакция вақти кўплаб омилларга боғлиқ, одатда 0,4 дан 1,6 сония орасида. Шундан келиб чиққан ҳолда, ҳайдовчининг реакция вақти ўртача 1 сония деб тахмин қилинади. Шунинг учун ҳаракат хавфсизлигининг шартларини таъминлаш мақсадида тезликни танлаётган ҳайдовчи соатига 90 километр тезликда ҳаракатланаётган транспорт воситаси бир сонияда тахминан 25 метр масофани босиб ўтишини ҳисобга олиши керак (тенг ҳолатда 90 000 метр/соат ёки 90 000 метр : 3 600 сония = тахминан бир сонияда 25 метр).",
+      "explanationRu": "Время реакции водителя, зависящее от многих факторов, обычно составляет от 0,4 до 1,6 секунды. Исходя из этого среднее время реакции водителя принимается равным 1 секунде. Поэтому при выборе безопасной дистанции для движения со скоростью около 90 км/час водителю важно помнить, что за 1 секунду транспортное средство перемещается на расстояние примерно 25 м. (что равнозначно 90 000 метров/час или 90 000 метров : 3 600 секунд = примерно 25 метров за 1 секунду).",
+      "explanationOz": "Haydovchining reaksiya vaqti ko'plab omillarga bog'liq, odatda 0,4 dan 1,6 soniya orasida. Shundan kelib chiqqan holda, haydovchining reaksiya vaqti o'rtacha 1 soniya deb taxmin qilinadi. Shuning uchun harakat xavfsizligining shartlarini ta'minlash maqsadida tezlikni tanlayotgan haydovchi soatiga 90 kilometr tezlikda harakatlanayotgan transport vositasi bir soniyada taxminan 25 metr masofani bosib o'tishini hisobga olishi kerak (teng holatda 90 000 metr/soat yoki 90 000 metr : 3 600 soniya = taxminan bir soniyada 25 metr).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3618,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3619,
+          "textUz": "Рухсат этилади, агарда икки томонда орқани кўрсатувчи кўзгуси  бўлса",
+          "textRu": "Разрешается, но только при наличии с обеих сторон зеркал заднего вида",
+          "textOz": "Ruxsat etiladi, agarda ikki tomonda orqani ko'rsatuvchi ko'zgusi  bo'lsa",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3619
+      ]
+    },
+    {
+      "id": 1097,
+      "questionUz": "Тўхтаб туриш тормоз тизими N тоифадаги автотранспорт воситаларини аслаҳаланган ҳолатда қандай қияликда ушлаб тура олмаса фойдаланиш тақиқланади?",
+      "questionRu": "На каком уклоне запрещается эксплуатация автотранспортных средств категории N в загруженном состоянии, полной нагрузкой при необеспечении неподвижного состояния стояночной тормозной системы?",
+      "questionOz": "To'xtab turish tormoz tizimi N toifadagi avtotransport vositalarini aslahalangan holatda qanday qiyalikda ushlab tura olmasa foydalanish taqiqlanadi?",
+      "explanationUz": "Механик узатмали автомобилни баландликда қисқа муддатга тўхтатиб, жойида ушлаб туриш учун, тўхтаб туриш тормозини ишлатиш керак.",
+      "explanationRu": "При кратковременной остановке на подъеме, на автомобиле с механической трансмиссией следует привести в действие стояночный тормоз.",
+      "explanationOz": "Mexanik uzatmali avtomobilni balandlikda qisqa muddatga to'xtatib, joyida ushlab turish uchun, to'xtab turish tormozini ishlatish kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3620,
+          "textUz": "25 % дан кам",
+          "textRu": "Менее 25 процентов.",
+          "textOz": "25 % dan kam",
+          "isCorrect": false
+        },
+        {
+          "id": 3621,
+          "textUz": "16 % дан кам",
+          "textRu": "Менее 16 процентов.",
+          "textOz": "16 % dan kam",
+          "isCorrect": false
+        },
+        {
+          "id": 3622,
+          "textUz": "31 % дан кам",
+          "textRu": "Менее 31 процентов.",
+          "textOz": "31 % dan kam",
+          "isCorrect": true
+        },
+        {
+          "id": 3623,
+          "textUz": "20 % дан кам",
+          "textRu": "Менее 20 процентов.",
+          "textOz": "20 % dan kam",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3622
+      ]
+    },
+    {
+      "id": 1098,
+      "questionUz": "М3 тоифадаги автотранспорт воситаларининг бошқарув қурилмасидаги қандай енг катта люфт йиғиндисига йўл қўйилади?",
+      "questionRu": "Какой максимально допустимый люфт в рулевом управления автомобилей категории М3:",
+      "questionOz": "M3 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig'indisiga yo'l qo'yiladi?",
+      "explanationUz": "Ҳаракат хавфсизлиги асослари талабларига асосан, ҳайдовчининг ўртача  реакция вақти тахминан 1 сония деб қабул қилинган.",
+      "explanationRu": "Согласно требованиям безопасности дорожного движения, среднее время реакции водителя принято равным около 1 секунды.",
+      "explanationOz": "Harakat xavfsizligi asoslari talablariga asosan, haydovchining o‘rtacha reaksiya vaqti taxminan 1 soniya deb qabul qilingan.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3624,
+          "textUz": "10 градус",
+          "textRu": "10 градусов",
+          "textOz": "10 gradus",
+          "isCorrect": false
+        },
+        {
+          "id": 3625,
+          "textUz": "20 градус",
+          "textRu": "20 градусов",
+          "textOz": "20 gradus",
+          "isCorrect": true
+        },
+        {
+          "id": 3626,
+          "textUz": "25 градус",
+          "textRu": "25 градусов",
+          "textOz": "25 gradus",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3625
+      ]
+    },
+    {
+      "id": 1099,
+      "questionUz": "М2 тоифали автотранспорт воситаларининг бошқарув қурилмасидаги қандай энг катта люфт йиғиндисига йўл қўйилади",
+      "questionRu": "Какая максимально допустимая величина люфта в рулевом управления транспортных средств категории М2:",
+      "questionOz": "M2 toifali avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig'indisiga yo'l qo'yiladi",
+      "explanationUz": "Кечаси ҳаракатланганда тезликни танлаш жуда муҳим ҳолат ҳисобланади. Бундай ҳолда, асосий шартни ҳисобга олиш керак – ҳайдовчига етарли даражада йўлнинг кўриниш масофаси тўхташ йўли масофасидан ортиқ бўлиши шарт.",
+      "explanationRu": "Очень важным моментом при движении в ночное время является выбор скорости движения. При этом следует учитывать главное условие - расстояние видимости водителем дороги должно превышать величину остановочного пути.",
+      "explanationOz": "Kechasi harakatlanganda tezlikni tanlash juda muhim holat hisoblanadi. Bunday holda, asosiy shartni hisobga olish kerak – haydovchiga yetarli darajada yo'lning ko'rinish masofasi to'xtash yo'li masofasidan ortiq bo'lishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3627,
+          "textUz": "10 градус",
+          "textRu": "10 градусов",
+          "textOz": "10 gradus",
+          "isCorrect": false
+        },
+        {
+          "id": 3628,
+          "textUz": "20 градус",
+          "textRu": "20 градусов",
+          "textOz": "20 gradus",
+          "isCorrect": true
+        },
+        {
+          "id": 3629,
+          "textUz": "3,25 градус",
+          "textRu": "3,25 градусов",
+          "textOz": "3,25 gradus",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3628
+      ]
+    },
+    {
+      "id": 1100,
+      "questionUz": "N1 тоифадаги автотранспорт воситаларининг бошқарув қурилмасидаги қандай энг катта люфт йиғиндисига йўл қўйилади?",
+      "questionRu": "Суммарный люфт в рулевом управлении в регламентированных условях испытаний автотранспортного средства категория N1 не должен превышать следующих значений:",
+      "questionOz": "N1 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig'indisiga yo'l qo'yiladi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, ажратувчи минтақа — йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан кўтарилган ёки майсазор, ариқ, махсус тўсиқлар билан ажратилган баланд қисми.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, разделительная полоса — элемент дороги, разделяющий смежные проезжие части и не предназначенный для движения и остановки транспортных средств, приподнята над уровнем дороги или отделена газоном, канавой, специальными ограждениями.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, ajratuvchi mintaqa — yo‘lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to‘xtashi uchun mo‘ljallanmagan, yo‘l sathidan ko‘tarilgan yoki maysazor, ariq, maxsus to‘siqlar bilan ajratilgan baland qismi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3630,
+          "textUz": "10 градус",
+          "textRu": "10 градусов",
+          "textOz": "10 gradus",
+          "isCorrect": false
+        },
+        {
+          "id": 3631,
+          "textUz": "20 градус",
+          "textRu": "20 градусов",
+          "textOz": "20 gradus",
+          "isCorrect": true
+        },
+        {
+          "id": 3632,
+          "textUz": "30 градус",
+          "textRu": "25 градусов",
+          "textOz": "30 gradus",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3631
+      ]
+    },
+    {
+      "id": 1101,
+      "questionUz": "М тоифадаги автотранспорт воситалари бу:",
+      "questionRu": "Автотранспортное средство категории М:",
+      "questionOz": "M toifadagi avtotransport vositalari bu:",
+      "explanationUz": "ЙҲҚ 1-илованинг қуйидаги бандлар: 5.10.2, 5.10.3. “Юналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлга чиқиши”. 5.11.1. “Қайрилиб олиш жойи”. Чапга бурилиш тақиқланади.",
+      "explanationRu": "Ниже указаны пункты ПДД: 5.10.2, 5.10.3. “Выезд на дорогу с полосой для маршрутных транспортных средств”. 5.11.1. “Место для разворота”. Поворот налево запрещается.",
+      "explanationOz": "YHQ 1-ilovaning quyidagi bandlar: 5.10.2, 5.10.3. “Yunalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lga chiqishi”. 5.11.1. “Qayrilib olish joyi”. Chapga burilish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3633,
+          "textUz": "Камида тўрт ғилдиракка эга бўлган ва йўловчиларни ташиш учун фойдаланиладиган механик транспорт воситалари",
+          "textRu": "Механические автотранспортные средства, имеющие не менее четырех колес и используемые для перевозки пассажиров",
+          "textOz": "Kamida to'rt g'ildirakka ega bo'lgan va yo'lovchilarni tashish uchun foydalaniladigan mexanik transport vositalari",
+          "isCorrect": true
+        },
+        {
+          "id": 3634,
+          "textUz": "Юк ташиш учун мўлжалланган, энг катта вазни 3,5 т дан ошмайдиган автотранспорт воситалари",
+          "textRu": "Автотранспортные средства, предназначенные для перевозки грузов, максимальная масса которых не превышает 3,5 т",
+          "textOz": "Yuk tashish uchun mo'ljallangan, eng katta vazni 3,5 t dan oshmaydigan avtotransport vositalari",
+          "isCorrect": false
+        },
+        {
+          "id": 3635,
+          "textUz": "Тиркамалар (ярим тиркамалар ҳам)",
+          "textRu": "F3. Прицепы (включая полуприцепы)",
+          "textOz": "Tirkamalar (yarim tirkamalar ham)",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3633
+      ]
+    },
+    {
+      "id": 1102,
+      "questionUz": "Тўла вазни 3,5 тоннадан ошмайдиган юк автомобилларини қуйидагилар билан жиҳозланмаган бўлса хам фойдаланишга рухсат этилади:",
+      "questionRu": "Разрешается эксплуатация грузовых автомобилей с разрешенной максимальной массой не более 3,5 тн. при отсутствии:",
+      "questionOz": "To'la vazni 3,5 tonnadan oshmaydigan yuk avtomobillarini quyidagilar bilan jihozlanmagan bo'lsa xam foydalanishga ruxsat etiladi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 16 банди 3 хатбошига асосан, болалар гуруҳини тротуарлар ва пиёдалар йўлкаларидангина, улар бўлмаганда эса йўл ёқасидан фақат сутканинг ёруғ вақтида ва катта ёшдагилар кузатувида олиб юришга рухсат этилади.",
+      "explanationRu": "Согласно пункту 3 статьи 16 Правил дорожного движения, группы детей разрешается водить только по тротуарам и пешеходным дорожкам, а при их отсутствии — по обочинам, только в светлое время суток и в сопровождении взрослых.",
+      "explanationOz": "Yo‘l harakati qoidalarining 16 bandi 3 xatboshiga asosan, bolalar guruhini trotuarlar va piyodalar yo‘lkalaridangina, ular bo‘lmaganda esa yo‘l yoqasidan faqat sutkaning yorug‘ vaqtida va katta yoshdagilar kuzatuvida olib yurishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3636,
+          "textUz": "Ўт ўчиргич",
+          "textRu": "Огнетушителя",
+          "textOz": "O't o'chirgich",
+          "isCorrect": false
+        },
+        {
+          "id": 3637,
+          "textUz": "Тиббиёт қутичаси",
+          "textRu": "Аптечки",
+          "textOz": "Tibbiyot qutichasi",
+          "isCorrect": false
+        },
+        {
+          "id": 3638,
+          "textUz": "Ўзи юриб кетишидан сақловчи, ғилдирак диаметрига мувофиқ (камида иккита) тиргак",
+          "textRu": "Противооткатного устройства соответствующего диаметру колеса (минимум 2)",
+          "textOz": "O'zi yurib ketishidan saqlovchi, g'ildirak diametriga muvofiq (kamida ikkita) tirgak",
+          "isCorrect": true
+        },
+        {
+          "id": 3639,
+          "textUz": "Мажбурий тўхтаганини билдирувчи белги (ёки милтилловчи қизил чироқ)",
+          "textRu": "Знака аварийной остановки.",
+          "textOz": "Majburiy to'xtaganini bildiruvchi belgi (yoki miltillovchi qizil chiroq)",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3638
+      ]
+    }
+  ]
+}

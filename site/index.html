@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yodla — ПДД Узбекистана</title>
+  <meta name="description" content="Видеоуроки, знаки, штрафы и тренировки по Правилам дорожного движения Узбекистана." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%23002262'/><text x='50' y='70' font-size='60' font-weight='900' text-anchor='middle' fill='%23BEFD00'>Y</text></svg>" />
+</head>
+<body>
+
+  <!-- Навигация -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <div class="brand" data-route="home" role="button" tabindex="0">
+        <div class="brand-mark">Y</div>
+        <span>Yodla</span>
+      </div>
+      <div class="nav-links" id="navLinks">
+        <button class="nav-link" data-route="home" id="navHome"></button>
+        <button class="nav-link" data-route="videos" id="navVideos"></button>
+        <button class="nav-link" data-route="signs" id="navSigns"></button>
+        <button class="nav-link" data-route="fines" id="navFines"></button>
+        <button class="nav-link" data-route="training" id="navTraining"></button>
+        <button class="nav-link" data-route="arena" id="navArena"></button>
+        <button class="nav-link nav-search" id="navSearch" title="Поиск">🔍</button>
+        <button class="nav-link nav-lang" id="navLang" title="Язык">🌐</button>
+        <button class="nav-link nav-user" id="navUser" title="Профиль">···</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Контейнер приложения -->
+  <main class="app" id="app"></main>
+
+  <!-- Подвал -->
+  <footer style="text-align:center; padding:40px 20px; color:var(--ink-mute); font-size:0.85rem;">
+    <p>Yodla · ПДД Узбекистана · Локальная копия для обучения</p>
+  </footer>
+
+  <script src="i18n.js"></script>
+  <script src="player.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{
+  "category": "Yo'l qatorlari qoidalari",
+  "count": 3,
+  "fines": [
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Qarama-qarshi harakatlanish bo'lagiga chiqish",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Avtobus yo'lagida harakatlanish (birinchi marta)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Avtobus yo'lagida harakatlanish (takroriy)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    }
+  ]
+}

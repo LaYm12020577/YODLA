@@ -1,0 +1,16 @@
+{
+  "category": "To'xtash va turish",
+  "count": 1,
+  "fines": [
+    {
+      "article": 127,
+      "subArticle": null,
+      "violation": "Belgilanmagan joyda to'xtash yoki turish",
+      "fineBhm": "2.00",
+      "fineUzs": "824000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

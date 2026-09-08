@@ -1,0 +1,426 @@
+{
+  "category": "Axborot belgilari",
+  "count": 70,
+  "signs": [
+    {
+      "number": "5.1",
+      "description": "«Avtomagistral».\nYo‘l harakati qoidalarining avtomagistrallarda harakatlanish tartibi o‘rnatilgan yo‘lni bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.1_resize-min.png.webp",
+      "imageFile": "5.1.webp"
+    },
+    {
+      "number": "5.2",
+      "description": "«Avtomagistralning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.2_resize-min.png.webp",
+      "imageFile": "5.2.webp"
+    },
+    {
+      "number": "5.3",
+      "description": "«Avtomobillar uchun mo‘ljallangan yo‘l».\nFaqat avtomobillar, avtobus va mototsikllarning harakatlanishi uchun mo‘ljallangan yo‘lni bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.3_resize-min.png.webp",
+      "imageFile": "5.3.webp"
+    },
+    {
+      "number": "5.4",
+      "description": "«Avtomobillar uchun mo‘ljallangan yo‘lning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.4_resize-min.png.webp",
+      "imageFile": "5.4.webp"
+    },
+    {
+      "number": "5.5",
+      "description": "«Bir tomonlama harakatli yo‘l».\nTransport vositalari butun kenglik bo‘yicha bir yo‘nalishda harakatlanadigan yo‘l yoki qatnov qismi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.5_resize-min.png.webp",
+      "imageFile": "5.5.webp"
+    },
+    {
+      "number": "5.6",
+      "description": "«Bir tomonlama harakatli yo‘lning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.6_resize-min.png.webp",
+      "imageFile": "5.6.webp"
+    },
+    {
+      "number": "5.7.1 – 5.7.2",
+      "description": "«Bir tomonlama harakatli yo‘lga chiqish».\nHarakatlanish bir tomonlama bo‘lgan yo‘lga yoki qatnov qismiga chiqish.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.7.1_resize-min.png.webp",
+      "imageFile": "5.7.1 – 5.7.2.webp"
+    },
+    {
+      "number": "5.8.1",
+      "description": "«Tasmalar bo‘yicha harakat yo‘nalishi».\nTasmalar soni va har biri bo‘yicha ruxsat etilgan harakatlanish yo‘nalishlari. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.1_resize-min.png.webp",
+      "imageFile": "5.8.1.webp"
+    },
+    {
+      "number": "5.8.2",
+      "description": "«Tasma bo‘yicha harakatlanish yo‘nalishi».\nTasma bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8_resize-min-300x300.png.webp",
+      "imageFile": "5.8.2.webp"
+    },
+    {
+      "number": "5.8.3",
+      "description": "«Tasmaning boshlanishi».\nYo‘lning sekinlashish bo‘lagi yoki balandlikka ko‘tarilishdagi qo‘shimcha tasmaning boshlanish qismi.\nAgar belgiga 4.7 “Eng kam tezlik” belgisining tasviri tushgan bo‘lsa, ko‘rsatilgan yoki undan kattaroq tezlikda harakatlana olmaydigan transport vositasining haydovchisi asosiy tasmadan qo‘shimcha tasmaga qayta tizilishi kerak.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.3_resize-min-149x300.png.webp",
+      "imageFile": "5.8.3.webp"
+    },
+    {
+      "number": "5.8.4",
+      "description": "«Tasmaning boshlanishi».\nUch tasmali yo‘llarda shu yo‘nalishda harakatlanish uchun mo‘ljallangan o‘rta tasma qismining boshlanishi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.6_resize-min.png.webp",
+      "imageFile": "5.8.4.webp"
+    },
+    {
+      "number": "5.8.5",
+      "description": "«Tasma oxiri».\nBalandlikka ko‘tarilishdagi qo‘shimcha tasmaning yoki tezlanish tasmaning oxirini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.5_resize-min.png.webp",
+      "imageFile": "5.8.5.webp"
+    },
+    {
+      "number": "5.8.6",
+      "description": "«Tasma oxiri».\nUch tasmali yo‘llarda shu yo‘nalishda harakatlanish uchun mo‘ljallangan o‘rta tasma qismining oxirini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.4_resize-min.png.webp",
+      "imageFile": "5.8.6.webp"
+    },
+    {
+      "number": "5.8.7\n5.8.8",
+      "description": "«Tasmalar bo‘yicha harakatlanish yo‘nalishi».\nAgar 5.8.7 belgisida biror transport vositasining harakatlanishini taqiqlovchi belgi tasvirlangan bo‘lsa, unda bu tur transport vositasining tegishli tasmada harakatlanishi taqiqlanishini bildiradi.\n5.8.7 va 5.8.8 belgilari yo‘nalishlar soniga ko‘ra to‘rt va undan ortiq tasmali yo‘llarga ham tatbiq etilishi mumkin. Tasviri almashadigan 5.8.7, 5.8.8 belgilari yordamida reversiv harakat tashkil etilishi mumkin.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.7.1_resize-min.png.webp",
+      "imageFile": "5.8.7 5.8.8.webp"
+    },
+    {
+      "number": "5.9",
+      "description": "«Yo‘nalishli transport vositalari uchun mo‘ljallangan tasma».\nTransport vositalari yo‘nalishida harakatlanadigan yo‘nalishli transport vositalari uchun mo‘ljallangan tasmani bildiradi.\nBelgi qaysi tasma ustida joylashgan bo‘lsa, shu tasmaga tatbiq etiladi. Yo‘lning o‘ng tomoniga o‘rnatilgan belgining ta’siri o‘ng tasmaga tatbiq etiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.9_resize-min.png.webp",
+      "imageFile": "5.9.webp"
+    },
+    {
+      "number": "5.10.1",
+      "description": "«Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘l».\nYo‘nalishli transport vositalarining umumiy oqimga qarshi harakatlanishi uchun ajratilgan tasmani bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.1_resize-min.png.webp",
+      "imageFile": "5.10.1.webp"
+    },
+    {
+      "number": "5.10.4",
+      "description": "«Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.4_resize-min.png.webp",
+      "imageFile": "5.10.4.webp"
+    },
+    {
+      "number": "5.10.2 – 5.10.3",
+      "description": "«Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lga chiqish».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.2_resize-min.png.webp",
+      "imageFile": "5.10.2 – 5.10.3.webp"
+    },
+    {
+      "number": "5.11.1",
+      "description": "«Qayrilib olish joyi».\nChapga burilish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.11.1_resize-min.png.webp",
+      "imageFile": "5.11.1.webp"
+    },
+    {
+      "number": "5.11.2",
+      "description": "«Qayrilib olish oralig‘i».\nQayrilib olish oralig‘ining uzunligini bildiradi. Chapga burilish taqiqlanadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.11.2_resize-min.png.webp",
+      "imageFile": "5.11.2.webp"
+    },
+    {
+      "number": "5.12",
+      "description": "«Avtobus va (yoki) trolleybus to‘xtash joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.12_resize-min.png.webp",
+      "imageFile": "5.12.webp"
+    },
+    {
+      "number": "5.13",
+      "description": "«Tramvay to‘xtash joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.13_resize-min.png.webp",
+      "imageFile": "5.13.webp"
+    },
+    {
+      "number": "5.14",
+      "description": "«Yo‘nalishsiz taksilar to‘xtab turish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.14_resize-min.png.webp",
+      "imageFile": "5.14.webp"
+    },
+    {
+      "number": "5.15",
+      "description": "«To‘xtab turish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15_resize-min.png.webp",
+      "imageFile": "5.15.webp"
+    },
+    {
+      "number": "5.15.1",
+      "description": "«Pullik to‘xtab turish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.1_resize-min.png.webp",
+      "imageFile": "5.15.1.webp"
+    },
+    {
+      "number": "5.15.2",
+      "description": "«Yer usti avtomobil qo‘yish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.2_resize-min.png.webp",
+      "imageFile": "5.15.2.webp"
+    },
+    {
+      "number": "5.15.3",
+      "description": "«Yer osti avtomobil qo‘yish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.3_resize-min.png.webp",
+      "imageFile": "5.15.3.webp"
+    },
+    {
+      "number": "5.15.4",
+      "description": "«Elektr quvvatlashli avtomobil qo‘yish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.4_resize-min.png.webp",
+      "imageFile": "5.15.4.webp"
+    },
+    {
+      "number": "5.16.1 – 5.16.2",
+      "description": "«Piyodalar o‘tish joyi».\nO‘tish joyi oldida 1.14.1-1.14.2 yotiq chizig‘i bo‘lmaganda 5.16.2 belgisi yo‘ldan o‘ng tomonga o‘tish joyining old chegarasiga, 5.16.1 belgisi esa chap tomonga o‘tish joyining orqa chegarasiga o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.16.1_resize-min.png.webp",
+      "imageFile": "5.16.1 – 5.16.2.webp"
+    },
+    {
+      "number": "5.17.1 – 5.17.2",
+      "description": "«Piyodalarning yer ostidan o‘tish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.17.1_resize-min.png.webp",
+      "imageFile": "5.17.1 – 5.17.2.webp"
+    },
+    {
+      "number": "5.17.3 – 5.17.4",
+      "description": "«Piyodalarning yer ustidan o‘tish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.17.3_resize-min.png.webp",
+      "imageFile": "5.17.3 – 5.17.4.webp"
+    },
+    {
+      "number": "5.18",
+      "description": "«Tavsiya etilgan tezlik».\nYo‘lning shu qismida tavsiya etilgan harakatlanish tezligini bildiradi. Belgiga eng yaqin chorrahagacha amal qilinadi. 5.18 belgisi ogohlantiruvchi belgi bilan birga qo‘llansa, uning ta’sir oralig‘i xavfli qismning uzunligi bilan aniqlanadi. 5.48 yo‘l belgisi o‘rnatilgan ko‘cha va yo‘llarda o‘rnatilishi lozimligini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.18_resize-min.png.webp",
+      "imageFile": "5.18.webp"
+    },
+    {
+      "number": "5.19.1 – 5.19.4",
+      "description": "«Oxiri berk yo‘l».\nYo‘lning ko‘rsatilgan yo‘nalishda oxiri berkligini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.19.1_resize-min.png.webp",
+      "imageFile": "5.19.1 – 5.19.4.webp"
+    },
+    {
+      "number": "5.20.1",
+      "description": "«Yo‘nalishlarning dastlabki ko‘rsatkichi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.1.2_resize-min.png.webp",
+      "imageFile": "5.20.1.webp"
+    },
+    {
+      "number": "5.20.2",
+      "description": "«Yo‘nalishlarning dastlabki ko‘rsatkichi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.2_resize-min.png.webp",
+      "imageFile": "5.20.2.webp"
+    },
+    {
+      "number": "5.20.3",
+      "description": "«Harakatlanish chizmasi».\nChorrahada ayrim yo‘nalishlarda harakatlanish taqiqlangan bo‘lsa harakatlanish yo‘nalishi yoki murakkab chorrahalarda ruxsat etilgan harakatlanish yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.3_resize-min.png.webp",
+      "imageFile": "5.20.3.webp"
+    },
+    {
+      "number": "5.20.4",
+      "description": "«Yo‘llarining bir sathda kesishmaydigan qismlarida burilish yoki qayrilib olish yo‘nalish ko‘rsatkichi».\nAvtomobil yo‘llarning bir sathda kesishmaydigan qismlarida yer ostidan yoki yer ustidan transport vositalarining burilish va qayrilib olish yo‘nalishini ko‘rsatish uchun qo‘llaniladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.4_resize-min-300x123.png.webp",
+      "imageFile": "5.20.4.webp"
+    },
+    {
+      "number": "5.20.5",
+      "description": "«Xizmat ko‘rsatish maydoni».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.5_resize-min.png.webp",
+      "imageFile": "5.20.5.webp"
+    },
+    {
+      "number": "5.21.1",
+      "description": "«Yo‘nalish ko‘rsatkichi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.21_resize-min.png.webp",
+      "imageFile": "5.21.1.webp"
+    },
+    {
+      "number": "5.21.2",
+      "description": "«Yo‘nalishlar ko‘rsatkichi».\nKo‘rsatilgan manzillarga harakatlanish yo‘nalishlarini bildiradi. Belgilarda manzillargacha bo‘lgan masofa (km) ko‘rsatilishi, avtomagistrallar, aeroportlar va boshqa ramziy belgilar tasvirlangan bo‘lishi mumkin.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.21.2_resize-min.png.webp",
+      "imageFile": "5.21.2.webp"
+    },
+    {
+      "number": "5.22",
+      "description": "«Aholi punktining boshlanishi».\nUshbu Qoidalarning aholi punktlarida harakatlanish tartibini belgilovchi talablariga amal qilinadigan joylarning nomi hamda uning boshlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.22_resize-min.png.webp",
+      "imageFile": "5.22.webp"
+    },
+    {
+      "number": "5.23",
+      "description": "«Aholi punktining oxiri».\nUshbu Qoidalarning aholi punktlarida harakatlanish tartib-talablari bekor qilingan joyni bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.23_resize-min.png.webp",
+      "imageFile": "5.23.webp"
+    },
+    {
+      "number": "5.24",
+      "description": "«Aholi punktining boshlanishi».\nUshbu Qoidalarning aholi punktlarida harakatlanish tartibini belgilovchi talablariga amal qilinmaydigan joylarning nomi hamda uning boshlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.25.1_resize-min-300x62.png.webp",
+      "imageFile": "5.24.webp"
+    },
+    {
+      "number": "5.25",
+      "description": "«Aholi punktining oxiri».\n5.24 yo‘l belgisi bilan ko‘rsatilgan aholi punktining oxirini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.25.2_resize-min.png.webp",
+      "imageFile": "5.25.webp"
+    },
+    {
+      "number": "5.26",
+      "description": "«Manzil nomi».\nAholi punktlaridan boshqa manzillarning nomini bildiradi (daryo, ko‘l, dovon, xushmanzara joy va boshqalar).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.26_resize-min.png.webp",
+      "imageFile": "5.26.webp"
+    },
+    {
+      "number": "5.27",
+      "description": "«Masofalar ko‘rsatkichi».\nYo‘nalish bo‘yicha joylashgan aholi punktlarigacha bo‘lgan masofani bildiradi (km).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.27_resize-min.png.webp",
+      "imageFile": "5.27.webp"
+    },
+    {
+      "number": "5.28",
+      "description": "«Kilometr belgisi».\nYo‘lning boshi yoki oxirigacha bo‘lgan masofani bildiradi (km).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.28_resize-min.png.webp",
+      "imageFile": "5.28.webp"
+    },
+    {
+      "number": "5.29.1",
+      "description": "«Yo‘l raqami».\nYo‘lga berilgan raqam",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.29.1_resize-min.png.webp",
+      "imageFile": "5.29.1.webp"
+    },
+    {
+      "number": "5.29.2",
+      "description": "«Yo‘l raqami».\nYo‘lning raqami va yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.29.2_resize-min.png.webp",
+      "imageFile": "5.29.2.webp"
+    },
+    {
+      "number": "5.30.1 – 5.30.3",
+      "description": "«Yuk avtomobillari uchun harakatlanish yo‘nalishi».\nChorrahada yuk avtomobillari, traktorlar va o‘ziyurar moslamalarga biror yo‘nalishda harakatlanish taqiqlangan bo‘lsa, bunday transport vositalariga tavsiya etilgan harakatlanish yo‘nalishlari ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.30_resize-min.png.webp",
+      "imageFile": "5.30.1 – 5.30.3.webp"
+    },
+    {
+      "number": "5.31",
+      "description": "«Aylanib o‘tish tasviri».\nHarakatlanish uchun vaqtincha yopib qo‘yilgan yo‘l qismini chetlab o‘tish chizmasi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.31_resize-min.png.webp",
+      "imageFile": "5.31.webp"
+    },
+    {
+      "number": "5.32.1 – 5.32.3",
+      "description": "«Chetlab o‘tish yo‘nalishi».\nHarakatlanish vaqtincha yopib qo‘yilgan yo‘l qismini chetlab o‘tish yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.32_resize-min.png.webp",
+      "imageFile": "5.32.1 – 5.32.3.webp"
+    },
+    {
+      "number": "5.33",
+      "description": "«To‘xtash chizig‘i».\nSvetoforning (tartibga soluvchining) taqiqlovchi ishorasida transport vositalari to‘xtaydigan yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.33_resize-min.png.webp",
+      "imageFile": "5.33.webp"
+    },
+    {
+      "number": "5.34.1 – 5.34.2",
+      "description": "«Boshqa qatnov qismiga qayta tizilishning boshlang‘ich ko‘rsatkichi».\nAjratuvchi bo‘lagi bo‘lgan yo‘lning harakatlanish uchun yopiq hududini aylanib o‘tish yoki o‘ng tomondagi qatnov qismiga qaytish uchun harakatlanish yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.34.1_resize-min.png.webp",
+      "imageFile": "5.34.1 – 5.34.2.webp"
+    },
+    {
+      "number": "5.35",
+      "description": "«Reversiv harakatlanish».\nBir yoki bir necha tasmalarda harakatlanish yo‘nalishi qarama-qarshi tomonga o‘zgarishi mumkin bo‘lgan yo‘l qismining boshlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.35_resize-min.png.webp",
+      "imageFile": "5.35.webp"
+    },
+    {
+      "number": "5.36",
+      "description": "«Reversiv harakatlanishning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.36_resize-min.png.webp",
+      "imageFile": "5.36.webp"
+    },
+    {
+      "number": "5.37",
+      "description": "«Reversiv harakatlanish yo‘liga chiqish».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.37_resize-min.png.webp",
+      "imageFile": "5.37.webp"
+    },
+    {
+      "number": "5.38",
+      "description": "«Turar joy dahasi».\nYo‘l harakati qoidalarining turar joy dahalarida harakatlanish tartibi o‘rnatilgan yo‘l.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.38_resize-min.png.webp",
+      "imageFile": "5.38.webp"
+    },
+    {
+      "number": "5.39",
+      "description": "«Turar joy dahasining oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.39_resize-min.png.webp",
+      "imageFile": "5.39.webp"
+    },
+    {
+      "number": "5.40",
+      "description": "«Falokatli holatlar uchun kirish yo‘li».\nYo‘l harakati ushbu Qoidalaridagi 128-bandda ko‘rsatilgan holatlarda foydalaniladigan yo‘l.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.40_resize-min.png.webp",
+      "imageFile": "5.40.webp"
+    },
+    {
+      "number": "5.41",
+      "description": "«Foto va video qayd etish».\nYo‘llarda avtomobil haydovchilari Qoidalar talabiga rioya etishi elektron qurilmalar yordamida nazorat qilinayotganligini bildiruvchi yo‘l belgisi. Ushbu yo‘l belgisi Qoidalar talabiga rioya etilishi statsionar elektron qurilmalar orqali nazoratga olingan joylarga o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.41_resize-min.png.webp",
+      "imageFile": "5.41.webp"
+    },
+    {
+      "number": "5.42",
+      "description": "«Qizil chiroqda o‘ngga harakatlanish».\nTransport svetofori qizil chirog‘ining o‘ng yoniga 5.42 yo‘l belgisi o‘rnatilgan bo‘lsa, transport vositalarining haydovchilari svetoforning taqiqlovchi ishorasi yonib turganda, barcha xavfsizlik choralarini ko‘rgan holda o‘ngga burilishlari mumkin. Bunda ular harakat yo‘nalishi bo‘yicha va burilayotgan ko‘chani kesib o‘tayotgan piyodalarga hamda boshqa transport vositalariga yo‘l berishlari shart.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.42_resize-min.png.webp",
+      "imageFile": "5.42.webp"
+    },
+    {
+      "number": "5.43",
+      "description": "«Radar».\nYo‘llarda avtomobil haydovchilari belgilangan tezlikka rioya etishi radarlar yordamida nazorat qilinayotganligini bildiruvchi yo‘l belgisi.\nUshbu yo‘l belgisi belgilangan harakatlanish tezligi statsionar maxsus texnika vositalari yordamida nazoratga olingan joylarga o‘rnatiladi.\nShuningdek, viloyat, tuman, shaharlar boshlanadigan joylardagi ko‘cha va yo‘llarda harakatlanish tezligi mobil radarlar yordamida nazorat qilinayotganligi to‘g‘risida haydovchilarni ogohlantirish maqsadida o‘rnatilishi mumkin.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.43_resize-min.png.webp",
+      "imageFile": "5.43.webp"
+    },
+    {
+      "number": "5.44",
+      "description": "«Velosipedchilar uchun tasma».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.44_resize-min.png.webp",
+      "imageFile": "5.44.webp"
+    },
+    {
+      "number": "5.45",
+      "description": "«Velosipedchilar uchun tasmaning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.45_resize-min.png.webp",
+      "imageFile": "5.45.webp"
+    },
+    {
+      "number": "5.46",
+      "description": "«Maktab».\nMaktab yoki maktabgacha ta’lim tashkilotlari oldida o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.46_resize-min.png.webp",
+      "imageFile": "5.46.webp"
+    },
+    {
+      "number": "5.47",
+      "description": "«Turizm obyektlari yo‘nalish ko‘rsatgichi».\nTurizm obyektlari joylashgan manzillarga harakatlanish yo‘nalishlarini bildiradi. Belgilarda manzillargacha bo‘lgan masofa (km) ko‘rsatilishi, temir yo‘l vokzallari, aeroportlar va boshqa turizm obyektlari ramziy belgilari tasvirlangan bo‘lishi mumkin.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47_resize-min.png.webp",
+      "imageFile": "5.47.webp"
+    },
+    {
+      "number": "5.47.1",
+      "description": "«Turizm obyektlari».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47.0_resize-min-300x300.png.webp",
+      "imageFile": "5.47.1.webp"
+    },
+    {
+      "number": "5.47.2",
+      "description": "«Turizm axborot markazi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47.7_resize-min.png.webp",
+      "imageFile": "5.47.2.webp"
+    },
+    {
+      "number": "5.48",
+      "description": "«Baland piyodalar o‘tish joyi».\n5.16.1-5.16.2 yo‘l belgilari bilan birga qo‘llaniladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/12/5.48.webp",
+      "imageFile": "5.48.webp"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "category": "Qo'shimcha axborot belgilari",
+  "count": 36,
+  "signs": [
+    {
+      "number": "7.1.1",
+      "description": "«Obyektgacha bo‘lgan masofa».\nBelgidan yo‘lning xavfli joyi, yo‘l harakatiga tegishli cheklovlar kiritiladigan joyi yoki harakat yo‘nalishi bo‘yicha oldindagi muayyan joygacha bo‘lgan masofani ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.1.1_resize-min.png.webp",
+      "imageFile": "7.1.1.webp"
+    },
+    {
+      "number": "7.1.2",
+      "description": "«Obyektgacha bo‘lgan masofa».\nAholi punktlaridan tashqarida chorraha oldiga 2.5. yo‘l belgisi o‘rnatilgan bo‘lsa, 2.4. yo‘l belgisi bilan o‘rnatilib, chorrahagacha bo‘lgan masofani ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.1.2_resize-min.png.webp",
+      "imageFile": "7.1.2.webp"
+    },
+    {
+      "number": "7.1.3 – 7.1.4",
+      "description": "«Obyektgacha bo‘lgan masofa».\nYo‘ldan chetda joylashgan manzilgacha bo‘lgan masofani bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.1.3_resize-min.png.webp",
+      "imageFile": "7.1.3 – 7.1.4.webp"
+    },
+    {
+      "number": "7.2.1",
+      "description": "«Ta’sir oralig‘i».\nOgohlantiruvchi belgilar bilan belgilangan xavfli joyning uzunligini yoki taqiqlovchi va axborot-ko‘rsatkich belgilarining ta’sir oralig‘ini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.2.1_resize-min.png.webp",
+      "imageFile": "7.2.1.webp"
+    },
+    {
+      "number": "7.2.2",
+      "description": "«Ta’sir oralig‘i».\n3.27 — 3.30 taqiqlovchi belgilarining ta’siri saqlangan oraliqni ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.2.2_resize-min-150x300.png.webp",
+      "imageFile": "7.2.2.webp"
+    },
+    {
+      "number": "7.2.3",
+      "description": "«Ta’sir oralig‘i».\n3.27 — 3.30 taqiqlovchi belgilarining ta’sir oralig‘i oxirini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.2.3_resize-min-150x300.png.webp",
+      "imageFile": "7.2.3.webp"
+    },
+    {
+      "number": "7.2.4",
+      "description": "«Ta’sir oralig‘i».\nHaydovchilarga ularning 3.27 — 3.30 yo‘l belgilari ta’sir doirasida ekanliklari haqida axborot beradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.2.4_resize-min-150x300.png.webp",
+      "imageFile": "7.2.4.webp"
+    },
+    {
+      "number": "7.2.5 – 7.2.6",
+      "description": "«Ta’sir oralig‘i».\nMaydon, binolar oldi va shunga o‘xshash joylar chetida to‘xtash va to‘xtab turish taqiqlanganda 3.27 — 3.30 belgilarining ta’sir oralig‘i va yo‘nalishini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.2.5_resize-min.png.webp",
+      "imageFile": "7.2.5 – 7.2.6.webp"
+    },
+    {
+      "number": "7.3.1 – 7.3.3",
+      "description": "«Ta’sir yo‘nalishlari».\nChorraha oldida o‘rnatilgan belgilarning ta’sir yo‘nalishini yoki bevosita yo‘l yaqinida joylashgan manzillarga harakatlanish yo‘nalishini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.3.1_resize-min.png.webp",
+      "imageFile": "7.3.1 – 7.3.3.webp"
+    },
+    {
+      "number": "7.4.1 – 7.4.10",
+      "description": "«Transport vositasining turi».\nBelgining ta’siri joriy etilgan transport vositalari turini ko‘rsatadi.\n7.4.1 belgi bilan o‘rnatilgan yo‘l belgisining ta’siri yuk tashuvchi, shu jumladan, tirkamali, to‘liq vazni 3,5 tonnadan ortiq bo‘lgan transport vositalariga, 7.4.3 belgi bilan o‘rnatilgan yo‘l belgisining ta’siri yengil avtomobillarga, 7.4.9 elektromobillarga, 7.4.10 yo‘nalishsiz taksilarga, shuningdek, to‘liq vazni 3,5 tonnagacha bo‘lgan yuk tashuvchi transport vositalariga tatbiq etiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.4.1_resize-min.png.webp",
+      "imageFile": "7.4.1 – 7.4.10.webp"
+    },
+    {
+      "number": "7.5.1",
+      "description": "«Shanba, yakshanba va bayram kunlari».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.5.1_resize-min.png.webp",
+      "imageFile": "7.5.1.webp"
+    },
+    {
+      "number": "7.5.2",
+      "description": "«Ish kunlari».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.5.2_resize-min.png.webp",
+      "imageFile": "7.5.2.webp"
+    },
+    {
+      "number": "7.5.3",
+      "description": "«Hafta kunlari».\nBelgiga haftaning qaysi kunlari amal qilinishi ko‘rsatilgan.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.5.3_resize-min.png.webp",
+      "imageFile": "7.5.3.webp"
+    },
+    {
+      "number": "7.5.4",
+      "description": "«Amal qilish vaqti».\nBelgiga kunning qaysi vaqtida amal qilishni ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.5.4_resize-min.png.webp",
+      "imageFile": "7.5.4.webp"
+    },
+    {
+      "number": "7.5.5 – 7.5.7",
+      "description": "«Amal qilish vaqti».\nBelgiga haftaning qaysi kuni va qaysi soatlarida amal qilishni ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.5.5_resize-min.png.webp",
+      "imageFile": "7.5.5 – 7.5.7.webp"
+    },
+    {
+      "number": "7.6.1 – 7.6.9",
+      "description": "«Transport vositasini to‘xtab turish joyiga qo‘yish usuli».\n7.6.1 barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini, 7.6.2 — 7.6.9 trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.6.1_resize-min.png.webp",
+      "imageFile": "7.6.1 – 7.6.9.webp"
+    },
+    {
+      "number": "7.7",
+      "description": "«Dvigatelni ishlatmasdan to‘xtab turish joyi».\n5.15 belgisi bilan belgilangan to‘xtab turish joyida transport vositalarining dvigatelini ishlatmasdan to‘xtab turishiga ruxsat etilganligini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.7_resize-min.png.webp",
+      "imageFile": "7.7.webp"
+    },
+    {
+      "number": "7.8",
+      "description": "«Pulli xizmat ko‘rsatish joyi».\nTo‘lov asosida xizmat ko‘rsatilishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.8_resize-min.png.webp",
+      "imageFile": "7.8.webp"
+    },
+    {
+      "number": "7.9",
+      "description": "«To‘xtab turish muddati cheklangan».\n5.15 belgisi o‘rnatilgan to‘xtab turish joyida transport vositalari to‘xtab turishining eng ko‘p muddatini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.9_resize-min.png.webp",
+      "imageFile": "7.9.webp"
+    },
+    {
+      "number": "7.10",
+      "description": "«Avtomobillarni ko‘rikdan o‘tkazish joyi».\n5.15 yoki 6.11 belgisi bilan ko‘rsatilgan maydonlarda estakada yoki ko‘zdan kechirish chuqurchalari borligini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.10_resize-min.png.webp",
+      "imageFile": "7.10.webp"
+    },
+    {
+      "number": "7.11",
+      "description": "«Ruxsat etilgan to‘la vazni cheklangan».\nBelgining ta’siri ruxsat etilgan to‘la vazni qo‘shimcha-axborot yo‘l belgisida ko‘rsatilgan miqdordan ortiq bo‘lgan transport vositalariga taalluqli ekanligini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.11_resize-min.png.webp",
+      "imageFile": "7.11.webp"
+    },
+    {
+      "number": "7.12",
+      "description": "«Xavfli yo‘l yoqasi».\nYo‘l ishlari bajarilayotgani sababli yo‘l yoqasiga chiqish xavfli ekanligi haqida ogohlantiradi. 1.23 belgisi bilan qo‘llaniladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.12_resize-min.png.webp",
+      "imageFile": "7.12.webp"
+    },
+    {
+      "number": "7.13",
+      "description": "«Asosiy yo‘lning yo‘nalishi».\nChorrahada asosiy yo‘lning yo‘nalishini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.13_resize-min-300x198.png.webp",
+      "imageFile": "7.13.webp"
+    },
+    {
+      "number": "7.14",
+      "description": "«Harakatlanish tasmasi».\nBelgi yoki svetofor ta’siridagi harakatlanish bo‘lagini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.14_resize-min.png.webp",
+      "imageFile": "7.14.webp"
+    },
+    {
+      "number": "7.15",
+      "description": "«Ko‘zi ojiz piyodalar».\n1.20, 5.16.1, 5.16.2 belgilari hamda svetofor bilan birga qo‘llaniladi, piyodalar o‘tish joyidan ko‘zi ojiz piyodalar foydalanishi mumkinligi haqida ogohlantiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.15_resize-min.png.webp",
+      "imageFile": "7.15.webp"
+    },
+    {
+      "number": "7.16",
+      "description": "«Nam qoplama».\nBelgi qatnov qismining qoplamasi nam bo‘lgan vaqtda ta’sir etishini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.16_resize-min.png.webp",
+      "imageFile": "7.16.webp"
+    },
+    {
+      "number": "7.17",
+      "description": "«Nogironlar».\n5.15 belgisi bilan qo‘llaniladi. To‘xtab turish joyi (yoki uning bir qismi) ushbu Qoidalarning 176-bandiga muvofiq “Nogiron” taniqlik belgisi o‘rnatilgan transport vositalari uchun ajratilganligini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.17_resize-min.png.webp",
+      "imageFile": "7.17.webp"
+    },
+    {
+      "number": "7.18",
+      "description": "«Nogironlar mustasno».\nBelgilarning ta’siri ushbu Qoidalarning 175-bandiga muvofiq “Nogiron” taniqlik belgisi o‘rnatilgan transport vositalariga joriy etilmaydi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.18_resize-min.png.webp",
+      "imageFile": "7.18.webp"
+    },
+    {
+      "number": "7.19",
+      "description": "«Foto va video qayd etish».\nYo‘l harakati qatnashchilarining harakatlari maxsus avtomatlashtirilgan foto va video qayd etish texnika vositalari orqali qayd etilayotganligini bildiradi. Ogohlantiruvchi, imtiyoz, taqiqlovchi, buyuruvchi va axborot ishora belgilari bilan birgalikda qo‘llaniladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.19_resize-min.png.webp",
+      "imageFile": "7.19.webp"
+    },
+    {
+      "number": "7.20",
+      "description": "«Xavfli yuk toifasi».\nXavfli yuk toifasining (toifalarining) raqamini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.20_resize-min.png.webp",
+      "imageFile": "7.20.webp"
+    },
+    {
+      "number": "7.21",
+      "description": "«Evakuator ishlamoqda».\n3.27 — 3.30 yo‘l belgilari ta’sir oralig‘ida to‘xtagan transport vositalari majburiy evakuatsiya qilinishini ko‘rsatadi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.21_resize-min.png.webp",
+      "imageFile": "7.21.webp"
+    },
+    {
+      "number": "7.22.1 – 7.22.3",
+      "description": "«To‘siq».\nHaydovchilarga to‘siqning uzoqdan ko‘rinishini ta’minlash maqsadida o‘rnatiladi. 4.2.1 — 4.2.3 yo‘l belgilari bilan birgalikda o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.22_resize-min-141x300.png.webp",
+      "imageFile": "7.22.1 – 7.22.3.webp"
+    },
+    {
+      "number": "7.23",
+      "description": "«Navbat bilan o‘tish».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.23_resize-min.png.webp",
+      "imageFile": "7.23.webp"
+    },
+    {
+      "number": "7.24",
+      "description": "«Transport vositasining davlat raqami».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.24_resize-min.png",
+      "imageFile": "7.24.png"
+    },
+    {
+      "number": "7.25",
+      "description": "«Faqat xizmat avtomobillari».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.25_resize-min.png.webp",
+      "imageFile": "7.25.webp"
+    },
+    {
+      "number": "7.26",
+      "description": "«Sun’iy notekislik».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/7.26_resize-min.png.webp",
+      "imageFile": "7.26.webp"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "category": "Информационные знаки",
+  "count": 70,
+  "signs": [
+    {
+      "number": "5.1",
+      "description": "«Автомагистраль».\nДорога, на которой действуют требования Правил, устанавливающие порядок движения по автомагистралям.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.1_resize-min.png.webp",
+      "imageFile": "5.1.webp"
+    },
+    {
+      "number": "5.2",
+      "description": "«Конец автомагистрали».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.2_resize-min.png.webp",
+      "imageFile": "5.2.webp"
+    },
+    {
+      "number": "5.3",
+      "description": "«Дорога для автомобилей».\nДорога, предназначенная для движения только автомобилей и мотоциклов.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.3_resize-min.png.webp",
+      "imageFile": "5.3.webp"
+    },
+    {
+      "number": "5.4",
+      "description": "«Конец дороги для автомобилей».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.4_resize-min.png.webp",
+      "imageFile": "5.4.webp"
+    },
+    {
+      "number": "5.5",
+      "description": "«Дорога с односторонним движением».\nДорога или проезжая часть, по которой движение транспортных средств по всей ширине осуществляется в одном направлении.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.5_resize-min.png.webp",
+      "imageFile": "5.5.webp"
+    },
+    {
+      "number": "5.6",
+      "description": "«Конец дороги с односторонним движением».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.6_resize-min.png.webp",
+      "imageFile": "5.6.webp"
+    },
+    {
+      "number": "5.7.1 – 5.7.2",
+      "description": "«Выезд на дорогу с односторонним движением».\nДвижение осуществляется в одном направлении по всей ширине проезжей части.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.7.1_resize-min.png.webp",
+      "imageFile": "5.7.1 – 5.7.2.webp"
+    },
+    {
+      "number": "5.8.1",
+      "description": "«Направления движения по полосам».\nЧисло полос и разрешенные направления движения на каждой из них. Движение по другим направлениям запрещается.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.1_resize-min.png.webp",
+      "imageFile": "5.8.1.webp"
+    },
+    {
+      "number": "5.8.2",
+      "description": "«Направления движения по полосе».\nРазрешенные направления движения по полосе. Движение по другим направлениям запрещается.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8_resize-min-300x300.png.webp",
+      "imageFile": "5.8.2.webp"
+    },
+    {
+      "number": "5.8.3",
+      "description": "«Начало полосы».\nНачало дополнительной полосы на подъеме или полосы торможения.\nЕсли на знаке, установленном перед дополнительной полосой, изображен знак 4.7 «Ограничение минимальной скорости», то водитель транспортного средства, который не может продолжать движение по основной полосе с указанной или большей скоростью, должен перестроиться на дополнительную полосу.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.3_resize-min-149x300.png.webp",
+      "imageFile": "5.8.3.webp"
+    },
+    {
+      "number": "5.8.4",
+      "description": "«Начало полосы».\nНачало участка средней полосы для движения в данном направлении на трехполосной дороге.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.6_resize-min.png.webp",
+      "imageFile": "5.8.4.webp"
+    },
+    {
+      "number": "5.8.5",
+      "description": "«Конец полосы».\nКонец дополнительной полосы на подъеме или полосы разгона.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.5_resize-min.png.webp",
+      "imageFile": "5.8.5.webp"
+    },
+    {
+      "number": "5.8.6",
+      "description": "«Конец полосы».\nКонец участка средней полосы на трехполосной дороге, предназначенного для движения в данном направлении.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.4_resize-min.png.webp",
+      "imageFile": "5.8.6.webp"
+    },
+    {
+      "number": "5.8.7\n5.8.8",
+      "description": "«Направление движения по полосам».\nЕсли на знаке 5.8.7 изображен знак, запрещающий движение каким-либо транспортным средствам, то движение этих транспортных средств по соответствующей полосе запрещается.\nЗнаки 5.8.7 и 5.8.8 с соответствующим числом стрелок могут применяться на дорогах с четырьмя полосами и более.\nС помощью знаков 5.8.7 и 5.8.8 со сменным изображением может быть организовано реверсивное движение.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.7.1_resize-min.png.webp",
+      "imageFile": "5.8.7 5.8.8.webp"
+    },
+    {
+      "number": "5.9",
+      "description": "«Полоса для маршрутных транспортных средств».\nПолоса, предназначенную для движения маршрутных транспортных средств, движущихся попутно общему потоку транспортных средств.\nДействие знака распространяется на полосу, над которой он расположен. Действие знака, установленного справа у дороги, распространяется на правую полосу.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.9_resize-min.png.webp",
+      "imageFile": "5.9.webp"
+    },
+    {
+      "number": "5.10.1",
+      "description": "«Дорога с полосой для маршрутных транспортных средств».\nДорога, по которой движение маршрутных транспортных средств осуществляется по специально выделенной полосе навстречу общему потоку транспортных средств.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.1_resize-min.png.webp",
+      "imageFile": "5.10.1.webp"
+    },
+    {
+      "number": "5.10.4",
+      "description": "«Конец дороги с полосой для маршрутных транспортных средств».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.4_resize-min.png.webp",
+      "imageFile": "5.10.4.webp"
+    },
+    {
+      "number": "5.10.2 – 5.10.3",
+      "description": "«Полоса, выделенная для маршрутных транспортных средств».\nПолоса, предназначенная только для маршрутных транспортных средств, движущихся попутно общему потоку транспортных средств.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.2_resize-min.png.webp",
+      "imageFile": "5.10.2 – 5.10.3.webp"
+    },
+    {
+      "number": "5.11.1",
+      "description": "«Место для разворота».\nПоворот налево запрещается.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.11.1_resize-min.png.webp",
+      "imageFile": "5.11.1.webp"
+    },
+    {
+      "number": "5.11.2",
+      "description": "«Зона для разворота».\nПротяженность зоны для разворота. Поворот налево запрещается.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.11.2_resize-min.png.webp",
+      "imageFile": "5.11.2.webp"
+    },
+    {
+      "number": "5.12",
+      "description": "«Место остановки автобуса и (или) троллейбуса».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.12_resize-min.png.webp",
+      "imageFile": "5.12.webp"
+    },
+    {
+      "number": "5.13",
+      "description": "«Место остановки трамвая».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.13_resize-min.png.webp",
+      "imageFile": "5.13.webp"
+    },
+    {
+      "number": "5.14",
+      "description": "«Место стоянки легковых такси».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.14_resize-min.png.webp",
+      "imageFile": "5.14.webp"
+    },
+    {
+      "number": "5.15",
+      "description": "«Место стоянки».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15_resize-min.png.webp",
+      "imageFile": "5.15.webp"
+    },
+    {
+      "number": "5.15.1",
+      "description": "«Платная стоянка».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.1_resize-min.png.webp",
+      "imageFile": "5.15.1.webp"
+    },
+    {
+      "number": "5.15.2",
+      "description": "«Надземная автомобильная стоянка».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.2_resize-min.png.webp",
+      "imageFile": "5.15.2.webp"
+    },
+    {
+      "number": "5.15.3",
+      "description": "«Подземная автомобильная стоянка».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.3_resize-min.png.webp",
+      "imageFile": "5.15.3.webp"
+    },
+    {
+      "number": "5.15.4",
+      "description": "«Автомобильная стоянка с электрической подзарядкой».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.4_resize-min.png.webp",
+      "imageFile": "5.15.4.webp"
+    },
+    {
+      "number": "5.16.1 – 5.16.2",
+      "description": "«Пешеходный переход».\nПеред переходом устанавливаются дорожные разметки 1.14.1–1.14.2 или 1.29.1–1.29.3.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.16.1_resize-min.png.webp",
+      "imageFile": "5.16.1 – 5.16.2.webp"
+    },
+    {
+      "number": "5.17.1 – 5.17.2",
+      "description": "«Подземный пешеходный переход».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.17.1_resize-min.png.webp",
+      "imageFile": "5.17.1 – 5.17.2.webp"
+    },
+    {
+      "number": "5.17.3 – 5.17.4",
+      "description": "«Надземный пешеходный переход».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.17.3_resize-min.png.webp",
+      "imageFile": "5.17.3 – 5.17.4.webp"
+    },
+    {
+      "number": "5.18",
+      "description": "«Рекомендуемая скорость».\nСкорость, с которой рекомендуется движение на данном участке дороги. Зона действия знака распространяется до ближайшего перекрестка, а при применении знака 5.18 совместно с предупреждающим знаком определяется протяженностью опасного участка. 5.48 означает, что дорожные знаки должны быть установлены на улицах и дорогах, где они установлены.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.18_resize-min.png.webp",
+      "imageFile": "5.18.webp"
+    },
+    {
+      "number": "5.19.1 – 5.19.4",
+      "description": "«Тупик».\nДорога, не имеющая сквозного проезда в указанном направлении.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.19.1_resize-min.png.webp",
+      "imageFile": "5.19.1 – 5.19.4.webp"
+    },
+    {
+      "number": "5.20.1",
+      "description": "«Предварительный указатель направлений».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.1.2_resize-min.png.webp",
+      "imageFile": "5.20.1.webp"
+    },
+    {
+      "number": "5.20.2",
+      "description": "«Предварительный указатель направления».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.2_resize-min.png.webp",
+      "imageFile": "5.20.2.webp"
+    },
+    {
+      "number": "5.20.3",
+      "description": "«Схема движения».\nМаршрут движения при запрещении на перекрестке отдельных маневров или разрешенные направления движения на сложном перекрестке.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.3_resize-min.png.webp",
+      "imageFile": "5.20.3.webp"
+    },
+    {
+      "number": "5.20.4",
+      "description": "«Указатель направления поворота или разворота на участках, где дороги не пересекаются на одном уровне».\nПрименяется для указания направления надземного или подземного поворота или разворота на участках, где автомобильные дороги не пересекаются на одном уровне.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.4_resize-min-300x123.png.webp",
+      "imageFile": "5.20.4.webp"
+    },
+    {
+      "number": "5.20.5",
+      "description": "«Площадка для сервиса».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.5_resize-min.png.webp",
+      "imageFile": "5.20.5.webp"
+    },
+    {
+      "number": "5.21.1",
+      "description": "«Указатель направлений».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.21_resize-min.png.webp",
+      "imageFile": "5.21.1.webp"
+    },
+    {
+      "number": "5.21.2",
+      "description": "«Указатель направления».\nПрименяется для указания направления движений к пунктам маршрута. На знаках может быть указано расстояние до обозначенных на нем объектов (км), нанесены символы автомагистрали, аэропорта и иные пиктограммы.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.21.2_resize-min.png.webp",
+      "imageFile": "5.21.2.webp"
+    },
+    {
+      "number": "5.22",
+      "description": "«Начало населенного пункта».\nНаименование и начало населенного пункта, в котором действуют требования Правил, устанавливающие порядок движения в населенных пунктах.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.22_resize-min.png.webp",
+      "imageFile": "5.22.webp"
+    },
+    {
+      "number": "5.23",
+      "description": "«Конец населенного пункта».\nМесто, с которого на данной дороге утрачивают силу требования Правил, устанавливающие порядок движения в населенных пунктах.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.23_resize-min.png.webp",
+      "imageFile": "5.23.webp"
+    },
+    {
+      "number": "5.24",
+      "description": "«Начало населенного пункта».\nНаименование и начало населенного пункта, в котором на данной дороге не действуют требования Правил, устанавливающие порядок движения в населенных пунктах.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.25.1_resize-min-300x62.png.webp",
+      "imageFile": "5.24.webp"
+    },
+    {
+      "number": "5.25",
+      "description": "«Конец населенного пункта».\nКонец населенного пункта, обозначенного знаком 5.24.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.25.2_resize-min.png.webp",
+      "imageFile": "5.25.webp"
+    },
+    {
+      "number": "5.26",
+      "description": "«Наименование объекта».\nНаименование объекта иного, чем населенный пункт (река, озеро, перевал, достопримечательность и тому подобное).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.26_resize-min.png.webp",
+      "imageFile": "5.26.webp"
+    },
+    {
+      "number": "5.27",
+      "description": "«Указатель расстояний».\nРасстояние до населенных пунктов (км), расположенных на маршруте.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.27_resize-min.png.webp",
+      "imageFile": "5.27.webp"
+    },
+    {
+      "number": "5.28",
+      "description": "«Километровый знак».\nРасстояние до начала или конца дороги (км).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.28_resize-min.png.webp",
+      "imageFile": "5.28.webp"
+    },
+    {
+      "number": "5.29.1",
+      "description": "«Номер маршрута».\nНомер, присвоенный дороге (маршруту).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.29.1_resize-min.png.webp",
+      "imageFile": "5.29.1.webp"
+    },
+    {
+      "number": "5.29.2",
+      "description": "«Номер маршрута».\nНомер и направление дороги (маршрута).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.29.2_resize-min.png.webp",
+      "imageFile": "5.29.2.webp"
+    },
+    {
+      "number": "5.30.1 – 5.30.3",
+      "description": "«Направление движения для грузовых автомобилей».\nНа перекрёстке, где поворот запрещён, рекомендуемое направление движения для грузовых автомобилей, тракторов и самоходных машин.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.30_resize-min.png.webp",
+      "imageFile": "5.30.1 – 5.30.3.webp"
+    },
+    {
+      "number": "5.31",
+      "description": "«Схема объезда».\nМаршрут объезда участка дороги, временно закрытого для движения.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.31_resize-min.png.webp",
+      "imageFile": "5.31.webp"
+    },
+    {
+      "number": "5.32.1 – 5.32.3",
+      "description": "«Направление объезда».\nНаправление объезда участка дороги, временно закрытого для движения.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.32_resize-min.png.webp",
+      "imageFile": "5.32.1 – 5.32.3.webp"
+    },
+    {
+      "number": "5.33",
+      "description": "«Стоп-линия».\nМесто остановки транспортных средств при запрещающем сигнале светофора (регулировщика).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.33_resize-min.png.webp",
+      "imageFile": "5.33.webp"
+    },
+    {
+      "number": "5.34.1 – 5.34.2",
+      "description": "«Предварительный указатель перестроения на другую проезжую часть».\nНаправление перестроения на другую проезжую часть через разделительную полосу.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.34.1_resize-min.png.webp",
+      "imageFile": "5.34.1 – 5.34.2.webp"
+    },
+    {
+      "number": "5.35",
+      "description": "«Реверсивное движение».\nНачало участка дороги, на котором на одной или нескольких полосах направление движения может изменяться на противоположное.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.35_resize-min.png.webp",
+      "imageFile": "5.35.webp"
+    },
+    {
+      "number": "5.36",
+      "description": "«Конец реверсивного движения».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.36_resize-min.png.webp",
+      "imageFile": "5.36.webp"
+    },
+    {
+      "number": "5.37",
+      "description": "«Выезд на дорогу с реверсивным движением».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.37_resize-min.png.webp",
+      "imageFile": "5.37.webp"
+    },
+    {
+      "number": "5.38",
+      "description": "«Жилая зона».\nДорога, на которой действуют требования Правил дорожного движения, устанавливающие порядок движения в жилой зоне.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.38_resize-min.png.webp",
+      "imageFile": "5.38.webp"
+    },
+    {
+      "number": "5.39",
+      "description": "«Конец жилой зоны».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.39_resize-min.png.webp",
+      "imageFile": "5.39.webp"
+    },
+    {
+      "number": "5.40",
+      "description": "«Площадка для аварийной остановки».\nДорога, используемая в случаях, указанных в пункте 128 Правил.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.40_resize-min.png.webp",
+      "imageFile": "5.40.webp"
+    },
+    {
+      "number": "5.41",
+      "description": "«Фото и видео фиксация».\nЗнак, означающий, что соблюдение требований Правил со стороны водителей автомобилей контролируется с помощью электронных устройств. Этот дорожный знак устанавливается в местах, где соблюдение Правил контролируется стационарными электронными устройствами.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.41_resize-min.png.webp",
+      "imageFile": "5.41.webp"
+    },
+    {
+      "number": "5.42",
+      "description": "«Движение направо при красном сигнале».\nЕсли с правой стороны красного сигнала транспортного светофора установлен дорожный знак 5.42, водители транспортных средств при включенном запрещающем сигнале светофора могут поворачивать направо, соблюдая все меры безопасности. При этом они обязаны уступить дорогу пешеходам, переходящим проезжую часть дороги в направлении движения и дороги, на которую транспортные средства поворачивают, а также другим транспортным средствам.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.42_resize-min.png.webp",
+      "imageFile": "5.42.webp"
+    },
+    {
+      "number": "5.43",
+      "description": "«Радар».\nДорожный знак, означающий, что на дороге контроль за соблюдением водителями автомобилей установленного скоростного режима производится при помощи радаров. Знак устанавливается на участках дорог, где скорость движения контролируется стационарными специальными техническими средствами .\nЗнак также может быть установлен на дорогах и улицах в начале областей, районов, городов в целях предупреждения водителей, что скорость движения контролируется мобильными радарами.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.43_resize-min.png.webp",
+      "imageFile": "5.43.webp"
+    },
+    {
+      "number": "5.44",
+      "description": "«Полоса для велосипедистов».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.44_resize-min.png.webp",
+      "imageFile": "5.44.webp"
+    },
+    {
+      "number": "5.45",
+      "description": "«Конец полосы для велосипедистов».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.45_resize-min.png.webp",
+      "imageFile": "5.45.webp"
+    },
+    {
+      "number": "5.46",
+      "description": "«Школа».\nУстанавливается перед школами или дошкольными учреждениями.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.46_resize-min.png.webp",
+      "imageFile": "5.46.webp"
+    },
+    {
+      "number": "5.47",
+      "description": "«Указатель направления туристического объекта».\nНаправления движения к туристическим объектам. На знаках может быть указано расстояние до обозначенных на нем объектов (км), нанесены символы железнодорожных вокзалов, аэропортов и других туристических объектов.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47_resize-min.png.webp",
+      "imageFile": "5.47.webp"
+    },
+    {
+      "number": "5.47.1",
+      "description": "«Туристические объекты».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47.0_resize-min-300x300.png.webp",
+      "imageFile": "5.47.1.webp"
+    },
+    {
+      "number": "5.47.2",
+      "description": "«Информационный центр туризма».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47.7_resize-min.png.webp",
+      "imageFile": "5.47.2.webp"
+    },
+    {
+      "number": "5.48",
+      "description": "«Высокий пешеходный переход».\n5.16.1 — 5.16.2 Используется вместе с дорожными знаками.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/12/5.48.webp",
+      "imageFile": "5.48.webp"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "category": "Буюрувчи белгилар",
+  "count": 24,
+  "signs": [
+    {
+      "number": "4.1.1",
+      "description": "«Ҳаракатланиш тўғрига».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.1.1_resize-min.png.webp",
+      "imageFile": "4.1.1.webp"
+    },
+    {
+      "number": "4.1.2",
+      "description": "«Ҳаракатланиш ўнгга».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.1.2_resize-min.png.webp",
+      "imageFile": "4.1.2.webp"
+    },
+    {
+      "number": "4.1.3",
+      "description": "«Ҳаракатланиш чапга».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.1.3_resize-min.png.webp",
+      "imageFile": "4.1.3.webp"
+    },
+    {
+      "number": "4.1.4",
+      "description": "«Ҳаракатланиш тўғрига ёки ўнгга».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.1.4_resize-min.png.webp",
+      "imageFile": "4.1.4.webp"
+    },
+    {
+      "number": "4.1.5",
+      "description": "«Ҳаракатланиш тўғрига ёки чапга».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.1.5_resize-min.png.webp",
+      "imageFile": "4.1.5.webp"
+    },
+    {
+      "number": "4.1.6",
+      "description": "«Ҳаракатланиш ўнгга ёки чапга».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.1.6_resize-min.png.webp",
+      "imageFile": "4.1.6.webp"
+    },
+    {
+      "number": "4.2.1",
+      "description": "«Тўсиқни ўнгдан айланиб ўтиш».\nФақат кўрсаткич кўрсатган томондан айланиб ўтиш рухсат этилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.2.1_resize-min.png.webp",
+      "imageFile": "4.2.1.webp"
+    },
+    {
+      "number": "4.2.2",
+      "description": "«Тўсиқни чапдан айланиб ўтиш».\nФақат кўрсаткич кўрсатган томондан айланиб ўтиш рухсат этилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.2.2_resize-min.png.webp",
+      "imageFile": "4.2.2.webp"
+    },
+    {
+      "number": "4.2.3",
+      "description": "«Тўсиқни ўнгдан ёки чапдан айланиб ўтиш».\nҲар томонидан айланиб ўтиш рухсат этилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.2.3_resize-min.png.webp",
+      "imageFile": "4.2.3.webp"
+    },
+    {
+      "number": "4.3",
+      "description": "«Айланма ҳаракатланиш».\nКўрсаткичлар йўналишларида ҳаракатланиш рухсат этилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.3_resize-min.png.webp",
+      "imageFile": "4.3.webp"
+    },
+    {
+      "number": "4.4",
+      "description": "«Енгил автомобиллар ҳаракати».\nЕнгил автомобиллар, автобус, мотоцикллар, белгиланган йўналишли транспорт воситалари ва рухсат этилган тўлиқ вазни 3,5 тоннадан ошмайдиган юк автомобиллари ҳаракатланишига рухсат этилишини билдиради.\nБелгининг таъсир оралиғида яшовчи ва ишловчи фуқароларга тегишли, уларга ва корхоналарга хизмат кўрсатувчи транспорт воситаларига бу белги татбиқ этилмайди. Бундай ҳолларда транспорт воситалари белгиланган жойга энг яқин чорраҳадан кириб ёки чиқиб кетишлари керак.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.4_resize-min.png.webp",
+      "imageFile": "4.4.webp"
+    },
+    {
+      "number": "4.5",
+      "description": "«Велосипед йўлкаси».\nФақат велосипед ва мопедларда ҳаракатланишга рухсат этилишини билдиради. Тротуар ёки пиёдалар йўлкаси бўлмаса, велосипед йўлкасидан пиёдалар ҳам юришлари мумкин.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.5_resize-min.png.webp",
+      "imageFile": "4.5.webp"
+    },
+    {
+      "number": "4.6",
+      "description": "«Пиёдалар йўлкаси».\nФақат пиёдалар юришига рухсат этилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.0_resize-min.png.webp",
+      "imageFile": "4.6.webp"
+    },
+    {
+      "number": "4.6.1",
+      "description": "«Пиёдалар ва велосипедчиларнинг биргаликдаги ҳаракати ташкил этилган йўлак».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.1_resize-min.png.webp",
+      "imageFile": "4.6.1.webp"
+    },
+    {
+      "number": "4.6.2",
+      "description": "«Пиёдалар ва велосипедчиларнинг биргаликдаги ҳаракати ташкил этилган йўлакнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.2_resize-min.png.webp",
+      "imageFile": "4.6.2.webp"
+    },
+    {
+      "number": "4.6.3",
+      "description": "«Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлак».\n1.1, 1.25 ва 1.26 ётиқ йўл чизиғи ёрдамида, конструктив тарзда ёхуд бошқа усулда пиёдалар ва велосипедчиларнинг ҳаракати ажратилган пиёдалар ва велосипедчилар йўлаги.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.3_resize-min.png.webp",
+      "imageFile": "4.6.3.webp"
+    },
+    {
+      "number": "4.6.4",
+      "description": "«Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлакнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.4_resize-min.png.webp",
+      "imageFile": "4.6.4.webp"
+    },
+    {
+      "number": "4.6.5",
+      "description": "«Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлак».\n1.1, 1.25 ва 1.26 ётиқ йўл чизиғи ёрдамида, конструктив тарзда ёхуд бошқа усулда пиёдалар ва велосипедчиларнинг ҳаракати ажратилган пиёдалар ва велосипедчилар йўлаги.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.5_resize-min.png.webp",
+      "imageFile": "4.6.5.webp"
+    },
+    {
+      "number": "4.6.6",
+      "description": "«Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлакнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.6.6_resize-min.png.webp",
+      "imageFile": "4.6.6.webp"
+    },
+    {
+      "number": "4.7",
+      "description": "«Энг кам тезлик».\nФақат белгида кўрсатилган ёки ундан юқори тезликда (км/соат) ҳаракатланишга рухсат этилишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.7_resize-min.png.webp",
+      "imageFile": "4.7.webp"
+    },
+    {
+      "number": "4.8",
+      "description": "«Энг кам тезлик белгиланган йўлнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.8_resize-min.png.webp",
+      "imageFile": "4.8.webp"
+    },
+    {
+      "number": "4.9.1",
+      "description": "«Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши».\n«Хавфли юк» таниш белгиси билан жиҳозланган транспорт воситаларининг ҳаракатига йўл белгисида кўрсатилган йўналишларда рухсат берилади: тўғрига.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.9.1_resize-min.png.webp",
+      "imageFile": "4.9.1.webp"
+    },
+    {
+      "number": "4.9.2",
+      "description": "«Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши».\n«Хавфли юк» таниш белгиси билан жиҳозланган транспорт воситаларининг ҳаракатига йўл белгисида кўрсатилган йўналишларда рухсат берилади: чапга.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.9.3_resize-min.png.webp",
+      "imageFile": "4.9.2.webp"
+    },
+    {
+      "number": "4.9.3",
+      "description": "«Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши».\n«Хавфли юк» таниш белгиси билан жиҳозланган транспорт воситаларининг ҳаракатига йўл белгисида кўрсатилган йўналишларда рухсат берилади: ўнгга.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/4.9.2_resize-min.png.webp",
+      "imageFile": "4.9.3.webp"
+    }
+  ]
+}

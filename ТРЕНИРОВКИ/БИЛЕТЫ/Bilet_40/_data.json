@@ -1,0 +1,732 @@
+{
+  "title": "Bilet 40",
+  "count": 20,
+  "questions": [
+    {
+      "id": 783,
+      "questionUz": "Чорраҳадан ўтиш навбатини кўрсатинг:",
+      "questionRu": "Укажите порядок проезда перекрёстка:",
+      "questionOz": "Chorrahadan o‘tish navbatini ko‘rsating:",
+      "explanationUz": "ЙҲҚнинг 13-боб. 88-банд 1-хатбошига асосан: 88. Транспорт воситаларига йўлнинг ўнг томонида йўл ёқасида, у бўлмаганда эса қатнов қисмининг четида ва Қоидаларнинг 89-бандида кўрсатилган ҳолларда тротуарда тўхташ ва тўхтаб туришга рухсат этилади.",
+      "explanationRu": "На основании абзаца 1 пункта 88 главы 13 ПДД: 88. Остановка и стоянка транспортных средств разрешается как можно правее на обочине, а при ее отсутствии — у края проезжей части, и в случаях, указанных в пункте 89 Правил — на тротуаре.",
+      "explanationOz": "YHQning 13-bob. 88-band 1-xatboshiga asosan: 88. Transport vositalariga yo‘lning o‘ng tomonida yo‘l yoqasida, u bo‘lmaganda esa qatnov qismining chetida va Qoidalarning 89-bandida ko‘rsatilgan hollarda trotuarda to‘xtash va to‘xtab turishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2595,
+          "textUz": "Велосипед, қизил автомобил, оқ автомобил",
+          "textRu": "Велосипед, красный автомобиль, белый автомобиль",
+          "textOz": "Velosiped, qizil avtomobil, oq avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2596,
+          "textUz": "Қизил автомобил, оқ автомобил, велосипед",
+          "textRu": "Красный автомобиль, белый автомобиль, велосипед",
+          "textOz": "Qizil avtomobil, oq avtomobil, velosiped",
+          "isCorrect": false
+        },
+        {
+          "id": 2597,
+          "textUz": "Велосипед, оқ автомобил, қизил автомобил",
+          "textRu": "Велосипед, белый автомобиль, красный автомобиль",
+          "textOz": "Velosiped, oq avtomobil, qizil avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2597
+      ]
+    },
+    {
+      "id": 784,
+      "questionUz": "Чорраҳадан биринчи бўлиб ўтади:",
+      "questionRu": "Первым проедет перекресток:",
+      "questionOz": "Chorrahadan birinchi bo'lib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.4.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2598,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2599,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2600,
+          "textUz": "Сариқ автомобил",
+          "textRu": "Желтый автомобиль",
+          "textOz": "Sariq avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2601,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2601
+      ]
+    },
+    {
+      "id": 785,
+      "questionUz": "Транспорт воситалари чорраҳадан қуйидаги тартибда ўтадилар",
+      "questionRu": "Транспортные средства проедут перекресток в следующем порядке:",
+      "questionOz": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада кейинги ҳаракат йўналишидан қатъи назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади. ЙҲҚ 16-боби 107-бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД, на перекрестке равнозначных дорог трамвай имеет право на приоритет движения перед безрельсовыми транспортными средствами, независимо от направления его движения. Согласно пункту 107 главы 16 ПДД, при повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо, а также производящим обгон в разрешенных случаях.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada keyingi harakat yo'nalishidan qat'i nazar, tramvay relssiz transport vositalariga nisbatan oldin o'tish huquqiga ega bo'ladi. YHQ 16-bobi 107-bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo'ldan qarama-qarshi yo'nalishdan to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2602,
+          "textUz": "Трамвай, автобус, енгил автомобил",
+          "textRu": "Трамвай, автобус и легковой автомобиль",
+          "textOz": "Tramvay, avtobus, engil avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2603,
+          "textUz": "Автобус, енгил автомобил, трамвай",
+          "textRu": "Автобус, легковой автомобиль, трамвай",
+          "textOz": "Avtobus, engil avtomobil, tramvay",
+          "isCorrect": false
+        },
+        {
+          "id": 2604,
+          "textUz": "Енгил автомобил, трамвай, автобус",
+          "textRu": "Легковой автомобиль, трамвай, автобус",
+          "textOz": "Engil avtomobil, tramvay, avtobus",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2602
+      ]
+    },
+    {
+      "id": 786,
+      "questionUz": "Чорраҳани иккинчи бўлиб кесиб ўтади:",
+      "questionRu": "Вторым проедет перекресток:",
+      "questionOz": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан: Тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан келаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Пункта 105 главы 16 ПДД, гласит: На перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan: Teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan kelayotgan transport vositalariga yo‘l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.1.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2605,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2606,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2607,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2606
+      ]
+    },
+    {
+      "id": 787,
+      "questionUz": "Қайси жавобда чорраҳадан ўтиш тартиби тўғри кўрсатилган?",
+      "questionRu": "B каком ответе правильно указана очередность проезда перекрестка?",
+      "questionOz": "Qaysi javobda chorrahadan o'tish tartibi to'g'ri ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 16-боби 104, 106-бандларига асосан, тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳада, кейинги ҳаракат йўналишидан қатъи назар, асосий йўлдан келаётган транспорт воситасига иккинчи даражали йўлдан келаётган транспорт воситасининг ҳайдовчиси йўл бериши керак. ЙҲҚ 16-боби 107 бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган, шунингдек, рухсат этилган ҳолларда қувиб ўтаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак.",
+      "explanationRu": "YHQ 16-bobi 104, 106-bandlariga asosan, teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada, keyingi harakat yo‘nalishidan qat'i nazar, asosiy yo‘ldan kelayotgan transport vositasiga ikkinchi darajali yo‘ldan kelayotgan transport vositasining haydovchisi yo‘l berishi kerak. YHQ 16-bobi 107 bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo‘ldan qarama-qarshi yo‘nalishdan to‘g‘riga yoki o‘ngga harakatlanayotgan, shuningdek, ruxsat etilgan hollarda quvib o‘tayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.",
+      "explanationOz": "YHQ 16-bobi 104, 106-bandlariga asosan, teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada, keyingi harakat yo‘nalishidan qat'i nazar, asosiy yo‘ldan kelayotgan transport vositasiga ikkinchi darajali yo‘ldan kelayotgan transport vositasining haydovchisi yo‘l berishi kerak. YHQ 16-bobi 107 bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo‘ldan qarama-qarshi yo‘nalishdan to‘g‘riga yoki o‘ngga harakatlanayotgan, shuningdek, ruxsat etilgan hollarda quvib o‘tayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2608,
+          "textUz": "Автобус, автомобил, велосипед",
+          "textRu": "Автобус, автомобиль, велосипед",
+          "textOz": "Avtobus, avtomobil, velosiped",
+          "isCorrect": false
+        },
+        {
+          "id": 2609,
+          "textUz": "Автомобил, автобус, велосипед",
+          "textRu": "Автомобиль, автобус, велосипед",
+          "textOz": "Avtomobil, avtobus, velosiped",
+          "isCorrect": false
+        },
+        {
+          "id": 2610,
+          "textUz": "Велосипед, автобус, автомобил",
+          "textRu": "Велосипед, автобус, автомобиль",
+          "textOz": "Velosiped, avtobus, avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2610
+      ]
+    },
+    {
+      "id": 788,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 16-боби 107-бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "При торможении автомобиля под действием силы инерции происходит перераспределение массы по осям. Нагрузка на переднюю ось увеличивается, а на заднюю уменьшается.\r\nПерераспределение массы тем значительнее, чем выше интенсивность торможения. При уменьшении нагрузки на заднюю ось уменьшается сила, прижимающая колеса к дороге; следовательно, появляется вероятность проскальзывания колес (торможение «юзом») и заноса автомобиля. Увеличение нагрузки на переднюю ось приводит к увеличению силы, прижимающей передние колеса к дороге, следовательно, вероятность их проскальзывания снижается.",
+      "explanationOz": "YHQ 16-bobi 107-bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo'ldan qarama-qarshi yo'nalishdan to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/10.4.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2611,
+          "textUz": "Велосипед ҳайдовчиси",
+          "textRu": "Водитель велосипеда",
+          "textOz": "Velosiped haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2612,
+          "textUz": "Автомобил ҳайдовчиси",
+          "textRu": "Водитель автомобиля",
+          "textOz": "Avtomobil haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2612
+      ]
+    },
+    {
+      "id": 789,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси биринчи навбатда ҳаракатланиш устунлигига эга?",
+      "questionRu": "Водитель какого транспортного средства имеет право на первоочередное движение?",
+      "questionOz": "Qaysi transport vositasining haydovchisi birinchi navbatda harakatlanish ustunligiga ega?",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. ЙҲҚ 6-боби 28-бандига асосан, Ёқилган зарғалдоқ ва (ёки) сариқ рангли маёқча ҳаракатланишда имтиёз бермайди ва йўл ҳаракатининг бошқа қатнашчиларини фақат хавф ҳақида огоҳлантиради.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Согласно пункту 28 главы 6 ПДД, Проблесковый маячок жёлтого или оранжевого цвета не дает приоритета в движении и служит исключительно для предупреждения других участников движения об опасности.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart. YHQ 6-bobi 28-bandiga asosan, yoqilgan zarg'aldoq va (yoki) sariq rangli mayoqcha harakatlanishda imtiyoz bermaydi va yo'l harakatining boshqa qatnashchilarini faqat xavf haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/10.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2613,
+          "textUz": "Йўл хизмати машинасининг ҳайдовчиси",
+          "textRu": "Водитель дорожной машины",
+          "textOz": "Yo'l xizmati mashinasining haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2614,
+          "textUz": "Енгил автомобиль ҳайдовчиси",
+          "textRu": "Водитель легкового автомобиля",
+          "textOz": "Engil avtomobil haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2614
+      ]
+    },
+    {
+      "id": 790,
+      "questionUz": "Автомобиллар чорраҳадан қуйидаги тартибда ўтади:",
+      "questionRu": "Автомобили проедут перекресток в следующем порядке:",
+      "questionOz": "Avtomobillar chorrahadan quyidagi tartibda o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/10.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4101,
+          "textUz": "Қизил, яшил, кўк",
+          "textRu": "Красный, зеленый, синий",
+          "textOz": "Qizil, yashil, ko'k",
+          "isCorrect": false
+        },
+        {
+          "id": 4102,
+          "textUz": "Кўк, қизил, яшил",
+          "textRu": "Синий, красный, зеленый",
+          "textOz": "Ko'k, qizil, yashil",
+          "isCorrect": false
+        },
+        {
+          "id": 4103,
+          "textUz": "Уччаласи бир вақтда",
+          "textRu": "Все три одновременно",
+          "textOz": "Uchchalasi bir vaqtda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4103
+      ]
+    },
+    {
+      "id": 791,
+      "questionUz": "Чорраҳани иккинчи бўлиб кесиб ўтади:",
+      "questionRu": "Вторым проедет перекресток:",
+      "questionOz": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/11.5.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2618,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2619,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2620,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2619
+      ]
+    },
+    {
+      "id": 792,
+      "questionUz": "Чорраҳани охирги бўлиб кесиб ўтади:",
+      "questionRu": "Последним проедет перекресток:",
+      "questionOz": "Chorrahani oxirgi bo'lib kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/11.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2621,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2622,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2623,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2623
+      ]
+    },
+    {
+      "id": 793,
+      "questionUz": "Биринчи бўлиб чорраҳани кесиб ўтади:",
+      "questionRu": "Пересечет перекресток первым:",
+      "questionOz": "Birinchi bo'lib chorrahani kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/12.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2624,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2625,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2626,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2626
+      ]
+    },
+    {
+      "id": 794,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105 bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan trasnport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/13.4.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2627,
+          "textUz": "Автобус ҳайдовчиси",
+          "textRu": "Водитель автобуса",
+          "textOz": "Avtobus haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2628,
+          "textUz": "Мотоцикл ҳайдовчиси",
+          "textRu": "Водитель мотоцикла",
+          "textOz": "Motosikl haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2627
+      ]
+    },
+    {
+      "id": 795,
+      "questionUz": "Чорраҳани иккинчи бўлиб кесиб ўтади:",
+      "questionRu": "Вторым проедет перекресток:",
+      "questionOz": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/13.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2629,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2630,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2631,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2629
+      ]
+    },
+    {
+      "id": 796,
+      "questionUz": "Автомобил ҳайдовчиси ҳаракатининг тартиби қайси жавобда тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указана последовательность действий водителя автомобиля?",
+      "questionOz": "Avtomobil haydovchisi harakatining tartibi qaysi javobda to'g'ri ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада кейинги ҳаракат йўналишидан қатъи назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади. ЙҲҚ 16-боби 107-бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД, на перекрестке равнозначных дорог тр��мвай имеет право на приоритет движения перед безрельсовыми транспортными средствами, независимо от направления его движения. Согласно пункту 107 главы 16 ПДД, повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada keyingi harakat yo'nalishidan qat'i nazar, tramvay relssiz transport vositalariga nisbatan oldin o'tish huquqiga ega bo'ladi. YHQ 16-bobi 107-bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo'ldan qarama-qarshi yo'nalishdan to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2632,
+          "textUz": "Мотоциклни ўтказиб юборди ва чорраҳада қайрилиб олди",
+          "textRu": "Пропустил мотоцикл и развернулся на перекрестке",
+          "textOz": "Motosiklni o'tkazib yubordi va chorrahada qayrilib oldi",
+          "isCorrect": false
+        },
+        {
+          "id": 2633,
+          "textUz": "Трамвайни ўтказиб юборди ва чорраҳада қайрилиб олди",
+          "textRu": "Пропустил трамвай и развернулся на перекрестке",
+          "textOz": "Tramvayni o'tkazib yubordi va chorrahada qayrilib oldi",
+          "isCorrect": false
+        },
+        {
+          "id": 2634,
+          "textUz": "Трамвайни, мотоциклни ўтказиб юборди ва чорраҳада қайрилиб олди",
+          "textRu": "Пропустил трамвай, мотоцикл и развернулся на перекрестке",
+          "textOz": "Tramvayni, motosiklni o'tkazib yubordi va chorrahada qayrilib oldi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2634
+      ]
+    },
+    {
+      "id": 797,
+      "questionUz": "Автомобиллар чорраҳани қуйидаги тартибда кесиб ўтадилар:",
+      "questionRu": "Автомобили проедут перекресток в следующем порядке:",
+      "questionOz": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. ЙҲҚ 16-боби 107-бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Согласно пункту 107 главы 16 ПДД, повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart. YHQ 16-bobi 107-bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo'ldan qarama-qarshi yo'nalishdan to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.5.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4131,
+          "textUz": "Сариқ автомобил чорраҳага кириб келади ва кўкни ўтказиб юбориш учун тўхтайди; яшил; кўк, қизил билан бир вақтда; сариқ",
+          "textRu": "Желтый въедет на перекресток и остановится, чтобы пропустить синий; зеленый; синий одновременно с красным; желтый",
+          "textOz": "Sariq avtomobil chorrahaga kirib keladi va ko'kni o'tkazib yuborish uchun to'xtaydi; yashil; ko'k, qizil bilan bir vaqtda; sariq",
+          "isCorrect": true
+        },
+        {
+          "id": 4132,
+          "textUz": "Кўк айни вақтда қизил билан; яшил; сариқ",
+          "textRu": "Синий одновременно с красным; зеленый; желтый",
+          "textOz": "Ko'k ayni vaqtda qizil bilan; yashil; sariq",
+          "isCorrect": false
+        },
+        {
+          "id": 4133,
+          "textUz": "Яшил; кўк айни вақтда қизил билан; сариқ",
+          "textRu": "Зеленый; синий одновременно с красным; желтый",
+          "textOz": "Yashil; ko'k ayni vaqtda qizil bilan; sariq",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4131
+      ]
+    },
+    {
+      "id": 798,
+      "questionUz": "Чорраҳани охирги бўлиб кесиб ўтади:",
+      "questionRu": "Последний, кто пересек перекресток:",
+      "questionOz": "Chorrahani oxirgi bo'lib kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.14.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2638,
+          "textUz": "Сариқ",
+          "textRu": "желтый",
+          "textOz": "Sariq",
+          "isCorrect": true
+        },
+        {
+          "id": 2639,
+          "textUz": "Кўк",
+          "textRu": "Cиний",
+          "textOz": "Ko'k",
+          "isCorrect": false
+        },
+        {
+          "id": 2640,
+          "textUz": "Яшил",
+          "textRu": "Зеленым",
+          "textOz": "Yashil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2638
+      ]
+    },
+    {
+      "id": 799,
+      "questionUz": "Автомобиллар чорраҳани қуйидаги тартибда кесиб ўтадилар:",
+      "questionRu": "Автомобили проедут перекресток в следующем порядке:",
+      "questionOz": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2641,
+          "textUz": "Сариқ чорраҳага киради ва яшилни ўтказиб юбориш учун тўхтайди; кўк қизил билан бир вақтда",
+          "textRu": "Желтый выедет на перекресток и остановится, чтобы пропустить зеленый; синий одновременно с красным",
+          "textOz": "Sariq chorrahaga kiradi va yashilni o'tkazib yuborish uchun to'xtaydi; ko'k qizil bilan bir vaqtda",
+          "isCorrect": false
+        },
+        {
+          "id": 2642,
+          "textUz": "Кўк айни вақтда қизил билан; яшил; сариқ",
+          "textRu": "Синий одновременно с красным; зеленый, желтый",
+          "textOz": "Ko'k ayni vaqtda qizil bilan; yashil; sariq",
+          "isCorrect": false
+        },
+        {
+          "id": 2643,
+          "textUz": "Яшил; кўк айни вақтда қизил билан; сариқ",
+          "textRu": "Зеленый, синий одновременно с красным, желтый",
+          "textOz": "Yashil; ko'k ayni vaqtda qizil bilan; sariq",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2643
+      ]
+    },
+    {
+      "id": 800,
+      "questionUz": "Автомобиллар чорраҳани қуйидаги тартибда кесиб ўтадилар:",
+      "questionRu": "Автомобили проедут перекресток в следующем порядке:",
+      "questionOz": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.5.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2644,
+          "textUz": "Яшил; кўк; қизил",
+          "textRu": "Зеленый; синий; красный",
+          "textOz": "Yashil; ko'k; qizil",
+          "isCorrect": false
+        },
+        {
+          "id": 2645,
+          "textUz": "Кўк; қизил; яшил",
+          "textRu": "Синий; красный; зеленый",
+          "textOz": "Ko'k; qizil; yashil",
+          "isCorrect": true
+        },
+        {
+          "id": 2646,
+          "textUz": "Кўк билан яшил бир вақтда, қизил",
+          "textRu": "Синий одновременно с зеленым; красный",
+          "textOz": "Ko'k bilan yashil bir vaqtda, qizil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2645
+      ]
+    },
+    {
+      "id": 801,
+      "questionUz": "Автомобиллар чорраҳани қуйидаги тартибда кесиб ўтади:",
+      "questionRu": "Автомобили проедут перекресток в следующем порядке:",
+      "questionOz": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadi:",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. ЙҲҚ 16-боби 107-бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Согласно пункту 107 главы 16 ПДД, повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart. YHQ 16-bobi 107-bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo'ldan qarama-qarshi yo'nalishdan to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.14.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2647,
+          "textUz": "Қизил чорраҳага киради ва кўк автомобилни ўтказиб юбориш учун тўхтайди ва айни вақтда яшил автомобил чорраҳани кесиб ўтади; кўк; қизил бурилишни тугаллайди",
+          "textRu": "Красный выедет на перекресток и остановится, чтобы пропустить синий, и одновременно с красным проедет зеленый; синий; красный закончит разворот",
+          "textOz": "Qizil chorrahaga kiradi va ko'k avtomobilni o'tkazib yuborish uchun to'xtaydi va ayni vaqtda yashil avtomobil chorrahani kesib o'tadi; ko'k; qizil burilishni tugallaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 2648,
+          "textUz": "Қизил, кўк, яшил",
+          "textRu": "Красный, синий, зеленый",
+          "textOz": "Qizil, ko'k, yashil",
+          "isCorrect": false
+        },
+        {
+          "id": 2649,
+          "textUz": "Кўк, яшил, қизил",
+          "textRu": "Синий, зеленый, красный",
+          "textOz": "Ko'k, yashil, qizil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2647
+      ]
+    },
+    {
+      "id": 802,
+      "questionUz": "Чорраҳани учинчи бўлиб ким ўтади?",
+      "questionRu": "Третьим проедет перекресток:",
+      "questionOz": "Chorrahani uchinchi bo'lib kim o'tadi?",
+      "explanationUz": "ЙҲҚ 16-боби 105-бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 105 главы 16 ПДД на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 16-bobi 105-bandiga asosan, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan yaqinlashayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2650,
+          "textUz": "Яшил автомобил",
+          "textRu": "Зеленый автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2651,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2652,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2651
+      ]
+    }
+  ]
+}

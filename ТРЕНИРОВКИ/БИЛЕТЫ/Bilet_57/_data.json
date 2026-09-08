@@ -1,0 +1,725 @@
+{
+  "title": "Bilet 57 (PRO)",
+  "count": 20,
+  "questions": [
+    {
+      "id": 1123,
+      "questionUz": "Бурилишда ҳаракат қилганда автопоезднинг тиркамаси силжийдими?",
+      "questionRu": "Смещается ли прицеп автопоезда при движении на повороте?",
+      "questionOz": "Burilishda harakat qilganda avtopoezdning tirkamasi siljiydimi?",
+      "explanationUz": "Автопоезд билан бир вақтда бурулишни ўтаётганда ушбу транспорт воситасигача бўлган ён оралиқ масофасини кўпайтиришингиз лозим, чунки автопоезд (тиркама) нинг орқа ғилдираклари бурулиш маркази томон силжийди ва автопоезд ҳаракат бўлаги катталашади.",
+      "explanationRu": "При одновременном прохождении поворота с автопоездом вам следует позаботиться об увеличении бокового интервала до этого транспортного средства, так как задние колеса автопоезда (прицепа) смещаются к центру поворота и увеличивается коридор движения автопоезда",
+      "explanationOz": "Keskin tormoz berish - bu birdan paydo bo‘lgan yoki kech ko‘rib qolingan to‘siqqa kelib urilishining oldini olish uchun katta intensivlik (jadallik) bilan tormoz berish tushuniladi. Shu bois, masalan yosh bolaning yo‘lda birdan paydo bo‘lish ehtimolini inobatga olgan holda haydovchi keskin tormoz berish vaqtida o‘zini qanday tuta olishini bilishi lozim. Bunda quyidagi usullar mavjud: rul chambaragini ikki qo‘lingiz bilan mahkam ushlang, avtomobil g‘ildiraklarini blokirovka qilman chunki g‘ildiraklarning uzunasiga sirpanishi tormoz yo‘lini qisqartirmaydi; harakatda to‘xtab turish tormozini qo‘llamang, chunki bu hol orqa g‘ildiraklarning sirpanishini kuchaytirishi mumkin. Tormoz tepkisini qattiq (shiddat bilan emas) va ravon, shinaning yo‘lga nisbatan ilashishiga qarab, kuchaytirish bosish lozim. Keskin tormoz berish vaqtida ham avtomobil ustidan nazoratni yo‘qotmang.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3702,
+          "textUz": "Бурилиш марказидан бошқа томонга силжийди",
+          "textRu": "Смещается в сторону от центра поворота",
+          "textOz": "Burilish markazidan boshqa tomonga siljiydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3703,
+          "textUz": "Силжимайди",
+          "textRu": "Не смещается",
+          "textOz": "Siljimaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3704,
+          "textUz": "Бурилиш марказига силжийди",
+          "textRu": "Смещается к центру поворота",
+          "textOz": "Burilish markaziga siljiydi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3704
+      ]
+    },
+    {
+      "id": 1124,
+      "questionUz": "Қуруқ йўлда дарҳол тўхташ учун нима қилиш лозим?",
+      "questionRu": "На сухой дороге для экстренной остановки необходимо:",
+      "questionOz": "Quruq yo'lda darhol to'xtash uchun nima qilish lozim?",
+      "explanationUz": "Кескин тормоз бериш - бу бирдан пайдо бўлган ёки кеч кўриб қолинган тўсиққа келиб урилишининг олдини олиш учун катта интенсивлик (жадаллик) билан тормоз бериш тушунилади. Шу боис, масалан ёш боланинг йўлда бирдан пайдо бўлиш эҳтимолини инобатга олган ҳолда ҳайдовчи кескин тормоз бериш вақтида ўзини қандай тута олишини билиши лозим. Бунда қуйидаги усуллар мавжуд: рул чамбарагини икки қўлингиз билан маҳкам ушланг, автомобил ғилдиракларини блокировка қилман чунки ғилдиракларнинг узунасига сирпаниши тормоз йўлини қисқартирмайди; ҳаракатда тўхтаб туриш тормозини қўлламанг, чунки бу ҳол орқа ғилдиракларнинг сирпанишини кучайтириши мумкин. Тормоз тепкисини қаттиқ (шиддат билан эмас) ва равон, шинанинг йўлга нисбатан илашишига қараб, кучайтириш босиш лозим. Кескин тормоз бериш вақтида ҳам автомобил устидан назоратни йўқотманг.",
+      "explanationRu": "Экстренным называется торможение высокой интенсивности для предотвращения наезда на, неожиданно появившееся или поздно замеченное, препятствие. Поэтому, рассчитывая на возможность внезапного появления, например ребенка на дороге, водитель точно должен знать, как вести себя при экстренном торможении. Существуют следующие правила: тверже держите рулевое колесо двумя руками; не блокируйте колеса автомобиля, так как продольный юз колес не уменьшает тормозной путь; не выжимайте педаль сцепления; не применяйте на ходу стояночный тормоз, ибо это может усилить юз задних колес. Надо нажимать на педаль тормоза сильно (не резко), но плавно, с нарастанием по мере зацепления шин за дорогу. Даже при экстренном торможении не теряйте контроль над автомобилем.",
+      "explanationOz": "Keskin tormoz berish - bu birdan paydo bo'lgan yoki kech ko'rib qolingan to'siqqa kelib urilishining oldini olish uchun katta intensivlik (jadallik) bilan tormoz berish tushuniladi. Shu bois, masalan yosh bolaning yo'lda birdan paydo bo'lish ehtimolini inobatga olgan holda haydovchi keskin tormoz berish vaqtida o'zini qanday tuta olishini bilishi lozim. Bunda quyidagi usullar mavjud: rul chambaragini ikki qo'lingiz bilan mahkam ushlang, avtomobil g'ildiraklarini blokirovka qilman chunki g'ildiraklarning uzunasiga sirpanishi tormoz yo'lini qisqartirmaydi; harakatda to'xtab turish tormozini qo'llamang, chunki bu hol orqa g'ildiraklarning sirpanishini kuchaytirishi mumkin. Tormoz tepkisini qattiq (shiddat bilan emas) va ravon, shinaning yo'lga nisbatan ilashishiga qarab, kuchaytirish bosish lozim. Keskin tormoz berish vaqtida ham avtomobil ustidan nazoratni yo'qotmang.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3705,
+          "textUz": "Улагични ажратиш, шундан кейин дарҳол тормоз педалини босиш",
+          "textRu": "Выключить сцепление и сразу нажать на педаль тормоза",
+          "textOz": "Ulagichni ajratish, shundan keyin darhol tormoz pedalini bosish",
+          "isCorrect": false
+        },
+        {
+          "id": 3706,
+          "textUz": "Узатмани алмаштириш ва тормоз педалини кескин босиш",
+          "textRu": "Выключить передачу (поменять скорость) и резко нажать на педаль тормоза",
+          "textOz": "Uzatmani almashtirish va tormoz pedalini keskin bosish",
+          "isCorrect": false
+        },
+        {
+          "id": 3707,
+          "textUz": "Тормоз педалини улагични ажратмасдан босиш",
+          "textRu": "Нажать на педаль тормоза; не выключая сцепление",
+          "textOz": "Tormoz pedalini ulagichni ajratmasdan bosish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3707
+      ]
+    },
+    {
+      "id": 1125,
+      "questionUz": "Ҳайдовчи автопоезд ҳаракатининг энг кенг бўлагини аниқлашда нимани ҳисобга олиши керак?",
+      "questionRu": "Что должен учитывать водитель при определении наибольшей ширины полосы движения автопоезда?",
+      "questionOz": "Haydovchi avtopoezd harakatining eng keng bo'lagini aniqlashda nimani hisobga olishi kerak?",
+      "explanationUz": "Якка автомобил бошқаришнинг барча услублари автопоезд учун қўлланилиши мумкин, бироқ унинг катта вазни ва габаритлари (ташқи ўлчами) боис бир қатор хоссалар бор. Автопоезд - бу битта ярим тиркама ёхуд бир ёки бир неча тиркамали шатакчи транспорт воситасидир. Ҳаракат вақтида тиркама доим шатакчи автомобилнинг ҳаракат йўлидан четга силжиб туради ва қувиб ўтиш ҳамда қарама-қарши йўналишдаги ҳаракат учун хавф-хатар туғдиради. Автопоезднинг манёвр қилиши якка автомобилга нисбатан ёмонроқ. Бурилиш вақтида автопоезд бурилиш маркази томон силжийда ва автопоэз ҳаракат бўлаги кенгайишини ҳайдовчи инобатга олиши лозим.",
+      "explanationRu": "Все приемы вождения одиночного автомобиля применимы для автопоезда, однако ввиду его значительного веса и габаритов имеются и особенности. Автопоезд представляет собой автомобиль- тягач с одним полуприцепом или с одним или несколькими прицепами. Во время движения прицеп постоянно отклоняется в стороны от траектории движения автомобиля-тягача, что повышает опасность при обгоне и встречном разъезде. Маневренность автопоезда хуже, чем у одиночного автомобиля. Водителю следует учитывать, что во время поворота автопоезда прицеп смещается в сторону центра поворота и увеличивается коридор движения автопоезда.",
+      "explanationOz": "Yakka avtomobil boshqarishning barcha uslublari avtopoyezd uchun qo‘llanilishi mumkin, biroq uning katta vazni va gabaritlari (tashqi o‘lchami) bois bir qator xossalar bor. Avtopoyezd - bu bitta yarim tirkama yoxud bir yoki bir necha tirkamali shatakchi transport vositasidir. Harakat vaqtida tirkama doim shatakchi avtomobilning harakat yo‘lidan chetga siljib turadi va quvib o‘tish hamda qarama-qarshi yo‘nalishdagi harakat uchun xavf-xatar tug‘diradi. Avtopoyezdning manyovr qilishi yakka avtomobilga nisbatan yomonroq. Burilish vaqtida avtopoyezd burilish markazi tomon siljiyda va avtopoez harakat bo‘lagi kengayishini haydovchi inobatga olishi lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3708,
+          "textUz": "Фақат кенглиги бўйича автопоезднинг ўлчамларини",
+          "textRu": "Только габариты автопоезда по ширине",
+          "textOz": "Faqat kengligi bo'yicha avtopoezdning o'lchamlarini",
+          "isCorrect": false
+        },
+        {
+          "id": 3709,
+          "textUz": "Кенглиги бўйича транспорт воситасининг ўлчамларини, шунингдек тиркаманинг чайқалишини ҳамда унинг бурилиш марказига силжишини",
+          "textRu": "Габариты транспортного средства по ширине, а также влияние прицепа и смещение его к центру поворота",
+          "textOz": "Kengligi bo'yicha transport vositasining o'lchamlarini, shuningdek tirkamaning chayqalishini hamda uning burilish markaziga siljishini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3709
+      ]
+    },
+    {
+      "id": 1126,
+      "questionUz": "Ҳайдовчи автопоездни тормозлашнинг қайси қоидаларига риоя қилиши керак?",
+      "questionRu": "Какие правила торможения автопоезда должен соблюдать водитель?",
+      "questionOz": "Haydovchi avtopoezdni tormozlashning qaysi qoidalariga rioya qilishi kerak?",
+      "explanationUz": "Тормоз тизими мавжуд бўлмаган тиркамани улаш вақтида уланган транспорт воситаларининг умумий вазни катталашгани боис автомобилнинг тормоз йўли ортади. Автопоездни фақат йўлнинг тўғри участкаларда тўхтатиш мумкин, бунда унинг тўлиқ вазни бир чизиқда бўлиши керак. Айлана йўлда шатакчи автомобилнинг ағдарилиши, йўл четига чиқиб кетиши ёки шатакчи мосламанинг ишдан чиқишига олиб келувчи тиркаманинг сурилиб кетиши  ёки автопоезднинг букланиши юзага келиши мумкин.",
+      "explanationRu": "При подсоединении прицепа, не имеющего своей тормозной системы, тормозной путь автомобиля увеличивается, так как увеличивается масса сцепленных транспортных средств. Останавливать автопоезд можно только на прямых участках, так, чтобы весь он располагался на одной линии. При торможении на закруглении может возникнуть занос прицепа или складывание автопоезда, за которым может последовать опрокидывание, сталкивание автомобиля- тягача в кювет или поломка буксирного устройства.",
+      "explanationOz": "Tormoz tizimi mavjud bo‘lmagan tirkamani ulash vaqtida ulangan transport vositalarining umumiy vazni kattalashgani bois avtomobilning tormoz yo‘li ortadi. Avtopoyezdni faqat yo‘lning to‘g‘ri uchastkalarda to‘xtatish mumkin, bunda uning to‘liq vazni bir chiziqda bo‘lishi kerak. Aylana yo‘lda shatakchi avtomobilning ag‘darilishi, yo‘l chetiga chiqib ketishi yoki shatakchi moslamaning ishdan chiqishiga olib keluvchi tirkamaning surilib ketishi  yoki avtopoyezdning buklanishi yuzaga kelishi mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3710,
+          "textUz": "Тормоз тепкисини кескин кучли босиш - улагични ажратган ҳолда",
+          "textRu": "Тормозить резким порывистым нажатием на педаль тормоза, выключив при этом сцепление",
+          "textOz": "Tormoz tepkisini keskin kuchli bosish - ulagichni ajratgan holda",
+          "isCorrect": false
+        },
+        {
+          "id": 3711,
+          "textUz": "Олдиндан тезликни камайтириш, улагични ажратмай, бир текис тормозлаш",
+          "textRu": "Тормозить плавно, заблаговременно снизить скорость, не выключая сцепление",
+          "textOz": "Oldindan tezlikni kamaytirish, ulagichni ajratmay, bir tekis tormozlash",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3711
+      ]
+    },
+    {
+      "id": 1127,
+      "questionUz": "Сирпанчиқ йўлда ҳаракатланаётганда карбюраторнинг дроссел заслонкасини бирданига очиш хавфи нимадан иборат?",
+      "questionRu": "Чем опасно резкое открытие дроссельной заслонки карбюратора при движении на скользкой дороге?",
+      "questionOz": "Sirpanchiq yo'lda harakatlanayotganda karbyuratorning drossel zaslonkasini birdaniga ochish xavfi nimadan iborat?",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Йўловчи – транспорт воситасидаги (ҳайдовчидан ташқари) шахс, шунингдек транспорт воситасига кираётган (унга чиқиб ўтираётган) ёки транспорт воситасидан чиқаётган (ундан тушаётган) шахс.",
+      "explanationRu": "ПДД общие положения: «Пассажир» - это лицо, находящееся в транспортном средстве, а также лицо, которое входит в транспортное средство или выходит из транспортного средства.",
+      "explanationOz": "YHQ umumiy qoidalar: Yo‘lovchi – transport vositasidagi (haydovchidan tashqari) shaxs, shuningdek transport vositasiga kirayotgan (unga chiqib o‘tirayotgan) yoki transport vositasidan chiqayotgan (undan tushayotgan) shaxs.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3712,
+          "textUz": "Юргизгич ўчиб қолади",
+          "textRu": "Двигатель заглохнет",
+          "textOz": "Yurgizgich o'chib qoladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3713,
+          "textUz": "Ёнилғи сарфи анча ортади",
+          "textRu": "Значительно возрастет расход топлива",
+          "textOz": "Yonilg'i sarfi ancha ortadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3714,
+          "textUz": "Автомобилнинг ёнга сирпаниши вужудга келиши мумкин",
+          "textRu": "Может возникнуть боковой занос автомобиля",
+          "textOz": "Avtomobilning yonga sirpanishi vujudga kelishi mumkin",
+          "isCorrect": true
+        },
+        {
+          "id": 3715,
+          "textUz": "Юргизгич тирсакли вал айланишининг юқори частотасини оширади",
+          "textRu": "Двигатель превысит максимальную частоту вращения коленчатого вала",
+          "textOz": "Yurgizgich tirsakli val aylanishining yuqori chastotasini oshiradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3714
+      ]
+    },
+    {
+      "id": 1128,
+      "questionUz": "Сирпанчиқ йўлда тормозлардан қандай фойдаланиш керак?",
+      "questionRu": "Как пользоваться тормозами на скользкой дороге?",
+      "questionOz": "Sirpanchiq yo'lda tormozlardan qanday foydalanish kerak?",
+      "explanationUz": "Сирпанчиқ йўлда тўхтатиш тепкисини узуқ-узуқ босиб, узатма ва илашиш механизмини ажратмай, двигатель орқали тормозланишни қўллаб ва ғилдиракларнинг блокировкаси (айланмасдан сирпаниши)га йўл қўймаган ҳолда тўхташ лозим.",
+      "explanationRu": "На скользкой дороге следует тормозить прерывистым нажатием на педаль тормоза, не выключая сцепление и передачу, используя торможение двигателем и не допуская блокировки (движение «юзом») колес.",
+      "explanationOz": "Sirpanchiq yo'lda to'xtatish tepkisini uzuq-uzuq bosib, uzatma va ilashish mexanizmini ajratmay, dvigatel orqali tormozlanishni qo'llab va g'ildiraklarning blokirovkasi (aylanmasdan sirpanishi)ga yo'l qo'ymagan holda to'xtash lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3716,
+          "textUz": "Улагични ажратмай туриб секин тормоз бериши ва бошқарув рулининг кескин бурилишига йўл қўймаслиги",
+          "textRu": "Плавно тормозить не выключая сцепления и не производить резких поворотов рулевым колесом",
+          "textOz": "Ulagichni ajratmay turib sekin tormoz berishi va boshqaruv rulining keskin burilishiga yo'l qo'ymasligi",
+          "isCorrect": true
+        },
+        {
+          "id": 3717,
+          "textUz": "Улагични ажратиш ва секин тормоз бериши",
+          "textRu": "Выключить сцепление и плавно тормозить",
+          "textOz": "Ulagichni ajratish va sekin tormoz berishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3718,
+          "textUz": "Тормоз тепкисини узуқ-узуқ босиш билан кескин тормоз бериши",
+          "textRu": "Тормозить резким прерывистым нажатием на педаль тормоза",
+          "textOz": "Tormoz tepkisini uzuq-uzuq bosish bilan keskin tormoz berishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3716
+      ]
+    },
+    {
+      "id": 1129,
+      "questionUz": "Чуқур кечувдан ўтгач, ҳайдовчи нима қилиши шарт?",
+      "questionRu": "После преодоления глубокого брода водитель обязан:",
+      "questionOz": "Chuqur kechuvdan o'tgach, haydovchi nima qilishi shart?",
+      "explanationUz": "Сув тўсиқларидан ўтгандан кейин, тормоз колодкаларини қуритиш лозим. Тормоз тепкисини кўп маротаба қисқа-қисқа босиб, тормоз механизмининг фрикцион устқопламаларини  қуритиш автомобилнинг барча ғилдираклари тормозларининг самарадорлигини қайта тиклайди.",
+      "explanationRu": "После проезда водной преграды необходимо просушить тормозные колодки. Просушить тормозные колодки многократными непродолжительными нажатиями на педаль тормоза позволит быстро восстановить эффективность тормозов всех колес автомобиля.",
+      "explanationOz": "Suv to'siqlaridan o'tgandan keyin, tormoz kolodkalarini quritish lozim. Tormoz tepkisini ko'p marotaba qisqa-qisqa bosib, tormoz mexanizmining friksion ustqoplamalarini quritish avtomobilning barcha g'ildiraklari tormozlarining samaradorligini qayta tiklaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3719,
+          "textUz": "Тезланиш билан юқорироқ узатмаларда ҳаракатланишга",
+          "textRu": "Двигаться с ускорением на более высоких передачах",
+          "textOz": "Tezlanish bilan yuqoriroq uzatmalarda harakatlanishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3720,
+          "textUz": "Қисқа масофа оралиғида тормоз тепкисини бир неча бор босиб тормоз механизми фрикцион устқопламаларини қуритиши",
+          "textRu": "На короткой дистанции пробега несколькими резкими нажатиями на тормозную педаль просушить тормозные накладки",
+          "textOz": "Qisqa masofa oralig'ida tormoz tepkisini bir necha bor bosib tormoz mexanizmi friksion ustqoplamalarini quritishi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3720
+      ]
+    },
+    {
+      "id": 1130,
+      "questionUz": "Қиш вақтида орқа етакчи кўприкли автомобилда чуқур бўлиб қолган ғилдирак изидан қандай чиқиш мумкин?",
+      "questionRu": "Как следует выезжать из глубокой колеи в зимнее время на заднеприводном автомобиле?",
+      "questionOz": "Qish vaqtida orqa etakchi ko'prikli avtomobilda chuqur bo'lib qolgan g'ildirak izidan qanday chiqish mumkin?",
+      "explanationUz": "Тупроқли йўлда чуқур қор бўйлаб олдиндан танланган пастги узатмада рул чамбарагини кескин бурмасдан ва тўхтамасдан ҳаракатда бўлиш ушбу участкада юзага келувчи катта қаршилик кучини бартараф қилиш учун зарур бўлган қувват запаси билан таъминлайди.",
+      "explanationRu": "Выезжать из глубокой колеи в зимнее время на заднеприводном автомобиле нужно на небольшой скорости, в первоначальный момент энергично повернуть рулевое колесо в противоположную сторону выезда, а затем в сторону выезда. Если сначала повернуть руль в сторону выезда, а затем в противоположную, то в итоге автомобиль поедет в противоположную от выезда сторону.",
+      "explanationOz": "Tuproqli yo‘lda chuqur qor bo‘ylab oldindan tanlangan pastgi uzatmada rul chambaragini keskin burmasdan va to‘xtamasdan harakatda bo‘lish ushbu uchastkada yuzaga keluvchi katta qarshilik kuchini bartaraf qilish uchun zarur bo‘lgan quvvat zapasi bilan ta'minlaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3721,
+          "textUz": "Унча катта бўлмаган тезлиқда чиқиш, биринчи галда бошқарув чамбарагини чиқиш томоннинг рўпарасига, кейин эса чиқиш томонига шиддат билан буриш керак",
+          "textRu": "Выезжать на небольшой скорости, в первоначальный момент энергично повернуть рулевое колесо в противоположную сторону выезда, а затем в сторону выезда",
+          "textOz": "Uncha katta bo'lmagan tezliqda chiqish, birinchi galda boshqaruv chambaragini chiqish tomonning ro'parasiga, keyin esa chiqish tomoniga shiddat bilan burish kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 3722,
+          "textUz": "Издан чиқишни иложи борича тезроқ бошлаш, дастлаб бошқарув чамбарагини чиқиш томонига, кейин эса рўпарасига буриш керак",
+          "textRu": "Начать выезжать из колеи как можно быстрее, сначала повернуть рулевое колесо в сторону выезда, а затем в противоположную",
+          "textOz": "Izdan chiqishni iloji boricha tezroq boshlash, dastlab boshqaruv chambaragini chiqish tomoniga, keyin esa ro'parasiga burish kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3721
+      ]
+    },
+    {
+      "id": 1131,
+      "questionUz": "Сирпанчиқ йўлда юргизгич билан тормозлашни қўллаш орқа узатмали автомобил учун:",
+      "questionRu": "Применение торможения двигателем на скользкой дороге для заднеприводного автомобиля:",
+      "questionOz": "Sirpanchiq yo'lda yurgizgich bilan tormozlashni qo'llash orqa uzatmali avtomobil uchun:",
+      "explanationUz": "Сирпанчиқ йўлда тўхтатиш тепкисини узуқ-узуқ босиб, узатма ва илашиш механизмини ажратмаган, двигател билан тормозланишни ишлатган ҳамда ғилдиракларнинг блокировкаси (сирғаниш) га йўл қўймаган ҳолда тўхтатиш лозим.",
+      "explanationRu": "На скользкой дороге следует тормозить прерывистым нажатием на педаль тормоза, не выключая сцепление и передачу, используя торможение двигателем и не допуская блокировки колес (движение «юзом»).",
+      "explanationOz": "Sirpanchiq yo‘lda to‘xtatish tepkisini uzuq-uzuq bosib, uzatma va ilashish mexanizmini ajratmagan, dvigatel bilan tormozlanishni ishlatgan hamda g‘ildiraklarning blokirovkasi (sirg‘anish) ga yo‘l qo‘ymagan holda to‘xtatish lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3723,
+          "textUz": "Автомобилнинг турғунлигини оширади",
+          "textRu": "Повышает устойчивость автомобиля",
+          "textOz": "Avtomobilning turg'unligini oshiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 3724,
+          "textUz": "Автомобилнинг турғунлигини камайтиради",
+          "textRu": "Снижает устойчивость автомобиля",
+          "textOz": "Avtomobilning turg'unligini kamaytiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 3725,
+          "textUz": "Автомобилнинг турғунлигига ҳеч қандай таъсир кўрсатмайди",
+          "textRu": "Не оказывает какого-либо влияния на устойчивость автомобиля",
+          "textOz": "Avtomobilning turg'unligiga hech qanday tasir ko'rsatmaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3723
+      ]
+    },
+    {
+      "id": 1132,
+      "questionUz": "Санаб ўтилган шароитлардан қай бирида автомобиллар ва автопоездлардан фойдаланиш тақиқланади?",
+      "questionRu": "При каких из перечисленных условиях запрещается эксплуатация автомобилей и автопоездов?",
+      "questionOz": "Sanab o'tilgan sharoitlardan qay birida avtomobillar va avtopoezdlardan foydalanish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 3-иловаси 1-бўлимининг 1.3-бандига асосан: 1.3. Гидравлик тормоз юритмасининг зичлиги (герметиклиги) бузилган бўлса.",
+      "explanationRu": "В “Условиях, при которых запрещается эксплуатация транспортных средств” (приложение №3 к ПДД) сказано, что эксплуатация транспортных средств запрещена, если: 1.3. Нарушена герметичность гидравлического тормозного привода.",
+      "explanationOz": "YHQ 3-ilovasi 1-bo‘limining 1.3-bandiga asosan: 1.3. Gidravlik tormoz yuritmasining zichligi (germetikligi) buzilgan bo‘lsa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3726,
+          "textUz": "Гидравлик тормоз тизимининг зичлиги бузилганда",
+          "textRu": "Нарушена герметичность гидравлического тормозного привода",
+          "textOz": "Gidravlik tormoz tizimining zichligi buzilganda",
+          "isCorrect": true
+        },
+        {
+          "id": 3727,
+          "textUz": "Тормоз тизимининг самарадорлиги қоида талабларига жавоб беради",
+          "textRu": "Рычаг стояночной тормозной системы удерживается запирающим устройством",
+          "textOz": "Tormoz tizimining samaradorligi qoida talablariga javob beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 3728,
+          "textUz": "Тўхтаб туриш тормоз тизими ҳаракатсиз ҳолатда тўла вазндаги транспорт воситаларини 16% дан кам бўлган қияликда ушлаб тура олганда",
+          "textRu": "Стояночная тормозная система обеспечивает неподвижное состояние транспортных средств с полной нагрузкой на уклоне не менее 16%",
+          "textOz": "To'xtab turish tormoz tizimi harakatsiz holatda to'la vazndagi transport vositalarini 16% dan kam bo'lgan qiyalikda ushlab tura olganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3726
+      ]
+    },
+    {
+      "id": 1133,
+      "questionUz": "Автомобил ҳаракатланаётганда кутилмаганда шинаси ёрилиб кетса, ҳайдовчи нима қилиши зарур?",
+      "questionRu": "Что должен сделать водитель, если неожиданно лопнула шина?",
+      "questionOz": "Avtomobil harakatlanayotganda kutilmaganda shinasi yorilib ketsa, haydovchi nima qilishi zarur?",
+      "explanationUz": "Шиналарнинг бирида босимнинг камайиши унинг айланишига қарама-қаршилигини кучайтиради ва кўндаланг қаттиқлигини камайтиради. Шунинг учун босими бўлмаган шина билан автомобил ён томонга оғади. Бошқаришни сақлаб қолиш учун ҳайдовчи рул чамбарагини ушлаб туриб, тезлигини пасайтириши ва тўхтатиш лозим.",
+      "explanationRu": "Если неожиданно лопнула шина, машину может занести, поэтому необходимо удерживать руль так, чтобы сохранить движение по прямой, снизить скорость и остановиться.",
+      "explanationOz": "Shinalarning birida bosimning kamayishi uning aylanishiga qarama-qarshiligini kuchaytiradi va ko‘ndalang qattiqligini kamaytiradi. Shuning uchun bosimi bo‘lmagan shina bilan avtomobil yon tomonga og‘adi. Boshqarishni saqlab qolish uchun haydovchi rul chambaragini ushlab turib, tezligini pasaytirishi va to‘xtatish lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3729,
+          "textUz": "Ишчи тормоз билан тўла тўхтагунча кескин тормозлаш",
+          "textRu": "Тормозить рабочим тормозом до полной остановки машины",
+          "textOz": "Ishchi tormoz bilan to'la to'xtaguncha keskin tormozlash",
+          "isCorrect": false
+        },
+        {
+          "id": 3730,
+          "textUz": "Автомобилни тўхтаб туриш тормози ёрдамида тўхтатиш",
+          "textRu": "Остановить машину с помощью стояночного тормоза",
+          "textOz": "Avtomobilni to'xtab turish tormozi yordamida to'xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3731,
+          "textUz": "Рул чамбарагини ушлаб туриш, тўғри чизиқда ҳаракатни сақлаш, тезликни камайтириш ва тўхтатиш",
+          "textRu": "Держать руль, сохранить движение по прямой, снизить скорость и остановить машину",
+          "textOz": "Rul chambaragini ushlab turish, to'g'ri chiziqda harakatni saqlash, tezlikni kamaytirish va to'xtatish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3731
+      ]
+    },
+    {
+      "id": 1134,
+      "questionUz": "Ўнг ва чап ғилдиракларининг шиналари турлича ейилган автомобилга тормоз бериш қандай хавфли оқибатларга олиб келиши мумкин?",
+      "questionRu": "Какие опасные последствия могут возникнуть при торможении автомобиля с различным износом шин правых и левых колес?",
+      "questionOz": "O'ng va chap g'ildiraklarining shinalari turlicha yeyilgan avtomobilga tormoz berish qanday xavfli oqibatlarga olib kelishi mumkin?",
+      "explanationUz": "Бир оқда ўрнатилган (чап ва ўнг) шиналар нақшининг устки шакли ва унинг ёйилганлик даражаси барча ҳолларда бир хил бўлиши лозим, чунки бу ҳол тормозланаётганда автомобилнинг мувозанатини таъминловчи шартлардан бири ҳисобланади. Ушбу тартиб инбатга олинмасатормозланиш вақтида ҳар хил тормоз кучлари юзага келиб, муозанатни йўқотишга олиб келувчи ҳолларни вужудга келтиради. Автомобилнинг ейилган шина нақши томони олдинга интилиб, акс томони орқада қолади. Бу ҳолда автомобил бир томонга силжиб, мақбул бўлмаган шароитларда мувозанатини йўқотиб, ағдарилиши мумкин.",
+      "explanationRu": "Шины, установленные на одной оси (правая и левая) во всех случаях должны иметь одинаковый рисунок протектора и одинаковую изношенность, так как это является одним из условий обеспечения устойчивости автомобиля при торможении. При отклонении от этих норм в процессе торможения возникают разные тормозные силы, которые создают дестабилизирующий момент, приводящий к потере устойчивости. Та сторона автомобиля, на которой расположена шина с изношенным рисунком протектора, забегает вперед, противоположная сторона отстает. При этом автомобиль смещается в сторону и при неблагоприятных условиях может потерять устойчивость и опрокинуться.",
+      "explanationOz": "Bir oqda o‘rnatilgan (chap va o‘ng) shinalar naqshining ustki shakli va uning yoyilganlik darajasi barcha hollarda bir xil bo‘lishi lozim, chunki bu hol tormozlanayotganda avtomobilning muvozanatini ta'minlovchi shartlardan biri hisoblanadi. Ushbu tartib inbatga olinmasatormozlanish vaqtida har xil tormoz kuchlari yuzaga kelib, muozanatni yo‘qotishga olib keluvchi hollarni vujudga keltiradi. Avtomobilning yeyilgan shina naqshi tomoni oldinga intilib, aks tomoni orqada qoladi. Bu holda avtomobil bir tomonga siljib, maqbul bo‘lmagan sharoitlarda muvozanatini yo‘qotib, ag‘darilishi mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3732,
+          "textUz": "Тормоз барабанларининг қизиб кетишига",
+          "textRu": "Перегрев тормозных барабанов",
+          "textOz": "Tormoz barabanlarining qizib ketishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3733,
+          "textUz": "Нақш изларининг кўчиб кетишига",
+          "textRu": "Отслоение протектора",
+          "textOz": "Naqsh izlarining ko'chib ketishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3734,
+          "textUz": "Автомобилнинг ағдарилиб кетиши мумкин даражада сирпаниб кетишига",
+          "textRu": "Занос с возможным опрокидыванием автомобиля",
+          "textOz": "Avtomobilning ag'darilib ketishi mumkin darajada sirpanib ketishiga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3734
+      ]
+    },
+    {
+      "id": 1135,
+      "questionUz": "Автомобил ҳайдовчиси тормоз педалини босганда сирпаниб кетишнинг хавфли оқибатларини олдини олиш учун мажбур:",
+      "questionRu": "Для предотвращения опасный последствий заноса автомобиля водитель должен:",
+      "questionOz": "Avtomobil haydovchisi tormoz pedalini bosganda sirpanib ketishning xavfli oqibatlarini oldini olish uchun majbur:",
+      "explanationUz": "Автомобилнинг сирпанчиқ йўлда сурилиши орқа ғилдиракларининг блокировкаси сабабли тормозланишда вужудга келади. Бу ҳолда биринчи навбатда сурилиш сабабини бартараф этиш, яъни бошланган тормозланишни тўхтатиш лозим. Кейинчалик руль чамбарагини сурилиш томон буриб, ҳаракат йўналишини тўғирлаб олиш мумкин.",
+      "explanationRu": "Занос на скользкой дороге может возникнуть при торможении из-за блокировки задних колес автомобиля. В этом случае необходимо в первую очередь устранить причину заноса, то есть прекратить начатое торможение. В дальнейшем поворотом рулевого колеса в сторону заноса можно выровнять траекторию движения автомобиля.",
+      "explanationOz": "Avtomobilning sirpanchiq yo'lda surilishi orqa g'ildiraklarining blokirovkasi sababli tormozlanishda vujudga keladi. Bu holda birinchi navbatda surilish sababini bartaraf etish, ya'ni boshlangan tormozlanishni to'xtatish lozim. Keyinchalik rul chambaragini surilish tomon burib, harakat yo'nalishini to'g'irlab olish mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3735,
+          "textUz": "Тормоз педалини қаттиқ босишга",
+          "textRu": "Резко нажать на педаль тормоза",
+          "textOz": "Tormoz pedalini qattiq bosishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3736,
+          "textUz": "Улагич педалини босишга",
+          "textRu": "Нажать на педаль сцепления",
+          "textOz": "Ulagich pedalini bosishga",
+          "isCorrect": false
+        },
+        {
+          "id": 3737,
+          "textUz": "Бошланган тормоз беришни тўхтатишга",
+          "textRu": "Прекратить начатое торможение",
+          "textOz": "Boshlangan tormoz berishni to'xtatishga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3737
+      ]
+    },
+    {
+      "id": 1136,
+      "questionUz": "Йўл бурилишларида автомобилнинг марказдан қочирма кучи қандай ҳолларда ошади?",
+      "questionRu": "В каких случаях увеличивается центробежная сила автомобиля на поворотах?",
+      "questionOz": "Yo'l burilishlarida avtomobilning markazdan qochirma kuchi qanday hollarda oshadi?",
+      "explanationUz": "Инерция (марказдан қочирма) кучи автомобилнинг бурилиш бўйлаб ҳаракатидавужудга келади. Бу ҳолда у бурилиш марказидан қарама-қарши йўналиш томон йўналтирилган ва ҳаракат тезлиги катталашиши ҳамда бурилиш радиуси камайиши билан кўпаяди.",
+      "explanationRu": "Центробежная сила автомобиля на поворотах увеличивается с увеличением скорости движения. С увеличением радиуса поворота или уменьшением скорости движения центробежная сила на поворотах уменьшается.",
+      "explanationOz": "Inersiya (markazdan qochirma) kuchi avtomobilning burilish bo‘ylab harakatidavujudga keladi. Bu holda u burilish markazidan qarama-qarshi yo‘nalish tomon yo‘naltirilgan va harakat tezligi kattalashishi hamda burilish radiusi kamayishi bilan ko‘payadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3738,
+          "textUz": "Бурилиш радиуси кўпайиши билан",
+          "textRu": "С увеличением радиуса поворота",
+          "textOz": "Burilish radiusi ko'payishi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3739,
+          "textUz": "Ҳаракат тезлиги ортиши билан",
+          "textRu": "С увеличением скорости движения",
+          "textOz": "Harakat tezligi ortishi bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 3740,
+          "textUz": "Ҳаракат тезлиги пасайиши билан",
+          "textRu": "С уменьшением скорости движения",
+          "textOz": "Harakat tezligi pasayishi bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3739
+      ]
+    },
+    {
+      "id": 1137,
+      "questionUz": "Ишқаланиш коэффициентига шиналарни сийқаланиб кетган протектори қандай таъсир қилади?",
+      "questionRu": "Как влияет изношенный протектор шин на коэффициент сцепления?",
+      "questionOz": "Ishqalanish koeffisientiga shinalarni siyqalanib ketgan protektori qanday tasir qiladi?",
+      "explanationUz": "Протектор қатламининг ейилиши билан бирга ғилдиракнинг йўл билан тишлашиши ёмонлашиб, тормоз бераётганда ёки тезликни ошираётганда автомобилнинг сирпаниш эҳтимоли кўпаяди. Протектори бутунлай ейилиб кетган шинанинг йўл билан тишлашиш коэффициенти янги шинанинг ушбу коэффициентидан икки баробар кам. Шунинг учун шинаси ейилган автомобилдан фойдаланиш мумкин эмас ва йўл ҳаракати қоидаларида тақиқланган.",
+      "explanationRu": "По мере износа протектора ухудшается сцепление колеса с дорогой и увеличивается вероятность заноса при торможении или разгоне. Коэффициент сцепления шины, протектор которой изношен до полного исчезновения рисунка, почти вдвое меньше коэффициента сцепления новой шины. Поэтому эксплуатация автомобиля с изношенными шинами недопустима и запрещена Правилами дорожного движения.",
+      "explanationOz": "Protektor qatlamining yeyilishi bilan birga g‘ildirakning yo‘l bilan tishlashishi yomonlashib, tormoz berayotganda yoki tezlikni oshirayotganda avtomobilning sirpanish ehtimoli ko‘payadi. Protektori butunlay yeyilib ketgan shinaning yo‘l bilan tishlashish koeffitsienti yangi shinaning ushbu koeffitsientidan ikki barobar kam. Shuning uchun shinasi yeyilgan avtomobildan foydalanish mumkin emas va yo‘l harakati qoidalarida taqiqlangan.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3741,
+          "textUz": "Ишқаланиш коэффициенти ошади",
+          "textRu": "Коэффициент сцепления повышается",
+          "textOz": "Ishqalanish koeffisienti oshadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3742,
+          "textUz": "Ишқаланиш коэффициенти ўзгармайди",
+          "textRu": "Коэффициент сцепления не изменяется",
+          "textOz": "Ishqalanish koeffisienti o'zgarmaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3743,
+          "textUz": "Ишқаланиш коэффициенти камаяди",
+          "textRu": "Коэффициент сцепления снижается",
+          "textOz": "Ishqalanish koeffisienti kamayadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3743
+      ]
+    },
+    {
+      "id": 1138,
+      "questionUz": "Тик чўзилган қияликларда ажратилган узатма билан автомобилни узоқ тормозлашнинг қандай хавфи бор?",
+      "questionRu": "В чем опасность длительного торможения автомобиля с выключенной передачей на крутых затяжных спусках?",
+      "questionOz": "Tik cho'zilgan qiyaliklarda ajratilgan uzatma bilan avtomobilni uzoq tormozlashning qanday xavfi bor?",
+      "explanationUz": "Тик нишабликда узатма ва илашиш механизмини ажратган ҳолатда узоқ тормоз бериш хавфи тормоз механизмларининг қизиб кетиши, тормозланиш самарасининг камайиши ва унинг ишдан чиқишидадир.",
+      "explanationRu": "Опасность длительного торможения с выключенным сцеплением на крутом спуске заключается в перегреве тормозных механизмов и уменьшении эффективности торможения.",
+      "explanationOz": "Tik nishablikda uzatma va ilashish mexanizmini ajratgan holatda uzoq tormoz berish xavfi tormoz mexanizmlarining qizib ketishi, tormozlanish samarasining kamayishi va uning ishdan chiqishidadir.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3744,
+          "textUz": "Шиналарнинг шикастланиши ортади",
+          "textRu": "Повышенный износ шин",
+          "textOz": "Shinalarning shikastlanishi ortadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3745,
+          "textUz": "Улагич қисмларининг шикастланиши ортади",
+          "textRu": "Повышенный износ деталей сцепления",
+          "textOz": "Ulagich qismlarining shikastlanishi ortadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3746,
+          "textUz": "Тормоз қизийди ва ишдан чиқади",
+          "textRu": "Перегрев тормозов и отказ их в работе",
+          "textOz": "Tormoz qiziydi va ishdan chiqadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3746
+      ]
+    },
+    {
+      "id": 1139,
+      "questionUz": "Тоғ йўлларининг тик қияликларидан тушишда ғилдиратишдан фойдаланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли пользоваться накатом при движении на крутых спусках горных дорог?",
+      "questionOz": "Tog' yo'llarining tik qiyaliklaridan tushishda g'ildiratishdan foydalanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 21-боби 130-бандига мувофиқ, йўлнинг 1.13 йўл белгиси билан белгиланган қисмида узатма ва илашиш механизми (сцепление) ажратилган ҳолатда ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 130 главы 21 ПДД, на участках дорог, обозначенных дорожным знаком 1.13, запрещается движение с выключенными передачей и сцеплением.",
+      "explanationOz": "YHQ 21-bobi 130-bandiga muvofiq, yo'lning 1.13 yo'l belgisi bilan belgilangan qismida uzatma va ilashish mexanizmi (stsepleniye) ajratilgan holatda harakatlanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3747,
+          "textUz": "Агар автомобил гидровакуум кучайтиргичли тормозлар билан жиҳозланган бўлса, тавсия этилади",
+          "textRu": "Рекомендуется, если автомобиль оборудован гидровакуумным усилителем тормозов",
+          "textOz": "Agar avtomobil gidrovakuum kuchaytirgichli tormozlar bilan jihozlangan bo'lsa, tavsiya etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3748,
+          "textUz": "Агар йўл яхши ҳолатда бўлса ва узоқ кўриниб турса, тавсия этилади",
+          "textRu": "Рекомендуется, если дорога в хорошем состоянии и просматривается на далекое расстояние",
+          "textOz": "Agar yo'l yaxshi holatda bo'lsa va uzoq ko'rinib tursa, tavsiya etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3749,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3749
+      ]
+    },
+    {
+      "id": 1140,
+      "questionUz": "Йўлнинг сирпанчиқ қисмида руль чамбарагини кескин бурганда ҳосил бўладиган сирпанишнинг олдини олиш учун ҳайдовчи қандай эҳтиёт чораларини кўриши керак?",
+      "questionRu": "Что следует предпринять водителю для предотвращения опасных последствий заноса автомобиля при резком повороте рулевого колеса на скользкой дороге?",
+      "questionOz": "Yo'lning sirpanchiq qismida rul chambaragini keskin burganda hosil bo'ladigan sirpanishning oldini olish uchun haydovchi qanday ehtiyot choralarini ko'rishi kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 88 бандига асосан, транспорт воситаларига йўлнинг ўнг томонида йўл ёқасида, у бўлмаганда эса қатнов қисмининг четида ва Қоидаларнинг 89-бандида кўрсатилган ҳолларда тротуарда тўхташ ва тўхтаб туришга рухсат этилади.\r\nЙўл ҳаракати қоидаларининг 89 банди 3 хатбошига асосан, қатнов қисмига чегарадош тротуар четида фақат енгил автомобиллар, мотоцикллар, мопедлар ва велосипедларга тўхтаб туришга 5.15 йўл белгиси билан бирга 7.6.2, 7.6.3, 7.6.6 — 7.6.9 қўшимча ахборот белгиларидан бири ўрнатилган жойларда рухсат этилади.\r\nЙўл ҳаракати қоидаларининг 91 бандига асосан, қуйидагиларда тўхташ тақиқланади: тўхтаган транспорт воситаси билан бўйлама сидирға чизиқ (қатнов қисмининг четини белгиловчи чизиқдан ташқари), ажратувчи минтақа ёки қатнов қисмининг қарама-қарши чети орасидаги масофа 3 метрдан кам бўлган жойларда.",
+      "explanationRu": "Согласно пункту 88 Правил дорожного движения, остановка и стоянка транспортных средств разрешается как можно правее на обочине, а при ее отсутствии — у края проезжей части, и в случаях, указанных в пункте 89 настоящих Правил — на тротуаре.\r\nСогласно абзац третий пункта 89 Правил дорожного движения, стоянка на краю тротуара, граничащего с проезжей частью, разрешается только легковым автомобилям, мотоциклам, мопедам и велосипедам в местах, обозначенных дорожным знаком 5.15, установленным вместе с одним из дорожных знаков 7.6.2, 7.6.3, 7.6.6 — 7.6.9.\r\nСогласно пункту 91 Правил дорожного движения, остановка запрещается в следующих местах: в местах, где расстояние между сплошной линией дорожной разметки (кроме обозначающей край проезжей части), разделительной полосой или противоположным краем проезжей части и остановившимся транспортным средством менее 3 м.",
+      "explanationOz": "Yo‘l harakati qoidalarining 88 bandiga asosan, transport vositalariga yo‘lning o‘ng tomonida yo‘l yoqasida, u bo‘lmaganda esa qatnov qismining chetida va Qoidalarning 89-bandida ko‘rsatilgan hollarda trotuarda to‘xtash va to‘xtab turishga ruxsat etiladi.\r\nYo‘l harakati qoidalarining 89 bandi 3 xatboshiga asosan, qatnov qismiga chegaradosh trotuar chetida faqat yengil avtomobillar, mototsikllar, mopedlar va velosipedlarga to‘xtab turishga 5.15 yo‘l belgisi bilan birga 7.6.2, 7.6.3, 7.6.6 — 7.6.9 qo‘shimcha axborot belgilaridan biri o‘rnatilgan joylarda ruxsat etiladi.\r\nYo‘l harakati qoidalarining 91 bandiga asosan, quyidagilarda to‘xtash taqiqlanadi: to‘xtagan transport vositasi bilan bo‘ylama sidirg‘a chiziq (qatnov qismining chetini belgilovchi chiziqdan tashqari), ajratuvchi mintaqa yoki qatnov qismining qarama-qarshi cheti orasidagi masofa 3 metrdan kam bo‘lgan joylarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3750,
+          "textUz": "Руль чамбарагини зудлик билан сирпанаётган томонга буриш ва тезда автомобилни ҳаракат йўналишини тўғирлаб олиш",
+          "textRu": "Быстро, но плавно повернуть рулевое колесо в сторону заноса, затем опережающим воздействием на рулевое колесо выровнять траекторию движения автомобиля",
+          "textOz": "Rul chambaragini zudlik bilan sirpanayotgan tomonga burish va tezda avtomobilni harakat yo'nalishini to'g'irlab olish",
+          "isCorrect": true
+        },
+        {
+          "id": 3751,
+          "textUz": "Илашмани узиш",
+          "textRu": "Выключить сцепление",
+          "textOz": "Ilashmani uzish",
+          "isCorrect": false
+        },
+        {
+          "id": 3752,
+          "textUz": "Тормоз тепкисини босиш",
+          "textRu": "Нажать на педаль тормоза",
+          "textOz": "Tormoz tepkisini bosish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3750
+      ]
+    },
+    {
+      "id": 1141,
+      "questionUz": "Агар автомобиль антиблокировкали (АБС) тормоз тизими билан жиҳозланган бўлса кескин тормоз беришни қандай амалга ошириш керак?",
+      "questionRu": "Как правильно произвести экстренное торможение, если автомобиль оборудован ABS антиблокировочной тормозной системой?",
+      "questionOz": "Agar avtomobil antiblokirovkali (ABS) tormoz tizimi bilan jihozlangan bo'lsa keskin tormoz berishni qanday amalga oshirish kerak?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 5-бўлими 5.35 «Реверсив ҳаракатланиш» белгисига мувофиқ, бир ёки бир неча тасмаларда ҳаракатланиш йўналиши қарама-қарши томонга ўзгариши мумкин бўлган йўл қисмининг бошланишини билдиради.",
+      "explanationRu": "Согласно знаку 5.35 раздела 5 приложения № 1 к ПДД, «Реверсивное движение», начало участка дороги, на котором на одной или нескольких полосах направление движения может измениться на противоположное.",
+      "explanationOz": "YHQ 1-ilovasining 5-bo'limi 5.35 \"Reversiv harakatlanish\" belgisiga muvofiq, bir yoki bir necha tasmalarda harakatlanish yo'nalishi qarama-qarshi tomonga o'zgarishi mumkin bo'lgan yo'l qismining boshlanishini bildiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3753,
+          "textUz": "Тормоз тепкисини узуб-узуб босиш йўли билан",
+          "textRu": "Путем прерывистого нажатия на педаль тормоза",
+          "textOz": "Tormoz tepkisini uzub-uzub bosish yo'li bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3754,
+          "textUz": "Тормоз тепкисини охиригача босиш ва автомобилни тўлиқ тўхтагунча тепкини қўйиб юбормаслик",
+          "textRu": "Путем нажатия на педаль тормоза до упора и удерживания ее до полной остановки",
+          "textOz": "Tormoz tepkisini oxirigacha bosish va avtomobilni to'liq to'xtaguncha tepkini qo'yib yubormaslik",
+          "isCorrect": true
+        },
+        {
+          "id": 3755,
+          "textUz": "Тўхтаб туриш тормози тизимини қўллаш йўли билан",
+          "textRu": "Путем использования стояночной тормозной системы",
+          "textOz": "To'xtab turish tormozi tizimini qo'llash yo'li bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3754
+      ]
+    },
+    {
+      "id": 1142,
+      "questionUz": "Қандай ҳолларда йўлнинг бурилиш қисмларида енгил автомобил ағдарилишга қарши турғунроқ?",
+      "questionRu": "В каком случае легковой автомобиль более устойчив против опрокидывания на повороте?",
+      "questionOz": "Qanday hollarda yo'lning burilish qismlarida engil avtomobil ag'darilishga qarshi turg'unroq?",
+      "explanationUz": "ЙҲҚ 1-боби 6-банди 11-атамага мувофиқ, мажбурий тўхташ – техник нуқсон, ташилаётган юк, ҳайдовчи ва йўловчининг ҳолати, йўлдаги бирор тўсиқ туфайли хавф юзага келганда ёхуд об-ҳаво шароитига боғлиқ ҳолда транспорт воситаси ҳаракатини тўхтатиш. Ҳайдовчининг ушбу хатти-ҳаракати охирги зарур чора бўлиб, қоидабузарлик деб эътироф этилмайди.",
+      "explanationRu": "Согласно термину 11 пункта 6 главы 1 ПДД, вынужденная остановка – прекращение движения транспортного средства по причине технической неисправности или опасности, создаваемой перевозимым грузом, состоянием водителя, пассажира, препятствием на дороге или метеорологическими условиями. Такое поведение водителя является крайне необходимой мерой и не признается правонарушением.",
+      "explanationOz": "YHQ 1-bobi 6-bandi 11-atamaga muvofiq, majburiy to'xtash – texnik nuqson, tashilayotgan yuk, haydovchi va yo'lovchining holati, yo'ldagi biror to'siq tufayli xavf yuzaga kelganda yoxud ob-havo sharoitiga bog'liq holda transport vositasi harakatini to'xtatish. Haydovchining ushbu xatti-harakati oxirgi zarur chora bo'lib, qoidabuzarlik deb e'tirof etilmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3756,
+          "textUz": "Юксиз ва йўловчиларсиз",
+          "textRu": "Без груза и пассажиров",
+          "textOz": "Yuksiz va yo'lovchilarsiz",
+          "isCorrect": true
+        },
+        {
+          "id": 3757,
+          "textUz": "Йўловчилар билан юксиз",
+          "textRu": "С пассажирами, но без груза",
+          "textOz": "Yo'lovchilar bilan yuksiz",
+          "isCorrect": false
+        },
+        {
+          "id": 3758,
+          "textUz": "Йўловчиларсиз, юқори юкхонасида юки билан",
+          "textRu": "Без пассажиров, но с грузом на верхнем багажнике",
+          "textOz": "Yo'lovchilarsiz, yuqori yukxonasida yuki bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3756
+      ]
+    }
+  ]
+}

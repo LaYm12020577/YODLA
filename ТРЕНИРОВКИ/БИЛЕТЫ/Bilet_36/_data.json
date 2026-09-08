@@ -1,0 +1,774 @@
+{
+  "title": "Bilet 36",
+  "count": 20,
+  "questions": [
+    {
+      "id": 703,
+      "questionUz": "Қатнов қисмига бевосита туташган тротуар четида унга тўла ёки қисман чиқиш билан тўхтаб туришга рухсат этиладими?",
+      "questionRu": "Разрешается ли стоянка на краю тротуара, прилегающего непосредственно к проезжей части с полным или частичным заездом на него?",
+      "questionOz": "Qatnov qismiga bevosita tutashgan trotuar chetida unga to'la yoki qisman chiqish bilan to'xtab turishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 4-боби 15-банди 2-хатбошига мувофиқ, пиёдалар ҳаракатига халақит бермаслик шарти билан қатнов қисмига чегарадош тротуар четида фақат енгил автомобиллар, мотоцикллар, мопедлар ва велосипедларга тўхтаб туришга рухсат этилади.",
+      "explanationRu": "Абзацу 2 пункта 15 главы 4 ПДД, гласит: стоянка на краю тротуара, граничащего с проезжей частью, разрешается только легковым автомобилям, мотоциклам, мопедам и велосипедам при условии, что это не будет создавать помех движению пешеходов.",
+      "explanationOz": "YHQ 4-bobi 15-bandi 2-xatboshiga muvofiq, piyodalar harakatiga xalaqit bermaslik sharti bilan qatnov qismiga chegaradosh trotuar chetida faqat yengil avtomobillar, mototsikllar, mopedlar va velosipedlarga to‘xtab turishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2361,
+          "textUz": "Фақат енгил автомобилларга ва мотоциклларга тўхтаб туришга тегишли йўл белгилари ўрнатилган жойларда рухсат этилади",
+          "textRu": "Разрешается только легковым автомобилям и мотоциклам при условии, что это не создаст помех движению пешех",
+          "textOz": "Faqat engil avtomobillarga va motosikllarga to'xtab turishga tegishli yo'l belgilari o'rnatilgan joylarda ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 2362,
+          "textUz": "Рухсат этилган тўла вазни 3,5 т дан зиёд бўлган фақат юк автомобилларига тақиқланади",
+          "textRu": "Запрещается только грузовым автомобилям с разрешенной максимальной массой более 3,5 т",
+          "textOz": "Ruxsat etilgan to'la vazni 3,5 t dan ziyod bo'lgan faqat yuk avtomobillariga taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2363,
+          "textUz": "Барча транспорт воситаларига тақиқланади",
+          "textRu": "Запрещается всем, транспортным средствам",
+          "textOz": "Barcha transport vositalariga taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2361
+      ]
+    },
+    {
+      "id": 704,
+      "questionUz": "Агар ҳайдовчи транспорт воситасининг эшигини очишга ва ундан чиқишга қарор қилса, унга нима тақиқланади?",
+      "questionRu": "Что запрещается водителю, если он решил открыть двери транспортного средства и выйти из него?",
+      "questionOz": "Agar haydovchi transport vositasining eshigini ochishga va undan chiqishga qaror qilsa, unga nima taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 13-боби 94-бандига мувофиқ, агар йўл ҳаракатининг бошқа қатнашчиларига халақит берадиган бўлса ёки хавф туғдирса, транспорт воситасининг эшикларини очиш тақиқланади (ҳайдовчилар ва йўловчилар учун ҳам).",
+      "explanationRu": "Согласно пункту 94 главы 13 ПДД, запрещается открывать двери транспортного средства, если это создаст помехи или опасность другим участникам дорожного движения (водителям и для пассажирам).",
+      "explanationOz": "YHQ 13-bobi 94-bandiga muvofiq, agar yo'l harakatining boshqa qatnashchilariga xalaqit beradigan bo'lsa yoki xavf tug'dirsa, transport vositasining eshiklarini ochish taqiqlanadi (haydovchilar va yo'lovchilar uchun ham).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2364,
+          "textUz": "Ҳаракатланиш серқатнов бўлган йўлларда турган транспорт воситасининг эшигини очиш тақиқланади",
+          "textRu": "Запрещается открывать двери стоящего транспортного средства на дорогах с интенсивным движением",
+          "textOz": "Harakatlanish serqatnov bo'lgan yo'llarda turgan transport vositasining eshigini ochish taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2365,
+          "textUz": "Ҳаракатланиш серқатнов бўлган йўлларда ҳайдовчи эшигини очиш тақиқланади. Ўз жойидан йўловчи эшиги орқали чиқади",
+          "textRu": "Запрещено открывать водительскую дверь на оживлённых дорогах. Выход через пассажирскую дверь.",
+          "textOz": "Harakatlanish serqatnov bo'lgan yo'llarda haydovchi eshigini ochish taqiqlanadi. O'z joyidan yo'lovchi eshigi orqali chiqadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2366,
+          "textUz": "Турган транспорт воситасининг эшигини очиш тақиқланади; агар бу хавф туғдирса ва ҳаракатланишнинг бошқа иштирокчиларига халақит берса",
+          "textRu": "Запрещается открывать двери стоящего транспортного средства, если это угрожает безопасности и создает помехи другим участникам дорожного движения",
+          "textOz": "Turgan transport vositasining eshigini ochish taqiqlanadi; agar bu xavf tug'dirsa va harakatlanishning boshqa ishtirokchilariga xalaqit bersa",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2366
+      ]
+    },
+    {
+      "id": 705,
+      "questionUz": "Санаб ўтилганлардан қайси жойларда транспорт воситаларининг тўхташи ва тўхтаб туриши тақиқланади?",
+      "questionRu": "В каких местах из перечисленных запрещается остановка и стоянка транспортных средств?",
+      "questionOz": "Sanab o'tilganlardan qaysi joylarda transport vositalarining to'xtashi va to'xtab turishi taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 13-боби 91-бандининг биринчи ва ўнинчи хатбошларига асосан, қуйидаги жой ва ҳолатларда тўхташ тақиқланади: трамвай йўлларида, шунингдек бевосита уларга яқинроқда трамвайлар ҳаракатланишига халақит берадиган бўлса. транспорт воситаси светофор ишоралари, йўл белгиларини бошқа ҳайдовчилардан тўсиб қўядиган, бошқа транспорт воситаларининг ҳаракатланишига (кириш ва чиқишига) имкон қолдирмайдиган ёки пиёдаларнинг ҳаракатига халақит берадиган жойларда.",
+      "explanationRu": "Пункта 91 главы 13 ПДД, гласит: Остановка запрещается в следующих местах: на трамвайных путях, а также в непосредственной близости от них, если это создает помехи движению трамваев; в местах, где транспортное средство закроет от других водителей сигналы светофора, дорожные знаки или сделает невозможным движение (въезд или выезд) других транспортных средств или создаст помехи для движения пешеходов.",
+      "explanationOz": "YHQ 13-bobi 91-bandining birinchi va o‘ninchi xatboshlariga asosan, quyidagi joy va holatlarda to‘xtash taqiqlanadi: tramvay yo‘llarida, shuningdek bevosita ularga yaqinroqda tramvaylar harakatlanishiga xalaqit beradigan bo‘lsa. transport vositasi svetofor ishoralari, yo‘l belgilarini boshqa haydovchilardan to‘sib qo‘yadigan, boshqa transport vositalarining harakatlanishiga (kirish va chiqishiga) imkon qoldirmaydigan yoki piyodalarning harakatiga xalaqit beradigan joylarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2367,
+          "textUz": "Дарвозадан чиқиш жойларида",
+          "textRu": "В местах выезда из ворот",
+          "textOz": "Darvozadan chiqish joylarida",
+          "isCorrect": false
+        },
+        {
+          "id": 2368,
+          "textUz": "Трамвай йўлларида",
+          "textRu": "На трамвайных путях",
+          "textOz": "Tramvay yo'llarida",
+          "isCorrect": false
+        },
+        {
+          "id": 2369,
+          "textUz": "Трамвай йўлларидан бевосита яқинроқда, агар бу трамвайларнинг ҳаракатига тўсқинлик қилса",
+          "textRu": "В непосредственной близости от трамвайных путей, если это создает помехи движению трамваев",
+          "textOz": "Tramvay yo'llaridan bevosita yaqinroqda, agar bu tramvaylarning harakatiga to'sqinlik qilsa",
+          "isCorrect": false
+        },
+        {
+          "id": 2370,
+          "textUz": "Барча кўрсатилган жойларда",
+          "textRu": "Во всех указанных местах",
+          "textOz": "Barcha ko'rsatilgan joylarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2370
+      ]
+    },
+    {
+      "id": 706,
+      "questionUz": "Тўхташ ва тўхтаб туриш тақиқланади:",
+      "questionRu": "Остановка и стоянка запрещены:",
+      "questionOz": "To'xtash va to'xtab turish taqiqlanadi:",
+      "explanationUz": "ЙҲҚ 13-боби 91-бандининг иккинчи, бешинчи ва ўнинчи хатбошларига асосан, қуйидаги жой ва ҳолатларда тўхташ тақиқланади: туннелларда, темир йўл кесишмаларида; пиёдалар ўтиш жойларида ва улардан олдин 10 метрдан кам масофа қолганда; транспорт воситаси светофор ишоралари, йўл белгиларини бошқа ҳайдовчилардан тўсиб қўядиган, бошқа транспорт воситаларининг ҳаракатланишига (кириш ва чиқишига) имкон қолдирмайдиган ёки пиёдаларнинг ҳаракатига халақит берадиган жойларда.",
+      "explanationRu": "Пункта 91 главы 13 ПДД, гласит: Остановка запрещается в следующих местах: в тоннелях, на железнодорожных переездах; на пешеходных переходах и ближе 10 м перед ними; в местах, где транспортное средство закроет от других водителей сигналы светофора, дорожные знаки или сделает невозможным движение (въезд или выезд) других транспортных средств или создаст помехи для движения пешеходов;",
+      "explanationOz": "YHQ 13-bobi 91-bandining ikkinchi, beshinchi va o‘ninchi xatboshlariga asosan, quyidagi joy va holatlarda to‘xtash taqiqlanadi: tunnellarda, temir yo‘l kesishmalarida; piyodalar o‘tish joylarida va ulardan oldin 10 metrdan kam masofa qolganda; transport vositasi svetofor ishoralari, yo‘l belgilarini boshqa haydovchilardan to‘sib qo‘yadigan, boshqa transport vositalarining harakatlanishiga (kirish va chiqishiga) imkon qoldirmaydigan yoki piyodalarning harakatiga xalaqit beradigan joylarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2371,
+          "textUz": "Темир йўл кесишмаларида",
+          "textRu": "На железнодорожных переездах",
+          "textOz": "Temir yo'l kesishmalarida",
+          "isCorrect": false
+        },
+        {
+          "id": 2372,
+          "textUz": "Пиёдаларнинг ўтиш жойларида ва уларга 10 м дан кам қолганда",
+          "textRu": "На пешеходных переходах и ближе 10 м",
+          "textOz": "Piyodalarning o'tish joylarida va ularga 10 m dan kam qolganda",
+          "isCorrect": false
+        },
+        {
+          "id": 2373,
+          "textUz": "Транспорт воситалари пиёдаларнинг ҳаракатига халақит берадиган жойларда",
+          "textRu": "В местах где движение транспорта мешает движению пешеходов",
+          "textOz": "Transport vositalari piyodalarning harakatiga xalaqit beradigan joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2374,
+          "textUz": "Ҳовлидан чиқадиган жойларда",
+          "textRu": "При выезде из дворов",
+          "textOz": "Hovlidan chiqadigan joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2375,
+          "textUz": "Барча санаб ўтилган жойларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan joylarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2375
+      ]
+    },
+    {
+      "id": 707,
+      "questionUz": "Тўхташ ва тўхтаб туриш тақиқланган:",
+      "questionRu": "Остановка и стоянка запрещена:",
+      "questionOz": "To'xtash va to'xtab turish taqiqlangan:",
+      "explanationUz": "ЙҲҚ 13-боби 91-бандининг учинчи ва еттинчи хатбошларига асосан, қуйидаги жой ва ҳолатларда тўхташ тақиқланади: бир йўналишда ҳаракатланиш учун учтадан кам бўлаги бўлган кўприк, йўл ўтказгич ва эстакада ҳамда уларнинг остида (тегишли йўл белгилари билан тўхтаб туриш рухсат берилган йўл қисмлари бундан мустасно); қатнов қисмида кўриниш масофаси 100 метрдан кам бўлган йўл дўнгликлари яқинида ва хавфли бурилишларда;",
+      "explanationRu": "Абзацу 3 пункта 91 главы 13 ПДД, остановка запрещается в следующих местах: на мостах, эстакадах, путепроводах (если для движения в одном направлении имеется менее трех полос) и под ними; в близи выпуклых переломов продольного профиля дороги, при видимости дороги менее 100 м хотя бы в одном направлении.",
+      "explanationOz": "YHQ 13-bobi 91-bandining uchinchi va yettinchi xatboshlariga asosan, quyidagi joy va holatlarda to‘xtash taqiqlanadi: bir yo‘nalishda harakatlanish uchun uchtadan kam bo‘lagi bo‘lgan ko‘prik, yo‘l o‘tkazgich va estakada hamda ularning ostida (tegishli yo‘l belgilari bilan to‘xtab turish ruxsat berilgan yo‘l qismlari bundan mustasno); qatnov qismida ko‘rinish masofasi 100 metrdan kam bo‘lgan yo‘l do‘ngliklari yaqinida va xavfli burilishlarda;",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2376,
+          "textUz": "Йўлнинг хавфли бурилишларида ва йўлнинг лоақал бир йўналишда 100 м дан камроқ қисми кўринадиган йўлнинг узунасига қавариб турган жойлари яқинида",
+          "textRu": "Вблизи опасных поворотов и выпуклых переломов продольного профиля дороги с видимостью дороги менее 100 м в одном направлении",
+          "textOz": "Yo'lning xavfli burilishlarida va yo'lning loaqal bir yo'nalishda 100 m dan kamroq qismi ko'rinadigan yo'lning uzunasiga qavarib turgan joylari yaqinida",
+          "isCorrect": false
+        },
+        {
+          "id": 2377,
+          "textUz": "Кўприкларда, эстакадаларда ва осма йўлларда, бир йўналишда ҳаракатланиш учун учтадан кам бўлаги бўлганда",
+          "textRu": "На мостах, эстакадах и путепроводах, имеющие менее 3 полос движения",
+          "textOz": "Ko'priklarda, estakadalarda va osma yo'llarda, bir yo'nalishda harakatlanish uchun uchtadan kam bo'lagi bo'lganda",
+          "isCorrect": false
+        },
+        {
+          "id": 2378,
+          "textUz": "Барча санаб ўтилган ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2378
+      ]
+    },
+    {
+      "id": 708,
+      "questionUz": "Ушбу жойда автомобилни тўхтаб туриш учун қўйишга рухсат этиладими?",
+      "questionRu": "Разрешено ли водителю ставить автомобиль на стоянку в указанном месте?",
+      "questionOz": "Ushbu joyda avtomobilni to'xtab turish uchun qo'yishga ruxsat etiladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 61 банди 2 хатбошига асосан, йўлга чиқиш жойида тезлашиш бўлаги бўлса, ҳайдовчи унда ҳаракатланиши ва қўшни тасмада ҳаракатланаётган транспорт воситаларига йўл бериб, транспорт оқимига қўшилиши керак.",
+      "explanationRu": "Согласно пункту 2 статьи 61 Правил дорожного движения, при наличии в месте выезда на дорогу полосы разгона водитель должен двигаться по ней и перестраиваться на соседнюю полосу, уступая дорогу транспортным средствам, движущимся по этой дороге.",
+      "explanationOz": "Yo‘l harakati qoidalarining 61 bandi 2 xatboshiga asosan, yo‘lga chiqish joyida tezlashish bo‘lagi bo‘lsa, haydovchi unda harakatlanishi va qo‘shni tasmada harakatlanayotgan transport vositalariga yo‘l berib, transport oqimiga qo‘shilishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/36.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2379,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 2380,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2380
+      ]
+    },
+    {
+      "id": 709,
+      "questionUz": "Қайси ҳайдовчи тўхтаб туриш қоидасини бузди?",
+      "questionRu": "Кто из водителей нарушил правила стоянки?",
+      "questionOz": "Qaysi haydovchi to'xtab turish qoidasini buzdi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 7-бўлимидаги 7.16 белгига асосан, «Нам қоплама». Белги қатнов қисмининг қопламаси нам бўлган вақтда таъсир этишини кўрсатади.",
+      "explanationRu": "Знак 7.16 раздела 7 приложения № 1 к ПДД, «Влажное покрытие». Указывает, что действие знака распространяется на период времени, когда покрытие проезжей части влажное.",
+      "explanationOz": "YHQ 1-ilovasining 7-bo‘limidagi 7.16 belgiga asosan, «Nam qoplama». Belgi qatnov qismining qoplamasi nam bo‘lgan vaqtda ta’sir etishini ko‘rsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/36.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2381,
+          "textUz": "Мототцикл ҳайдовчиси",
+          "textRu": "Только водитель мотоцикла",
+          "textOz": "Mototsikl haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2382,
+          "textUz": "Тротуарда тўхтаб турган автомобиль ҳайдовчиси",
+          "textRu": "Только водитель автомобиля стоящий на тротуаре",
+          "textOz": "Trotuarda to'xtab turgan avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2383,
+          "textUz": "Ҳеч ким бузмади",
+          "textRu": "Никто не нарушил",
+          "textOz": "Hech kim buzmadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2382
+      ]
+    },
+    {
+      "id": 710,
+      "questionUz": "Юк автомобили ҳайдовчиси тўхтаб туриш қоидасини буздими?",
+      "questionRu": "Нарушил ли водитель грузового автомобиля правила парковки?",
+      "questionOz": "Yuk avtomobili haydovchisi to'xtab turish qoidasini buzdimi?",
+      "explanationUz": "Ҳаракат хавфсизлиги асослари талабларига асосан, Йўлнинг сирпанчиқ қисмида рул чамбарагини кескин бурганда ҳосил бўладиган сирпанишнинг олдини олиш учун ҳайдовчи, рул чамбарагини зудлик билан, лекин, бир текисда сирпанаётган томонга буриш ва тезда автомобилни ҳаракат йўналишини тўғирлаб олиш чораларини кўриши керак.",
+      "explanationRu": "Согласно требованиям безопасности дорожного движения, для предотвращения опасных последствий заноса автомобиля при резком повороте рулевого колеса на скользкой дороге, водителю следует предпринять быстро, но плавно повернуть рулевое колесо в сторону заноса, затем опережающим воздействием на рулевое колесо выровнять траекторию движения автомобиля.",
+      "explanationOz": "Harakat xavfsizligi asoslari talablariga asosan, Yo‘lning sirpanchiq qismida rul chambaragini keskin burganda hosil bo‘ladigan sirpanishning oldini olish uchun haydovchi, rul chambaragini zudlik bilan, lekin, bir tekisda sirpanayotgan tomonga burish va tezda avtomobilni harakat yo‘nalishini to‘g‘irlab olish choralarini ko‘rishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/36.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2384,
+          "textUz": "Бузди",
+          "textRu": "Нарушил",
+          "textOz": "Buzdi",
+          "isCorrect": true
+        },
+        {
+          "id": 2385,
+          "textUz": "Бузмади, агар унинг рухсат этилган тўлиқ вазни 3,5 тоннадан ошмаса",
+          "textRu": "Нарушил, если разрешенная максимальная масса автомобиля более 3,5 т",
+          "textOz": "Buzmadi, agar uning ruxsat etilgan to'liq vazni 3,5 tonnadan oshmasa",
+          "isCorrect": false
+        },
+        {
+          "id": 2386,
+          "textUz": "Хато қилмади",
+          "textRu": "Не нарушил",
+          "textOz": "Xato qilmadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2384
+      ]
+    },
+    {
+      "id": 711,
+      "questionUz": "Чорраҳанинг кўрсатилган   жойида  Сизга тўхташга  рухсат этиладими?",
+      "questionRu": "Разрешена ли Вам остановка в указанном месте на перекрестке?",
+      "questionOz": "Chorrahaning ko'rsatilgan   joyida  Sizga to'xtashga  ruxsat etiladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларига 3-илова 7.4 бандига асосан, барча транспорт воситасининг олд, ён ойналарининг ёруғлик ўтказувчанлиги 70 фоиздан кам бўлса, автомобиль томидаги люк ойнаси, шунингдек, рухсатнома асосида туси ўзгартирилган (қорайтирилган) автотранспорт воситаларининг ойналари бундан мустасно. Изоҳ. III класс М3 тоифадаги автотранспорт воситаларининг орқа ва ён ойналарига пардалар, икки ёнга орқа томонни кўриш учун ташқи кўзгуси мавжуд бўлган барча тоифадаги автотранспорт воситалари орқа ойналарининг тусини ёруғлик ўтказувчанлиги чекланмаган даражада ўзгартиришга (қорайтиришга), шунингдек, ушбу орқа ойналарга парда (чий парда, дарпарда) ўрнатишга рухсат берилади.",
+      "explanationRu": "Согласно пункту 7.4 Приложение № 3 к Правилам дорожного движения, светопропускание передних лобовых, боковых и задних стекол на всех транспортных средствах менее 70%, за исключением стекол люков, установленных на крыше автомобиля, а также тонированных (затемненных) стекол автотранспортных средств, установленных на основании разрешения органов внутренних дел. Примечание. Допускается наличие занавесок на боковых и задних лобовых стеклах автотранспортных средств категории М3 класса III, тонирование (затемнение) задних лобовых стекол автотранспортных средств всех категорий без ограничения светопропускания, а также наличия на задних лобовых стеклах занавесок (жалюзи, шторка) при наличии с обеих сторон наружных зеркал заднего вида.",
+      "explanationOz": "Yo‘l harakati qoidalariga 3-ilova 7.4 bandiga asosan, barcha transport vositasining old, yon oynalarining yorug‘lik o‘tkazuvchanligi 70 foizdan kam bo‘lsa, avtomobil tomidagi lyuk oynasi, shuningdek, ruxsatnoma asosida tusi o‘zgartirilgan (qoraytirilgan) avtotransport vositalarining oynalari bundan mustasno. Izoh. III klass M3 toifadagi avtotransport vositalarining orqa va yon oynalariga pardalar, ikki yonga orqa tomonni ko‘rish uchun tashqi ko‘zgusi mavjud bo‘lgan barcha toifadagi avtotransport vositalari orqa oynalarining tusini yorug‘lik o‘tkazuvchanligi cheklanmagan darajada o‘zgartirishga (qoraytirishga), shuningdek, ushbu orqa oynalarga parda (chiy parda, darparda) o‘rnatishga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/39.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2387,
+          "textUz": "Рухсат  этилади",
+          "textRu": "Разрешена",
+          "textOz": "Ruxsat  etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2388,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2389,
+          "textUz": "Рухсат этилади, агарда \u000bСизнинг транспорт \u000bвоситангиз билан сидирға \u000bчизиқ орасидаги масофа 3 \u000bметрдан ортиқ бўлса?",
+          "textRu": "Разрешена, если расстояние от Вашего транспортного средства до линии разметки не менее 3 м",
+          "textOz": "Ruxsat etiladi, agarda \u000bSizning transport \u000bvositangiz bilan sidirg'a \u000bchiziq orasidagi masofa 3 \u000bmetrdan ortiq bo'lsa?",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2388
+      ]
+    },
+    {
+      "id": 712,
+      "questionUz": "Сизга кўрсатилган жойда  енгил автомобилда тўхташга  рухсат  этиладими?",
+      "questionRu": "Разрешено ли Вам остановиться на легковом автомобиле в указанном месте?",
+      "questionOz": "Sizga ko'rsatilgan joyda  engil avtomobilda to'xtashga  ruxsat  etiladimi?",
+      "explanationUz": "Ҳаракат хавфсизлиги асослари талабларига асосан, йўлнинг ёпиқ қисмидан очик қисмига чиқишда кучли ёнлама шамол хавфи ортади.",
+      "explanationRu": "Согласно требованиям безопасности дорожного движения, риск сильного бокового ветра возрастает при переходе с закрытого участка дороги на открытый участок.",
+      "explanationOz": "Harakat xavfsizligi asoslari talablariga asosan, yo‘lning yopiq qismidan ochik qismiga chiqishda kuchli yonlama shamol xavfi ortadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/40.9[1].webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2390,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 2391,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2391
+      ]
+    },
+    {
+      "id": 713,
+      "questionUz": "Транспорт воситаларини қатнов қисмининг кенгайтирилмаган жойларида қандай тартибда тўхташ ва тўхтаб туришга рухсат этилади?",
+      "questionRu": "В каком порядке разрешается парковать транспортные средства на нерасширенных участках проезжей части?",
+      "questionOz": "Transport vositalarini qatnov qismining kengaytirilmagan joylarida qanday tartibda to'xtash va to'xtab turishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.21 белгига асосан, «Қувиб ўтиш тақиқланган ҳудуднинг охири».\r\nЙҲҚ 1-иловасининг 3-бўлимидаги 3.23 белгига асосан, «Юк автомобилларида қувиб ўтиш тақи��ланган ҳудуднинг охири».\r\nЙҲҚ 1-иловасининг 3-бўлимидаги 3.31 белгига асосан, «Барча чекловларнинг охири». 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 белгиларидан бир нечтасига бир вақтда амал қиладиган ҳудудларнинг охири.",
+      "explanationRu": "Знак 3.21 раздела 3 приложения № 1 к ПДД, «Конец зоны запрещения обгона».\r\nЗнак 3.23 раздела 3 приложения № 1 к ПДД, «Конец зоны запрещения обгона грузовым автомобилям».\r\nЗнак 3.31 раздела 3 приложения № 1 к ПДД, «Конец зоны всех ограничений». Обозначение конца зоны действия одновременно нескольких знаков из следующих: 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo‘limidagi 3.21 belgiga asosan, «Quvib o‘tish taqiqlangan hududning oxiri».\r\nYHQ 1-ilovasining 3-bo‘limidagi 3.23 belgiga asosan, «Yuk avtomobillarida quvib o‘tish taqiqlangan hududning oxiri».\r\nYHQ 1-ilovasining 3-bo‘limidagi 3.31 belgiga asosan, «Barcha cheklovlarning oxiri». 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 belgilaridan bir nechtasiga bir vaqtda amal qiladigan hududlarning oxiri.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2392,
+          "textUz": "Бурчак остида",
+          "textRu": "Под углом",
+          "textOz": "Burchak ostida",
+          "isCorrect": false
+        },
+        {
+          "id": 2393,
+          "textUz": "Параллел равишда",
+          "textRu": "Параллельно",
+          "textOz": "Parallel ravishda",
+          "isCorrect": true
+        },
+        {
+          "id": 2394,
+          "textUz": "Исталган усулда",
+          "textRu": "В любом случае",
+          "textOz": "Istalgan usulda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2393
+      ]
+    },
+    {
+      "id": 714,
+      "questionUz": "Тўхтаб туриш қоидасини ким бузди?",
+      "questionRu": "Кто нарушил правило стоянки?",
+      "questionOz": "To'xtab turish qoidasini kim buzdi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 46 бандига асосан, бурилиш кўрсаткичи ёки қўл билан берилаётган ишора манёврни бажаришдан олдинроқ берилиши ва уни тугаллагач, дарҳол тўхтатилиши керак (қўл билан берилаётган ишорани манёврни бевосита бажаришдан олдин тугаллаш мумкин).",
+      "explanationRu": "Согласно пункту 46 Правил дорожного движения, подача сигнала указателями поворотов или рукой должна производиться заблаговременно до начала выполнения маневра и прекращаться немедленно после его завершения (подача сигнала рукой может быть закончена непосредственно перед выполнением маневра).",
+      "explanationOz": "Yo‘l harakati qoidalarining 46 bandiga asosan, burilish ko‘rsatkichi yoki qo‘l bilan berilayotgan ishora manyovrni bajarishdan oldinroq berilishi va uni tugallagach, darhol to‘xtatilishi kerak (qo‘l bilan berilayotgan ishorani manyovrni bevosita bajarishdan oldin tugallash mumkin).",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/40.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2395,
+          "textUz": "Фақат «А»",
+          "textRu": "Только «А»",
+          "textOz": "Faqat «А»",
+          "isCorrect": false
+        },
+        {
+          "id": 2396,
+          "textUz": "Фақат «Б»",
+          "textRu": "Только «Б»",
+          "textOz": "Faqat «Б»",
+          "isCorrect": true
+        },
+        {
+          "id": 2397,
+          "textUz": "«А» ва «Б»",
+          "textRu": "«А» и «Б»",
+          "textOz": "«А» va «Б»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2396
+      ]
+    },
+    {
+      "id": 715,
+      "questionUz": "Бу жойда йўловчиларни чиқариш ёки тушириш мақсадида тўхташ мумкинми?",
+      "questionRu": "Можно ли остановиться в этом месте для посадки или высадки пассажира?",
+      "questionOz": "Bu joyda yo'lovchilarni chiqarish yoki tushirish maqsadida to'xtash mumkinmi?",
+      "explanationUz": "ЙҲҚ 1 илова: 3.28. “Тўхтаб туриш тақиқланган”. Транспорт воситаларининг тўхтаб туриши тақиқланишини билдиради.",
+      "explanationRu": "ПДД приложение № 1: 3.28. “Стоянка запрещена”. Запрещается стоянка транспортных средств.",
+      "explanationOz": "YHQ 1 ilova: 3.28. “To‘xtab turish taqiqlangan”. Transport vositalarining to‘xtab turishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2398,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 2399,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2398
+      ]
+    },
+    {
+      "id": 716,
+      "questionUz": "Тўхташ қоидасини қайси транспорт ҳайдовчиси бузди?",
+      "questionRu": "Кто из водителей нарушил правила остановки?",
+      "questionOz": "To'xtash qoidasini qaysi transport haydovchisi buzdi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, имтиёз — мўлжалланган йўналишда бошқа йўл ҳаракати қатнашчиларига нисбатан олдин ҳаракатланиш ҳуқуқи.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, приоритет — право на первоочередное движение в намеченном направлении по отношению к другим участникам движения.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, imtiyoz — mo‘ljallangan yo‘nalishda boshqa yo‘l harakati qatnashchilariga nisbatan oldin harakatlanish huquqi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4624,
+          "textUz": "Ҳар иккала ҳайдовчи ҳам",
+          "textRu": "Оба нарушили",
+          "textOz": "Har ikkala haydovchi ham",
+          "isCorrect": false
+        },
+        {
+          "id": 4625,
+          "textUz": "Фақат кук автомобил ҳайдовчиси",
+          "textRu": "Только водитель синего автомобиля",
+          "textOz": "Faqat kuk avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 4626,
+          "textUz": "Фақат қизил автомобил ҳайдовчиси",
+          "textRu": "Только водитель красного автомобиля",
+          "textOz": "Faqat qizil avtomobil haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4626
+      ]
+    },
+    {
+      "id": 717,
+      "questionUz": "Кесишаётган қатнов қисми четига қанчаданкам масофа қолганда тўхташ тақиқланади?",
+      "questionRu": "Ближе какого расстояния запрещеноостанавливаться от края пересекаемойпроезжей части?",
+      "questionOz": "Kesishayotgan qatnov qismi chetiga qanchadankam masofa qolganda to'xtash taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 13-боби 91-банди: Тўхташ тақиқланади: Қатнов қисми кесишмаларида ва кесишаётган қатнов қисми четига 30 метрдан кам масофада (уч томонлама кесишадиган чоррахаларда ёндан туташган йўлнинг сидирға чизиқ, ёки ажратувчи минтақа билан ажратилган қарама-қарши томони бундан мустасно).",
+      "explanationRu": "Пункта 91 главы 13 ПДД, гласит: на пересечениях проезжих частей и на расстоянии менее 30 метров от края пересекаюшей проезжей части (за исключением противоположной стороны примыкающей дороги, отделенной разделительной линией или разделительной полосой на трехсторонних перекрестках).",
+      "explanationOz": "YHQ 13-bobi 91-bandi: To‘xtash taqiqlanadi: Qatnov qismi kesishmalarida va kesishayotgan qatnov qismi chetiga 30 metrdan kam masofada (uch tomonlama kesishadigan chorraxalarda yondan tutashgan yo‘lning sidirg‘a chiziq, yoki ajratuvchi mintaqa bilan ajratilgan qarama-qarshi tomoni bundan mustasno).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2403,
+          "textUz": "40 метр",
+          "textRu": "40 метр",
+          "textOz": "40 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2404,
+          "textUz": "45 метр",
+          "textRu": "45 метр",
+          "textOz": "45 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2405,
+          "textUz": "30 метр",
+          "textRu": "30 метр",
+          "textOz": "30 metr",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2405
+      ]
+    },
+    {
+      "id": 718,
+      "questionUz": "Транспорт воситаларининг қайрилиб олишжойларида ва унга етмасдан ёки ўтиб қанчаданкам масофада тўхташи тақиқланади?",
+      "questionRu": "На каком расстоянии запрещена остановка транспортных средств в местах разворота, атакже до или после них?",
+      "questionOz": "Transport vositalarining qayrilib olishjoylarida va unga etmasdan yoki o'tib qanchadankam masofada to'xtashi taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 13 – боби 91 – банди: Тўхташ тақиқланади: Транспорт воситаларининг қайрилиб олиш жойларида ва унга 30 метр етмасдан ёки ўтиб.",
+      "explanationRu": "Пункта 91 главы 13 ПДД, гласит: Остановка запрещается в следующих местах: В местах разворота транспортных средств а также до или после них 30 метров.",
+      "explanationOz": "YHQ 13 – bobi 91 – bandi: To‘xtash taqiqlanadi: Transport vositalarining qayrilib olish joylarida va unga 30 metr yetmasdan yoki o‘tib.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2406,
+          "textUz": "40 метр",
+          "textRu": "40 метр",
+          "textOz": "40 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2407,
+          "textUz": "45 метр",
+          "textRu": "45 метр",
+          "textOz": "45 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2408,
+          "textUz": "30 метр",
+          "textRu": "30 метр",
+          "textOz": "30 metr",
+          "isCorrect": true
+        },
+        {
+          "id": 2409,
+          "textUz": "50 метр",
+          "textRu": "50 метр",
+          "textOz": "50 metr",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2408
+      ]
+    },
+    {
+      "id": 719,
+      "questionUz": "Пиёдалар ўтиш жойига қанча масофа етмасдан тўхташ ва тўхтаб туришга рухсат берилади?",
+      "questionRu": "Не ближе какого расстояния разрешается остановка и стоянка перед пешеходным переходом?",
+      "questionOz": "Piyodalar o'tish joyiga qancha masofa etmasdan to'xtash va to'xtab turishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚ 13 – боби 91-банди: Тўхташ тақиқланади: Пиёдалар ўтиш жойларида ва улардан олдин 10 метрдан кам масофа қолганда.",
+      "explanationRu": "Пункта 91 главы 13 ПДД, гласит: Остановка запрещается в следующих местах: на пешеходных переходах и менее чем за 10 метров до них.",
+      "explanationOz": "YHQ 13 – bobi 91-bandi: To‘xtash taqiqlanadi: Piyodalar o‘tish joylarida va ulardan oldin 10 metrdan kam masofa qolganda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2410,
+          "textUz": "3 метр",
+          "textRu": "3 метров",
+          "textOz": "3 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2411,
+          "textUz": "5 метр",
+          "textRu": "5 метров",
+          "textOz": "5 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2412,
+          "textUz": "10 метр",
+          "textRu": "10 метров",
+          "textOz": "10 metr",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2412
+      ]
+    },
+    {
+      "id": 720,
+      "questionUz": "Бекат майдончаларидан ҳаракатланиш йуналиши бўйлаб канчадан кам масофада (етмасдан ва ўтиб кетиб) тўхташ ва тўхтаб туриш такикланади?",
+      "questionRu": "На каком расстоянии от остановки по ходу движения (не доезжая и после) запрещается остановка и стоянка?",
+      "questionOz": "Bekat maydonchalaridan harakatlanish yunalishi bo'ylab kanchadan kam masofada (etmasdan va o'tib ketib) to'xtash va to'xtab turish takiklanadi?",
+      "explanationUz": "ЙҲҚ 13-боби 91-банди 13-хатбошига асосан, тўхташ ва тўхтаб туриш тақиқланади - бекат майдончаларида, йўналишли транспорт воситалари тўхташ жойларида, жумладан, 1.17 чизиғи билан белгиланган, улар бўлмаганда эса йўналишли транспорт воситалари тўхташ жойи белгилари ва бекатдан ҳаракатланиш йўналиши бўйлаб (етмасдан ва ўтиб кетиб) 15 метрдан кам масофада (йўналишли транспорт воситалари ҳаракатига халақит бермаса йўловчиларни чиқариш ёки тушириш учун тўхташ бундан мустасно).",
+      "explanationRu": "Согласно абзацу 13 пункта 91 главы 13 ПДД, остановка  запрещается в следующих местах: на остановочных площадках, местах остановки маршрутных транспортных средств, в том числе обозначенных дорожной разметкой 1.17 и ближе 15 м от них с обеих сторон по ходу движения, при их отсутствии — от указателя места остановки маршрутных транспортных средств (кроме остановки для посадки или высадки пассажиров, если это не создаст помех движению маршрутных транспортных средств).",
+      "explanationOz": "YHQ 13-bobi 91-bandi 13-xatboshiga asosan, to'xtash va to'xtab turish taqiqlanadi - bekat maydonchalarida, yo'nalishli transport vositalari to'xtash joylarida, jumladan, 1.17 chizig'i bilan belgilangan, ular bo'lmaganda esa yo'nalishli transport vositalari to'xtash joyi belgilari va bekatdan harakatlanish yo'nalishi bo'ylab (yetmasdan va o'tib ketib) 15 metrdan kam masofada (yo'nalishli transport vositalari harakatiga xalaqit bermasa yo'lovchilarni chiqarish yoki tushirish uchun to'xtash bundan mustasno).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2413,
+          "textUz": "25 метр",
+          "textRu": "25 метр",
+          "textOz": "25 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2414,
+          "textUz": "30 метр",
+          "textRu": "30 метр",
+          "textOz": "30 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2415,
+          "textUz": "15 метр",
+          "textRu": "15 метр",
+          "textOz": "15 metr",
+          "isCorrect": true
+        },
+        {
+          "id": 2416,
+          "textUz": "20 метр",
+          "textRu": "20 метр",
+          "textOz": "20 metr",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2415
+      ]
+    },
+    {
+      "id": 721,
+      "questionUz": "Кўрсатилган қайси  жойда сиз автомобилни қоидага  биноан тўхтатишингиз  мумкин?",
+      "questionRu": "В каком из указанных мест Вы можете произвести остановку?",
+      "questionOz": "Ko'rsatilgan qaysi  joyda siz avtomobilni qoidaga  binoan to'xtatishingiz  mumkin?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 118 бандига асосан, қуйидаги ҳолларда темир йўл кесишмасига кириш тақиқланади: агар кесишмадан кейин, ҳайдовчини кесишмада тўхташга мажбур қиладиган тирбандлик пайдо бўлса.",
+      "explanationRu": "Согласно пункту 118 Правил дорожного движения, запрещается выезжать на железнодорожный переезд в следующих случаях: если за переездом образовался затор, который вынудит водителя остановиться на переезде.",
+      "explanationOz": "Yo‘l harakati qoidalarining 118 bandiga asosan, quyidagi hollarda temir yo‘l kesishmasiga kirish taqiqlanadi: agar kesishmadan keyin, haydovchini kesishmada to‘xtashga majbur qiladigan tirbandlik paydo bo‘lsa.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/39.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2417,
+          "textUz": "Фақат «А»",
+          "textRu": "Только ��А»",
+          "textOz": "Faqat «А»",
+          "isCorrect": false
+        },
+        {
+          "id": 2418,
+          "textUz": "Фақат «Б»",
+          "textRu": "Только «Б»",
+          "textOz": "Faqat «Б»",
+          "isCorrect": true
+        },
+        {
+          "id": 2419,
+          "textUz": "Фақат «Б» ва «В»",
+          "textRu": "Только «Б» и «В»",
+          "textOz": "Faqat «Б» va «В»",
+          "isCorrect": false
+        },
+        {
+          "id": 2420,
+          "textUz": "Хеч қайсисида",
+          "textRu": "Ни в каком",
+          "textOz": "Xech qaysisida",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2418
+      ]
+    },
+    {
+      "id": 722,
+      "questionUz": "Қайси автомобилнинг хайдовчиси тўхтаб туриш қоидаларини бузмади?",
+      "questionRu": "Водитель какой машины не нарушил правил парковки?",
+      "questionOz": "Qaysi avtomobilning xaydovchisi to'xtab turish qoidalarini buzmadi?",
+      "explanationUz": "ЙҲҚ 28-боби 168-банди: Велосипедчилар ва индивидуал ҳаракатланиш воситаларини бошқараётган шахсларга қуйидагилар тақиқланади:\r\nРулни ушламасдан ёки бир қўлда ушлаб ҳаракатланиш (манёврдан олдин ишоралар бериш бундан мустасно);\r\nОдам ташиш (ишончли оёқ қўйгич билан жиҳозланган велосипеддаги қўшимча ўриндиқда 7 ёшгача бўлган болани ташиш бундан мустасно);\r\nГабаритидан бўйига ва энига 0,5 метрдан ортиқ чиқиб турган ёки бошқаришга халал берадиган юкларни ташиш.",
+      "explanationRu": "Пункта 168 главы 28 ПДД, гласит: Водителям велосипеда и индивидуальные транспортные средства запрещается:\r\nездить, не держась за руль или держась за руль одной рукой (за исключением случая, когда подается предупредительный сигнал перед маневром);\r\nперевозить пассажиров (за исключением перевозки пассажиров в возрасте до 7 лет на дополнительном сиденье, оборудованном надежным подножками);\r\nперевозить груз, который выступает более чем 0,5 м по длине или ширине за габариты, или груз, мешающий управлению;",
+      "explanationOz": "YHQ 28-bobi 168-bandi: Velosipedchilar va individual harakatlanish vositalarini boshqarayotgan shaxslarga quyidagilar taqiqlanadi:\r\nRulni ushlamasdan yoki bir qo‘lda ushlab harakatlanish (manyovrdan oldin ishoralar berish bundan mustasno);\r\nOdam tashish (ishonchli oyoq qo‘ygich bilan jihozlangan velosipeddagi qo‘shimcha o‘rindiqda 7 yoshgacha bo‘lgan bolani tashish bundan mustasno);\r\nGabaritidan bo‘yiga va eniga 0,5 metrdan ortiq chiqib turgan yoki boshqarishga xalal beradigan yuklarni tashish.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2421,
+          "textUz": "Қизил",
+          "textRu": "Красный",
+          "textOz": "Qizil",
+          "isCorrect": false
+        },
+        {
+          "id": 2422,
+          "textUz": "Сарик",
+          "textRu": "Жёлтый",
+          "textOz": "Sarik",
+          "isCorrect": false
+        },
+        {
+          "id": 2423,
+          "textUz": "Хар иккиси бузган",
+          "textRu": "Оба нарушили",
+          "textOz": "Xar ikkisi buzgan",
+          "isCorrect": true
+        },
+        {
+          "id": 2424,
+          "textUz": "Хеч ким бузмади",
+          "textRu": "Никто не нарушил",
+          "textOz": "Xech kim buzmadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2423
+      ]
+    }
+  ]
+}

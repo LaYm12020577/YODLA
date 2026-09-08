@@ -1,0 +1,56 @@
+{
+  "category": "Xavfsizlik jihozlari",
+  "count": 5,
+  "fines": [
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Mototsikl haydovchisi yoki yo'lovchisi dubulg'a kiymaslik",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Bolalarni maxsus o'rindiqsiz tashish",
+      "fineBhm": "2.00",
+      "fineUzs": "824000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 1,
+      "violation": "Xavfsizlik kamarini taqmaslik",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 2,
+      "violation": "Tibbiyot qutichasi, o't o'chirgich yoki avariya belgisining yo'qligi",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 2,
+      "violation": "Texnik ko'rikdan o'tmaganlik",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

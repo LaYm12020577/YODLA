@@ -1,0 +1,26 @@
+{
+  "category": "Piyodalar",
+  "count": 2,
+  "fines": [
+    {
+      "article": 132,
+      "subArticle": null,
+      "violation": "Piyodaga yo'l bermaslik (piyodalar o'tish joyida)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 132,
+      "subArticle": null,
+      "violation": "Trotuar yoki piyodalar zonasida haydash",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

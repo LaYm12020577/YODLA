@@ -1,0 +1,774 @@
+{
+  "title": "Bilet 20",
+  "count": 20,
+  "questions": [
+    {
+      "id": 383,
+      "questionUz": "Ҳайдовчи чапга бурилишда қайси йўналиш бўйича қоидани бузмоқда?",
+      "questionRu": "По какой траектории водитель автомобиля нарушил правила при повороте налево?",
+      "questionOz": "Haydovchi chapga burilishda qaysi yo'nalish bo'yicha qoidani buzmoqda?",
+      "explanationUz": "Саволда ҳайдовчи чапга бурилишда қайси йўналиш бўйича қоидани бузаётгани сўралмоқда.\r\n\r\nБ йўналиши бўйича чапга бурилиш мумкин эмас, чунки ушбу бўлакда фақат тўғрига ҳаракатланишга рухсат берувчи йўл белгиси мавжуд.\r\n\r\nА йўналиши бўйича ҳам чапга бурилиш мумкин эмас. Чунки ҳайдовчи бурилиш учун олдиндан тегишли бўлакка ўтиши керак эди, аммо у узлуксиз йўл чизиғини босиб ўтган.\r\n\r\nШунинг учун ҳайдовчи кўрсатилган барча йўналишлар бўйича қоидани бузмоқда.\r\n\r\nДемак, тўғри жавоб — барча кўрсатилган йўналишлар бўйича қоидабузарлик содир этилмоқда.",
+      "explanationRu": "Вопрос заключается в том, по какому направлению водитель нарушает правила при повороте налево.\r\n\r\nПоворот по направлению Б запрещён, поскольку для данной полосы установлен знак, разрешающий движение только прямо.\r\n\r\nПоворот по направлению А также запрещён, так как водитель должен был заранее занять соответствующую полосу для поворота. Кроме того, он пересёк сплошную линию разметки.\r\n\r\nСледовательно, водитель нарушает правила при движении по всем указанным направлениям.\r\n\r\nПравильный ответ — нарушение допускается по всем указанным направлениям.",
+      "explanationOz": "Savolda haydovchi chapga burilishda qaysi yoʻnalish bo‘yicha qoidani buzayotgani soʻralmoqda.\r\n\r\nB yoʻnalishi bo‘yicha chapga burilish mumkin emas, chunki ushbu bo‘lakda faqat toʻgʻriga harakatlanishga ruxsat beruvchi yoʻl belgisi mavjud.\r\n\r\nA yoʻnalishi bo‘yicha ham chapga burilish mumkin emas. Chunki haydovchi burilish uchun oldindan tegishli bo‘lakka o‘tishi kerak edi, ammo u uzluksiz yoʻl chizigʻini bosib o‘tgan.\r\n\r\nShuning uchun haydovchi ko‘rsatilgan barcha yoʻnalishlar bo‘yicha qoidani buzmoqda.\r\n\r\nDemak, toʻgʻri javob — barcha ko‘rsatilgan yoʻnalishlar bo‘yicha qoidabuzarlik sodir etilmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5628,
+          "textUz": "Фақат «А» йўналиши бўйича",
+          "textRu": "Только по траектории «А»",
+          "textOz": "Faqat «А» yo'nalishi bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 5629,
+          "textUz": "Фақат «Б» йўналиши бўйича",
+          "textRu": "Только по траектории «Б»",
+          "textOz": "Faqat «Б» yo'nalishi bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 5630,
+          "textUz": "Кўрсатилган барча йўналиш бўйича",
+          "textRu": "По любой траектории из указанных",
+          "textOz": "Ko'rsatilgan barcha yo'nalish bo'yicha",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5630
+      ]
+    },
+    {
+      "id": 384,
+      "questionUz": "Ушбу йўл чизиғи сизга қандай манёвр бажаришни тақиқлайди?",
+      "questionRu": "Какой маневр Вам запрещается выполнить при наличии данной линии разметки?",
+      "questionOz": "Ushbu yo'l chizig'i sizga qanday manyovr bajarishni taqiqlaydi?",
+      "explanationUz": "Саволда ушбу йўл чизиғи қайси манёврларни тақиқлаши сўралмоқда.\r\n\r\nУшбу йўл чизиғи қувиб ўтиш, айланиб ўтиш, қайрилиб олиш ёки бошқа манёврларни тақиқламайди. Йўл чизиғи ҳайдовчи учун мазкур манёврларни бажаришга ҳеч қандай чеклов ўрнатмайди.\r\n\r\nДемак, санаб ўтилган барча манёврларни бажаришга рухсат этилади.\r\n\r\nТўғри жавоб — ҳеч бир манёвр тақиқланмайди.",
+      "explanationRu": "Вопрос заключается в том, какие манёвры запрещает данная дорожная разметка.\r\n\r\nЭта разметка не запрещает обгон, объезд, разворот или другие перечисленные манёвры. Она не устанавливает для водителя ограничений на выполнение данных действий.\r\n\r\nСледовательно, выполнение всех перечисленных манёвров разрешается.\r\n\r\nПравильный ответ — ни один из перечисленных манёвров не запрещён.",
+      "explanationOz": "Savolda ushbu yoʻl chizigʻi qaysi manyovrlarni taqiqlashi soʻralmoqda.\r\n\r\nUshbu yoʻl chizigʻi quvib oʻtish, aylanib oʻtish, qayrilib olish yoki boshqa manyovrlarni taqiqlamaydi. Yoʻl chizigʻi haydovchi uchun mazkur manyovrlarni bajarishga hech qanday cheklov oʻrnatmaydi.\r\n\r\nDemak, sanab oʻtilgan barcha manyovrlarni bajarishga ruxsat etiladi.\r\n\r\nToʻgʻri javob — hech bir manyovr taqiqlanmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5631,
+          "textUz": "Қувиб ўтишни",
+          "textRu": "Обгон",
+          "textOz": "Quvib o'tishni",
+          "isCorrect": false
+        },
+        {
+          "id": 5632,
+          "textUz": "Айланиб ўтишни",
+          "textRu": "Объезд",
+          "textOz": "Aylanib o'tishni",
+          "isCorrect": false
+        },
+        {
+          "id": 5633,
+          "textUz": "Қайралиб олишни",
+          "textRu": "Разворот",
+          "textOz": "Qayralib olishni",
+          "isCorrect": false
+        },
+        {
+          "id": 5634,
+          "textUz": "Санаб ўтилган барча маневрларга рухсат берилади",
+          "textRu": "Разрешает все перечисленные маневры",
+          "textOz": "Sanab o'tilgan barcha manevrlarga ruxsat beriladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5634
+      ]
+    },
+    {
+      "id": 385,
+      "questionUz": "Чорраҳадаги узуқ-узуқ чизиқлар нимани билдиради?",
+      "questionRu": "Что обозначают прерывистые линии разметки на перекрестке?",
+      "questionOz": "Chorrahadagi uzuq-uzuq chiziqlar nimani bildiradi?",
+      "explanationUz": "Чорраҳадаги узуқ-узуқ йўл чизиқлари ҳаракатланиш бўлакларининг чегараларини билдиради. Улар транспорт воситаларига чорраҳадан ўтишда ўз ҳаракатланиш бўлагини сақлаб қолишга ёрдам беради.\r\n\r\nДемак, тўғри жавоб — чорраҳада ҳаракатланиш бўлакларининг чегараларини билдиради.",
+      "explanationRu": "Прерывистые линии разметки на перекрёстке обозначают границы полос движения. Они помогают водителям сохранять свою полосу при проезде перекрёстка.\r\n\r\nСледовательно, правильный ответ — обозначают границы полос движения на перекрёстке.",
+      "explanationOz": "Chorrahadagi uzuq-uzuq yoʻl chiziqlari harakatlanish bo‘laklarining chegaralarini bildiradi. Ular transport vositalariga chorrahadan o‘tishda o‘z harakatlanish bo‘lagini saqlab qolishga yordam beradi.\r\n\r\nDemak, toʻgʻri javob — chorrahada harakatlanish bo‘laklarining chegaralarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/38.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5635,
+          "textUz": "Мажбурий ҳаракатни",
+          "textRu": "Обязательное направлениедвижения на перекрестке",
+          "textOz": "Majburiy harakatni",
+          "isCorrect": false
+        },
+        {
+          "id": 5636,
+          "textUz": "Чорраҳада ҳаракатланиш\u000bбўлагини чегарасини",
+          "textRu": "Границы полос движения в пределах перекрестка",
+          "textOz": "Chorrahada harakatlanish\u000bbo'lagini chegarasini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5636
+      ]
+    },
+    {
+      "id": 386,
+      "questionUz": "Ушбу ҳолатда  Сиз бажаришингиз лозим:",
+      "questionRu": "В данной ситуации Вы должны:",
+      "questionOz": "Ushbu holatda  Siz bajarishingiz lozim:",
+      "explanationUz": "Ушбу ҳолатда ҳайдовчи тўхташ чизиғи олдида тўхташи керак. Ҳозирги вазиятда ҳайдовчи тўхташ чизиғига етиб бормасдан олдинроқ тўхтаб қолган.\r\n\r\nБундай ҳаракат тўғри ҳисобланмайди. Агар тўхташ талаб этилса, транспорт воситаси айнан тўхташ чизиғи олдида тўхташи керак.\r\n\r\nДемак, тўғри жавоб — тўхташ чизиғи олдида тўхташ керак.",
+      "explanationRu": "В данной ситуации водитель должен остановиться перед стоп-линией. Как видно на рисунке, водитель остановился раньше, не доехав до стоп-линии.\r\n\r\nТакая остановка считается неправильной. Если требуется остановка, транспортное средство должно остановиться непосредственно перед стоп-линией.\r\n\r\nСледовательно, правильный ответ — необходимо остановиться перед стоп-линией.",
+      "explanationOz": "Ushbu holatda haydovchi toʻxtash chizigʻi oldida toʻxtashi kerak. Hozirgi vaziyatda haydovchi toʻxtash chizigʻiga yetib bormasdan oldinroq toʻxtab qolgan.\r\n\r\nBunday harakat toʻgʻri hisoblanmaydi. Agar toʻxtash talab etilsa, transport vositasi aynan toʻxtash chizigʻi oldida toʻxtashi kerak.\r\n\r\nDemak, toʻgʻri javob — toʻxtash chizigʻi oldida toʻxtash kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/40.5[1].webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5637,
+          "textUz": "Белги олдида  тўхташ",
+          "textRu": "Остановиться у знака",
+          "textOz": "Belgi oldida  to'xtash",
+          "isCorrect": false
+        },
+        {
+          "id": 5638,
+          "textUz": "Тўхташ чизиғи  олдида  тўхташ",
+          "textRu": "Остановиться у стоп-линии",
+          "textOz": "To'xtash chizig'i  oldida  to'xtash",
+          "isCorrect": true
+        },
+        {
+          "id": 5639,
+          "textUz": "Бошқа транспорт  \u000bвоситалари бўлмаса, \u000bчорраҳадан тўхтамасдан  \u000bўтиб кетиш",
+          "textRu": "При отсутствии других транспортных средств проехать перекресток без остановки",
+          "textOz": "Boshqa transport  \u000bvositalari bo'lmasa, \u000bchorrahadan to'xtamasdan  \u000bo'tib ketish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5638
+      ]
+    },
+    {
+      "id": 387,
+      "questionUz": "Ушбу ётиқ чизиқ нимани билдиради?",
+      "questionRu": "Что означает эта горизонтальная линия?",
+      "questionOz": "Ushbu yotiq chiziq nimani bildiradi?",
+      "explanationUz": "Ушбу ётиқ йўл чизиғи сунъий йўл нотекислигини билдиради. У ҳайдовчини олдинда тезликни пасайтириш учун қурилган сунъий нотекислик мавжудлиги ҳақида огоҳлантиради.",
+      "explanationRu": "Данная горизонтальная дорожная разметка обозначает искусственную неровность дороги. Она предупреждает водителя о наличии впереди искусственной неровности, предназначенной для снижения скорости движения.",
+      "explanationOz": "Ushbu yotiq yoʻl chizigʻi sunʼiy yoʻl notekisligini bildiradi. U haydovchini oldinda tezlikni pasaytirish uchun qurilgan sunʼiy notekislik mavjudligi haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.3.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5640,
+          "textUz": "Велосипед йўлкасини",
+          "textRu": "Велосипедная дорожка",
+          "textOz": "Velosiped yo'lkasini",
+          "isCorrect": false
+        },
+        {
+          "id": 5641,
+          "textUz": "Сунъий йўл нотекслигини",
+          "textRu": "Искусственная неровность дороги",
+          "textOz": "Suniy yo'l noteksligini",
+          "isCorrect": true
+        },
+        {
+          "id": 5642,
+          "textUz": "Йўналишли таксилар тўхтайдиган жойни",
+          "textRu": "Место, где останавливаются такси",
+          "textOz": "Yo'nalishli taksilar to'xtaydigan joyni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5641
+      ]
+    },
+    {
+      "id": 388,
+      "questionUz": "Ҳаракатланиш бўлагидаги учбурчак шаклидаги чизиқ:",
+      "questionRu": "Разметка в виде треугольника на полосе движения:\r\n",
+      "questionOz": "Harakatlanish bo'lagidagi uchburchak shaklidagi chiziq:",
+      "explanationUz": "Ушбу йўл чизиғи ҳайдовчини йўл бериш керак бўлган жойга яқинлашаётганлиги ҳақид�� огоҳлантиради. У одатда \"Йўл беринг\" йўл белгиси ва йўл бериш чизиғи билан боғлиқ ҳолда қўлланилади.\r\n\r\nМазкур чизиқ ҳайдовчига олдинда бошқа транспорт воситаларига йўл бериш зарур бўлган жой мавжудлигини билдиради.\r\n\r\nДемак, тўғри жавоб — Ф2.",
+      "explanationRu": "Данная дорожная разметка предупреждает водителя о приближении к месту, где необходимо уступить дорогу. Обычно она применяется вместе со знаком «Уступите дорогу» и соответствующей линией разметки.\r\n\r\nЭта разметка информирует водителя о том, что впереди находится участок, где он обязан уступить дорогу другим транспортным средствам.\r\n\r\nСледовательно, правильный ответ — Ф2.",
+      "explanationOz": "Ushbu yoʻl chizigʻi haydovchini yoʻl berish kerak boʻlgan joyga yaqinlashayotganligi haqida ogohlantiradi. U odatda \"Yoʻl bering\" yoʻl belgisi va yoʻl berish chizigʻi bilan bogʻliq holda qoʻllaniladi.\r\n\r\nMazkur chiziq haydovchiga oldinda boshqa transport vositalariga yoʻl berish zarur boʻlgan joy mavjudligini bildiradi.\r\n\r\nDemak, toʻgʻri javob — F2.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/49.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5643,
+          "textUz": "Йўлнинг хавфли қисмини билдиради",
+          "textRu": "Обозначает опасный участок дороги",
+          "textOz": "Yo'lning xavfli qismini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 5644,
+          "textUz": "Йўл беришингиз керак бўлган жой яқинлашаётганлиги ҳақида огоҳлантиради",
+          "textRu": "Предупреждает Вас о приближении к месту, где нужно уступить дорогу",
+          "textOz": "Yo'l berishingiz kerak bo'lgan joy yaqinlashayotganligi haqida ogohlantiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 5645,
+          "textUz": "Тўхташингиз зарур бўлган жойни билдиради",
+          "textRu": "Указывает место, где Вам необходимо остановиться",
+          "textOz": "To'xtashingiz zarur bo'lgan joyni bildiradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5644
+      ]
+    },
+    {
+      "id": 389,
+      "questionUz": "Ушбу “50” ёзувли йўл чизиғи нимани билдиради?",
+      "questionRu": "Что обозначает эта разметка с надписью “50”?",
+      "questionOz": "Ushbu “50” yozuvli yo'l chizig'i nimani bildiradi?",
+      "explanationUz": "Ушбу \"50\" ёзувли йўл чизиғи йўлнинг мазкур қисмида рухсат этилган энг юқори тезлик 50 км/соат эканлигини билдиради. Бу йўл чизиғи тезликни чекловчи тақиқловчи йўл белгисининг маъносини такрорлайди ва ҳайдовчига тезлик чекловини эслатиб туради.\r\n\r\nДемак, ушбу йўл чизиғи рухсат этилган энг юқори тезликни билдирувчи ва тегишли тақиқловчи белгини такрорловчи йўл чизиғи ҳисобланади.",
+      "explanationRu": "Данная дорожная разметка с числом «50» указывает, что максимально разрешённая скорость на данном участке дороги составляет 50 км/ч. Она дублирует значение запрещающего дорожного знака, ограничивающего скорость, и напоминает водителю о действующем ограничении.\r\n\r\nСледовательно, эта разметка обозначает максимально разрешённую скорость и повторяет требования соответствующего дорожного знака.",
+      "explanationOz": "Ushbu \"50\" yozuvli yoʻl chizigʻi yoʻlning mazkur qismida ruxsat etilgan eng yuqori tezlik 50 km/soat ekanligini bildiradi. Bu yoʻl chizigʻi tezlikni cheklovchi taqiqlovchi yoʻl belgisining maʼnosini takrorlaydi va haydovchiga tezlik cheklovini eslatib turadi.\r\n\r\nDemak, ushbu yoʻl chizigʻi ruxsat etilgan eng yuqori tezlikni bildiruvchi va tegishli taqiqlovchi belgini takrorlovchi yoʻl chizigʻi hisoblanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/50.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5646,
+          "textUz": "Йўлнинг ушбу қисмида рухсат берилган энг юқори тезликни",
+          "textRu": "Разрешенную максимальную скорость на данном участке дороги",
+          "textOz": "Yo'lning ushbu qismida ruxsat berilgan eng yuqori tezlikni",
+          "isCorrect": true
+        },
+        {
+          "id": 5647,
+          "textUz": "Йўл ёки маршрут рақамини",
+          "textRu": "Номер дороги или маршрута",
+          "textOz": "Yo'l yoki marshrut raqamini",
+          "isCorrect": false
+        },
+        {
+          "id": 5648,
+          "textUz": "Йўлнинг ушбу қисмида тавсия берилган тезликни",
+          "textRu": "Рекомендуемую скорость движения на данном участке дороги",
+          "textOz": "Yo'lning ushbu qismida tavsiya berilgan tezlikni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5646
+      ]
+    },
+    {
+      "id": 390,
+      "questionUz": "Оқ-қизил (1.14.4 зебра) йўл чизиғи қандайжойларда пиёдалар ўтиш жойини белгилаш учунчизилади?",
+      "questionRu": "В каких местах наносится дорожная разметкабело-красного цвета (зебра 1.14.4) для обозначения места пешеходного перехода?",
+      "questionOz": "Oq-qizil (1.14.4 zebra) yo'l chizig'i qandayjoylarda piyodalar o'tish joyini belgilash uchunchiziladi?",
+      "explanationUz": "Ушбу оқ-қизил зебра кўринишидаги йўл чизиғи мактаблар ва мактабгача таълим муассасалари олдида қўлланилиши учун мўлжалланган.\r\n\r\nЙўл ҳаракати қоидаларига киритилган ўзгаришларда ушбу чизиқ болалар муассасалари яқинидаги пиёдалар ўтиш жойларини янада яққол кўрсатиш мақсадида назарда тутилган эди. Амалиётда эса ҳозир кўпроқ баланд пиёдалар ўтиш жойлари (кўтарилган пиёдалар ўтиш жойлари) қўлланилмоқда.\r\n\r\nБироқ тест саволларида ушбу йўл чизиғининг маъноси сифатида мактаб ва мактабгача таълим муассасалари олдида қўлланилиши кўрсатилади.\r\n\r\nДемак, тўғри жавоб — мактаб ва мактабгача таълим муассасалари олдида.",
+      "explanationRu": "Данная бело-красная разметка типа «зебра» предназначена для использования возле школ и дошкольных образовательных учреждений.\r\n\r\nПри внесении изменений в правила дорожного движения предполагалось применять такую разметку для более заметного обозначения пешеходных переходов рядом с детскими учреждениями. На практике сейчас чаще используются приподнятые пешеходные переходы.\r\n\r\nОднако в экзаменационных вопросах правильным считается ответ, что данная разметка применяется возле школ и дошкольных образовательных учреждений.\r\n\r\nСледовательно, правильный ответ — возле школ и дошкольных образовательных учреждений.",
+      "explanationOz": "Ushbu oq-qizil zebra ko‘rinishidagi yoʻl chizigʻi maktablar va maktabgacha taʼlim muassasalari oldida qoʻllanilishi uchun moʻljallangan.\r\n\r\nYoʻl harakati qoidalariga kiritilgan oʻzgarishlarda ushbu chiziq bolalar muassasalari yaqinidagi piyodalar oʻtish joylarini yanada yaqqol koʻrsatish maqsadida nazarda tutilgan edi. Amaliyotda esa hozir ko‘proq baland piyodalar oʻtish joylari (koʻtarilgan piyodalar oʻtish joylari) qoʻllanilmoqda.\r\n\r\nBiroq test savollarida ushbu yoʻl chizigʻining maʼnosi sifatida maktab va maktabgacha taʼlim muassasalari oldida qoʻllanilishi ko‘rsatiladi.\r\n\r\nDemak, toʻgʻri javob — maktab va maktabgacha taʼlim muassasalari oldida.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/51.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5649,
+          "textUz": "Пиёдалар гавжум бўлган жойларда",
+          "textRu": "В местах скопления пешеходов",
+          "textOz": "Piyodalar gavjum bo'lgan joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 5650,
+          "textUz": "Савдо, маданий-маиший хизматкўрсатиш бинолари олдида",
+          "textRu": "Перед зданиями коммерческого,культурного и бытового обслуживания",
+          "textOz": "Savdo, madaniy-maishiy xizmatko'rsatish binolari oldida",
+          "isCorrect": false
+        },
+        {
+          "id": 5651,
+          "textUz": "Мактаб ва мактабгача таълиммуассасалари олдида",
+          "textRu": "Перед школами и дошкольнымиобразовательными",
+          "textOz": "Maktab va maktabgacha talimmuassasalari oldida",
+          "isCorrect": true
+        },
+        {
+          "id": 5652,
+          "textUz": "Барча жавоблар тўғри",
+          "textRu": "Все ответы верны",
+          "textOz": "Barcha javoblar to'g'ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5651
+      ]
+    },
+    {
+      "id": 391,
+      "questionUz": "Бу ётиқ чизиқ билдиради:",
+      "questionRu": "Эта дорожная разметка обозначает:",
+      "questionOz": "Bu yotiq chiziq bildiradi:",
+      "explanationUz": "Ушбу ётиқ йўл чизиғи одатда чорраҳалар олдида чизилади ва ҳайдовчиларга ҳар бир ҳаракатланиш тасмасидан қайси йўналишларга ҳаракатланиш мумкинлигини кўрсатади.\r\n\r\nДемак, ушбу йўл чизиғи чорраҳада тасмалар бўйича рухсат этилган ҳаракатланиш йўналишларини билдиради.\r\n\r\nТўғри жавоб — чорраҳада тасмалар бўйича рухсат этилган ҳаракатланиш йўналишини кўрсатади.",
+      "explanationRu": "Данная горизонтальная дорожная разметка обычно наносится перед перекрёстками и показывает водителям, в каких направлениях разрешено движение с каждой полосы.\r\n\r\nСледовательно, эта разметка обозначает разрешённые направления движения по полосам на перекрёстке.\r\n\r\nПравильный ответ — показывает разрешённые направления движения по полосам на перекрёстке.",
+      "explanationOz": "Ushbu yotiq yoʻl chizigʻi odatda chorrahalar oldida chiziladi va haydovchilarga har bir harakatlanish tasmasidan qaysi yoʻnalishlarga harakatlanish mumkinligini koʻrsatadi.\r\n\r\nDemak, ushbu yoʻl chizigʻi chorrahada tasmalar boʻyicha ruxsat etilgan harakatlanish yoʻnalishlarini bildiradi.\r\n\r\nToʻgʻri javob — chorrahada tasmalar boʻyicha ruxsat etilgan harakatlanish yoʻnalishini koʻrsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/51.19.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5653,
+          "textUz": "Кўрсатилган йўналишларида харакакатланишни тақиқланади",
+          "textRu": "Запрещается движение в указанных направлениях",
+          "textOz": "Ko'rsatilgan yo'nalishlarida xarakakatlanishni taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5654,
+          "textUz": "Чорахаларда тасмалар бўйича рухсат этилган харакат йўналишларни кўрсатади",
+          "textRu": "Указывает разрешение на перекрестке направления движения по полосам",
+          "textOz": "Choraxalarda tasmalar bo'yicha ruxsat etilgan xarakat yo'nalishlarni ko'rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5655,
+          "textUz": "Харакат барча йўналишларда рухсат этилган йўлларнинг Кесишмасига яқинлашганликни",
+          "textRu": "Приближение к пересечению дорог на котором движение разрешается во всех направлениях",
+          "textOz": "Xarakat barcha yo'nalishlarda ruxsat etilgan yo'llarning Kesishmasiga yaqinlashganlikni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5654
+      ]
+    },
+    {
+      "id": 392,
+      "questionUz": "Чорраҳадан қайси йўналишда ҳаракатланишингизга рухсат берилган?",
+      "questionRu": "В каком направлении вам разрешено проезжать перекресток?",
+      "questionOz": "Chorrahadan qaysi yo‘nalishda harakatlanishingizga ruxsat berilgan?",
+      "explanationUz": "Саволда чорраҳадан қайси йўналиш бўйича ҳаракатланишга рухсат этилгани сўралмоқда.\r\n\r\nУшбу вазиятда йўл чизиғи ва йўл белгиси бир-бирига зид келмоқда. Бундай ҳолларда ҳайдовчи йўл белгисининг талабларига амал қилиши керак.\r\n\r\nЙўл белгиси фақат тўғрига ҳаракатланишга рухсат бераётганлиги сабабли, бошқа йўналишларга ҳаракатланиш мумкин эмас.\r\n\r\nДемак, тўғри жавоб — фақат тўғрига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Вопрос заключается в том, в каком направлении разрешено движение через перекрёсток.\r\n\r\nВ данной ситуации дорожная разметка и дорожный знак противоречат друг другу. В таких случаях водитель обязан руководствоваться требованиями дорожного знака.\r\n\r\nПоскольку знак разрешает движение только прямо, движение в других направлениях не допускается.\r\n\r\nСледовательно, правильный ответ — разрешено движение только прямо.",
+      "explanationOz": "Savolda chorrahadan qaysi yoʻnalish boʻyicha harakatlanishga ruxsat etilgani soʻralmoqda.\r\n\r\nUshbu vaziyatda yoʻl chizigʻi va yoʻl belgisi bir-biriga zid kelmoqda. Bunday hollarda haydovchi yoʻl belgisining talablariga amal qilishi kerak.\r\n\r\nYoʻl belgisi faqat toʻgʻriga harakatlanishga ruxsat berayotganligi sababli, boshqa yoʻnalishlarga harakatlanish mumkin emas.\r\n\r\nDemak, toʻgʻri javob — faqat toʻgʻriga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5656,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": true
+        },
+        {
+          "id": 5657,
+          "textUz": "Тўғрига ва ўнгга",
+          "textRu": "Прямо и направо",
+          "textOz": "To‘g‘riga va o‘ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5658,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o‘ngga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5656
+      ]
+    },
+    {
+      "id": 393,
+      "questionUz": "Қайси йўл чизиғи мактаблар олдидаги пиёдалар ўтиш жойларида қўлланилади?",
+      "questionRu": "Какие из этих линий используются для пешеходных переходов перед школами?",
+      "questionOz": "Qaysi yo'l chizig'i maktablar oldidagi piyodalar o'tish joylarida qo'llaniladi?",
+      "explanationUz": "Мактаб ва мактабгача таълим муассасалари олдидаги пиёдалар ўтиш жойи учинчи йўл чизиғи, яъни оқ-қизил зебра кўринишидаги йўл чизиғи билан белгиланади.\r\n\r\nДемак, тўғри жавоб — учинчи йўл чизиғи, оқ-қизил зебрасимон пиёдалар ўтиш жойи.",
+      "explanationRu": "Пешеходный переход возле школ и дошкольных образовательных учреждений обозначается третьим видом разметки — бело-красной разметкой типа «зебра».\r\n\r\nСледовательно, правильный ответ — третья разметка, бело-красный пешеходный переход.",
+      "explanationOz": "Maktab va maktabgacha taʼlim muassasalari oldidagi piyodalar oʻtish joyi uchinchi yoʻl chizigʻi, yaʼni oq-qizil zebra ko‘rinishidagi yoʻl chizigʻi bilan belgilanadi.\r\n\r\nDemak, toʻgʻri javob — uchinchi yoʻl chizigʻi, oq-qizil zebrasimon piyodalar oʻtish joyi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5659,
+          "textUz": "1-чизиқ",
+          "textRu": "Линия 1",
+          "textOz": "1-chiziq",
+          "isCorrect": false
+        },
+        {
+          "id": 5660,
+          "textUz": "2-чизиқ",
+          "textRu": "Линия 2",
+          "textOz": "2-chiziq",
+          "isCorrect": false
+        },
+        {
+          "id": 5661,
+          "textUz": "3-чизиқ",
+          "textRu": "Линия 3",
+          "textOz": "3-chiziq",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5661
+      ]
+    },
+    {
+      "id": 394,
+      "questionUz": "Ҳайдовчи қайси расмда қоидани бузмай тўхтаган?",
+      "questionRu": "На каком снимке водитель остановился без нарушения правил?",
+      "questionOz": "Haydovchi qaysi rasmda qoidani buzmay to'xtagan?",
+      "explanationUz": "Саволда ҳайдовчи қайси расмда қоидани бузмасдан тўхтагани сўралмоқда.\r\n\r\nБиринчи расмда ҳайдовчи тўхташ чизиғи олдида тўхтаган. Бу қоидаларга тўлиқ мос келади.\r\n\r\nИккинчи расмда эса тўхташ чизиғи мавжуд эмас. Бундай ҳолатда ҳайдовчи кесишаётган қатнов қисмини кўриш ва бошқа транспорт воситаларига йўл бериш учун зарур жойда тўхташи мумкин.\r\n\r\nШунинг учун ҳар иккала ҳолатда ҳам ҳайдовчи қоидани бузмаган ҳисобланади.\r\n\r\nДемак, тўғри жавоб — иккала расмда ҳам қоидабузарлик йўқ.",
+      "explanationRu": "Вопрос заключается в том, на каком рисунке водитель остановился без нарушения правил.\r\n\r\nНа первом рисунке водитель остановился перед стоп-линией, что полностью соответствует требованиям правил.\r\n\r\nНа втором рисунке стоп-линия отсутствует. В такой ситуации водитель имеет право остановиться в месте, откуда обеспечивается видимость пересекаемой дороги и возможность уступить дорогу другим участникам движения.\r\n\r\nСледовательно, в обоих случаях водитель действовал правильно и не нарушил правила.\r\n\r\nПравильный ответ — на обоих рисунках нарушение отсутствует.",
+      "explanationOz": "Savolda haydovchi qaysi rasmda qoidani buzmasdan toʻxtagani soʻralmoqda.\r\n\r\nBirinchi rasmda haydovchi toʻxtash chizigʻi oldida toʻxtagan. Bu qoidalarga toʻliq mos keladi.\r\n\r\nIkkinchi rasmda esa toʻxtash chizigʻi mavjud emas. Bunday holatda haydovchi kesishayotgan qatnov qismini ko‘rish va boshqa transport vositalariga yoʻl berish uchun zarur joyda toʻxtashi mumkin.\r\n\r\nShuning uchun har ikkala holatda ham haydovchi qoidani buzmagan hisoblanadi.\r\n\r\nDemak, toʻgʻri javob — ikkala rasmda ham qoidabuzarlik yoʻq.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5662,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На рисунке слева",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 5663,
+          "textUz": "Ўнгдаги расмда",
+          "textRu": "На рисунке справа",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 5664,
+          "textUz": "Ҳар иккила расмда",
+          "textRu": "На обоих изображениях",
+          "textOz": "Har ikkila rasmda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5664
+      ]
+    },
+    {
+      "id": 395,
+      "questionUz": "Қайси хайдовчи тўхташ қоидасини бузди?",
+      "questionRu": "Какой водитель нарушил правило остановки?",
+      "questionOz": "Qaysi xaydovchi to'xtash qoidasini buzdi?",
+      "explanationUz": "Саволда ҳайдовчи қайси расмда қоидани бузганлиги сўралмоқда.\r\n\r\nБиринчи расмда ҳайдовчи тўхташ чизиғига етиб бормасдан олдин тўхтаган. Тўхташ талаб этилган ҳолатда транспорт воситаси айнан тўхташ чизиғи олдида тўхташи керак. Шунинг учун бу ҳолат қоидабузарлик ҳисобланади.\r\n\r\nИккинчи расмда эса ҳайдовчи тўхташ чизиғидан ўтиб кетган. Бу ҳам қоидабузарлик ҳисобланади.\r\n\r\nДемак, ҳар иккала расмда ҳам ҳайдовчи қоидани бузган.\r\n\r\nТўғри жавоб — иккала расмда ҳам қоидабузарлик мавжуд.",
+      "explanationRu": "Вопрос заключается в том, на каком рисунке водитель нарушил правила.\r\n\r\nНа первом рисунке водитель остановился, не доехав до стоп-линии. В ситуации, когда требуется остановка, транспортное средство должно остановиться непосредственно перед стоп-линией. Поэтому это считается нарушением.\r\n\r\nНа втором рисунке водитель проехал стоп-линию и остановился за ней. Это также является нарушением правил.\r\n\r\nСледовательно, на обоих рисунках водитель нарушил правила.\r\n\r\nПравильный ответ — нарушение имеется на обоих рисунках.",
+      "explanationOz": "Savolda haydovchi qaysi rasmda qoidani buzganligi soʻralmoqda.\r\n\r\nBirinchi rasmda haydovchi toʻxtash chizigʻiga yetib bormasdan oldin toʻxtagan. Toʻxtash talab etilgan holatda transport vositasi aynan toʻxtash chizigʻi oldida toʻxtashi kerak. Shuning uchun bu holat qoidabuzarlik hisoblanadi.\r\n\r\nIkkinchi rasmda esa haydovchi toʻxtash chizigʻidan oʻtib ketgan. Bu ham qoidabuzarlik hisoblanadi.\r\n\r\nDemak, har ikkala rasmda ham haydovchi qoidani buzgan.\r\n\r\nToʻgʻri javob — ikkala rasmda ham qoidabuzarlik mavjud.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5665,
+          "textUz": "Енгил автомобил",
+          "textRu": "Легковой автомобиль",
+          "textOz": "Engil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 5666,
+          "textUz": "Юк автомобил",
+          "textRu": "Грузовой автомобиль",
+          "textOz": "Yuk avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 5667,
+          "textUz": "Иккиси ҳам бузмади",
+          "textRu": "Оба не сломались",
+          "textOz": "Ikkisi ham buzmadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5668,
+          "textUz": "Иккиси ҳам бузди",
+          "textRu": "Оба сломались",
+          "textOz": "Ikkisi ham buzdi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5668
+      ]
+    },
+    {
+      "id": 396,
+      "questionUz": "Қайси ётик йўл чизиғи автомобил йулларида 3D куринишидаги пиёдалар утиш жойини билдиради?",
+      "questionRu": "Какая горизонтальная разметка обозначает пешеходный переход в «3D» виде?",
+      "questionOz": "Qaysi yotiq yo'l chizig'i avtomobil yo'llarida 3D kurinishidagi piyodalar utish joyini bildiradi?",
+      "explanationUz": "Саволда автомобиль йўлларида 3D кўринишдаги пиёдалар ўтиш жойини билдирувчи йўл ётиқ чизиғи сўралмоқда.\r\n\r\nАгар саволда айнан \"3D кўринишдаги пиёдалар ўтиш жойи\" дейилган бўлса, тўғри жавоб — В варианти бўлади. Чунки ушбу йўл чизиғи ҳажмли, яъни 3D кўриниш ҳосил қиладиган тарзда тасвирланган.\r\n\r\nАгар саволда \"баланд пиёдалар ўтиш жойи\" ҳақида гап кетганида, жавоб бошқа вариант бўлиши мумкин эди. Лекин бу ерда асосий калит сўз — \"3D\".\r\n\r\nДемак, тўғри жавоб — В.",
+      "explanationRu": "Вопрос заключается в том, какая дорожная разметка обозначает пешеходный переход с 3D-эффектом.\r\n\r\nЕсли в вопросе указано именно «3D-пешеходный переход», правильным ответом будет вариант В. Эта разметка выполнена таким образом, что создаёт визуальный объёмный эффект.\r\n\r\nЕсли бы речь шла о приподнятом пешеходном переходе, правильным мог бы быть другой вариант. Однако здесь ключевым словом является «3D».\r\n\r\nСледовательно, правильный ответ — вариант В.",
+      "explanationOz": "Savolda avtomobil yoʻllarida 3D koʻrinishdagi piyodalar oʻtish joyini bildiruvchi yoʻl yotiq chizigʻi soʻralmoqda.\r\n\r\nAgar savolda aynan \"3D koʻrinishdagi piyodalar oʻtish joyi\" deyilgan boʻlsa, toʻgʻri javob — V varianti bo‘ladi. Chunki ushbu yoʻl chizigʻi hajmli, yaʼni 3D ko‘rinish hosil qiladigan tarzda tasvirlangan.\r\n\r\nAgar savolda \"baland piyodalar oʻtish joyi\" haqida gap ketganida, javob boshqa variant bo‘lishi mumkin edi. Lekin bu yerda asosiy kalit soʻz — \"3D\".\r\n\r\nDemak, toʻgʻri javob — V.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5669,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": false
+        },
+        {
+          "id": 5670,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 5671,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5671
+      ]
+    },
+    {
+      "id": 397,
+      "questionUz": "Қайси ётиқ йўл чизиғи автомобиль йўлларида 3Д кўринишидаги баланд пиёдалар ўтиш жойини билдиради?",
+      "questionRu": "Какая горизонтальная разметка обозначает «D»-приподнятый пешеходный переход?",
+      "questionOz": "Qaysi yotiq yo'l chizig'i avtomobil yo'llarida 3D ko'rinishidagi baland piyodalar o'tish joyini bildiradi?",
+      "explanationUz": "Бу саволда \"3D кўринишдаги баланд пиёдалар ўтиш жойи\" ҳақида сўралмоқда.\r\n\r\nЭътибор беринг, бу ерда иккита калит сўз мавжуд: \"3D\" ва \"баланд\". Агар фақат 3D кўринишдаги пиёдалар ўтиш жойи дейилганида, жавоб В варианти бўлиши мумкин эди. Лекин саволда \"баланд\" сўзи ҳам қатнашганлиги сабабли, тўғри жавоб — Б варианти бўлади.\r\n\r\nДемак, тўғри жавоб — Б.",
+      "explanationRu": "В данном вопросе речь идёт о «3D-приподнятом пешеходном переходе».\r\n\r\nОбратите внимание, что здесь присутствуют два ключевых слова: «3D» и «приподнятый». Если бы речь шла только о 3D-пешеходном переходе, правильным мог бы быть вариант В. Однако в вопросе также указано, что переход является приподнятым.\r\n\r\nПоэтому правильный ответ — вариант Б.",
+      "explanationOz": "Bu savolda \"3D ko‘rinishdagi baland piyodalar o‘tish joyi\" haqida so‘ralmoqda.\r\n\r\nE’tibor bering, bu yerda ikkita kalit so‘z mavjud: \"3D\" va \"baland\". Agar faqat 3D ko‘rinishdagi piyodalar o‘tish joyi deyilganida, javob V varianti bo‘lishi mumkin edi. Lekin savolda \"baland\" so‘zi ham qatnashganligi sababli, to‘g‘ri javob — B varianti bo‘ladi.\r\n\r\nDemak, to‘g‘ri javob — B.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6741,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": false
+        },
+        {
+          "id": 6742,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": true
+        },
+        {
+          "id": 6743,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6742
+      ]
+    },
+    {
+      "id": 398,
+      "questionUz": "Қайси ётиқ юл чизиғи баланд пиёдалар ўтиш жойини билдиради?",
+      "questionRu": "Какая горизонтальная разметка обозначает приподнятый пешеходный переход?",
+      "questionOz": "Qaysi yotiq yul chizig‘i baland piyodalar o‘tish joyini bildiradi?",
+      "explanationUz": "Саволда қайси йўл ётиқ чизиғи баланд пиёдалар ўтиш жойини билдириши сўралмоқда.\r\n\r\nБу ерда \"3D\" сўзи қатнашмаган. Савол фақат баланд пиёдалар ўтиш жойи ҳақида кетаётганлиги сабабли, тўғри жавоб — А варианти бўлади.\r\n\r\nДемак, А йўл чизиғи баланд пиёдалар ўтиш жойини билдиради.",
+      "explanationRu": "Вопрос заключается в том, какая дорожная разметка обозначает приподнятый пешеходный переход.\r\n\r\nСлово «3D» в вопросе отсутствует. Поскольку речь идёт только о приподнятом пешеходном переходе, правильным ответом является вариант А.\r\n\r\nСледовательно, разметка А обозначает п��иподнятый пешеходный переход.",
+      "explanationOz": "Savolda qaysi yoʻl yotiq chizigʻi baland piyodalar oʻtish joyini bildirishi soʻralmoqda.\r\n\r\nBu yerda \"3D\" soʻzi qatnashmagan. Savol faqat baland piyodalar oʻtish joyi haqida ketayotganligi sababli, toʻgʻri javob — A varianti bo‘ladi.\r\n\r\nDemak, A yoʻl chizigʻi baland piyodalar oʻtish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.7.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5675,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": true
+        },
+        {
+          "id": 5676,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 5677,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5675
+      ]
+    },
+    {
+      "id": 399,
+      "questionUz": "Ушбу ётик йул чизиги кайси гурух йул белгиларини такрорлайди?",
+      "questionRu": "Какая группа дорожных знаков повторяется этой горизонтальной дорожной разметкой?",
+      "questionOz": "Ushbu yotik yul chizigi kaysi gurux yul belgilarini takrorlaydi?",
+      "explanationUz": "Ушбу йўл чизиғи огоҳлантирувчи йўл белгиларининг маъносини такрорлайди.\r\n\r\nЭслаб қолиш учун: огоҳлантирувчи йўл белгилари одатда қизил ҳошияли учбурчак шаклида бўлади. Йўл қопламасидаги учбурчак кўринишидаги белги ҳам шу сабабли огоҳлантирувчи белгилар билан боғлиқ маълумотни такрорлайди.\r\n\r\nДемак, тўғри жавоб — огоҳлантирувчи йўл белгиларини такрорлайди.",
+      "explanationRu": "Данная дорожная разметка дублирует значение предупреждающих дорожных знаков.\r\n\r\nДля запоминания: предупреждающие дорожные знаки обычно имеют форму треугольника с красной каймой. Поэтому разметка в виде треугольника на проезжей части также повторяет информацию предупреждающих знаков.\r\n\r\nСледовательно, правильный ответ — дублирует предупреждающие дорожные знаки.",
+      "explanationOz": "Ushbu yoʻl chizigʻi ogohlantiruvchi yoʻl belgilarining maʼnosini takrorlaydi.\r\n\r\nEslab qolish uchun: ogohlantiruvchi yoʻl belgilari odatda qizil hoshiyali uchburchak shaklida boʻladi. Yoʻl qoplamasidagi uchburchak ko‘rinishidagi belgi ham shu sababli ogohlantiruvchi belgilar bilan bogʻliq maʼlumotni takrorlaydi.\r\n\r\nDemak, toʻgʻri javob — ogohlantiruvchi yoʻl belgilarini takrorlaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5678,
+          "textUz": "Имтиёз белгиларни",
+          "textRu": "Знаки приоритета",
+          "textOz": "Imtiyoz belgilarni",
+          "isCorrect": false
+        },
+        {
+          "id": 5679,
+          "textUz": "Огохлантирувчи белгиларни",
+          "textRu": "Предупреждающие знаки",
+          "textOz": "Ogoxlantiruvchi belgilarni",
+          "isCorrect": true
+        },
+        {
+          "id": 5680,
+          "textUz": "Такикловчи белгиларни",
+          "textRu": "Запрещающие знаки",
+          "textOz": "Takiklovchi belgilarni",
+          "isCorrect": false
+        },
+        {
+          "id": 5681,
+          "textUz": "Ахборот-курсатгич белгиларни",
+          "textRu": "Информационно-указательные знаки",
+          "textOz": "Axborot-kursatgich belgilarni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5679
+      ]
+    },
+    {
+      "id": 400,
+      "questionUz": "Кизил автомобил хайдовчиси кайси йуналишларда харакатланишига рухсат берилган?",
+      "questionRu": "в каких направлениях разрешено движение водителю красного автомобиля?",
+      "questionOz": "Kizil avtomobil xaydovchisi kaysi yunalishlarda xarakatlanishiga ruxsat berilgan?",
+      "explanationUz": "Саволда қайси автомобил ҳайдовчиси светофорнинг тақиқловчи ишорасида тўғри тўхтагани сўралмоқда.\r\n\r\nБиринчи расмда ҳайдовчи тўхташ чизиғидан ўтиб кетган. Эътибор беринг, бу ерда \"STOP\" белгиси мавжуд бўлиб, у тўхташ чизиғи борлигини билдиради. Ҳайдовчи тўхташ чизиғидан ўтиб кетганлиги сабабли нотўғри тўхтаган ҳисобланади.\r\n\r\nИккинчи расмда эса ҳайдовчи тўхташ чизиғи олдида тўғри тўхтаган.\r\n\r\nДемак, тўғри жавоб — иккинчи расм.",
+      "explanationRu": "Вопрос заключается в том, какой водитель правильно остановился при запрещающем сигнале светофора.\r\n\r\nНа первом рисунке водитель проехал стоп-линию. Обратите внимание, что здесь установлен знак «STOP», который указывает на наличие стоп-линии. Поскольку водитель остановился уже за стоп-линией, его действия являются неправильными.\r\n\r\nНа втором рисунке водитель остановился непосредственно перед стоп-линией, как того требуют правила.\r\n\r\nСледовательно, правильный ответ — второй рисунок.",
+      "explanationOz": "Savolda qaysi avtomobil haydovchisi svetoforning taqiqlovchi ishorasida toʻgʻri toʻxtagani soʻralmoqda.\r\n\r\nBirinchi rasmda haydovchi toʻxtash chizigʻidan oʻtib ketgan. Eʼtibor bering, bu yerda \"STOP\" belgisi mavjud bo‘lib, u toʻxtash chizigʻi borligini bildiradi. Haydovchi toʻxtash chizigʻidan oʻtib ketganligi sababli notoʻgʻri toʻxtagan hisoblanadi.\r\n\r\nIkkinchi rasmda esa haydovchi toʻxtash chizigʻi oldida toʻgʻri toʻxtagan.\r\n\r\nDemak, toʻgʻri javob — ikkinchi rasm.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5685,
+          "textUz": "Факат чапга",
+          "textRu": "Только налево",
+          "textOz": "Fakat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5686,
+          "textUz": "Чапга ва кайрилиб олишга",
+          "textRu": "Налево и в разворот",
+          "textOz": "Chapga va kayrilib olishga",
+          "isCorrect": true
+        },
+        {
+          "id": 5687,
+          "textUz": "Турига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "Turiga va chapga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5686
+      ]
+    },
+    {
+      "id": 401,
+      "questionUz": "Қайси автомобил ҳайдовчиси светафорнинг тақиқловчи ишорасида тўғри тўхтади?",
+      "questionRu": "Какой водитель автомобиля правильно остановился на запрещающий сигнал светофора",
+      "questionOz": "Qaysi avtomobil haydovchisi svetaforning taqiqlovchi ishorasida to‘g‘ri to‘xtadi?",
+      "explanationUz": "\"ЙҲҚга 1-ИЛОВА 4.1.4 банди ва 9-боб. 56-банд 1-хатбошига асосан: 4.1.4. «Ҳаракатланиш тўғрига ёки ўнгга».\r\n56. Айланма ҳаракатланиш ташкил қилинган чорраҳаларга кириш учун бурилишдан бошқа барча ҳолларда, ҳайдовчи ўнгга, чапга бурилиши ёки қайрилиб олишдан олдинроқ шу йўналишда ҳаракатланиши учун мўлжалланган қатнов қисмининг энг четки ҳолатни эгаллаши шарт.\"",
+      "explanationRu": "\"На основании пункта 4.1.4 Приложения 1 к ПДД и абзаца 1 пункта 56 главы 9 ПДД: 4.1.4. «Движение прямо или направо».\r\n56. Перед поворотом направо, налево или разворотом водитель обязан заблаговременно занять соответствующее крайнее положение на проезжей части, предназначенной для движения в данном направлении, кроме случаев, когда совершается поворот при въезде на перекресток с круговым движением.\"",
+      "explanationOz": "\"YHQga 1-ILOVA 4.1.4 bandi va 9-bob. 56-band 1-xatboshiga asosan: 4.1.4. «Harakatlanish to‘g‘riga yoki o‘ngga».\r\n56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.\"",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1360,
+          "textUz": "1-расмда",
+          "textRu": "На 1-рисунке",
+          "textOz": "1-rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 1361,
+          "textUz": "2-расмда",
+          "textRu": "На 2-рисунке",
+          "textOz": "2-rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 1362,
+          "textUz": "Ҳар иккала расмд",
+          "textRu": "На обоих рисунках",
+          "textOz": "Har ikkala rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1361
+      ]
+    },
+    {
+      "id": 402,
+      "questionUz": "Қайси автомобилга қайрилиб олишга рухсат берилади?",
+      "questionRu": "Какому автомобилю разрешено выполнить разворот?",
+      "questionOz": "Qaysi avtomobilga qayrilib olishga ruxsat beriladi?",
+      "explanationUz": "Саволда қайси автомобилга қайрилиб олишга рухсат этилгани сўралмоқда.\r\n\r\nУшбу вазиятда иккала автомобилга ҳам қайрилиб олишга рухсат этилмайди.\r\n\r\nСариқ автомобил узлуксиз йўл чизиғи томондан ҳаракатланмоқда. Узлуксиз чизиқни кесиб ўтиш тақиқланганлиги сабабли, у қайрилиб ола олмайди.\r\n\r\nКўк автомобил эса ўнг ҳаракатланиш бўлагида жойлашган. Қайрилиб олиш манёври одатда энг четки чап бўлакдан амалга оширилиши керак. Шунинг учун кўк автомобил ҳам қайрилиб ола олмайди.\r\n\r\nДемак, тўғри жавоб — иккала автомобилга ҳам қайрилиб олишга рухсат этилмайди.",
+      "explanationRu": "Вопрос заключается в том, какому автомобилю разрешён разворот.\r\n\r\nВ данной ситуации разворот не разрешён ни одному из автомобилей.\r\n\r\nЖёлтый автомобиль движется со стороны сплошной линии разметки. Поскольку пересекать сплошную линию запрещено, выполнить разворот он не может.\r\n\r\nСиний автомобиль находится в правой полосе движения. Разворот должен выполняться из крайней левой полосы, поэтому водитель синего автомобиля также не имеет права выполнять данный манёвр.\r\n\r\nСледовательно, правильный ответ — разворот не разрешён ни одному из автомобилей.",
+      "explanationOz": "Savolda qaysi avtomobilga qayrilib olishga ruxsat etilgani soʻralmoqda.\r\n\r\nUshbu vaziyatda ikkala avtomobilga ham qayrilib olishga ruxsat etilmaydi.\r\n\r\nSariq avtomobil uzluksiz yoʻl chizigʻi tomondan harakatlanmoqda. Uzluksiz chiziqni kesib oʻtish taqiqlanganligi sababli, u qayrilib ola olmaydi.\r\n\r\nKoʻk avtomobil esa o‘ng harakatlanish bo‘lagida joylashgan. Qayrilib olish manevri odatda eng chetki chap bo‘lakdan amalga oshirilishi kerak. Shuning uchun ko‘k avtomobil ham qayrilib ola olmaydi.\r\n\r\nDemak, toʻgʻri javob — ikkala avtomobilga ham qayrilib olishga ruxsat etilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5691,
+          "textUz": "Ҳар иккисига",
+          "textRu": "Обоим",
+          "textOz": "Har ikkisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5692,
+          "textUz": "Сариқ автомобилга",
+          "textRu": "Желтому автомобилю",
+          "textOz": "Sariq avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 5693,
+          "textUz": "Кўк автомобилга",
+          "textRu": "Синему автомобилю",
+          "textOz": "Ko‘k avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 5694,
+          "textUz": "Ҳар икки автомобилга тақиқланади",
+          "textRu": "Обоим автомобилям запрещено",
+          "textOz": "Har ikki avtomobilga taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5694
+      ]
+    }
+  ]
+}

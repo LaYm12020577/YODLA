@@ -1,0 +1,120 @@
+{
+  "u_8458a45e1ec5335f": {
+    "id": "u_8458a45e1ec5335f",
+    "name": "���� ����",
+    "email": "test@yodla.local",
+    "passSalt": "8e97d60fd7b4238977b16ae7059c491e",
+    "passHash": "10dc82d2d6c95ab47f41a7e799f9c6602a73498ab26136f78275bd47ea474767c84b2867a248e182dadd602df6bbefb5c25e0e073336635e162b7bc91134d67f",
+    "createdAt": "2026-08-11T06:18:40.639Z",
+    "stats": {
+      "quizzesTaken": 0,
+      "correctAnswers": 0,
+      "videosWatched": [],
+      "themesDone": [],
+      "ticketsDone": [],
+      "trickyMastered": [],
+      "examsPassed": 0,
+      "totalAnswers": 0
+    },
+    "yodlaId": "629-3189",
+    "title": "Новичок",
+    "language": "ru",
+    "darkMode": false,
+    "phone": null,
+    "examDate": null
+  },
+  "u_1e7da74dbceb1211": {
+    "id": "u_1e7da74dbceb1211",
+    "name": "Алиса",
+    "email": "alisa@yodla.local",
+    "passSalt": "3dbe34ff3afa6331f2e5e8ec1a312c79",
+    "passHash": "7d0ec0c86107a642ada324e4ad1f5382dce092a51fffeb7dd8f2d1dcb6c2134c8440d45239a56120bde5699f839d2fb074d2ed3e9ab8382c9e8f0fa1bcdd7b80",
+    "createdAt": "2026-08-11T06:20:56.363Z",
+    "stats": {
+      "quizzesTaken": 1,
+      "correctAnswers": 12,
+      "videosWatched": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "themesDone": [
+        0
+      ],
+      "ticketsDone": [],
+      "trickyMastered": [],
+      "examsPassed": 0,
+      "totalAnswers": 20
+    },
+    "yodlaId": "317-6744",
+    "title": "Новичок",
+    "language": "ru",
+    "darkMode": false,
+    "phone": null,
+    "examDate": null
+  },
+  "u_c1f632aef4ae3b49": {
+    "id": "u_c1f632aef4ae3b49",
+    "name": "Bexruzbek Komilov",
+    "email": "stermine.ru@gmail.com",
+    "passSalt": "70e3fb6d2977610c39c5fbb23c1bf247",
+    "passHash": "4f4423c892c24a36b3207893b77c923a1cabcbf384743919fb9e044981547a8a08a2cada630a9fcf875f334dc40143e69e67932d95ac9f00d7afc5d11d85ef76",
+    "createdAt": "2026-08-11T06:24:50.509Z",
+    "stats": {
+      "quizzesTaken": 0,
+      "correctAnswers": 0,
+      "videosWatched": [
+        1,
+        7
+      ],
+      "themesDone": [],
+      "ticketsDone": [],
+      "trickyMastered": [],
+      "examsPassed": 0,
+      "totalAnswers": 0,
+      "videoPositions": {
+        "7": 1
+      }
+    },
+    "yodlaId": "858-1361",
+    "title": "Новичок",
+    "language": "oz",
+    "darkMode": false,
+    "phone": "+998905430820",
+    "examDate": null
+  },
+  "u_5b28eab1530bf2f9": {
+    "id": "u_5b28eab1530bf2f9",
+    "name": "Бахтиёр",
+    "email": "baxtiyor@new.local",
+    "passSalt": "d9c712f6b2b75c80955ab9f15f1b40b7",
+    "passHash": "e9be5366865b9314af015b38da27a6b244bd3357f3620d614cd521054b359d6ad30bcfea6d6ece58b769a1f0508a0cf61aa33b777f99d0c360a26598f22e70df",
+    "createdAt": "2026-08-11T06:35:50.375Z",
+    "stats": {
+      "videosWatched": [
+        1,
+        2
+      ],
+      "themesDone": [],
+      "ticketsDone": [],
+      "trickyMastered": [],
+      "examsPassed": 0,
+      "quizzesTaken": 0,
+      "correctAnswers": 0,
+      "totalAnswers": 0,
+      "videoPositions": {
+        "1": 145,
+        "2": 64,
+        "3": 60
+      }
+    },
+    "yodlaId": "276-1300",
+    "title": "Ученик",
+    "language": "ru",
+    "darkMode": false,
+    "phone": "+998 90 123 45 67",
+    "examDate": "2026-09-15"
+  }
+}

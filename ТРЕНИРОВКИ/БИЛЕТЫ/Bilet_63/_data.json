@@ -1,0 +1,809 @@
+{
+  "title": "Bilet 63 (PRO)",
+  "count": 20,
+  "questions": [
+    {
+      "id": 1247,
+      "questionUz": "Тартибга солувчининг қўллари ҳар икки ёнга чўзилганда қандай маънони билдиради?",
+      "questionRu": "Что означает сигнал регулировщика, когда его руки вытянуты в стороны?",
+      "questionOz": "Tartibga soluvchining qo‘llari har ikki yonga cho‘zilganda qanday ma’noni bildiradi?",
+      "explanationUz": "ЙҲҚнинг 7-боб, 38-бандига асосан:\r\n\r\nТартибга солувчининг қўллари ҳар икки ёнга чўзилганда ёки туширилганда, чап ва ўнг томондан трамвайларга тўғрига, рельссиз транспорт воситаларига эса тўғрига ва ўнгга ҳаракатланишга рухсат этилади. Олд ва орқа томондан эса барча транспорт воситаларининг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно главе 7, пункту 38 Правил дорожного движения:\r\n\r\nЕсли руки регулировщика вытянуты в стороны или опущены, то с левой и правой стороны трамваям разрешается движение прямо, а безрельсовым транспортным средствам — прямо и направо. Со стороны груди и спины движение всех транспортных средств запрещается.",
+      "explanationOz": "YHQning 7-bob, 38-bandiga asosan:\r\n\r\nTartibga soluvchining qo‘llari har ikki yonga cho‘zilganda yoki tushirilganda, chap va o‘ng tomondan tramvaylarga to‘g‘riga, relssiz transport vositalariga esa to‘g‘riga va o‘ngga harakatlanishga ruxsat etiladi. Old va orqa tomondan esa barcha transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380651558-990124258.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6706,
+          "textUz": "Чап ва ўнг томондан трамвайларга — тўғрига, рельссиз транспорт воситаларига — тўғрига, ўнгга ва чапга ҳаракатланишга рухсат этилади.",
+          "textRu": "С левой и правой стороны трамваям разрешается движение прямо, безрельсовым транспортным средствам — прямо, направо и налево.",
+          "textOz": "Chap va o‘ng tomondan tramvaylarga — to‘g‘riga, relssiz transport vositalariga — to‘g‘riga, o‘ngga va chapga harakatlanishga ruxsat etiladi.",
+          "isCorrect": false
+        },
+        {
+          "id": 6707,
+          "textUz": "Чап ва ўнг томондан трамвайларга — чапга, рельссиз транспорт воситаларига — ўнгга ҳаракатланишга рухсат этилади.",
+          "textRu": "С левой и правой стороны трамваям разрешается движение налево, безрельсовым транспортным средствам — направо.",
+          "textOz": "Chap va o‘ng tomondan tramvaylarga — chapga, relssiz transport vositalariga — o‘ngga harakatlanishga ruxsat etiladi.",
+          "isCorrect": false
+        },
+        {
+          "id": 6708,
+          "textUz": "Чап ва ўнг томондан трамвайларга — тўғрига, рельссиз транспорт воситаларига — тўғрига ва ўнгга ҳаракатланишга рухсат этилади, олд ва орқа томондан эса ҳаракат тақиқланади.",
+          "textRu": "С левой и правой стороны трамваям разрешается движение прямо, безрельсовым транспортным средствам — прямо и направо, а со стороны груди и спины движение запрещено.",
+          "textOz": "Chap va o‘ng tomondan tramvaylarga — to‘g‘riga, relssiz transport vositalariga — to‘g‘riga va o‘ngga harakatlanishga ruxsat etiladi, old va orqa tomondan esa harakat taqiqlanadi.",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6708
+      ]
+    },
+    {
+      "id": 1248,
+      "questionUz": "Қайси йўналишларга ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каких направлениях разрешается движение?",
+      "questionOz": "Qaysi yo‘nalishlarga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Чорраҳанинг ўнг томонида «Чапга бурилиш тақиқланади» белгиси ўрнатилган. Бу белги ҳайдовчига чапга бурилишни тақиқлайди.\r\n\r\nБундан ташқари, чап томондаги йўлда бир томонлама ҳаракат ташкил этилган. Кўк рангли белги ҳаракат фақат чап томонга амалга оширилишини кўрсатади. Агар сиз чапга бурилсангиз, бир томонлама йўлга қарама-қарши йўналишдан кириб қоласиз. Бу эса ЙҲҚга кўра тақиқланади.\r\n\r\nЎнгга бурилиш ҳам мумкин эмас, чунки ўнг томондаги йўлга сиз турган томондан киришга рухсат берилмаган.\r\n\r\nШунинг учун:\r\n\r\n❌ Чапга — мумкин эмас.\r\n❌ Ўнгга — мумкин эмас.\r\n❌ Қайрилиш — мумкин эмас.\r\n✅ Фақат тўғрига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "На правой стороне перекрёстка установлен знак «Поворот налево запрещён». Этот знак запрещает водителю повернуть налево.\r\n\r\nКроме того, на левой дороге организовано одностороннее движение. Это видно по синему знаку с белой стрелкой, который показывает, что движение по этой дороге осуществляется слева направо (для вас — влево). Если вы повернёте налево, то окажетесь на полосе встречного движения, что запрещено Правилами дорожного движения.\r\n\r\nПовернуть направо также нельзя, поскольку на этой дороге движение организовано таким образом, что въезд с вашего направления запрещён.\r\n\r\nПоэтому:\r\n\r\n❌ Налево — запрещено.\r\n❌ Направо — запрещено.\r\n❌ Разворот — запрещён.\r\n✅ Разрешено движение только прямо.",
+      "explanationOz": "Rasmda chorrahaning o'ng tomonida sizga qaratilgan \"Chapga burilish taqiqlanadi\" belgisi o'rnatilgan. Bu belgi sizning yo'nalishingizdan chapga burilishni taqiqlaydi.\r\n\r\nShuningdek, chorrahaning chap tomonidagi ko'chada bir tomonlama harakat tashkil etilgan. Belgiga qaraganda u ko'chada transport vositalari chapga (←) harakatlanadi. Agar siz chapga burilsangiz, shu bir tomonlama ko'chaga qarama-qarshi yo'nalishda kirib qolasiz. Bu esa YHQ bo'yicha taqiqlanadi.\r\n\r\nO'ng tomonga burilish ham mumkin emas, chunki o'ng tomondagi ko'chaga kirish yo'nalishi sizning tomoningizdan ruxsat etilmagan (bir tomonlama harakat tashkil etilgan va kirish cheklangan).\r\n\r\nShuning uchun:\r\n\r\n❌ Chapga — mumkin emas.\r\n❌ O'ngga — mumkin emas.\r\n❌ Qayrilish — ham mumkin emas.\r\n✅ Faqat to'g'riga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784379481759-273128399.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6800,
+          "textUz": "Барча йўналишларга ўнгга бурилиш ва қайрилишдан ташқари",
+          "textRu": "Во всех направлениях, кроме поворота направо и разворота",
+          "textOz": "Barcha yo‘nalishlarga o‘ngga burilish va qayrilishdan tashqari",
+          "isCorrect": false
+        },
+        {
+          "id": 6801,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 6802,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": true
+        },
+        {
+          "id": 6803,
+          "textUz": "Тўғрига, чапга ва қайрилишга",
+          "textRu": "Прямо, налево и на разворот",
+          "textOz": "To‘g‘riga, chapga va qayrilishga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6802
+      ]
+    },
+    {
+      "id": 1249,
+      "questionUz": "Мазкур жойда йўловчиларни тушириш ёки чиқариш учун тўхташга рухсат этиладими?",
+      "questionRu": "Разрешается ли в данном месте остановка для посадки или высадки пассажиров?",
+      "questionOz": "Mazkur joyda yo‘lovchilarni tushirish yoki chiqarish uchun to‘xtashga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚнинг 13-боб, 91-банд 4-хатбошисига асосан:\r\n\r\n91. Қуйидаги жойларда тўхташ тақиқланади: туннелларда.\r\n\r\nШунинг учун тоннел ичида йўловчиларни тушириш ёки чиқариш мақсадида ҳам тўхташга рухсат этилмайди.",
+      "explanationRu": "Согласно главе 13, пункту 91 (абзац 4) Правил дорожного движения:\r\n\r\n91. Остановка запрещается: в тоннелях.\r\n\r\nПоэтому остановка в тоннеле для посадки или высадки пассажиров также запрещена.",
+      "explanationOz": "YHQning 13-bob, 91-band 4-xatboshisiga asosan:\r\n\r\n91. Quyidagi joylarda to‘xtash taqiqlanadi: tunnellarda.\r\n\r\nShuning uchun tunnel ichida yo‘lovchilarni tushirish yoki chiqarish maqsadida ham to‘xtashga ruxsat etilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784379584797-477083192.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6678,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6679,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 6680,
+          "textUz": "Фақат такси ҳайдовчиларига рухсат этилади",
+          "textRu": "Разрешается только водителям такси",
+          "textOz": "Faqat taksi haydovchilariga ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6679
+      ]
+    },
+    {
+      "id": 1250,
+      "questionUz": "Оқ автомобиль чорраҳадан нечанчи бўлиб кесиб ўтади?",
+      "questionRu": "Каким по счёту белый автомобиль проедет перекрёсток?",
+      "questionOz": "Oq avtomobil chorrahadan nechanchi bo‘lib kesib o‘tadi?",
+      "explanationUz": "ЙҲҚнинг 16-боб, 104, 105 ва 106-бандларига асосан:\r\n\r\n104. Тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳада иккинчи даражали йўлдан ҳаракатланаётган ҳайдовчи асосий йўлда ҳаракатланаётган транспорт воситаларига йўл бериши шарт. Трамвай эса ҳаракатланиш йўналишидан қатъи назар, асосий йўлда ҳаракатланаётган рельссиз транспорт воситаларига нисбатан имтиёзга эга.\r\n\r\n105. Тенг аҳамиятли йўллар кесишган чорраҳада рельссиз транспорт воситаси ҳайдовчиси ўнгдан яқинлашаётган транспорт воситасига йўл бериши шарт.\r\n\r\n106. Асосий йўл йўналиши чорраҳада ўзгарганда, ҳайдовчилар тенг аҳамиятли йўллар қоидаларига амал қилишлари керак.",
+      "explanationRu": "Согласно главе 16, пунктам 104, 105 и 106 Правил дорожного движения:\r\n\r\n104. На перекрёстке неравнозначных дорог водитель, движущийся по второстепенной дороге, обязан уступить дорогу транспортным средствам, приближающимся по главной дороге, независимо от направления их дальнейшего движения. Трамвай имеет преимущество перед безрельсовыми транспортными средствами на равнозначной дороге.\r\n\r\n105. На перекрёстке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортному средству, приближающемуся справа.\r\n\r\n106. Если направление главной дороги изменяется на перекрёстке, водители должны руководствоваться правилами проезда перекрёстков равнозначных дорог.",
+      "explanationOz": "YHQning 16-bob, 104, 105 va 106-bandlariga asosan:\r\n\r\n104. Teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada ikkinchi darajali yo‘ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo‘ldan yaqinlashayotgan transport vositalariga, ularning keyingi harakatlanish yo‘nalishidan qat’i nazar, yo‘l berishi shart. Tramvay esa harakatlanish yo‘nalishidan qat’i nazar, asosiy yo‘lda harakatlanayotgan relssiz transport vositalariga nisbatan imtiyozga ega.\r\n\r\n105. Teng ahamiyatli yo‘llar kesishgan chorrahada relssiz transport vositasi haydovchisi o‘ngdan yaqinlashayotgan transport vositasiga yo‘l berishi shart.\r\n\r\n106. Asosiy yo‘l yo‘nalishi chorrahada o‘zgarganda, asosiy va ikkinchi darajali yo‘llarda harakatlanayotgan haydovchilar o‘zaro teng ahamiyatli yo‘llar qoidalariga amal qiladilar.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784379690415-268784613.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6681,
+          "textUz": "Биринчи",
+          "textRu": "Первым",
+          "textOz": "Birinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 6682,
+          "textUz": "Иккинчи",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi",
+          "isCorrect": true
+        },
+        {
+          "id": 6683,
+          "textUz": "Учинчи",
+          "textRu": "Третьим",
+          "textOz": "Uchinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 6684,
+          "textUz": "Охирги",
+          "textRu": "Последним",
+          "textOz": "Oxirgi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6682
+      ]
+    },
+    {
+      "id": 1251,
+      "questionUz": "Қайси йўналишларда сизга ҳаракатни давом эттиришга рухсат этилади?",
+      "questionRu": "В каких направлениях вам разрешается продолжить движение?",
+      "questionOz": "Qaysi yo‘nalishlarda sizga harakatni davom ettirishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси 5.8.2-банди, 5-бўлим (Ахборот-кўрсаткич белгилари) ва ЙҲҚнинг 7-боб, 32-бандига асосан:\r\n\r\n5.8.2 — «Тасма бўйича ҳаракатланиш йўналиши» белгиси ушбу тасма бўйича рухсат этилган ҳаракат йўналишини билдиради. Бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари доирасимон светофор ишоралари билан бир хил маънога эга бўлиб, фақат кўрсатилган йўналишга таъсир қилади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи яшил йўналтиргич қайрилиб олишга ҳам рухсат беради.\r\n\r\nМазкур ҳолатда йўл тасмаси ва светофор ишорасига кўра фақат чапга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно Приложению 1, пункту 5.8.2, разделу 5 (Информационно-указательные знаки) и главе 7, пункту 32 Правил дорожного движения:\r\n\r\n5.8.2 — знак «Направления движения по полосе» указывает разрешённое направление движения по данной полосе. Движение в других направлениях запрещается.\r\n\r\n32. Красные, жёлтые и зелёные сигналы светофора в виде стрелок имеют то же значение, что и круглые сигналы, но распространяются только на указанное направление. Если разворот не запрещён соответствующим дорожным знаком, зелёная стрелка, разрешающая поворот налево, разрешает также разворот.\r\n\r\nВ данной ситуации, согласно разметке полосы и сигналу светофора, разрешается движение только налево.",
+      "explanationOz": "YHQning 1-ilovasi 5.8.2-band, 5-band (Axborot-ko‘rsatkich belgilari) va YHQning 7-bob, 32-bandiga asosan:\r\n\r\n5.8.2 — \"Tasma bo‘yicha harakatlanish yo‘nalishi\" belgisi ushbu tasma bo‘yicha ruxsat etilgan harakat yo‘nalishini bildiradi. Boshqa yo‘nalishlarda harakatlanish taqiqlanadi.\r\n\r\n32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari doirasimon svetofor ishoralari bilan bir xil ma’noga ega bo‘lib, faqat ko‘rsatilgan yo‘nalishga ta’sir qiladi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yashil yo‘naltirgich qayrilib olishga ham ruxsat beradi.\r\n\r\nMazkur holatda yo‘l tasmasi va svetofor ishorasiga ko‘ra faqat chapga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380729556-245825671.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6709,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 6710,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6711,
+          "textUz": "Чапга ва орқага қайрилиб олишга",
+          "textRu": "Налево и на разворот",
+          "textOz": "Chapga va orqaga qayrilib olishga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6709
+      ]
+    },
+    {
+      "id": 1252,
+      "questionUz": "Қора автомобиль қайси йўналишлар бўйича ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каких направлениях разрешается движение чёрному автомобилю?",
+      "questionOz": "Qora avtomobil qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси 5.8.2-банди, 5-бўлими (Ахборот-кўрсаткич белгилари) ва ЙҲҚнинг 7-боб, 32-бандига асосан:\r\n\r\n5.8.2 — «Тасма бўйича ҳаракатланиш йўналиши» белгиси ушбу тасма бўйича рухсат этилган ҳаракат йўналишини билдиради. Бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари доирасимон светофор ишоралари билан бир хил маънога эга бўлиб, фақат кўрсатилган йўналишга таъсир қилади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи яшил йўналтиргич қайрилиб олишга ҳам рухсат беради.\r\n\r\nМазкур ҳолатда қора автомобиль жойлашган тасма бўйича фақат чапга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно Приложению 1, пункту 5.8.2, разделу 5 (Информационно-указательные знаки) и главе 7, пункту 32 Правил дорожного движения:\r\n\r\n5.8.2 — знак «Направления движения по полосе» определяет разрешённое направление движения по данной полосе. Движение в иных направлениях запрещено.\r\n\r\n32. Красные, жёлтые и зелёные сигналы светофора в виде стрелок имеют то же значение, что и круглые сигналы, и распространяются только на указанное направление. Если разворот не запрещён соответствующим дорожным знаком, зелёная стрелка, разрешающая поворот налево, также разрешает разворот.\r\n\r\nВ данной ситуации чёрному автомобилю, находящемуся на данной полосе, разрешается движение только налево.",
+      "explanationOz": "YHQning 1-ilovasi 5.8.2-bandi, 5-bo‘lim (Axborot-ko‘rsatkich belgilari) va YHQning 7-bob, 32-bandiga asosan:\r\n\r\n5.8.2 — \"Tasma bo‘yicha harakatlanish yo‘nalishi\" belgisi ushbu tasma bo‘yicha ruxsat etilgan harakat yo‘nalishini bildiradi. Boshqa yo‘nalishlarda harakatlanish taqiqlanadi.\r\n\r\n32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari doirasimon svetofor ishoralari bilan bir xil ma’noga ega bo‘lib, faqat ko‘rsatilgan yo‘nalishga ta’sir qiladi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yashil yo‘naltirgich qayrilib olishga ham ruxsat beradi.\r\n\r\nMazkur holatda qora avtomobil joylashgan tasma bo‘yicha faqat chapga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380338105-124409972.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6689,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6690,
+          "textUz": "Тўғрига ва қайрилиб олишга",
+          "textRu": "Прямо и на разворот",
+          "textOz": "To‘g‘riga va qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 6691,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6692,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6692
+      ]
+    },
+    {
+      "id": 1253,
+      "questionUz": "Оқ автомобиль қайси йўналишга ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешается движение белому автомобилю?",
+      "questionOz": "Oq avtomobil qaysi yo‘nalishga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси 5.8.2-банди, 5-бўлими (Ахборот-кўрсаткич белгилари) ва ЙҲҚнинг 7-боб, 32-бандига асосан:\r\n\r\n5.8.2 — «Тасма бўйича ҳаракатланиш йўналиши» белгиси ушбу тасма бўйича рухсат этилган ҳаракат йўналишини билдиради. Бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари доирасимон светофор ишоралари билан бир хил маънога эга бўлиб, фақат кўрсатилган йўналишга таъсир қилади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи яшил йўналтиргич қайрилиб олишга ҳам рухсат беради.\r\n\r\nМазкур ҳолатда оқ автомобиль жойлашган тасма бўйича фақат тўғрига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно Приложению 1, пункту 5.8.2, разделу 5 (Информационно-указательные знаки) и главе 7, пункту 32 Правил дорожного движения:\r\n\r\n5.8.2 — знак «Направления движения по полосе» определяет разрешённое направление движения по данной полосе. Движение в иных направлениях запрещено.\r\n\r\n32. Красные, жёлтые и зелёные сигналы светофора в виде стрелок имеют то же значение, что и круглые сигналы и распространяются только на указанное направление. Если разворот не запрещён соответствующим дорожным знаком, зелёная стрелка, разрешающая поворот налево, также разрешает разворот.\r\n\r\nВ данной ситуации белому автомобилю, находящемуся на данной полосе, разрешается движение только прямо.",
+      "explanationOz": "YHQning 1-ilovasi 5.8.2-bandi, 5-bo‘lim (Axborot-ko‘rsatkich belgilari) va YHQning 7-bob, 32-bandiga asosan:\r\n\r\n5.8.2 — \"Tasma bo‘yicha harakatlanish yo‘nalishi\" belgisi ushbu tasma bo‘yicha ruxsat etilgan harakat yo‘nalishini bildiradi. Boshqa yo‘nalishlarda harakatlanish taqiqlanadi.\r\n\r\n32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari doirasimon svetofor ishoralari bilan bir xil ma’noga ega bo‘lib, faqat ko‘rsatilgan yo‘nalishga ta’sir qiladi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yashil yo‘naltirgich qayrilib olishga ham ruxsat beradi.\r\n\r\nMazkur holatda oq avtomobil joylashgan tasma bo‘yicha faqat to‘g‘riga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784614936095-890691393.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6714,
+          "textUz": "Ҳаракатланиш тақиқланади",
+          "textRu": "Движение запрещено",
+          "textOz": "Harakatlanish taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 6715,
+          "textUz": "Тўғрига, чапга ва орқага қайрилишга",
+          "textRu": "Прямо, налево и на разворот",
+          "textOz": "To‘g‘riga, chapga va orqaga qayrilishga",
+          "isCorrect": false
+        },
+        {
+          "id": 6716,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6717,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6717
+      ]
+    },
+    {
+      "id": 1255,
+      "questionUz": "Қайси транспорт воситаси тўғри ҳаракатланмоқда?",
+      "questionRu": "Какое транспортное средство движется правильно?",
+      "questionOz": "Qaysi transport vositasi to‘g‘ri harakatlanmoqda?",
+      "explanationUz": "ЙҲҚнинг 9-боб, 56-банд 1-хатбошиси ва 57-банд 2-хатбошисига асосан:\r\n\r\n56. Айланма ҳаракат ташкил қилинган чорраҳаларга кириш учун бурилишдан ташқари барча ҳолларда ҳайдовчи ўнгга, чапга бурилиш ёки қайрилиб олишдан олдин шу йўналишда ҳаракатланиш учун мўлжалланган қатнов қисмининг энг четки ҳолатини эгаллаши шарт.\r\n\r\n57. Ўнгга бурилишда транспорт воситаси имкони борича қатнов қисмининг ўнг четига яқин ҳаракатланиши керак.\r\n\r\nМазкур ҳолатда ҳам оқ, ҳам кўк автомобиль йўл ҳаракати қоидаларига мувофиқ ҳаракатланмоқда.",
+      "explanationRu": "Согласно главе 9, пункту 56 (абзац 1) и пункту 57 (абзац 2) Правил дорожного движения:\r\n\r\n56. Перед поворотом направо, налево или разворотом водитель обязан заранее занять соответствующее крайнее положение на проезжей части, предназначенной для движения в данном направлении.\r\n\r\n57. При повороте направо транспортное средство должно двигаться как можно ближе к правому краю проезжей части.\r\n\r\nВ данной ситуации и белый, и синий автомобили движутся в соответствии с Правилами дорожного движения.",
+      "explanationOz": "YHQning 9-bob, 56-band 1-xatboshisi va 57-band 2-xatboshisiga asosan:\r\n\r\n56. Aylanma harakat tashkil qilingan chorrahalarga kirish uchun burilishdan tashqari barcha hollarda haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldin shu yo‘nalishda harakatlanish uchun mo‘ljallangan qatnov qismining eng chetki holatini egallashi shart.\r\n\r\n57. O‘ngga burilishda transport vositasi imkon boricha qatnov qismining o‘ng chetiga yaqin harakatlanishi kerak.\r\n\r\nMazkur holatda ham oq, ham ko‘k avtomobil yo‘l harakati qoidalariga muvofiq harakatlanmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380363311-133510786.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6697,
+          "textUz": "Кўк автомобиль",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko‘k avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 6698,
+          "textUz": "Оқ ва кўк автомобиль",
+          "textRu": "Белый и синий автомобили",
+          "textOz": "Oq va ko‘k avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 6699,
+          "textUz": "Оқ автомобиль",
+          "textRu": "Белый автомобиль",
+          "textOz": "Oq avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 6700,
+          "textUz": "Барчаси нотўғри",
+          "textRu": "Все неправильно",
+          "textOz": "Barchasi noto‘g‘ri",
+          "isCorrect": false
+        },
+        {
+          "id": 6701,
+          "textUz": "Барчаси тўғри",
+          "textRu": "Все правильно",
+          "textOz": "Barchasi to‘g‘ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6698
+      ]
+    },
+    {
+      "id": 1256,
+      "questionUz": "Қуйидаги таниқлик белгиларидан қайси бири ҳайдовчининг хоҳишига кўра ўрнатилиши мумкин?",
+      "questionRu": "Какой из перечисленных опознавательных знаков может быть установлен по желанию водителя?",
+      "questionOz": "Quyidagi taniqlik belgilaridan qaysi biri haydovchining xohishiga ko‘ra o‘rnatilishi mumkin?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси (Транспорт воситаларининг таниқлик белгилари)га асосан:\r\n\r\nТранспорт воситаларига айрим таниқлик белгилари мажбурий, айримлари эса ҳайдовчининг хоҳишига кўра ўрнатилиши мумкин.\r\n\r\nУшбу саволда келтирилган 1, 2 ва 3-рақамли белгилarning барчаси ҳайдовчининг хоҳишига кўра ўрнатилиши мумкин бўлган таниқлик белгилари ҳисобланади.",
+      "explanationRu": "Согласно Приложению 1 ПДД (Опознавательные знаки транспортных средств):\r\n\r\nНекоторые опознавательные знаки являются обязательными, а некоторые могут быть установлены по желанию водителя.\r\n\r\nВ данном вопросе все знаки под номерами 1, 2 и 3 относятся к опознавательным знакам, которые могут устанавливаться по желанию водителя.",
+      "explanationOz": "YHQning 1-ilovasi (Transport vositalarining taniqlik belgilari)ga asosan:\r\n\r\nTransport vositalariga ayrim taniqlik belgilari majburiy, ayrimlari esa haydovchining xohishiga ko‘ra o‘rnatilishi mumkin.\r\n\r\nMazkur savolda keltirilgan 1, 2 va 3-raqamli belgilarning barchasi haydovchining xohishiga ko‘ra o‘rnatilishi mumkin bo‘lgan taniqlik belgilaridir.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378238035-643788719.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6646,
+          "textUz": "1, 2",
+          "textRu": "1, 2",
+          "textOz": "1, 2",
+          "isCorrect": false
+        },
+        {
+          "id": 6647,
+          "textUz": "2, 3",
+          "textRu": "2, 3",
+          "textOz": "2, 3",
+          "isCorrect": false
+        },
+        {
+          "id": 6648,
+          "textUz": "1, 3",
+          "textRu": "1, 3",
+          "textOz": "1, 3",
+          "isCorrect": false
+        },
+        {
+          "id": 6649,
+          "textUz": "Барча белгилар",
+          "textRu": "Все знаки",
+          "textOz": "Barcha belgilar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6649
+      ]
+    },
+    {
+      "id": 1257,
+      "questionUz": "Тирбандлик сабабли тўхтаб турган қайси автомобиль қоидани бузмаяпти?",
+      "questionRu": "Какой автомобиль, остановившийся из-за затора, не нарушает Правила дорожного движения?",
+      "questionOz": "Tirbandlik sababli to‘xtab turgan qaysi avtomobil qoidani buzmayapti?",
+      "explanationUz": "ЙҲҚнинг 13-боб, 91-банди ва 95-бандига асосан:\r\n\r\n91. Пиёдалар ўтиш жойида ва ундан олдинги 10 метр масофада тўхташ тақиқланади.\r\n\r\n95. Агар транспорт воситаси тирбандлик сабабли мажбурий тўхтаб қолган бўлса, бундай тўхташ қоидабузарлик ҳисобланмайди.\r\n\r\nМазкур ҳолатда қизил автомобиль пиёдалар ўтиш жойи устида мажбурий тўхтаб қолган бўлса-да, бу тирбандлик сабабли юз берган. Сариқ автомобиль эса пиёдалар ўтиш жойидан етарли масофада тўхтаган. Шунинг учун қоидани бузмаётган автомобиль — сариқ автомобиль.",
+      "explanationRu": "Согласно главе 13, пунктам 91 и 95 Правил дорожного движения:\r\n\r\n91. Остановка на пешеходном переходе и ближе 10 метров перед ним запрещена.\r\n\r\n95. Если транспортное средство вынуждено остановилось из-за дорожного затора, такая остановка не считается нарушением.\r\n\r\nВ данной ситуации красный автомобиль оказался на пешеходном переходе из-за затора, а жёлтый автомобиль остановился на безопасном расстоянии от перехода. Следовательно, Правила не нарушает жёлтый автомобиль.",
+      "explanationOz": "YHQning 13-bob, 91-band va 95-bandiga asosan:\r\n\r\n91. Piyodalar o‘tish joyida va undan oldingi 10 metr masofada to‘xtash taqiqlanadi.\r\n\r\n95. Agar transport vositasi tirbandlik sababli majburiy to‘xtab qolgan bo‘lsa, bunday to‘xtash qoidabuzarlik hisoblanmaydi.\r\n\r\nMazkur holatda qizil avtomobil piyodalar o‘tish joyi ustida majburiy to‘xtab qolgan bo‘lsa-da, bu tirbandlik sababli yuz bergan. Sariq avtomobil esa piyodalar o‘tish joyidan yetarli masofada to‘xtagan. Shuning uchun qoidani buzmayotgan avtomobil — sariq avtomobil.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784374494346-826021890.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6573,
+          "textUz": "Ҳар иккиси бузмаяпти",
+          "textRu": "Оба не нарушают",
+          "textOz": "Har ikkisi buzmayapti",
+          "isCorrect": false
+        },
+        {
+          "id": 6574,
+          "textUz": "Сариқ автомобиль",
+          "textRu": "Жёлтый автомобиль",
+          "textOz": "Sariq avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 6575,
+          "textUz": "Қизил автомобиль",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 6576,
+          "textUz": "Ҳар иккиси бузяпти",
+          "textRu": "Оба нарушают",
+          "textOz": "Har ikkisi buzayapti",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6574
+      ]
+    },
+    {
+      "id": 1258,
+      "questionUz": "Қизил автомобиль ҳайдовчиси қоидани бузиб ҳаракатланмоқдами?",
+      "questionRu": "Нарушает ли водитель красного автомобиля Правила дорожного движения?",
+      "questionOz": "Qizil avtomobil haydovchisi qoidani buzib harakatlanmoqdami?",
+      "explanationUz": "ЙҲҚнинг 10-боб, 68-бандига асосан:\r\n\r\n68. Тезлиги соатига 40 км/соатдан ошмайдиган ёки техник сабабларга кўра бундан тез ҳаракатлана олмайдиган транспорт воситалари айланиб ўтиш, қувиб ўтиш, чапга бурилиш ёки қайрилиб олиш учун қайта тизилишдан ташқари барча ҳолларда фақат четки ўнг қаторда ҳаракатланишлари керак.\r\n\r\nМазкур ҳолатда оқ юк фургони секин ҳаракатланувчи транспорт воситаси ҳисобланмайди. Қизил автомобиль эса чап қаторда ҳеч қандай заруратсиз ҳаракатланмоқда. Шунинг учун у четки ўнг қаторни эгалламаганлиги сабабли Йўл ҳаракати қоидаларини бузмоқда.",
+      "explanationRu": "Согласно главе 10, пункту 68 Правил дорожного движения:\r\n\r\n68. Только транспортные средства, скорость которых не превышает 40 км/ч либо которые по техническим причинам не могут двигаться быстрее, обязаны постоянно двигаться по крайней правой полосе, кроме случаев объезда, обгона, перестроения для поворота налево или разворота.\r\n\r\nВ данной ситуации белый фургон не является тихоходным транспортным средством. Красный автомобиль движется по левой полосе без необходимости, не выполняя обгон или иной разрешённый манёвр. Следовательно, водитель красного автомобиля нарушает Правила дорожного движения.",
+      "explanationOz": "YHQning 10-bob, 68-bandiga asosan:\r\n\r\n68. Tezligi soatiga 40 km/soatdan oshmaydigan yoki texnik sabablarga ko‘ra bundan tez harakatlana olmaydigan transport vositalari aylanib o‘tish, quvib o‘tish, chapga burilish yoki qayrilib olish uchun qayta tizilishdan tashqari barcha hollarda faqat chetki o‘ng qatorda harakatlanishlari kerak.\r\n\r\nMazkur holatda oq yuk furgoni sekin harakatlanuvchi transport vositasi emas. Qizil avtomobil esa chap qatorda hech qanday zarurat bo‘lmasdan harakatlanmoqda. Shuning uchun u chetki o‘ng qatorni egallamaganligi sababli Yo‘l harakati qoidalarini buzmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784374471810-491596083.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6571,
+          "textUz": "Бузмади",
+          "textRu": "Не нарушает",
+          "textOz": "Buzmadi",
+          "isCorrect": false
+        },
+        {
+          "id": 6572,
+          "textUz": "Бузди",
+          "textRu": "Нарушает",
+          "textOz": "Buzdi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6572
+      ]
+    },
+    {
+      "id": 1259,
+      "questionUz": "Тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобилига қайси йўналишларда ҳаракатланиш тақиқланади?",
+      "questionRu": "В каких направлениях запрещено движение грузовому автомобилю с разрешённой максимальной массой более 3,5 тонны?",
+      "questionOz": "To‘liq vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobiliga qaysi yo‘nalishlarda harakatlanish taqiqlanadi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси, 4.5.2-белгиси ва 7.2.1-қўшимча ахборот белгиси талабига асосан:\r\n\r\n4.5.2 «Енгил автомобиллар ҳаракатланадиган йўл» белгиси ҳамда унинг остидаги икки томонлама йўналишни кўрсатувчи қўшимча белги ушбу йўл бўйлаб фақат енгил автомобиллар, мотоцикллар ва рухсат этилган транспорт воситалари ҳаракатланиши мумкинлигини билдиради.\r\n\r\nТўлиқ вазни 3,5 тоннадан ортиқ юк автомобиллари мазкур йўлга кира олмайди. Шунинг учун уларга чапга ҳам, ўнгга ҳам бурилиш тақиқланади.",
+      "explanationRu": "Согласно требованиям приложения 1, дорожного знака 4.5.2 и таблички дополнительной информации 7.2.1 Правил дорожного движения:\r\n\r\nЗнак 4.5.2 «Дорога для легковых автомобилей» вместе с табличкой, указывающей действие в обоих направлениях, означает, что по этой дороге разрешено движение только легковых автомобилей, мотоциклов и иных транспортных средств, которым это разрешено.\r\n\r\nГрузовым автомобилям с разрешённой максимальной массой более 3,5 тонны въезд на такую дорогу запрещён. Поэтому им запрещено поворачивать как налево, так и направо.",
+      "explanationOz": "YHQning 1-ilovasi, 4.5.2-belgisi va 7.2.1-qo‘shimcha axborot belgisi talabiga asosan:\r\n\r\n4.5.2 \"Yengil avtomobillar harakatlanadigan yo‘l\" belgisi va uning ostidagi ikki tomonlama yo‘nalishni ko‘rsatuvchi qo‘shimcha belgi ushbu yo‘l bo‘ylab faqat yengil avtomobillar, mototsikllar va ruxsat etilgan transport vositalari harakatlanishi mumkinligini bildiradi.\r\n\r\nTo‘liq vazni 3,5 tonnadan ortiq yuk avtomobillari mazkur yo‘lga kira olmaydi. Shuning uchun ularga chapga ham, o‘ngga ham burilish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785231614015-967816888.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6748,
+          "textUz": "Чапга ва ўнгга",
+          "textRu": "Налево и направо",
+          "textOz": "Chapga va o‘ngga",
+          "isCorrect": true
+        },
+        {
+          "id": 6749,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6750,
+          "textUz": "Барча йўналишларда",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6748
+      ]
+    },
+    {
+      "id": 1260,
+      "questionUz": "Қайси йўналиш бўйича ҳаракатланишга рухсат берилган?",
+      "questionRu": "В каких направлениях разрешено движение?",
+      "questionOz": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat berilgan?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси, 5.8.2 «Тасмалар бўйича ҳаракатланиш йўналиши» белгисига асосан:\r\n\r\n5.8.2-белги ҳар бир ҳаракат тасмасидан қайси йўналишларда ҳаракатланиш мумкинлигини кўрсатади.\r\n\r\nКўк автомобиль чап ҳаракат тасмасида жойлашган. Ушбу тасмадан:\r\nчапга бурилиш,\r\nтўғрига ҳаракатланиш,\r\nқайрилиб олишга рухсат берилади.\r\nҚизил автомобиль ўнг ҳаракат тасмасида жойлашган. Ушбу тасмадан:\r\nфақат тўғрига ҳаракатланишга рухсат берилади.\r\n\r\nШунинг учун кўк автомобиль тўғрига, чапга ва қайрилиб олишга, қизил автомобиль эса фақат тўғрига ҳаракатланиши мумкин.",
+      "explanationRu": "Согласно приложению 1 ПДД, дорожному знаку 5.8.2 «Направления движения по полосам»:\r\n\r\nЗнак 5.8.2 определяет, в каких направлениях разрешено движение с каждой полосы.\r\n\r\nСиний автомобиль находится в левой полосе. С этой полосы разрешается:\r\nповорот налево;\r\nдвижение прямо;\r\nразворот.\r\nКрасный автомобиль находится в правой полосе. С этой полосы разрешается:\r\nтолько движение прямо.\r\n\r\nСледовательно, синий автомобиль может двигаться прямо, налево и выполнять разворот, а красный автомобиль — только прямо.",
+      "explanationOz": "YHQning 1-ilovasi, 5.8.2 \"Tasmalar bo‘yicha harakatlanish yo‘nalishi\" belgisiga asosan:\r\n\r\n5.8.2-belgi har bir qatnov tasmasidan qaysi yo‘nalishlarda harakatlanish mumkinligini ko‘rsatadi.\r\n\r\nKo‘k avtomobil chap qatnov tasmasida joylashgan. Ushbu tasma belgiga ko‘ra:\r\nchapga burilish,\r\nto‘g‘riga harakatlanish,\r\nqayrilib olish uchun mo‘ljallangan.\r\nQizil avtomobil o‘ng qatnov tasmasida joylashgan. Ushbu tasma belgiga ko‘ra:\r\nfaqat to‘g‘riga harakatlanish uchun mo‘ljallangan.\r\n\r\nShuning uchun ko‘k avtomobil to‘g‘riga, chapga va qayrilib olishga, qizil avtomobil esa faqat to‘g‘riga harakatlanishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785232871668-594303702.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6751,
+          "textUz": "Кўк – тўғрига, чапга ва қайрилиб олишга; Қизил – тўғрига.",
+          "textRu": "Синий — прямо, налево и на разворот; Красный — только прямо.",
+          "textOz": "Ko‘k – to‘g‘riga, chapga va qayrilib olishga; Qizil – to‘g‘riga.",
+          "isCorrect": true
+        },
+        {
+          "id": 6752,
+          "textUz": "Кўк чапга ва тўғрига; Қизил ўнгга.",
+          "textRu": "Синий — налево и прямо; Красный — направо.",
+          "textOz": "Ko‘k chapga va to‘g‘riga; Qizil o‘ngga.",
+          "isCorrect": false
+        },
+        {
+          "id": 6753,
+          "textUz": "Кўк тўғрига ва қайрилиб олишга; Қизил тўғрига.",
+          "textRu": "Синий — прямо и на разворот; Красный — только прямо.",
+          "textOz": "Ko‘k to‘g‘riga va qayrilib olishga; Qizil to‘g‘riga.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6751
+      ]
+    },
+    {
+      "id": 1261,
+      "questionUz": "Кўрсатилган вазиятда кўк автомобилни қайси томонидан айланиб ўтиш керак?",
+      "questionRu": "С какой стороны необходимо объехать синий автомобиль в данной ситуации?",
+      "questionOz": "Ko‘rsatilgan vaziyatda ko‘k avtomobilni qaysi tomonidan aylanib o‘tish kerak?",
+      "explanationUz": "ЙҲҚнинг 11-боби (қувиб ўтиш ва айланиб ўтиш қоидалари)га асосан:\r\n\r\nҚора автомобиль чапга бурилиш учун йўлнинг ўрта қисмига чиқиб, чапга бурилиш манёврини бажаришга тайёрланмоқда.\r\n\r\nОқ автомобиль эса ҳаракатини давом эттириш учун чап томондан эмас, балки ўнг томондан айланиб ўтиши керак.\r\n\r\nСабаби:\r\n\r\nҚора автомобиль чапга бурилишни бошлаган.\r\nУнинг чап томонидан ўтиш хавфли ва тақиқланади.\r\nАгар ўнг томонда етарли жой мавжуд бўлса, айланиб ўтиш айнан ўнг томондан амалга оширилади.\r\n\r\nШунинг учун ушбу вазиятда қора автомобилни фақат ўнг томонидан айланиб ўтишга рухсат этилади.",
+      "explanationRu": "Согласно главе 11 ПДД (правила обгона и объезда):\r\n\r\nЧёрный автомобиль занял положение для выполнения поворота налево.\r\n\r\nБелый автомобиль, продолжая движение, должен объехать его справа, а не слева.\r\n\r\nПричина:\r\n\r\nЧёрный автомобиль уже готовится к повороту налево.\r\nОбъезд слева в данной ситуации запрещён и небезопасен.\r\nПри наличии свободной полосы справа объезд выполняется именно с правой стороны.\r\n\r\nПоэтому в данной ситуации чёрный автомобиль необходимо объехать справа.",
+      "explanationOz": "YHQning 11-bobi (quvib o‘tish va aylanib o‘tish qoidalari)ga asosan:\r\n\r\nQora avtomobil chapga burilish uchun yo‘lning o‘rta qismiga chiqib, chapga burilish manevrini bajarishga tayyorlanmoqda.\r\n\r\nOq avtomobil esa harakatini davom ettirishi uchun chap tomondan emas, balki o‘ng tomondan aylanib o‘tishi kerak.\r\n\r\nSababi:\r\n\r\nQora avtomobil chapga burilishni boshlagan.\r\nUning chap tomonidan o‘tish xavfli va taqiqlanadi.\r\nO‘ng tomonda yetarli joy mavjud bo‘lsa, aylanib o‘tish aynan o‘ng tomondan amalga oshiriladi.\r\n\r\nShuning uchun ushbu vaziyatda qora avtomobilni faqat o‘ng tomonidan aylanib o‘tishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785235335251-905885417.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6754,
+          "textUz": "Ўнг томонидан",
+          "textRu": "Справа",
+          "textOz": "O‘ng tomonidan",
+          "isCorrect": true
+        },
+        {
+          "id": 6755,
+          "textUz": "Ҳар икки томонидан рухсат этилади",
+          "textRu": "Разрешается объехать с любой стороны",
+          "textOz": "Har ikki tomonidan ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6756,
+          "textUz": "Чап томонидан",
+          "textRu": "Слева",
+          "textOz": "Chap tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 6757,
+          "textUz": "Ҳар икки томонидан тақиқланади",
+          "textRu": "Объезд запрещён с обеих сторон",
+          "textOz": "Har ikki tomonidan taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6754
+      ]
+    },
+    {
+      "id": 1262,
+      "questionUz": "Қайси белги велосипедчилар ва индивидуал ҳаракатланиш воситалари учун тасмани билдиради?",
+      "questionRu": "Какой знак обозначает полосу для велосипедистов и средств индивидуальной мобильности?",
+      "questionOz": "Qaysi belgi velosipedchilar va individual harakatlanish vositalari uchun tasmani bildiradi?",
+      "explanationUz": "ЙҲҚнинг 1-иловасидаги ахборот-кўрсаткич белгиларига асосан:\r\n\r\nB белгиси велосипедчилар ва индивидуал ҳаракатланиш воситалари (электр самокат, сегвей ва бошқалар) учун махсус ажратилган ҳаракат тасмасини билдиради.\r\n\r\nA белгиси – велосипед йўлаги ёки велосипедлар ҳаракатланиши учун мўлжалланган йўлни билдиради, тасмани эмас.\r\nB белгиси – велосипедчилар ва индивидуал ҳаракатланиш воситалари учун ҳаракат тасмасини билдиради. ✅\r\nC белгиси – велосипедчилар чиқиши ёки улар ҳаракатланиши мумкин бўлган ҳудуд ҳақида огоҳлантирувчи белги ҳисобланади.\r\n\r\nШунинг учун тўғри жавоб — B.",
+      "explanationRu": "Согласно информационно-указательным знакам приложения 1 ПДД:\r\n\r\nЗнак B обозначает полосу движения, предназначенную для велосипедистов и средств индивидуальной мобильности (электросамокатов, сигвеев и др.).\r\n\r\nЗнак A обозначает велосипедную дорожку, а не полосу движения.\r\nЗнак B обозначает полосу для велосипедистов и средств индивидуальной мобильности. ✅\r\nЗнак C является предупреждающим знаком, информирующим о возможном появлении велосипедистов.\r\n\r\nПоэтому правильный ответ — B.",
+      "explanationOz": "YHQning 1-ilovasidagi axborot-ko‘rsatkich belgilariga asosan:\r\n\r\nB belgisi velosipedchilar va individual harakatlanish vositalari (elektr samokat, segvey va boshqalar) uchun maxsus ajratilgan harakat tasmasini bildiradi.\r\n\r\nA belgisi – velosiped yo‘lagi yoki velosiped harakatlanishi uchun mo‘ljallangan yo‘lni bildiradi, tasmani emas.\r\nB belgisi – velosipedchilar va individual harakatlanish vositalari uchun harakat tasmasini bildiradi. ✅\r\nC belgisi – velosipedchilar chiqishi yoki ular harakatlanishi mumkin bo‘lgan hudud haqida ogohlantiruvchi belgi hisoblanadi.\r\n\r\nShuning uchun to‘g‘ri javob B.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785235659225-972130510.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6758,
+          "textUz": "B",
+          "textRu": "B",
+          "textOz": "B",
+          "isCorrect": true
+        },
+        {
+          "id": 6759,
+          "textUz": "C",
+          "textRu": "C",
+          "textOz": "C",
+          "isCorrect": false
+        },
+        {
+          "id": 6760,
+          "textUz": "A",
+          "textRu": "A",
+          "textOz": "A",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6758
+      ]
+    },
+    {
+      "id": 1263,
+      "questionUz": "Қайси расмда пиёда(лар) йўлни қоидани бузмаган ҳолда кесиб ўтмоқда?",
+      "questionRu": "На каких изображениях пешеход(ы) переходят дорогу, не нарушая Правила дорожного движения?",
+      "questionOz": "Qaysi rasmda piyoda(lar) yo‘lni qoidani buzmagan holda kesib o‘tmoqda?",
+      "explanationUz": "ЙҲҚнинг пиёдалар ҳаракати қоидаларига асосан:\r\n\r\n1-расмда пиёдалар пиёдалар ўтиш жойи (зебра) орқали йўлни кесиб ўтмоқда. Бу қоидаларга мувофиқ.\r\n2-расмда яқин атрофда пиёдалар ўтиш жойи йўқ, шунинг учун пиёда йўлни шу ердан кесиб ўтишига рухсат этилади.\r\n3-расмда пиёда яқин атрофда пиёдалар ўтиш жойи бўлишига қарамай, қатнов қисмини белгиланмаган жойдан кесиб ўтмоқда. Бу қоидабузарлик ҳисобланади.\r\n4-расмда пиёда белгиланган пиёдалар ўтиш жойидан фойдаланмоқда. Бу тўғри ҳаракат ҳисобланади.\r\n\r\nШунинг учун 1-, 2- ва 4-расмлардаги пиёдалар қоидани бузмаган, 3-расмдаги пиёда эса қоидани бузган.",
+      "explanationRu": "Согласно Правилам дорожного движения для пешеходов:\r\n\r\nНа изображении 1 пешеходы переходят дорогу по пешеходному переходу. Это разрешено.\r\nНа изображении 2 поблизости нет пешеходного перехода, поэтому переход дороги в этом месте допускается.\r\nНа изображении 3 пешеход переходит дорогу вне пешеходного перехода, хотя переход находится рядом. Это нарушение Правил.\r\nНа изображении 4 пешеход переходит дорогу по обозначенному пешеходному переходу. Это правильно.\r\n\r\nСледовательно, на изображениях 1, 2 и 4 пешеходы действуют по Правилам, а на изображении 3 — нарушают их.",
+      "explanationOz": "YHQning piyodalar harakati qoidalariga asosan:\r\n\r\n1-rasmda piyodalar piyodalar o‘tish joyi (zebra) orqali yo‘lni kesib o‘tmoqda. Bu qoidalarga muvofiq.\r\n2-rasmda yaqin atrofda piyodalar o‘tish joyi mavjud emas, shuning uchun piyoda yo‘lni shu joydan kesib o‘tishi ruxsat etiladi.\r\n3-rasmda piyoda yaqin atrofda piyodalar o‘tish joyi bo‘lishiga qaramay, qatnov qismini belgilanmagan joydan kesib o‘tmoqda. Bu qoida buzilishi hisoblanadi.\r\n4-rasmda piyoda yana belgilangan piyodalar o‘tish joyidan foydalanmoqda. Bu to‘g‘ri harakat hisoblanadi.\r\n\r\nShuning uchun 1-, 2- va 4-rasmlardagi piyodalar qoidani buzmagan, 3-rasmdagi piyoda esa qoidani buzgan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785237325335-74480116.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6761,
+          "textUz": "Иккинчи ва учинчи расмларда",
+          "textRu": "На втором и третьем изображениях",
+          "textOz": "Ikkinchi va uchinchi rasmlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 6762,
+          "textUz": "Учинчи ва тўртинчи расмларда",
+          "textRu": "На третьем и четвёртом изображениях",
+          "textOz": "Uchinchi va to‘rtinchi rasmlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 6763,
+          "textUz": "Биринчи, иккинчи ва тўртинчи расмларда",
+          "textRu": "На первом, втором и четвёртом изображениях",
+          "textOz": "Birinchi, ikkinchi va to‘rtinchi rasmlarda",
+          "isCorrect": true
+        },
+        {
+          "id": 6764,
+          "textUz": "Иккинчи, учинчи ва тўртинчи расмларда",
+          "textRu": "На втором, третьем и четвёртом изображениях",
+          "textOz": "Ikkinchi, uchinchi va to‘rtinchi rasmlarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6763
+      ]
+    },
+    {
+      "id": 1264,
+      "questionUz": "Қайси транспорт воситасига кўрсатилган йўналишларда қайрилиб олишга рухсат этилган?",
+      "questionRu": "Какому транспортному средству разрешён разворот в показанных направлениях?",
+      "questionOz": "Qaysi transport vositasiga ko‘rsatilgan yo‘nalishlarda qayrilib olishga ruxsat etilgan?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси, 5.8.2 «Тасмалар бўйича ҳаракатланиш йўналиши» белгисига асосан:\r\n\r\nҲар бир ҳаракат тасмасида қайси йўналишда ҳаракатланиш мумкинлиги йўл белгилари билан белгиланади.\r\n\r\nҚора автомобиль турган чап тасма чапга бурилиш ва қайрилиб олиш учун мўлжалланган. Шунинг учун унга қайрилиб олишга рухсат этилади.\r\nОқ автомобиль турган ўнг тасма эса фақат тўғрига ��а чапга бурилиш учун мўлжалланган бўлиб, қайрилиб олишга рухсат берилмайди.\r\n\r\nШунинг учун ушбу вазиятда фақат қора автомобиль қайрилиб олиши мумкин.",
+      "explanationRu": "Согласно приложению 1 ПДД, дорожному знаку 5.8.2 «Направления движения по полосам»:\r\n\r\nНаправление движения с каждой полосы определяется дорожными знаками.\r\n\r\nЧёрный автомобиль находится на полосе, с которой разрешены поворот налево и разворот. Поэтому ему разрешён разворот.\r\nБелый автомобиль находится на полосе, с которой разрешены только движение прямо и поворот налево. Разворот с этой полосы не разрешён.\r\n\r\nСледовательно, разворот разрешён только чёрному автомобилю.",
+      "explanationOz": "YHQning 1-ilovasi, 5.8.2 \"Tasmalar bo‘yicha harakatlanish yo‘nalishi\" belgisiga asosan:\r\n\r\nHar bir qatnov tasmasida qaysi yo‘nalishda harakatlanish mumkinligi yo‘l belgilari bilan belgilanadi.\r\n\r\nQora avtomobil joylashgan chap tasma belgiga ko‘ra chapga burilish va qayrilib olish uchun mo‘ljallangan. Shu sababli qora avtomobilga qayrilib olishga ruxsat etiladi.\r\nOq avtomobil joylashgan o‘ng tasma esa faqat to‘g‘riga va chapga burilish uchun mo‘ljallangan bo‘lib, qayrilib olishga ruxsat bermaydi.\r\n\r\nShuning uchun ushbu vaziyatda faqat qora avtomobil qayrilib olishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785239322756-375550123.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6765,
+          "textUz": "Оқ автомобилга",
+          "textRu": "Белому автомобилю",
+          "textOz": "Oq avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 6766,
+          "textUz": "Қора автомобилга",
+          "textRu": "Чёрному автомобилю",
+          "textOz": "Qora avtomobilga",
+          "isCorrect": true
+        },
+        {
+          "id": 6767,
+          "textUz": "Ҳар иккисига рухсат этилган",
+          "textRu": "Разрешено обоим транспортным средствам",
+          "textOz": "Har ikkisiga ruxsat etilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 6768,
+          "textUz": "Ҳар иккисига тақиқланган",
+          "textRu": "Запрещено обоим транспортным средствам",
+          "textOz": "Har ikkisiga taqiqlangan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6766
+      ]
+    },
+    {
+      "id": 1265,
+      "questionUz": "Кўрсатилган жойда оқ автомобилга тўхташга рухсат этиладими?",
+      "questionRu": "Разрешена ли остановка белому автомобилю в указанном месте?",
+      "questionOz": "Ko‘rsatilgan joyda oq avtomobilga to‘xtashga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚнинг 9-боб, 87-бандига асосан:\r\n\r\nАҳоли пунктларида транспорт воситаларини йўлнинг ўнг четида ёки йўл ёқасида тўхтатишга рухсат этилади.\r\n\r\nУшбу ҳолатда оқ автомобиль йўлнинг ўнг томонидаги йўл ёқасида тўхтаган. Тўхташни тақиқловчи йўл белгиси ёки йўл чизиғи мавжуд эмас. Шунинг учун оқ автомобиль ушбу жойда қоидабузарлик қилмаган ва тўхташига рухсат этилади.",
+      "explanationRu": "Согласно главе 9, пункту 87 Правил дорожного движения:\r\n\r\nВ населённых пунктах остановка транспортных средств разрешается у правого края проезжей части или на обочине, если это не запрещено дорожными знаками или разметкой.\r\n\r\nВ данной ситуации белый автомобиль остановился на правой обочине. Запрещающих дорожных знаков или разметки нет, поэтому остановка белого автомобиля в этом месте разрешена и не является нарушением.",
+      "explanationOz": "YHQning 9-bob, 87-bandiga asosan:\r\n\r\nAholi punktlarida transport vositalarini yo‘lning o‘ng chetida yoki yo‘l yoqasida to‘xtatishga ruxsat etiladi.\r\n\r\nUshbu holatda oq avtomobil yo‘lning o‘ng tomonidagi yo‘l yoqasida to‘xtagan. To‘xtashni taqiqlovchi yo‘l belgisi yoki yo‘l chizig‘i mavjud emas. Shuning uchun oq avtomobilning ushbu joyda to‘xtashi qoidalarga zid emas va ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785240398696-703208285.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6769,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6770,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6769
+      ]
+    },
+    {
+      "id": 1266,
+      "questionUz": "Кўрсатилган жойда оқ автомобилга тўхташ тақиқланадими?",
+      "questionRu": "Запрещена ли остановка белому автомобилю в указанном месте?",
+      "questionOz": "Ko‘rsatilgan joyda oq avtomobilga to‘xtash taqiqlanadimi?",
+      "explanationUz": "ЙҲҚнинг 9-боб, 88-бандига асосан:\r\n\r\nСариқ узлуксиз чизиқ (1.4 йўл чизиғи) туширилган йўл четида транспорт воситаларини тўхтатиш тақиқланади.\r\n\r\nУшбу ҳолатда оқ автомобиль сариқ узлуксиз чизиқ ёнида тўхтаган. Шунинг учун бу жойда тўхташ қоидаларга зид ҳисобланади ва тақиқланади.",
+      "explanationRu": "Согласно главе 9, пункту 88 Правил дорожного движения:\r\n\r\nЖёлтая сплошная линия разметки (1.4) обозначает место, где остановка транспортных средств запрещена.\r\n\r\nВ данной ситуации белый автомобиль остановился у жёлтой сплошной линии, поэтому такая остановка нарушает требования Правил дорожного движения и запрещена.",
+      "explanationOz": "YHQning 9-bob, 88-bandiga asosan:\r\n\r\nSariq uzluksiz chiziq (1.4 yo‘l chizig‘i) tushirilgan yo‘l chetida transport vositalarini to‘xtatish taqiqlanadi.\r\n\r\nUshbu holatda oq avtomobil sariq uzluksiz chiziq yonida to‘xtagan. Shu sababli bu joyda to‘xtash qoidalarga zid hisoblanadi va taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785241387238-713998176.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6771,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6772,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6772
+      ]
+    },
+    {
+      "id": 1267,
+      "questionUz": "Ўзбекистон Республикаси йўл ҳаракати қоидалари нима учун ташкил этилган?",
+      "questionRu": "Для чего разработаны Правила дорожного движения Республики Узбекистан?",
+      "questionOz": "O‘zbekiston Respublikasi yo‘l harakati qoidalari nima uchun tashkil etilgan?",
+      "explanationUz": "Ўзбекистон Республикаси Йўл ҳаракати қоидаларининг 1-бандига асосан:\r\n\r\nЙўл ҳаракати қоидалари йўл ҳаракати хавфсизлигини таъминлаш, йўл-транспорт ҳодисаларининг олдини олиш, барча йўл ҳаракати иштирокчилари учун ягона тартибни белгилаш ҳамда ҳаракатни хавфсиз ва самарали ташкил этиш мақсадида ишлаб чиқилган.",
+      "explanationRu": "Согласно пункту 1 Правил дорожного движения Республики Узбекистан:\r\n\r\nПравила дорожного движения разработаны для обеспечения безопасности дорожного движения, предупреждения дорожно-транспортных происшествий, установления единого порядка для всех участников дорожного движения и организации безопасного и эффективного движения.",
+      "explanationOz": "O‘zbekiston Respublikasi Yo‘l harakati qoidalarining 1-bandiga asosan:\r\n\r\nYo‘l harakati qoidalari yo‘l harakati xavfsizligini ta’minlash, yo‘l-transport hodisalarining oldini olish, barcha yo‘l harakati ishtirokchilari uchun yagona tartibni belgilash hamda harakatni xavfsiz va samarali tashkil etish maqsadida ishlab chiqilgan.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6773,
+          "textUz": "Транспорт воситаларини давлат рўйхатидан ўтказиш ва жарималарни ундириш мақсадида.",
+          "textRu": "Для государственной регистрации транспортных средств и взыскания штрафов.",
+          "textOz": "Transport vositalarini davlat ro‘yxatidan o‘tkazish va jarimalarni undirish maqsadida.",
+          "isCorrect": false
+        },
+        {
+          "id": 6774,
+          "textUz": "Автомобиль ойналарини қорайтириш тартибини белгилаш учун.",
+          "textRu": "Для установления порядка тонировки стёкол автомобилей.",
+          "textOz": "Avtomobil oynalarini qoraytirish tartibini belgilash uchun.",
+          "isCorrect": false
+        },
+        {
+          "id": 6775,
+          "textUz": "Йўл ҳаракати қоидаларини янада такомиллаштириш, йўл-транспорт ҳодисаларининг олдини олиш, йўл ҳаракати хавфсизлигини назорат қилиш ва самарадорлигини ошириш мақсадида.",
+          "textRu": "Для совершенствования правил дорожного движения, предупреждения дорожно-транспортных происшествий, обеспечения контроля за безопасностью дорожного движения и повышения эффективности организации движения.",
+          "textOz": "Yo‘l harakati qoidalarini yanada takomillashtirish, yo‘l-transport hodisalarining oldini olish, yo‘l harakati xavfsizligini nazorat qilish va samaradorligini oshirish maqsadida.",
+          "isCorrect": true
+        },
+        {
+          "id": 6776,
+          "textUz": "Йўллардаги чуқурликларни ва йўл ишларини таъмирлаш учун.",
+          "textRu": "Для ремонта дорожных ям и проведения дорожных работ.",
+          "textOz": "Yo‘llardagi chuqurliklarni va yo‘l ishlarini ta’mirlash uchun.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6775
+      ]
+    }
+  ]
+}

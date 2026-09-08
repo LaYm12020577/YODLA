@@ -1,0 +1,186 @@
+{
+  "category": "Знаки сервиса",
+  "count": 30,
+  "signs": [
+    {
+      "number": "6.1",
+      "description": "«Пункт медицинской помощи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.1_resize-min.png.webp",
+      "imageFile": "6.1.webp"
+    },
+    {
+      "number": "6.2",
+      "description": "«Больница».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.2_resize-min.png.webp",
+      "imageFile": "6.2.webp"
+    },
+    {
+      "number": "6.3.1",
+      "description": "«Автомобильная заправочная станция».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.3.1_resize-min.png.webp",
+      "imageFile": "6.3.1.webp"
+    },
+    {
+      "number": "6.3.2",
+      "description": "«Многофункциональная автомобильная заправочная станция».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.3.2_resize-min.png.webp",
+      "imageFile": "6.3.2.webp"
+    },
+    {
+      "number": "6.3.3",
+      "description": "«Станция для подзарядки электромобилей».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.3.3_resize-min.png.webp",
+      "imageFile": "6.3.3.webp"
+    },
+    {
+      "number": "6.4",
+      "description": "«Техническое обслуживание автомобилей».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.4_resize-min.png.webp",
+      "imageFile": "6.4.webp"
+    },
+    {
+      "number": "6.5",
+      "description": "«Мойка автомобилей».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.5_resize-min.png.webp",
+      "imageFile": "6.5.webp"
+    },
+    {
+      "number": "6.6",
+      "description": "«Телефон».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.6_resize-min.png.webp",
+      "imageFile": "6.6.webp"
+    },
+    {
+      "number": "6.7",
+      "description": "«Пункт пи��ания».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.7_resize-min.png.webp",
+      "imageFile": "6.7.webp"
+    },
+    {
+      "number": "6.8",
+      "description": "«Питьевая вода».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.8_resize-min.png.webp",
+      "imageFile": "6.8.webp"
+    },
+    {
+      "number": "6.9",
+      "description": "«Гостиница».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.9_resize-min.png.webp",
+      "imageFile": "6.9.webp"
+    },
+    {
+      "number": "6.10",
+      "description": "«Кемпинг».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.10_resize-min.png.webp",
+      "imageFile": "6.10.webp"
+    },
+    {
+      "number": "6.11",
+      "description": "«Место отдыха».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.11_resize-min.png.webp",
+      "imageFile": "6.11.webp"
+    },
+    {
+      "number": "6.12",
+      "description": "«Пост ДПС».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.12_resize-min.png.webp",
+      "imageFile": "6.12.webp"
+    },
+    {
+      "number": "6.13",
+      "description": "«Контрольный пункт международных автоперевозчиков».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.13_resize-min.png.webp",
+      "imageFile": "6.13.webp"
+    },
+    {
+      "number": "6.14",
+      "description": "«Туалет».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.14_resize-min.png.webp",
+      "imageFile": "6.14.webp"
+    },
+    {
+      "number": "6.15",
+      "description": "«Место сбора мусора».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.15_resize-min.png.webp",
+      "imageFile": "6.15.webp"
+    },
+    {
+      "number": "6.16",
+      "description": "«Водоем для купания».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.16_resize-min.png.webp",
+      "imageFile": "6.16.webp"
+    },
+    {
+      "number": "6.17",
+      "description": "«Отдел внутренних дел».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.17_resize-min.png.webp",
+      "imageFile": "6.17.webp"
+    },
+    {
+      "number": "6.18",
+      "description": "«Радиосвязь».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.18_resize-min.png.webp",
+      "imageFile": "6.18.webp"
+    },
+    {
+      "number": "6.19",
+      "description": "«Соборная мечеть».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.19_resize-min.png.webp",
+      "imageFile": "6.19.webp"
+    },
+    {
+      "number": "6.20",
+      "description": "«Церковь».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.20_resize-min.png.webp",
+      "imageFile": "6.20.webp"
+    },
+    {
+      "number": "6.21",
+      "description": "«Молитвенный дом».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.21_resize-min.png.webp",
+      "imageFile": "6.21.webp"
+    },
+    {
+      "number": "6.22",
+      "description": "«Железнодорожный вокзал».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.22_resize-min.png.webp",
+      "imageFile": "6.22.webp"
+    },
+    {
+      "number": "6.23",
+      "description": "«Аэропорт».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.23_resize-min.png.webp",
+      "imageFile": "6.23.webp"
+    },
+    {
+      "number": "6.24",
+      "description": "«Рынок».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.24_resize-min.png.webp",
+      "imageFile": "6.24.webp"
+    },
+    {
+      "number": "6.25",
+      "description": "«Центр информации туризма».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.25_resize-min.png.webp",
+      "imageFile": "6.25.webp"
+    },
+    {
+      "number": "6.26",
+      "description": "«Заповедник».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.26_resize-min.png.webp",
+      "imageFile": "6.26.webp"
+    },
+    {
+      "number": "6.27",
+      "description": "«Живописное место».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.27_resize-min.png.webp",
+      "imageFile": "6.27.webp"
+    },
+    {
+      "number": "6.28",
+      "description": "«Памятник зодчества».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.28_resize-min.png.webp",
+      "imageFile": "6.28.webp"
+    }
+  ]
+}

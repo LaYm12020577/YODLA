@@ -1,0 +1,60 @@
+{
+  "category": "Imtiyoz belgilari",
+  "count": 9,
+  "signs": [
+    {
+      "number": "2.1",
+      "description": "«Asosiy yo‘l».\nHarakat tartibga solinmagan chorrahalarda oldin o‘tish huquqini beradi.\nBelgi asosiy yo‘l boshiga va chorrahalarning bevosita oldiga o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.1_resize-min.png",
+      "imageFile": "2.1.png"
+    },
+    {
+      "number": "2.2",
+      "description": "«Asosiy yo‘lning oxiri».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.2_resize-min.png",
+      "imageFile": "2.2.png"
+    },
+    {
+      "number": "2.3.1",
+      "description": "«Ikkinchi darajali yo‘l bilan kesishuv».\nYo‘l belgilari aholi punktlarida kesishmagacha 50 — 100 metr masofada, aholi punktlaridan tashqarida esa 150 — 300 metr masofada o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.3.1.1_resize-min.png.webp",
+      "imageFile": "2.3.1.webp"
+    },
+    {
+      "number": "2.3.2",
+      "description": "«Ikkinchi darajali yo‘l bilan tutashuv o‘ngdan».\nYo‘l belgilari aholi punktlarida kesishmagacha 50 — 100 metr masofada, aholi punktlaridan tashqarida esa 150 — 300 metr masofada o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.3.2.1_resize-min.png.webp",
+      "imageFile": "2.3.2.webp"
+    },
+    {
+      "number": "2.3.3",
+      "description": "«Ikkinchi darajali yo‘l bilan tutashuv chapdan».\nYo‘l belgilari aholi punktlarida kesishmagacha 50 — 100 metr masofada, aholi punktlaridan tashqarida esa 150 — 300 metr masofada o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.3.3.1_resize-min.png.webp",
+      "imageFile": "2.3.3.webp"
+    },
+    {
+      "number": "2.4",
+      "description": "«Yo‘l bering».\nHaydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.4_resize-min.png.webp",
+      "imageFile": "2.4.webp"
+    },
+    {
+      "number": "2.5",
+      "description": "«To‘xtamasdan harakatlanish taqiqlangan».\nTo‘xtash chizig‘i oldida, agar u bo‘lmasa, kesib o‘tiladigan qatnov qismining chetida to‘xtamasdan harakatlanish taqiqlanadi. Haydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositalariga yo‘l berishi kerak.\nBu belgi temir yo‘l kesishmasi yoki karantin maskanidan oldin o‘rnatilishi mumkin. Bunday hollarda haydovchi to‘xtash chizig‘i oldida, u bo‘lmasa, belgi oldida to‘xtashi kerak.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.5_resize-min.png.webp",
+      "imageFile": "2.5.webp"
+    },
+    {
+      "number": "2.6",
+      "description": "«Ro‘para harakatlanishning ustunligi».\nQarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo‘lning tor qismiga kirish taqiqlanadi. Haydovchi yo‘lning tor qismida bo‘lgan yoki ro‘paradan unga yaqin bo‘lgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.6_resize-min.png.webp",
+      "imageFile": "2.6.webp"
+    },
+    {
+      "number": "2.7",
+      "description": "«Ro‘paradagi harakatlanishga nisbatan imtiyoz».\nYo‘lning tor qismida harakatlanishda haydovchi ro‘paradan kelayotgan transport vositasiga nisbatan imtiyozga egaligini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/2.7_resize-min.png.webp",
+      "imageFile": "2.7.webp"
+    }
+  ]
+}

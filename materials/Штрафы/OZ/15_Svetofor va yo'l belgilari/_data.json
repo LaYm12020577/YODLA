@@ -1,0 +1,66 @@
+{
+  "category": "Svetofor va yo'l belgilari",
+  "count": 6,
+  "fines": [
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Yo'l belgilari talablariga rioya qilmaslik",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Piyodalar yo'lakchasida harakatlanish",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": null,
+      "violation": "To'xtash chizig'idan o'tish (qizil chiroqda)",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": 1,
+      "violation": "Qizil chiroqda o'tish (birinchi marta)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": 2,
+      "violation": "Qizil chiroqda o'tish (takroriy)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "4.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    },
+    {
+      "article": 129,
+      "subArticle": 3,
+      "violation": "Qizil chiroqda o'tish (uchinchi marta)",
+      "fineBhm": null,
+      "fineUzs": null,
+      "penaltyPoints": "6.0",
+      "additionalPenalty": "1 yilga haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": true
+    }
+  ]
+}

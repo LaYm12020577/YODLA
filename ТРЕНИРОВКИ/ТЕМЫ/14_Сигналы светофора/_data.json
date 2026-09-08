@@ -1,0 +1,1526 @@
+{
+  "title": "14. Сигналы светофора (боб 7.1)",
+  "count": 39,
+  "questions": [
+    {
+      "id": 413,
+      "questionUz": "Қайси транспорт воситаларига кўрсатилган йўналишлар бўйича ҳаракатланишга рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешается движение в указанных направлениях?",
+      "questionOz": "Qaysi transport vositalariga ko'rsatilgan yo'nalishlar bo'yicha harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Светофорнинг қизил, яъни тақиқловчи ишораси ёниб турибди. Бироқ қўшимча яшил тармоқ (стрелка) тўғрига ҳаракатланишга рухсат бермоқда.\r\n\r\nҚўшимча тармоқ фақат ўзи кўрсатган йўналиш учун амал қилади. Шунинг учун ушбу ҳолатда фақат тўғрига ҳаракатланиш мумкин.\r\n\r\nКўк автомобил ва трамвай тўғрига ҳаракатланмоқчи бўлганлиги сабабли, улар бошқа йўналишлардан келаётган транспорт воситаларига йўл бериб, ҳаракатланишлари мумкин. Вазиятда уларга халақит берадиган транспорт воситалари йўқ.\r\n\r\nМотоцикл эса чапга бурилмоқчи. Қўшимча тармоқ чапга ҳаракатланишга рухсат бермаётганлиги сабабли, у ҳаракатлана олмайди ва асосий светофорнинг рухсат берувчи ишорасини кутиши керак.\r\n\r\nДемак, тўғри жавоб — кўк автомобил ва трамвай ҳаракатланиши мумкин.",
+      "explanationRu": "Горит красный, то есть запрещающий сигнал светофора. Однако дополнительная зелёная секция разрешает движение прямо.\r\n\r\nДополнительная секция действует только в направлении, указанном стрелкой. Поэтому в данной ситуации разрешено движение только прямо.\r\n\r\nСиний автомобиль и трамвай намерены двигаться прямо, поэтому после уступки дороги транспортным средствам с других направлений они имеют право продолжить движение. В данной ситуации помех для них нет.\r\n\r\nМотоциклист собирается повернуть налево. Поскольку дополнительная секция не разрешает движение налево, он не может продолжать движение и должен дождаться разрешающего сигнала основного светофора.\r\n\r\nСледовательно, правильный ответ — движение разрешено синему автомобилю и трамваю.",
+      "explanationOz": "Svetoforning qizil, yaʼni taqiqlovchi ishorasi yonib turibdi. Biroq qoʻshimcha yashil tarmoq (strelka) toʻgʻriga harakatlanishga ruxsat bermoqda.\r\n\r\nQoʻshimcha tarmoq faqat oʻzi ko‘rsatgan yoʻnalish uchun amal qiladi. Shuning uchun ushbu holatda faqat toʻgʻriga harakatlanish mumkin.\r\n\r\nKoʻk avtomobil va tramvay toʻgʻriga harakatlanmoqchi bo‘lganligi sababli, ular boshqa yoʻnalishlardan kelayotgan transport vositalariga yoʻl berib, harakatlanishlari mumkin. Vaziyatda ularga xalaqit beradigan transport vositalari yoʻq.\r\n\r\nMototsikl esa chapga burilmoqchi. Qoʻshimcha tarmoq chapga harakatlanishga ruxsat bermayotganligi sababli, u harakatlana olmaydi va asosiy svetoforning ruxsat beruvchi ishorasini kutishi kerak.\r\n\r\nDemak, toʻgʻri javob — ko‘k avtomobil va tramvay harakatlanishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5726,
+          "textUz": "Автомобил ҳайдовчисига",
+          "textRu": "Водителю автомобиля",
+          "textOz": "Avtomobil haydovchisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5727,
+          "textUz": "Автомобил ва мотоцикл ҳайдовчисига",
+          "textRu": "Водителям автомобиля и мотоцикла",
+          "textOz": "Avtomobil va motosikl haydovchisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5728,
+          "textUz": "Трамвай ва автомобил ҳайдовчисига",
+          "textRu": "Водителям трамвая и автомобиля",
+          "textOz": "Tramvay va avtomobil haydovchisiga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5728
+      ]
+    },
+    {
+      "id": 414,
+      "questionUz": "Ушбу светофор қайси ҳаракатланишни тартибга солиш учун қўлланади?",
+      "questionRu": "Данный светофор используется для регулирования движения:",
+      "questionOz": "Ushbu svetofor qaysi harakatlanishni tartibga solish uchun qo'llanadi?",
+      "explanationUz": "Ушбу светофор реверсив светофор деб аталади.\r\n\r\nРеверсив светофорлар ҳаракат йўналиши вақт-вақти билан қарама-қарши томонга ўзгариб турадиган ҳаракатланиш бўлакларида қўлланилади. Улар ҳайдовчиларга қайси бўлакдан фойдаланиш мумкинлигини ва қайси бўлакка кириш тақиқланганлигини кўрсатади.\r\n\r\nДемак, ушбу светофор қатнов қисмидаги ҳаракат йўналиши қарама-қарши томонга ўзгарадиган бўлакларда қўлланиладиган реверсив светофор ҳисобланади.",
+      "explanationRu": "Данный светофор называется реверсивным светофором.\r\n\r\nРеверсивные светофоры используются на полосах движения, направление движения по которым может изменяться на противоположное в зависимости от времени суток или дорожной ситуации. Они показывают водителям, какими полосами можно пользоваться, а на какие выезд запрещён.\r\n\r\nСледовательно, это реверсивный светофор, применяемый на полосах с изменяемым направлением движения.",
+      "explanationOz": "Ushbu svetofor reversiv svetofor deb ataladi.\r\n\r\nReversiv svetoforlar harakat yoʻnalishi vaqt-vaqti bilan qarama-qarshi tomonga oʻzgarib turadigan harakatlanish bo‘laklarida qoʻllaniladi. Ular haydovchilarga qaysi bo‘lakdan foydalanish mumkinligini va qaysi bo‘lakka kirish taqiqlanganligini ko‘rsatadi.\r\n\r\nDemak, ushbu svetofor qatnov qismidagi harakat yoʻnalishi qarama-qarshi tomonga oʻzgaradigan bo‘laklarda qoʻllaniladigan reversiv svetofor hisoblanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5729,
+          "textUz": "Қатнов қисмининг бутун кенглиги бўйича",
+          "textRu": "По всей ширине проезжей части дороги",
+          "textOz": "Qatnov qismining butun kengligi bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 5730,
+          "textUz": "Қатнов қисмидаги ҳаракатланиш йўналиши қарама-қарши томонга ўзгарадиган бўлаклар бўйича",
+          "textRu": "По полосам проезжей части; где движение меняется в противоположную сторону",
+          "textOz": "Qatnov qismidagi harakatlanish yo'nalishi qarama-qarshi tomonga o'zgaradigan bo'laklar bo'yicha",
+          "isCorrect": true
+        },
+        {
+          "id": 5731,
+          "textUz": "Фақат белгиланган йўналишдаги транспорт воситалар учун мўлжалланган бўлак бўйича",
+          "textRu": "Только на тех участках дороги; которые предназначены для маршрутных транспортных средств",
+          "textOz": "Faqat belgilangan yo'nalishdagi transport vositalar uchun mo'ljallangan bo'lak bo'yicha",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5730
+      ]
+    },
+    {
+      "id": 415,
+      "questionUz": "Ушбу светафор қайси йўналишда ҳаракатланишни тақиқлайди?",
+      "questionRu": "Данный светофор запрещает движение:",
+      "questionOz": "Ushbu svetafor qaysi yo'nalishda harakatlanishni taqiqlaydi?",
+      "explanationUz": "Ушбу светофор трамвайлар ва белгиланган йўналишдаги бошқа транспорт воситалари учун қўлланилади.\r\n\r\nСветофордаги ўчиб турган сигнал ушбу йўналишда ҳаракатланиш тақиқланганлигини билдиради. Кўриб турганингиздек, чапга йўналишни кўрсатувчи сигнал ўчган.\r\n\r\nШунинг учун чапга ҳаракатланиш тақиқланади. Тўғрига ва ўнгга йўналишлар учун рухсат берилган бўлса, уларда ҳаракатланиш мумкин.\r\n\r\nСаволда айнан қайси йўналишга ҳаракатланиш тақиқланганлиги сўралган бўлса, тўғри жавоб — чапга ҳаракатланиш тақиқланади.",
+      "explanationRu": "Данный светофор применяется для трамваев и других маршрутных транспортных средств.\r\n\r\nПогашенный сигнал означает, что движение в соответствующем направлении запрещено. Как видно на рисунке, не горит сигнал, разрешающий движение налево.\r\n\r\nСледовательно, поворот налево запрещён. Если сигналы для движения прямо и направо включены, движение в этих направлениях разрешается.\r\n\r\nЕсли в вопросе спрашивается, какое направление запрещено, правильный ответ — движение налево запрещено.",
+      "explanationOz": "Ushbu svetofor tramvaylar va belgilangan yoʻnalishdagi boshqa transport vositalari uchun qoʻllaniladi.\r\n\r\nSvetofordagi o‘chib turgan signal ushbu yoʻnalishda harakatlanish taqiqlanganligini bildiradi. Koʻrib turganingizdek, chapga yoʻnalishni ko‘rsatuvchi signal o‘chgan.\r\n\r\nShuning uchun chapga harakatlanish taqiqlanadi. Toʻgʻriga va oʻngga yoʻnalishlar uchun ruxsat berilgan bo‘lsa, ularda harakatlanish mumkin.\r\n\r\nSavolda aynan qaysi yoʻnalishga harakatlanish taqiqlanganligi soʻralgan boʻlsa, toʻgʻri javob — chapga harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/6.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5732,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 5733,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To'g'riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5734,
+          "textUz": "Тўғрига ва ўнгга",
+          "textRu": "Прямо и направо",
+          "textOz": "To'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5735,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5732
+      ]
+    },
+    {
+      "id": 416,
+      "questionUz": "Навбат билан йилт-йилт этиб турувчи иккита қизил ёритгичлар қуйидаги маънога эга:",
+      "questionRu": "Два попеременно мигающих красных сигнала имеют следующее значение:",
+      "questionOz": "Navbat bilan yilt-yilt etib turuvchi ikkita qizil yoritgichlar quyidagi manoga ega:",
+      "explanationUz": "Навбат билан милтиллаб ёнувчи иккита қизил ёритгич темир йўл кесишмаларида қўлланилади.\r\n\r\nУлар поезд яқинлашаётганини ёки темир йўл кесишмасидан ўтиш хавфли эканлигини билдиради ва транспорт воситаларининг ҳаракатланишини тақиқлайди.\r\n\r\nДемак, навбат билан милтилловчи иккита қизил чироқ темир йўл кесишмаси олдида ўрнатилади ва ҳаракатланишни тақиқловчи сигнал ҳисобланади.",
+      "explanationRu": "Два попеременно мигающих красных сигнала устанавливаются перед железнодорожными переездами.\r\n\r\nОни предупреждают о приближении поезда или об опасности проезда через железнодорожный переезд и запрещают дальнейшее движение транспортных средств.\r\n\r\nСледовательно, два попеременно мигающих красных сигнала устанавливаются перед железнодорожным переездом и означают запрет движения.",
+      "explanationOz": "Navbat bilan miltillab yonuvchi ikkita qizil yoritgich temir yoʻl kesishmalarida qoʻllaniladi.\r\n\r\nUlar poyezd yaqinlashayotganini yoki temir yoʻl kesishmasidan oʻtish xavfli ekanligini bildiradi va transport vositalarining harakatlanishini taqiqlaydi.\r\n\r\nDemak, navbat bilan miltillovchi ikkita qizil chiroq temir yoʻl kesishmasi oldida oʻrnatiladi va harakatlanishni taqiqlovchi signal hisoblanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5736,
+          "textUz": "Ҳаракатни тақиқлайди",
+          "textRu": "Запрещают движение",
+          "textOz": "Harakatni taqiqlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 5737,
+          "textUz": "Бошқа ҳайдовчиларга қатнов қисмига махсус транспорт воситаларининг ўтганини хабар қилади",
+          "textRu": "Информируют других водителей о выезде на проезжую часть специальных транспортных средств",
+          "textOz": "Boshqa haydovchilarga qatnov qismiga maxsus transport vositalarining o'tganini xabar qiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5738,
+          "textUz": "Алоҳида эҳтиёткорлик билан ҳаракатланишга рухсат этади",
+          "textRu": "Разрешают движение с особой осторожностью",
+          "textOz": "Alohida ehtiyotkorlik bilan harakatlanishga ruxsat etadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5736
+      ]
+    },
+    {
+      "id": 417,
+      "questionUz": "Трамвай ҳайдовчиси ҳаракатланаётганида светофорнинг ушбу ишорасига мувофиқ бошқа йўналишлардан ҳаракатланаётган транспорт воситаларига йўл бериши керакми?",
+      "questionRu": "Должен ли водитель трамвая при движении на данный сигнал светофора уступить дорогу транспортным средствам движущимся с других направлений?",
+      "questionOz": "Tramvay haydovchisi harakatlanayotganida svetoforning ushbu ishorasiga muvofiq boshqa yo'nalishlardan harakatlanayotgan transport vositalariga yo'l berishi kerakmi?",
+      "explanationUz": "Агар трамвай учун мўлжалланган ушбу светофор сигнали ёниб турган бўлса, трамвай ҳаракатланиши мумкин. Бироқ у ҳаракатни бошлашдан олдин бошқа йўналишлардан келаётган транспорт воситаларига йўл бериши шарт.\r\n\r\nДемак, ушбу ҳолатда трамвай бошқа йўналишдан келаётган транспорт воситаларига йўл бергандан кейингина ҳаракатланиши мумкин.",
+      "explanationRu": "Если для трамвая горит данный сигнал светофора, трамвай может продолжить движение. Однако перед началом движения он обязан уступить дорогу транспортным средствам, движущимся с других направлений.\r\n\r\nСледовательно, в данной ситуации трамвай может двигаться только после того, как уступит дорогу транспортным средствам с других направлений.",
+      "explanationOz": "Agar tramvay uchun moʻljallangan ushbu svetofor signali yonib turgan boʻlsa, tramvay harakatlanishi mumkin. Biroq u harakatni boshlashdan oldin boshqa yoʻnalishlardan kelayotgan transport vositalariga yoʻl berishi shart.\r\n\r\nDemak, ushbu holatda tramvay boshqa yoʻnalishdan kelayotgan transport vositalariga yoʻl bergandan keyingina harakatlanishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5739,
+          "textUz": "Керак",
+          "textRu": "Должен",
+          "textOz": "Kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 5740,
+          "textUz": "Керак эмас",
+          "textRu": "Не должен",
+          "textOz": "Kerak emas",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5739
+      ]
+    },
+    {
+      "id": 418,
+      "questionUz": "Светофорнинг бу ишорасида қайси транспорт воситасининг ҳаракатланишига рухсат этилган?",
+      "questionRu": "Каким транспортным средствам разрешено движение при этом сигнале светофора?",
+      "questionOz": "Svetoforning bu ishorasida qaysi transport vositasining harakatlanishiga ruxsat etilgan?",
+      "explanationUz": "Кўриб турганингиздек, чапга йўналишни кўрсатувчи қўшимча тармоқ ўчган. Тўғрига ва ўнгга йўналишларни кўрсатувчи тармоқлар эса ёниб турибди.\r\n\r\nБу шуни англатадики, транспорт воситаларига тўғрига ва ўнгга ҳаракатланишга рухсат берилади, чапга бурилиш эса тақиқланади.\r\n\r\nВазиятда трамвай ва кўк автомобил чапга бурилмоқчи. Шунинг учун улар ҳаракатлана олмайди.\r\n\r\nСариқ ва қизил автомобил эса рухсат этилган йўналишда ҳаракатланмоқчи бўлганлиги сабабли, уларга ҳаракатланишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — фақат сариқ ва қизил автомобилга рухсат этилади.",
+      "explanationRu": "Как видно на рисунке, дополнительная секция, разрешающая движение налево, выключена. При этом секции для движения прямо и направо включены.\r\n\r\nЭто означает, что движение прямо и направо разрешено, а поворот налево запрещён.\r\n\r\nВ данной ситуации трамвай и синий автомобиль собираются повернуть налево, поэтому им движение не разрешается.\r\n\r\nЖёлтый и красный автомобили движутся в разрешённых направлениях, поэтому они могут продолжить движение.\r\n\r\nСледовательно, правильный ответ — движение разрешено только жёлтому и красному автомобилям.",
+      "explanationOz": "Koʻrib turganingizdek, chapga yoʻnalishni ko‘rsatuvchi qoʻshimcha tarmoq o‘chgan. Toʻgʻriga va oʻngga yoʻnalishlarni ko‘rsatuvchi tarmoqlar esa yonib turibdi.\r\n\r\nBu shuni anglatadiki, transport vositalariga toʻgʻriga va oʻngga harakatlanishga ruxsat beriladi, chapga burilish esa taqiqlanadi.\r\n\r\nVaziyatda tramvay va ko‘k avtomobil chapga burilmoqchi. Shuning uchun ular harakatlana olmaydi.\r\n\r\nSariq va qizil avtomobil esa ruxsat etilgan yoʻnalishda harakatlanmoqchi bo‘lganligi sababli, ularga harakatlanishga ruxsat etiladi.\r\n\r\nDemak, toʻgʻri javob — faqat sariq va qizil avtomobilga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5741,
+          "textUz": "Трамвай, сариқ ва қизил автомобилга",
+          "textRu": "Трамваю, желтому и красному автомобилям",
+          "textOz": "Tramvay, sariq va qizil avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 5742,
+          "textUz": "Сариқ ва қизил автомобилларга",
+          "textRu": "Желтому и красному автомобилям",
+          "textOz": "Sariq va qizil avtomobillarga",
+          "isCorrect": true
+        },
+        {
+          "id": 5743,
+          "textUz": "Барча транспорт воситаларига",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5742
+      ]
+    },
+    {
+      "id": 419,
+      "questionUz": "Светофорнинг бир вақтда ёқилган сариқ ва қизил ишоралари нимани билдиради?",
+      "questionRu": "Что обозначают одновременно включенные красный и желтый сигналы светофора?",
+      "questionOz": "Svetoforning bir vaqtda yoqilgan sariq va qizil ishoralari nimani bildiradi?",
+      "explanationUz": "Светофорнинг қизил ва сариқ ишоралари бир вақтда ёнганда, ҳаракатланиш ҳали ҳам тақиқланган ҳисобланади.\r\n\r\nУшбу сигнал ҳайдовчини тез орада яшил ишора ёниши ва ҳаракатланишга рухсат берилиши ҳақида огоҳлантиради. Бироқ қизил ва сариқ чироқлар ёниб турган пайтда ҳаракатни бошлаш мумкин эмас.\r\n\r\nДемак, қизил ва сариқ ишоралар бир вақтда ёнганда ҳаракатланиш тақиқланади ва яшил ишора тез орада ёқилиши ҳақида огоҳлантиради.",
+      "explanationRu": "Одновременное включение красного и жёлтого сигналов светофора означает, что движение по-прежнему запрещено.\r\n\r\nЭтот сигнал предупреждает водителя о том, что вскоре включится зелёный сигнал и движение будет разрешено. Однако начинать движение при красном и жёлтом сигналах нельзя.\r\n\r\nСледовательно, одновременное включение красного и жёлтого сигналов запрещает движение и предупреждает о скором включении зелёного сигнала.",
+      "explanationOz": "Svetoforning qizil va sariq ishoralari bir vaqtda yonganda, harakatlanish hali ham taqiqlangan hisoblanadi.\r\n\r\nUshbu signal haydovchini tez orada yashil ishora yonishi va harakatlanishga ruxsat berilishi haqida ogohlantiradi. Biroq qizil va sariq chiroqlar yonib turgan paytda harakatni boshlash mumkin emas.\r\n\r\nDemak, qizil va sariq ishoralar bir vaqtda yonganda harakatlanish taqiqlanadi va yashil ishora tez orada yoqilishi haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5744,
+          "textUz": "Ҳаракатни бошлаш мумкин",
+          "textRu": "Можно начинать движение",
+          "textOz": "Harakatni boshlash mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 5745,
+          "textUz": "Ҳаракатни тақиқлайди ва тезда яшил ишора ёқилиши ҳақида огоҳлантиради",
+          "textRu": "Запрещает движение и информирует о скором включении зеленого света",
+          "textOz": "Harakatni taqiqlaydi va tezda yashil ishora yoqilishi haqida ogohlantiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 5746,
+          "textUz": "Чорраҳага махсус овоз ёки милтилловчи чироқ билан ишора бераётган транспорт воситаси яқинлашиб келаётганини",
+          "textRu": "Приближение к перекрестку транспортного средства подающего звуковой или световой сигнал",
+          "textOz": "Chorrahaga maxsus ovoz yoki miltillovchi chiroq bilan ishora berayotgan transport vositasi yaqinlashib kelayotganini",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5745
+      ]
+    },
+    {
+      "id": 420,
+      "questionUz": "Ҳаракатланишга рухсат этилган барча транспорт воситалари қайси жавобда кўрсатилган?",
+      "questionRu": "В каком ответе названы все транспортные средства которым разрешено движение?",
+      "questionOz": "Harakatlanishga ruxsat etilgan barcha transport vositalari qaysi javobda ko'rsatilgan?",
+      "explanationUz": "Светофорнинг асосий ишоралари ва қўшимча тармоқлари ёниб турибди ҳамда барча йўналишларда ҳаракатланишга рухсат бермоқда.\r\n\r\nСаволга диққат қилинг: бу ерда \"ким биринчи ўтади?\" деб сўралмаган. Саволда \"кимларга ҳаракатланишга рухсат берилади?\" деб сўралган.\r\n\r\nШунинг учун устунлик тартибини аниқлаш шарт эмас. Ушбу вазиятда барча транспорт воситаларига ҳаракатланишга рухсат берилган. Кейинчалик улар йўл ҳаракати қоидаларига мувофиқ бир-бирига йўл бериб ҳаракатланадилар.\r\n\r\nДемак, тўғри жавоб — барча транспорт воситаларига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Основные сигналы светофора и дополнительные секции включены и разрешают движение во всех направлениях.\r\n\r\nОбратите внимание на формулировку вопроса: здесь не спрашивается «кто проедет первым?». Вопрос заключается в том, кому разрешено движение.\r\n\r\nПоэтому определять очерёдность проезда не требуется. В данной ситуации движение разрешено всем транспортным средствам. Далее они будут двигаться в соответствии с правилами дорожного движения, уступая друг другу при необходимости.\r\n\r\nСледовательно, правильный ответ — движение разрешено всем транспортным средствам.",
+      "explanationOz": "Svetoforning asosiy ishoralari va qoʻshimcha tarmoqlari yonib turibdi hamda barcha yoʻnalishlarda harakatlanishga ruxsat bermoqda.\r\n\r\nSavolga diqqat qiling: bu yerda \"kim birinchi oʻtadi?\" deb soʻralmagan. Savolda \"kimlarga harakatlanishga ruxsat beriladi?\" deb soʻralgan.\r\n\r\nShuning uchun ustunlik tartibini aniqlash shart emas. Ushbu vaziyatda barcha transport vositalariga harakatlanishga ruxsat berilgan. Keyinchalik ular yoʻl harakati qoidalariga muvofiq bir-biriga yoʻl berib harakatlanadilar.\r\n\r\nDemak, toʻgʻri javob — barcha transport vositalariga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/27.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5747,
+          "textUz": "Трамвай ва мотоцикл",
+          "textRu": "Трамвай и мотоцикл",
+          "textOz": "Tramvay va motosikl",
+          "isCorrect": false
+        },
+        {
+          "id": 5748,
+          "textUz": "Автомобиллар ва мотоцикл",
+          "textRu": "Автомобили и мотоцикл",
+          "textOz": "Avtomobillar va motosikl",
+          "isCorrect": false
+        },
+        {
+          "id": 5749,
+          "textUz": "Барча транспорт воситалари",
+          "textRu": "Все транспортные средства",
+          "textOz": "Barcha transport vositalari",
+          "isCorrect": true
+        },
+        {
+          "id": 5750,
+          "textUz": "Трамвай, юк автомобили ва мотоцикл",
+          "textRu": "Трамвай, грузовой автомобиль и мотоцикл",
+          "textOz": "Tramvay, yuk avtomobili va motosikl",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5749
+      ]
+    },
+    {
+      "id": 421,
+      "questionUz": "Қайси расмда ҳайдовчи ўнгга тўғри буриляпти?",
+      "questionRu": "На каком рисунке водитель правильно поворачивает направо?",
+      "questionOz": "Qaysi rasmda haydovchi o'ngga to'g'ri burilyapti?",
+      "explanationUz": "Расмга диққат билан қараймиз. Биринчи расмда оддий светофор тасвирланган, иккинчи расмда эса қўшимча тармоқли светофор мавжуд.\r\n\r\nИккинчи расмда ўнгга йўналишни кўрсатувчи қўшимча тармоқ ўчган. Бу эса ўнгга бурилиш тақиқланганлигини билдиради.\r\n\r\nСаволда қайси ҳолатда транспорт воситаси ўнгга тўғри бурилаётганлиги сўралган бўлса, биринчи расмда ҳаракат қоидага мувофиқ бажарилган ҳисобланади.\r\n\r\nДемак, тўғри жавоб — биринчи расм.",
+      "explanationRu": "Внимательно рассмотрим оба рисунка. На первом изображён обычный светофор, а на втором — светофор с дополнительной секцией.\r\n\r\nНа втором рисунке дополнительная секция, разрешающая поворот направо, выключена. Это означает, что поворот направо запрещён.\r\n\r\nЕсли в вопросе спрашивается, на каком рисунке водитель правильно выполняет поворот направо, то правильным является первый рисунок.\r\n\r\nСледовательно, правильный ответ — первый рисунок.",
+      "explanationOz": "Rasmga diqqat bilan qaraymiz. Birinchi rasmda oddiy svetofor tasvirlangan, ikkinchi rasmda esa qoʻshimcha tarmoqli svetofor mavjud.\r\n\r\nIkkinchi rasmda o‘ngga yoʻnalishni ko‘rsatuvchi qoʻshimcha tarmoq o‘chgan. Bu esa o‘ngga burilish taqiqlanganligini bildiradi.\r\n\r\nSavolda qaysi holatda transport vositasi o‘ngga to‘g‘ri burilayotganligi so‘ralgan bo‘lsa, birinchi rasmda harakat qoidaga muvofiq bajarilgan hisoblanadi.\r\n\r\nDemak, toʻgʻri javob — birinchi rasm.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/27.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5751,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": true
+        },
+        {
+          "id": 5752,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5751
+      ]
+    },
+    {
+      "id": 422,
+      "questionUz": "Ҳаракатланиш қайси йўналишга рухсат этилган?",
+      "questionRu": "В каком направлении разрешено движение?",
+      "questionOz": "Harakatlanish qaysi yo'nalishga ruxsat etilgan?",
+      "explanationUz": "Демак, светофорнинг қизил ишораси ёниб турибди. Шу билан бирга, қўшимча тармоқ ўнгга ҳаракатланишга рухсат бермоқда.\r\n\r\nБундай ҳолатда транспорт воситаси фақат қўшимча тармоқ кўрсатган йўналишда ҳаракатланиши мумкин. Қизил сигнал туфайли бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\nДемак, тўғри жавоб — фақат ўнгга, яъни биринчи йўналиш бўйича ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Горит красный сигнал светофора. Одновременно дополнительная секция разрешает движение направо.\r\n\r\nВ такой ситуации транспортному средству разрешается двигаться только в направлении, указанном дополнительной секцией. Из-за красного сигнала движение в других направлениях запрещено.\r\n\r\nСледовательно, правильный ответ — разрешено движение только направо, то есть по первому направлению.",
+      "explanationOz": "Demak, svetoforning qizil ishorasi yonib turibdi. Shu bilan birga, qoʻshimcha tarmoq oʻngga harakatlanishga ruxsat bermoqda.\r\n\r\nBunday holatda transport vositasi faqat qoʻshimcha tarmoq ko‘rsatgan yoʻnalishda harakatlanishi mumkin. Qizil signal tufayli boshqa yoʻnalishlarda harakatlanish taqiqlanadi.\r\n\r\nDemak, toʻgʻri javob — faqat oʻngga, yaʼni birinchi yoʻnalish boʻyicha harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/28.5.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5753,
+          "textUz": "Тўғрига ва ўнгга биринчи йўналишга",
+          "textRu": "Прямо и направо в первый проезд",
+          "textOz": "To'g'riga va o'ngga birinchi yo'nalishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5754,
+          "textUz": "Ўнгга биринчи йўналишга",
+          "textRu": "Направо в первый проезд",
+          "textOz": "O'ngga birinchi yo'nalishga",
+          "isCorrect": true
+        },
+        {
+          "id": 5755,
+          "textUz": "Ўнгга иккинчи йўналишга",
+          "textRu": "Направо во второй проезд",
+          "textOz": "O'ngga ikkinchi yo'nalishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5756,
+          "textUz": "Ўнгга биринчи ва иккинчи йўналишга",
+          "textRu": "Направо в первый и второй проезды",
+          "textOz": "O'ngga birinchi va ikkinchi yo'nalishga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5754
+      ]
+    },
+    {
+      "id": 423,
+      "questionUz": "Светофорнинг ушбу ишорасида қайси транспорт воситаларига ҳаракатланишга рухсат этилган?",
+      "questionRu": "Каким транспортным средствам разрешено движение при этом сигнале светофора?",
+      "questionOz": "Svetoforning ushbu ishorasida qaysi transport vositalariga harakatlanishga ruxsat etilgan?",
+      "explanationUz": "Расмда қўшимча тармоқли светофор тасвирланган. Қўшимча тармоқ ўнгга ҳаракатланиш учун мўлжалланган, лекин ҳозир у ўчиқ ҳолатда турибди.\r\n\r\nБу эса ўнгга бурилиш тақиқланганлигини билдиради.\r\n\r\nВазиятда трамвай ва мотоцикл ўнгга бурилмоқчи бўлганлиги сабабли, уларга ҳаракатланишга рухсат берилмайди.\r\n\r\nКўк автомобил ва яшил (юк) автомобил эса тақиқланмаган йўналишда ҳаракатланмоқда. Шунинг учун уларга ҳаракатланишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — юк автомобили ва енгил автомобилга ҳаракатланишга рухсат берилади.",
+      "explanationRu": "На рисунке изображён светофор с дополнительной секцией. Дополнительная секция предназначена для движения направо, но в данный момент она выключена.\r\n\r\nЭто означает, что поворот направо запрещён.\r\n\r\nТрамвай и мотоцикл собираются повернуть направо, поэтому движение для них запрещено.\r\n\r\nСиний легковой автомобиль и зелёный грузовой автомобиль движутся в разрешённых направлениях, поэтому им движение разрешается.\r\n\r\nСледовательно, правильный ответ — движение разрешено грузовому и легковому автомобилям.",
+      "explanationOz": "Rasmda qoʻshimcha tarmoqli svetofor tasvirlangan. Qoʻshimcha tarmoq oʻngga harakatlanish uchun moʻljallangan, lekin hozir u o‘chiq holatda turibdi.\r\n\r\nBu esa oʻngga burilish taqiqlanganligini bildiradi.\r\n\r\nVaziyatda tramvay va mototsikl oʻngga burilmoqchi bo‘lganligi sababli, ularga harakatlanishga ruxsat berilmaydi.\r\n\r\nKoʻk avtomobil va yashil (yuk) avtomobil esa taqiqlanmagan yoʻnalishda harakatlanmoqda. Shuning uchun ularga harakatlanishga ruxsat etiladi.\r\n\r\nDemak, toʻgʻri javob — yuk avtomobili va yengil avtomobilga harakatlanishga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/30.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5757,
+          "textUz": "Трамвайга ва мотоциклга",
+          "textRu": "Трамваю и мотоциклу",
+          "textOz": "Tramvayga va motosiklga",
+          "isCorrect": false
+        },
+        {
+          "id": 5758,
+          "textUz": "Мотоциклга, енгил автомобилга ва юк автомобилига",
+          "textRu": "Мотоциклу, легковому и грузовому автомобилям",
+          "textOz": "Motosiklga, engil avtomobilga va yuk avtomobiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 5759,
+          "textUz": "Енгил ва юк автомобилларига",
+          "textRu": "Легковому и грузовому автомобилям",
+          "textOz": "Engil va yuk avtomobillariga",
+          "isCorrect": true
+        },
+        {
+          "id": 5760,
+          "textUz": "Барча транспорт воситаларига",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5759
+      ]
+    },
+    {
+      "id": 424,
+      "questionUz": "Светофорнинг қизил ва сариқ ёриткичларидаги қора йўналтиргичлар нима ҳақида ахборот беради?",
+      "questionRu": "О чем информируют черные стрелки на красном и желтом сигналах светофора?",
+      "questionOz": "Svetoforning qizil va sariq yoritkichlaridagi qora yo'naltirgichlar nima haqida axborot beradi?",
+      "explanationUz": "Қизил ва сариқ ёритгичлар бир вақтда ёнганда, улар ҳаракатланишни тақиқлайди ва тез орада яшил ишора ёниши ҳақида огоҳлантиради.\r\n\r\nЛекин ушбу саволда ички қисмдаги яшил йўналиш кўрсаткичи ёниб турибди. Бу кўрсаткич транспорт воситаларига қайси йўналишда ҳаракатланишга рухсат берилганини билдиради.\r\n\r\nДемак, ушбу сигналнинг маъноси — светофорнинг яшил ёритгичи ёқилганда ҳаракатланишга рухсат этилган йўналишлар ҳақида ахборот беради.\r\n\r\nШунинг учун тўғри жавоб — яшил ишора ёнганда рухсат этилган ҳаракат йўналишларини кўрсатади.",
+      "explanationRu": "Красный и жёлтый сигналы, включённые одновременно, запрещают движение и предупреждают о скором включении зелёного сигнала.\r\n\r\nОднако в данном вопросе внутри секции горит зелёный указатель направления. Он информирует водителя о том, в каком направлении будет разрешено движение при включении зелёного сигнала светофора.\r\n\r\nСледовательно, правильный ответ — этот сигнал показывает направления, в которых будет разрешено движение при включении зелёного сигнала светофора.",
+      "explanationOz": "Qizil va sariq yoritgichlar bir vaqtda yonganda, ular harakatlanishni taqiqlaydi va tez orada yashil ishora yonishi haqida ogohlantiradi.\r\n\r\nLekin ushbu savolda ichki qismdagi yashil yoʻnalish ko‘rsatkichi yonib turibdi. Bu ko‘rsatkich transport vositalariga qaysi yoʻnalishda harakatlanishga ruxsat berilganini bildiradi.\r\n\r\nDemak, ushbu signalning maʼnosi — svetoforning yashil yoritgichi yoqilganda harakatlanishga ruxsat etilgan yoʻnalishlar haqida axborot beradi.\r\n\r\nShuning uchun toʻgʻri javob — yashil ishora yonganda ruxsat etilgan harakat yoʻnalishlarini koʻrsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/30.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5761,
+          "textUz": "Светофорнинг яшил ёриткичи ёқилганда ҳаракатланишнинг рухсат этилган йўналишлари ҳақида",
+          "textRu": "О разрешенных направлениях движения при включении зеленого сигнала светофора",
+          "textOz": "Svetoforning yashil yoritkichi yoqilganda harakatlanishning ruxsat etilgan yo'nalishlari haqida",
+          "isCorrect": true
+        },
+        {
+          "id": 5762,
+          "textUz": "Светофорнинг қизил ва сариқ ёриткичларида ҳаракатланишнинг рухсат этилган йўналишлари ҳақида",
+          "textRu": "О разрешенных направлениях движения при красном и желтом сигналах светофора",
+          "textOz": "Svetoforning qizil va sariq yoritkichlarida harakatlanishning ruxsat etilgan yo'nalishlari haqida",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5761
+      ]
+    },
+    {
+      "id": 425,
+      "questionUz": "Мазкур светофорнинг қизил ёриткичида ҳаракат тақиқланади:",
+      "questionRu": "При красном сигнале данного светофора движение запрещается:",
+      "questionOz": "Mazkur svetoforning qizil yoritkichida harakat taqiqlanadi:",
+      "explanationUz": "Демак, бу реверсив светофор ҳисобланади.\r\n\r\nРеверсив светофорлар ҳаракат йўналиши вақт-вақти билан ўзгариб турадиган бўлаклар устига ўрнатилади. Ҳар бир светофор ўзи жойлашган ҳаракатланиш бўлагига тааллуқли бўлади.\r\n\r\nАгар реверсив светофорда тақиқловчи сигнал (қизил X белгиси) ёниб турган бўлса, светофор қайси бўлак устига ўрнатилган бўлса, айнан ўша бўлакда ҳаракатланиш тақиқланади.\r\n\r\nДемак, тўғри жавоб — светофор жойлаштирилган бўлакда ҳаракатланиш тақиқланади.",
+      "explanationRu": "Это реверсивный светофор.\r\n\r\nРеверсивные светофоры устанавливаются над полосами движения, направление которых может изменяться на противоположное. Каждый такой светофор относится только к той полосе, над которой он расположен.\r\n\r\nЕсли на реверсивном светофоре горит запрещающий сигнал (красный крест), движение по полосе, над которой установлен этот светофор, запрещается.\r\n\r\nСледовательно, правильный ответ — движение запрещено по той полосе, над которой расположен данный светофор.",
+      "explanationOz": "Demak, bu reversiv svetofor hisoblanadi.\r\n\r\nReversiv svetoforlar harakat yoʻnalishi vaqt-vaqti bilan oʻzgarib turadigan bo‘laklar ustiga oʻrnatiladi. Har bir svetofor o‘zi joylashgan harakatlanish bo‘lagiga taalluqli bo‘ladi.\r\n\r\nAgar reversiv svetoforda taqiqlovchi signal (qizil X belgisi) yonib turgan bo‘lsa, svetofor qaysi bo‘lak ustiga o‘rnatilgan bo‘lsa, aynan o‘sha bo‘lakda harakatlanish taqiqlanadi.\r\n\r\nDemak, toʻgʻri javob — svetofor joylashtirilgan bo‘lakda harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/33.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5763,
+          "textUz": "Фақат бир қаторда",
+          "textRu": "Только в один ряд",
+          "textOz": "Faqat bir qatorda",
+          "isCorrect": false
+        },
+        {
+          "id": 5764,
+          "textUz": "Қатнов қисмининг барча кенглиги бўйлаб",
+          "textRu": "По всей ширине проезжей части",
+          "textOz": "Qatnov qismining barcha kengligi bo'ylab",
+          "isCorrect": false
+        },
+        {
+          "id": 5765,
+          "textUz": "Қувиб ўтиш билан",
+          "textRu": "С обгоном",
+          "textOz": "Quvib o'tish bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 5766,
+          "textUz": "Светофор қайси бўлак устига жойлаштирилган бўлса, ўша бўлак бўйича",
+          "textRu": "По полосе, над которой он расположен",
+          "textOz": "Svetofor qaysi bo'lak ustiga joylashtirilgan bo'lsa, o'sha bo'lak bo'yicha",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5766
+      ]
+    },
+    {
+      "id": 426,
+      "questionUz": "Мазкур светофор ҳаракатланишни тартибга солиш учун қўлланилади:",
+      "questionRu": "Данный светофор применяется для регулирования движения:",
+      "questionOz": "Mazkur svetofor harakatlanishni tartibga solish uchun qo'llaniladi:",
+      "explanationUz": "Демак, ушбу светофор фақат трамвайлар учун мўлжалланмаган.\r\n\r\nУ трамвайлар ҳаракатини, шунингдек, алоҳида ажратилган бўлакда ҳаракатланувчи белгиланган йўналишдаги бошқа транспорт воситаларининг ҳам ҳаракатини тартибга солади.\r\n\r\nШунинг учун бу светофор трамвайлар ва алоҳида бўлакдан ҳаракатланадиган белгиланган йўналишли транспорт воситалари учун қўлланилади.\r\n\r\nДемак, тўғри жавоб — трамвайлар ва алоҳида бўлакда ҳаракатланувчи белгиланган йўналишли транспорт воситаларининг ҳаракатини тартибга солади.",
+      "explanationRu": "Данный светофор предназначен не только для трамваев.\r\n\r\nОн регулирует движение трамваев, а также других маршрутных транспортных средств, движущихся по специально выделенной полосе.\r\n\r\nСледовательно, этот светофор регулирует движение трамваев и других маршрутных транспортных средств, движущихся по обособленной полосе.",
+      "explanationOz": "Demak, ushbu svetofor faqat tramvaylar uchun moʻljallanmagan.\r\n\r\nU tramvaylar harakatini, shuningdek, alohida ajratilgan bo‘lakda harakatlanuvchi belgilangan yoʻnalishdagi boshqa transport vositalarining ham harakatini tartibga soladi.\r\n\r\nShuning uchun bu svetofor tramvaylar va alohida bo‘lakdan harakatlanadigan belgilangan yoʻnalishli transport vositalari uchun qoʻllaniladi.\r\n\r\nDemak, toʻgʻri javob — tramvaylar va alohida bo‘lakda harakatlanuvchi belgilangan yoʻnalishli transport vositalarining harakatini tartibga soladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/34.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5767,
+          "textUz": "Трамвайларга ва автобусларга",
+          "textRu": "Трамваев и троллейбусов",
+          "textOz": "Tramvaylarga va avtobuslarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5768,
+          "textUz": "Фақат трамвайларга",
+          "textRu": "Только трамваев",
+          "textOz": "Faqat tramvaylarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5769,
+          "textUz": "Трамвайларга, шунингдек алоҳида бўлакдан юрадиган белгиланган йўналишдаги бошқа транспорт воситаларини ҳаракатини тартибга солади",
+          "textRu": "Трамваев, а также других маршрутных транспортных средств, следующих по обособленной полосе",
+          "textOz": "Tramvaylarga, shuningdek alohida bo'lakdan yuradigan belgilangan yo'nalishdagi boshqa transport vositalarini harakatini tartibga soladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5769
+      ]
+    },
+    {
+      "id": 427,
+      "questionUz": "Светафорнинг яшил милтилловчи ишораси нимани билдиради?",
+      "questionRu": "Что означает мигание зеленого сигнала светофора?",
+      "questionOz": "Svetaforning yashil miltillovchi ishorasi nimani bildiradi?",
+      "explanationUz": "Яшил милтилловчи чироқ ҳаракатланишга рухсат беради.\r\n\r\nШу билан бирга, у ҳайдовчини яшил сигналнинг амал қилиш вақти тугаётганлиги ва тез орада сариқ ёки қизил, яъни тақиқловчи ишора ёниши ҳақида огоҳлантиради.\r\n\r\nДемак, яшил милтилловчи чироқ ҳаракатланишга рухсат беради ва тез орада тақиқловчи ишора ёниши тўғрисида ахборот беради.",
+      "explanationRu": "Мигающий зелёный сигнал разрешает движение.\r\n\r\nОдновременно он предупреждает водителя о том, что время действия зелёного сигнала заканчивается и вскоре включится жёлтый или красный, то есть запрещающий сигнал.\r\n\r\nСледовательно, мигающий зелёный сигнал разрешает движение и информирует о скором включении запрещающего сигнала.",
+      "explanationOz": "Yashil miltillovchi chiroq harakatlanishga ruxsat beradi.\r\n\r\nShu bilan birga, u haydovchini yashil signalning amal qilish vaqti tugayotganligi va tez orada sariq yoki qizil, yaʼni taqiqlovchi ishora yonishi haqida ogohlantiradi.\r\n\r\nDemak, yashil miltillovchi chiroq harakatlanishga ruxsat beradi va tez orada taqiqlovchi ishora yonishi toʻgʻrisida axborot beradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5770,
+          "textUz": "Светафор носозлигини",
+          "textRu": "Предупреждает о неисправности светофора",
+          "textOz": "Svetafor nosozligini",
+          "isCorrect": false
+        },
+        {
+          "id": 5771,
+          "textUz": "Ҳаракатга рухсат беради ва тез орада тақиқловчи ишора ёниши тўғрисида ахборот беради",
+          "textRu": "Разрешает движение и информирует о том, что вскоре будет включен запрещающий сигнал",
+          "textOz": "Harakatga ruxsat beradi va tez orada taqiqlovchi ishora yonishi to'g'risida axborot beradi",
+          "isCorrect": true
+        },
+        {
+          "id": 5772,
+          "textUz": "Ҳаракатни давом эттиришни тақиқлайди",
+          "textRu": "Запрещает дальнейшее движение",
+          "textOz": "Harakatni davom ettirishni taqiqlaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5771
+      ]
+    },
+    {
+      "id": 428,
+      "questionUz": "Светафор ишоралари қайси гуруҳ йўл белгиларини бекор қилади (милтилловчи сариқ ишорадан ташқари)?",
+      "questionRu": "Значения каких дорожных знаков отменяются сигналами светофора?",
+      "questionOz": "Svetafor ishoralari qaysi guruh yo'l belgilarini bekor qiladi (miltillovchi sariq ishoradan tashqari)?",
+      "explanationUz": "Кўпчилик шу саволда хато қилади ва светофор ишоралари барча йўл белгиларининг амал қилишини бекор қилади деб ўйлайди. Бу нотўғри.\r\n\r\nСветофор ишоралари барча йўл белгиларини эмас, фақат устунлик (имтиёз) белгиларининг талабларини бекор қилади.\r\n\r\nМасалан, светофор ишлаётган чорраҳада \"Асосий йўл\", \"Йўл беринг\" ёки \"Тўхтамасдан ҳаракатланиш тақиқланади\" каби имтиёз белгиларига эмас, светофор ишораларига амал қилинади.\r\n\r\nЛекин тақиқловчи, буюрувчи, огоҳлантирувчи ва бошқа йўл белгиларининг талаблари ўз кучида қолади.\r\n\r\nДемак, тўғри жавоб — светофор ишоралари фақат имтиёз белгиларининг амал қилишини бекор қилади.",
+      "explanationRu": "Многие ошибаются в этом вопросе и считают, что сигналы светофора отменяют действие всех дорожных знаков. Это неверно.\r\n\r\nСигналы светофора отменяют не все дорожные знаки, а только знаки приоритета.\r\n\r\nНапример, на регулируемом перекрёстке водитель должен руководствоваться сигналами светофора, а не знаками приоритета, такими как «Главная дорога», «Уступите дорогу» или «Движение без остановки запрещено».\r\n\r\nПри этом запрещающие, предписывающие, предупреждающие и другие дорожные знаки продолжают действовать.\r\n\r\nСледовательно, правильный ответ — сигналы светофора отменяют действие только знаков приоритета.",
+      "explanationOz": "Koʻpchilik shu savolda xato qiladi va svetofor ishoralari barcha yoʻl belgilarining amal qilishini bekor qiladi deb oʻylaydi. Bu notoʻgʻri.\r\n\r\nSvetofor ishoralari barcha yoʻl belgilarini emas, faqat ustunlik (imtiyoz) belgilarining talablarini bekor qiladi.\r\n\r\nMasalan, svetofor ishlayotgan chorrahada \"Asosiy yoʻl\", \"Yoʻl bering\" yoki \"Toʻxtamasdan harakatlanish taqiqlanadi\" kabi imtiyoz belgilariga emas, svetofor ishoralariga amal qilinadi.\r\n\r\nLekin taqiqlovchi, buyuruvchi, ogohlantiruvchi va boshqa yoʻl belgilarining talablari oʻz kuchida qoladi.\r\n\r\nDemak, toʻgʻri javob — svetofor ishoralari faqat imtiyoz belgilarining amal qilishini bekor qiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5773,
+          "textUz": "Имтиёз белгилари",
+          "textRu": "Знаков приоритета",
+          "textOz": "Imtiyoz belgilari",
+          "isCorrect": true
+        },
+        {
+          "id": 5774,
+          "textUz": "Тақиқловчи белгилар",
+          "textRu": "Запрещающих знаков",
+          "textOz": "Taqiqlovchi belgilar",
+          "isCorrect": false
+        },
+        {
+          "id": 5775,
+          "textUz": "Буюрувчи белгилар",
+          "textRu": "Предписывающих знаков",
+          "textOz": "Buyuruvchi belgilar",
+          "isCorrect": false
+        },
+        {
+          "id": 5776,
+          "textUz": "Барча санаб ўтилганлари",
+          "textRu": "Всех перечисленных",
+          "textOz": "Barcha sanab o'tilganlari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5773
+      ]
+    },
+    {
+      "id": 429,
+      "questionUz": "Агар ҳайдовчи кескин тормоз бермасдан ҳаракатни тўхтата олмаса, светафорнинг яшил ишорасидан кейин ёнган сариқ ишорасида ҳаракатни давом эттиришга рухсат бериладими?",
+      "questionRu": "Эсли водитель не может прекратить движение без резкого торможения, разрешается ли продолжать движение на жёлтый сигнала светофора?",
+      "questionOz": "Agar haydovchi keskin tormoz bermasdan harakatni to'xtata olmasa, svetaforning yashil ishorasidan keyin yongan sariq ishorasida harakatni davom ettirishga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 4-бўлимидаги 4.5 белгига асосан, «Велосипед йўлкаси». Фақат велосипед ва мопедларда ҳаракатланишга рухсат этилишини билдиради. Тротуар ёки пиёдалар йўлкаси бўлмаса, велосипед йўлкасидан пиёдалар ҳам юришлари мумкин.",
+      "explanationRu": "Знак 4.5 раздела 4 приложения № 1 к ПДД, «Велосипедная дорожка». Разрешается движение только на велосипедах и мопедах. При отсутствии тротуара или пешеходной дорожки по велосипедной дорожке могут двигаться также пешеходы.",
+      "explanationOz": "YHQ 1-ilovasining 4-bo‘limidagi 4.5 belgiga asosan, «Velosiped yo‘lkasi». Faqat velosiped va mopedlarda harakatlanishga ruxsat etilishini bildiradi. Trotuar yoki piyodalar yo‘lkasi bo‘lmasa, velosiped yo‘lkasidan piyodalar ham yurishlari mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1449,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 1450,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещено",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1449
+      ]
+    },
+    {
+      "id": 430,
+      "questionUz": "Светафорнинг милтилловчи сариқ ишораси нима ҳақида огоҳлантиради?",
+      "questionRu": "О чем предупреждает мигающий желтый сигнал светофора?",
+      "questionOz": "Svetaforning miltillovchi sariq ishorasi nima haqida ogohlantiradi?",
+      "explanationUz": "Сариқ милтилловчи ишора бир нечта маънони билдириши мумкин.\r\n\r\n1. Ҳаракатланишга рухсат беради, лекин ҳайдовчини эҳтиёткор бўлишга чақиради.\r\n2. Чорраҳа ёки пиёдалар ўтиш жойи тартибга солинмаётганлиги ҳақида ахборот беради.\r\n3. Хавфли участка мавжудлиги ҳақида огоҳлантиради.\r\n\r\nШунинг учун саволда ушбу маъноларнинг барчаси келтирилган бўлса, тўғри жавоб — барча жавоблар тўғри.",
+      "explanationRu": "Мигающий жёлтый сигнал может иметь несколько значений.\r\n\r\n1. Он разрешает движение, но требует от водителя повышенной осторожности.\r\n2. Информирует о том, что перекрёсток или пешеходный переход не регулируется.\r\n3. Предупреждает о наличии опасного участка дороги.\r\n\r\nПоэтому, если в вариантах ответа указаны все эти значения, правильный ответ — все ответы верны.",
+      "explanationOz": "Sariq miltillovchi ishora bir nechta maʼnoni bildirishi mumkin.\r\n\r\n1. Harakatlanishga ruxsat beradi, lekin haydovchini ehtiyotkor bo‘lishga chaqiradi.\r\n2. Chorraha yoki piyodalar oʻtish joyi tartibga solinmayotganligi haqida axborot beradi.\r\n3. Xavfli uchastka mavjudligi haqida ogohlantiradi.\r\n\r\nShuning uchun savolda ushbu maʼnolarning barchasi keltirilgan bo‘lsa, toʻgʻri javob — barcha javoblar toʻgʻri.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5777,
+          "textUz": "Ҳаракатланишга рухсат беради",
+          "textRu": "Разрешает движение",
+          "textOz": "Harakatlanishga ruxsat beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 5778,
+          "textUz": "Чорраҳа тартибга солинмаганлиги тўғрисида",
+          "textRu": "О том, что перекресток не регулируемый",
+          "textOz": "Chorraha tartibga solinmaganligi to'g'risida",
+          "isCorrect": false
+        },
+        {
+          "id": 5779,
+          "textUz": "Барча жавоблар тўғри",
+          "textRu": "Все ответы правильные",
+          "textOz": "Barcha javoblar to'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5779
+      ]
+    },
+    {
+      "id": 431,
+      "questionUz": "Ҳаракатланиш қайси йўналишга рухсат етилган?",
+      "questionRu": "В каком направлени разрешено движение?",
+      "questionOz": "Harakatlanish qaysi yo'nalishga ruxsat etilgan?",
+      "explanationUz": "Кўриб турганингиздек, трамвай учун мўлжалланган махсус светофорда рухсат берувчи сигнал ўчган.\r\n\r\nАгар трамвай светофорида ҳеч бир рухсат берувчи оқ сигнал ёнмаган бўлса, трамвай ҳайдовчисига барча йўналишларда ҳаракатланиш тақиқланади.\r\n\r\nТрамвай ҳайдовчиси умумий светофорга эмас, айнан ўзи учун мўлжалланган махсус трамвай светофори ишораларига амал қилиши керак.\r\n\r\nШунинг учун ушбу вазиятда трамвайнинг ҳаракатланиши барча йўналишларда тақиқланади.",
+      "explanationRu": "Как видно на рисунке, на специальном светофоре для трамваев отсутствует разрешающий сигнал.\r\n\r\nЕсли на трамвайном светофоре не горит ни один разрешающий белый сигнал, движение трамвая запрещено во всех направлениях.\r\n\r\nВодитель трамвая должен руководствоваться не общим светофором, а специальным светофором, предназначенным именно для трамваев.\r\n\r\nСледовательно, в данной ситуации движение трамвая запрещено во всех направлениях.",
+      "explanationOz": "Koʻrib turganingizdek, tramvay uchun moʻljallangan maxsus svetoforda ruxsat beruvchi signal o‘chgan.\r\n\r\nAgar tramvay svetoforida hech bir ruxsat beruvchi oq signal yonmagan bo‘lsa, tramvay haydovchisiga barcha yoʻnalishlarda harakatlanish taqiqlanadi.\r\n\r\nTramvay haydovchisi umumiy svetoforga emas, aynan oʻzi uchun moʻljallangan maxsus tramvay svetofori ishoralariga amal qilishi kerak.\r\n\r\nShuning uchun ushbu vaziyatda tramvayning harakatlanishi barcha yoʻnalishlarda taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.20.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5780,
+          "textUz": "Ҳаракатланиш тақиқланади",
+          "textRu": "Движение запрешено",
+          "textOz": "Harakatlanish taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5781,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Толькo прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 5782,
+          "textUz": "Фақат тўғрига ва ўнгга",
+          "textRu": "Толькo прямо и направо",
+          "textOz": "Faqat to'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5783,
+          "textUz": "Барча йўналишда рухсат этилади",
+          "textRu": "Разрешено во все направления",
+          "textOz": "Barcha yo'nalishda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5780
+      ]
+    },
+    {
+      "id": 432,
+      "questionUz": "Милтилловчи сариқ ишорали светофор:",
+      "questionRu": "Мигающий жёлтый сигнал светафора:",
+      "questionOz": "Miltillovchi sariq ishorali svetofor:",
+      "explanationUz": "Милтилловчи сариқ сигнал (светофор) ҳайдовчиларни тартибга солинмаган чорраҳа ёки тартибга солинмаган пиёдалар ўтиш жойи мавжудлиги ҳақида огоҳлантиради.\r\n\r\nБундай ҳолатда ҳайдовчи эҳтиёткорлик билан ҳаракатланиши, йўл вазиятини баҳолаши ва зарур ҳолларда бошқа йўл ҳаракати иштирокчиларига йўл бериши керак.\r\n\r\nДемак, милтилловчи сариқ сигнал — тартибга солинмаган чорраҳа ёки тартибга солинмаган пиёдалар ўтиш жойи борлигидан хабардор қилади.",
+      "explanationRu": "Мигающий жёлтый сигнал светофора предупреждает водителей о наличии нерегулируемого перекрёстка или нерегулируемого пешеходного перехода.\r\n\r\nВ такой ситуации водитель должен двигаться с повышенной осторожностью, оценивать дорожную обстановку и при необходимости уступать дорогу другим участникам движения.\r\n\r\nСледовательно, мигающий жёлтый сигнал информирует о наличии нерегулируемого перекрёстка или нерегулируемого пешеходного перехода.",
+      "explanationOz": "Miltillovchi sariq signal (svetofor) haydovchilarni tartibga solinmagan chorraha yoki tartibga solinmagan piyodalar oʻtish joyi mavjudligi haqida ogohlantiradi.\r\n\r\nBunday holatda haydovchi ehtiyotkorlik bilan harakatlanishi, yoʻl vaziyatini baholashi va zarur hollarda boshqa yoʻl harakati ishtirokchilariga yoʻl berishi kerak.\r\n\r\nDemak, miltillovchi sariq signal — tartibga solinmagan chorraha yoki tartibga solinmagan piyodalar oʻtish joyi borligidan xabardor qiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5784,
+          "textUz": "Тартибга солинмаган чорраҳа ёки пиёдалар ўтиш жойи борлигидан хабардор қилади",
+          "textRu": "Информирует о наличии нерегулируемого перекрестка или пешеходного перехода",
+          "textOz": "Tartibga solinmagan chorraha yoki piyodalar o'tish joyi borligidan xabardor qiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 5785,
+          "textUz": "Тартибга солинган чорраҳа борлигидан хабардор қилади",
+          "textRu": "Информирует о наличии нерегулируемого перекрестка",
+          "textOz": "Tartibga solingan chorraha borligidan xabardor qiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5786,
+          "textUz": "Светофор чироғи алмашувидан хабардор қилади",
+          "textRu": "Сигнал светафора уведомляет вас об изменении цвета",
+          "textOz": "Svetofor chirog'i almashuvidan xabardor qiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5784
+      ]
+    },
+    {
+      "id": 433,
+      "questionUz": "Ушбу светафор қайси йўналишида ҳаракатланишга рухсат беради?",
+      "questionRu": "В каком направлении этот светафор позволяет вам двигаться?",
+      "questionOz": "Ushbu svetafor qaysi yo'nalishida harakatlanishga ruxsat beradi?",
+      "explanationUz": "Кўриб турганингиздек, светофорнинг чапга йўналишни кўрсатувчи сигнали ўчиқ ҳолатда. Бу чапга ҳаракатланиш тақиқланганлигини билдиради.\r\n\r\nЛекин саволга диққат қилинг: «Қайси йўналишларга ҳаракатланишга рухсат этилади?» деб сўралган.\r\n\r\nЧапга ҳаракатланиш тақиқланган бўлса, қолган рухсат этилган йўналишлар — тўғрига ва ўнгга ҳаракатланиш ҳисобланади.\r\n\r\nДемак, тўғри жавоб — тўғрига ва ўнгга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Как видно на рисунке, сигнал, разрешающий движение налево, выключен. Это означает, что поворот налево запрещён.\r\n\r\nОднако обратите внимание на вопрос: спрашивается, в каких направлениях движение разрешено.\r\n\r\nЕсли движение налево запрещено, то разрешёнными остаются направления прямо и направо.\r\n\r\nСледовательно, правильный ответ — разрешено движение прямо и направо.",
+      "explanationOz": "Koʻrib turganingizdek, svetoforning chapga yoʻnalishni ko‘rsatuvchi signali o‘chiq holatda. Bu chapga harakatlanish taqiqlanganligini bildiradi.\r\n\r\nLekin savolga diqqat qiling: \"Qaysi yoʻnalishlarga harakatlanishga ruxsat etiladi?\" deb soʻralgan.\r\n\r\nChapga harakatlanish taqiqlangan bo‘lsa, qolgan ruxsat etilgan yoʻnalishlar — toʻgʻriga va oʻngga harakatlanish hisoblanadi.\r\n\r\nDemak, toʻgʻri javob — toʻgʻriga va oʻngga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5787,
+          "textUz": "Фақат Чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat Chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5788,
+          "textUz": "Тўғрига ва ўнга",
+          "textRu": "Прямо и направо",
+          "textOz": "To'g'riga va o'nga",
+          "isCorrect": true
+        },
+        {
+          "id": 5789,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5790,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To'g'riga va chapga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5788
+      ]
+    },
+    {
+      "id": 434,
+      "questionUz": "Светофор ишоралари имтиёз белгилари талабларига зид келган ҳолларда?",
+      "questionRu": "В случае, если значение сигналов светофора противоречат требованиям дорожных знаков приоритета?\r\n",
+      "questionOz": "Svetofor ishoralari imtiyoz belgilari talablariga zid kelgan hollarda?",
+      "explanationUz": "Йўл ҳаракати қоидаларига кўра, агар светофор ишоралари имтиёз (устунлик) белгиларининг талабларига зид келса, ҳайдовчилар светофор ишораларига амал қилишлари керак.\r\n\r\nБундай ҳолатда светофор сигналлари устун ҳисобланади ва имтиёз белгиларининг талаблари вақтинча амал қилмайди.\r\n\r\nДемак, тўғри қоида — светофор ишоралари имтиёз белгилари талабларига зид келганда, ҳайдовчилар светофор ишораларига амал қиладилар.",
+      "explanationRu": "Согласно Правилам дорожного движения, если сигналы светофора противоречат требованиям знаков приоритета, водители обязаны руководствоваться сигналами светофора.\r\n\r\nВ такой ситуации сигналы светофора имеют преимущество, а требования знаков приоритета временно не применяются.\r\n\r\nСледовательно, правильное правило заключается в том, что при противоречии между сигналами светофора и знаками приоритета водитель должен выполнять требования светофора.",
+      "explanationOz": "Yoʻl harakati qoidalariga koʻra, agar svetofor ishoralari imtiyoz (ustunlik) belgilarining talablariga zid kelsa, haydovchilar svetofor ishoralariga amal qilishlari kerak.\r\n\r\nBunday holatda svetofor signallari ustun hisoblanadi va imtiyoz belgilarining talablari vaqtincha amal qilmaydi.\r\n\r\nDemak, toʻgʻri qoida — svetofor ishoralari imtiyoz belgilari talablariga zid kelganda, haydovchilar svetofor ishoralariga amal qiladilar.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5791,
+          "textUz": "Ҳайдовчилар светофор ишораларига амал қилишлари керак",
+          "textRu": "Водители должны руководствоваться сигналами светофора",
+          "textOz": "Haydovchilar svetofor ishoralariga amal qilishlari kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 5792,
+          "textUz": "Ҳайдовчилар имтиёз белгилари талабларига амал қилишлари керак",
+          "textRu": "Водители должны руководствоваться требованиям знаков приоритета",
+          "textOz": "Haydovchilar imtiyoz belgilari talablariga amal qilishlari kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5791
+      ]
+    },
+    {
+      "id": 435,
+      "questionUz": "Ҳаракатланиш қайси йўналишга рухсат этилган?",
+      "questionRu": "В каком направлении разрешено движение?",
+      "questionOz": "Harakatlanish qaysi yo‘nalishga ruxsat etilgan?",
+      "explanationUz": "Трамвай светофорида пастки чироқ ўчган бўлса, трамвайнинг ҳаракатланиши тақиқланади.\r\n\r\nДемак, тўғри жавоб — трамвайга ҳаракатланиш тақиқланади.",
+      "explanationRu": "Если нижний сигнал трамвайного светофора не горит, движение трамвая запрещается.\r\n\r\nСледовательно, правильный ответ — движение трамвая запрещено.\r\n",
+      "explanationOz": "Tramvay svetoforida pastki chiroq o‘chgan bo‘lsa, tramvayning harakatlanishi taqiqlanadi.\r\n\r\nDemak, to‘g‘ri javob — tramvayga harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.6.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6081,
+          "textUz": "Ҳаракатланиш тақиқланади",
+          "textRu": "Движение запрещено",
+          "textOz": "Harakatlanish taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 6082,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6083,
+          "textUz": "Фақат тўғрига ва ўнгга",
+          "textRu": "Только прямо и направо",
+          "textOz": "Faqat to‘g‘riga va o‘ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 6084,
+          "textUz": "Барча йўналишда рухсат этилади",
+          "textRu": "Разрешено во все направления",
+          "textOz": "Barcha yo‘nalishda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6081
+      ]
+    },
+    {
+      "id": 436,
+      "questionUz": "Кайси ёналиш бўйича ҳаракатланишга рухсат берилади?",
+      "questionRu": "В каком направлении разрешено движение?",
+      "questionOz": "Qaysi yonalish bo'yicha harakatlanishga ruxsat beriladi?",
+      "explanationUz": "Кўриб турганингиздек, светофорнинг қизил чироғи ёниб турибди, яъни умумий ҳаракатланиш тақиқланган.\r\n\r\nБироқ қўшимча тармоқ чапга ҳаракатланишга рухсат бермоқда. Шу билан бирга, вақтинчалик йўл белгиси чапга бурилишни тақиқлаб турибди. Шунинг учун чапга бурилиш мумкин эмас.\r\n\r\nЛекин ушбу тақиқ қайрилиб олишга тааллуқли эмас. Шунинг учун ҳайдовчи қайрилиб олиши мумкин.\r\n\r\nДемак, тўғри жавоб — D йўналишига, яъни қайрилиб олишга рухсат этилади.",
+      "explanationRu": "Как видно на рисунке, горит красный сигнал светофора, то есть общее движение запрещено.\r\n\r\nОднако дополнительная секция разрешает движение налево. При этом временный дорожный знак запрещает поворот налево, поэтому выполнить левый поворот нельзя.\r\n\r\nНо данный запрет не распространяется на разворот. Следовательно, водитель может выполнить разворот.\r\n\r\nПравильный ответ — разрешено движение в направлении D, то есть разворот.",
+      "explanationOz": "Koʻrib turganingizdek, svetoforning qizil chirogʻi yonib turibdi, yaʼni umumiy harakatlanish taqiqlangan.\r\n\r\nBiroq qoʻshimcha tarmoq chapga harakatlanishga ruxsat bermoqda. Shu bilan birga, vaqtinchalik yoʻl belgisi chapga burilishni taqiqlab turibdi. Shuning uchun chapga burilish mumkin emas.\r\n\r\nLekin ushbu taqiq qayrilib olishga taalluqli emas. Shuning uchun haydovchi qayrilib olishi mumkin.\r\n\r\nDemak, toʻgʻri javob — D yoʻnalishiga, yaʼni qayrilib olishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5797,
+          "textUz": "«A» «B» «C»",
+          "textRu": "«A» «B» «C»",
+          "textOz": "«A» «B» «C»",
+          "isCorrect": false
+        },
+        {
+          "id": 5798,
+          "textUz": "«A» «B» «D»",
+          "textRu": "«A» «B» «D»",
+          "textOz": "«A» «B» «D»",
+          "isCorrect": false
+        },
+        {
+          "id": 5799,
+          "textUz": "«D»",
+          "textRu": "«D»",
+          "textOz": "«D»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5799
+      ]
+    },
+    {
+      "id": 437,
+      "questionUz": "Қайси йўналишда ҳаракатланиш тақиқланган?",
+      "questionRu": "В каком направлении запрещено движение?",
+      "questionOz": "Qaysi yo'nalishda harakatlanish taqiqlangan?",
+      "explanationUz": "Бу ҳолатда қизил автомобил ҳайдовчисига фақат қайрилиб олиш тақиқланади.\r\n\r\nЎнгга ёки чапга ҳаракатланиш ҳақидаги жавоблар нотўғри, чунки ушбу йўналишларда ҳаракатланиш учун йўл мавжуд эмас.\r\n\r\nАвтомобил қайрилиб олиш манёврини бажариш учун йўлнинг ўртасига чиқиб бўлган ва иккинчи светофорга дуч келган. Ушбу светофорда қизил ишора ёниб турибди.\r\n\r\nШунинг учун ҳайдовчи ҳозир қайрилиб олишни давом эттира олмайди ва яшил сигнал ёнишини кутиши керак.\r\n\r\nДемак, тўғри жавоб — фақат қайрилиб олиш тақиқланади.",
+      "explanationRu": "В данной ситуации водителю красного автомобиля запрещён только разворот.\r\n\r\nОтветы о движении направо или налево неверны, так как дороги в этих направлениях нет.\r\n\r\nАвтомобиль уже выехал на середину перекрёстка для выполнения разворота и оказался перед вторым светофором. На этом светофоре горит красный сигнал.\r\n\r\nПоэтому водитель не может завершить разворот и должен дождаться включения зелёного сигнала.\r\n\r\nСледовательно, правильный ответ — запрещён только разворот.",
+      "explanationOz": "Bu holatda qizil avtomobil haydovchisiga faqat qayrilib olish taqiqlanadi.\r\n\r\nOʻngga yoki chapga harakatlanish haqidagi javoblar notoʻgʻri, chunki ushbu yoʻnalishlarda harakatlanish uchun yoʻl mavjud emas.\r\n\r\nAvtomobil qayrilib olish manevrini bajarish uchun yoʻlning oʻrtasiga chiqib bo‘lgan va ikkinchi svetoforga duch kelgan. Ushbu svetoforda qizil ishora yonib turibdi.\r\n\r\nShuning uchun haydovchi hozir qayrilib olishni davom ettira olmaydi va yashil signal yonishini kutishi kerak.\r\n\r\nDemak, toʻgʻri javob — faqat qayrilib olish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5800,
+          "textUz": "Фақат тўғрига ва ўнгга",
+          "textRu": "Только прямо и направо",
+          "textOz": "Faqat to'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5801,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5802,
+          "textUz": "Фақат чапга ва қайрилиб олишга",
+          "textRu": "Только налево и разворот",
+          "textOz": "Faqat chapga va qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5803,
+          "textUz": "Фақат қайрилиб олишга",
+          "textRu": "Только разворот",
+          "textOz": "Faqat qayrilib olishga",
+          "isCorrect": true
+        },
+        {
+          "id": 5804,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во все направления",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5803
+      ]
+    },
+    {
+      "id": 438,
+      "questionUz": "Ушбу светофор трамвайга қайси йўналишда ҳаракатланишга рухсат беради?",
+      "questionRu": "В каком направлении этот светофор разрешает движение трамвая?",
+      "questionOz": "Ushbu svetofor tramvayga qaysi yo'nalishda harakatlanishga ruxsat beradi?",
+      "explanationUz": "Ушбу трамвай светофорида пастки оқ чироқ ўчиқ ҳолатда турибди.\r\n\r\nТрамвай светофорида пастки оқ сигнал ёнмаган бўлса, трамвайга ҳаракатланишга рухсат берилмайди. Бундай ҳолатда трамвайнинг барча йўналишларда ҳаракатланиши тақиқланади.\r\n\r\nДемак, тўғри жавоб — трамвайга барча йўналишларда ҳаракатланиш тақиқланади.",
+      "explanationRu": "На данном трамвайном светофоре нижний белый сигнал выключен.\r\n\r\nЕсли на трамвайном светофоре не горит нижний белый сигнал, движение трамвая не разрешается. В такой ситуации движение трамвая запрещено во всех направлениях.\r\n\r\nСледовательно, правильный ответ — трамваю запрещено движение во всех направлениях.",
+      "explanationOz": "Ushbu tramvay svetoforida pastki oq chiroq o‘chiq holatda turibdi.\r\n\r\nTramvay svetoforida pastki oq signal yonmagan bo‘lsa, tramvayga harakatlanishga ruxsat berilmaydi. Bunday holatda tramvayning barcha yoʻnalishlarda harakatlanishi taqiqlanadi.\r\n\r\nDemak, toʻgʻri javob — tramvayga barcha yoʻnalishlarda harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5805,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 5806,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5807,
+          "textUz": "Барча йўналишларда ҳаракатланиш тақиқланади",
+          "textRu": "Во всех направлениях запрещает движение",
+          "textOz": "Barcha yo'nalishlarda harakatlanish taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5807
+      ]
+    },
+    {
+      "id": 439,
+      "questionUz": "Ушбу светофор трамвайга кайси йуналишда харакатланишга рухсат беради?",
+      "questionRu": "В каком направлении этот светофор разрешает движение трамвая?",
+      "questionOz": "Ushbu svetofor tramvayga kaysi yunalishda xarakatlanishga ruxsat beradi?",
+      "explanationUz": "Демак, трамвай светофорида пастки оқ чироқ ўчиқ ҳолатда турибди.\r\n\r\nТрамвай светофорида пастки оқ сигнал ёнмаган бўлса, трамвайнинг ҳаракатланишига рухсат берилмайди.\r\n\r\nШунинг учун ушбу ҳолатда трамвайнинг ҳаракатланиши тақиқланади.",
+      "explanationRu": "На трамвайном светофоре нижний белый сигнал выключен.\r\n\r\nЕсли нижний белый сигнал не горит, движение трамвая не разрешается.\r\n\r\nСледовательно, в данной ситуации движение трамвая запрещено.",
+      "explanationOz": "Demak, tramvay svetoforida pastki oq chiroq o‘chiq holatda turibdi.\r\n\r\nTramvay svetoforida pastki oq signal yonmagan bo‘lsa, tramvayning harakatlanishiga ruxsat berilmaydi.\r\n\r\nShuning uchun ushbu holatda tramvayning harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5808,
+          "textUz": "Факат турига",
+          "textRu": "Только прямо",
+          "textOz": "Fakat turiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5809,
+          "textUz": "Барча ййналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yynalishlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5810,
+          "textUz": "Барча йуналишларда харакатланиш такикланади",
+          "textRu": "Во всех направлениях запрещает движение",
+          "textOz": "Barcha yunalishlarda xarakatlanish takiklanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5810
+      ]
+    },
+    {
+      "id": 440,
+      "questionUz": "Ушбу транспорт воситаси қайси йўналишда харакатланишига рухсат этилади?",
+      "questionRu": "в каком направлении разрешено движение этого транспортного средства?",
+      "questionOz": "Ushbu transport vositasi qaysi yo'nalishda xarakatlanishiga ruxsat etiladi?",
+      "explanationUz": "Бу ерда кесишаётган йўлда ажратувчи минтақа мавжуд эмас. Шунинг учун чапга бурилишга рухсат этилмайди.\r\n\r\nАгар ажратувчи минтақа бўлганида, белги фақат биринчи қатнов қисмининг кесишмасигача амал қилган бўлар эди ва чапга бурилиш мумкин бўларди.\r\n\r\nҲозир эса ўртада ажратувчи минтақа йўқ. Светофор ҳаракатланишга рухсат бермоқда, яъни одатда тўғрига ва чапга ҳаракатланиш мумкин бўлар эди. Бироқ бу ерда \"чапга бурилиш мумкин эмас\" йўл белгиси ўрнатилган.\r\n\r\nШунинг учун ҳайдовчига фақат тўғрига ва қайрилиб олишга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "На пересекаемой дороге отсутствует разделительная полоса, поэтому поворот налево запрещён.\r\n\r\nЕсли бы разделительная полоса была, знак действовал бы только до первого пересечения проезжих частей, и поворот налево был бы разрешён.\r\n\r\nСветофор разрешает движение, и обычно можно было бы ехать прямо или поворачивать налево. Однако здесь установлен знак «Поворот налево запрещён».\r\n\r\nСледовательно, водителю разрешено движение только прямо и на разворот.",
+      "explanationOz": "Bu yerda kesishayotgan yoʻlda ajratuvchi mintaqa mavjud emas. Shuning uchun chapga burilishga ruxsat etilmaydi.\r\n\r\nAgar ajratuvchi mintaqa boʻlganida, belgi faqat birinchi qatnov qismining kesishmasigacha amal qilgan boʻlar edi va chapga burilish mumkin boʻlardi.\r\n\r\nHozir esa oʻrtada ajratuvchi mintaqa yoʻq. Svetofor harakatlanishga ruxsat bermoqda, yaʼni odatda toʻgʻriga va chapga harakatlanish mumkin boʻlar edi. Biroq bu yerda \"chapga burilish mumkin emas\" yoʻl belgisi oʻrnatilgan.\r\n\r\nShuning uchun haydovchiga faqat toʻgʻriga va qayrilib olishga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6744,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6745,
+          "textUz": "Тўғрига ва ўнгга",
+          "textRu": "Прямо и направо",
+          "textOz": "To'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 6746,
+          "textUz": "Фақат тўғрига ва қайрилиб олишга",
+          "textRu": "Только прямо и в разворот",
+          "textOz": "Faqat to'g'riga va qayrilib olishga",
+          "isCorrect": true
+        },
+        {
+          "id": 6747,
+          "textUz": "Barcha yo'nalishlarga",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6746
+      ]
+    },
+    {
+      "id": 441,
+      "questionUz": "Қайси автомобил ҳайдовчисига бурилишга рухсат этилган?",
+      "questionRu": "Какому водителю автомобиля разрешено повернуть?",
+      "questionOz": "Qaysi avtomobil haydovchisiga burilishga ruxsat etilgan?",
+      "explanationUz": "Бу саволда кўпчилик адашади ва қизил автомобилга ҳаракатланишга рухсат беради, чунки светофор рухсат бераётганини кўради.\r\n\r\nЛекин эслаб қолинг: светофор фақат имтиёз (устунлик) белгиларининг талабларини бекор қилади. У буюрувчи белгиларни бекор қилмайди.\r\n\r\nБу ерда ўртада вақтинчалик буюрувчи белги ўрнатилган бўлиб, у барча транспорт воситаларига тааллуқли ва фақат тўғрига ҳаракатланишни буюради.\r\n\r\nШунинг учун ҳеч бир транспорт воситаси бурилиш манёврини бажара олмайди.\r\n\r\nДемак, тўғри жавоб — иккала автомобилга ҳам бурилиш тақиқланади.",
+      "explanationRu": "В этом вопросе многие ошибаются и считают, что красному автомобилю движение разрешено, потому что это разрешает светофор.\r\n\r\nНо нужно помнить: сигналы светофора отменяют только действие знаков приоритета. Они не отменяют действие предписывающих знаков.\r\n\r\nЗдесь установлен временный предписывающий знак, который распространяется на все транспортные средства и предписывает движение только прямо.\r\n\r\nПоэтому ни один из автомобилей не может выполнить поворот.\r\n\r\nСледовательно, правильный ответ — поворот запрещён обоим автомобилям.",
+      "explanationOz": "Bu savolda ko‘pchilik adashadi va qizil avtomobilga harakatlanishga ruxsat beradi, chunki svetofor ruxsat berayotganini ko‘radi.\r\n\r\nLekin eslab qoling: svetofor faqat imtiyoz (ustunlik) belgilarining talablarini bekor qiladi. U buyuruvchi belgilarni bekor qilmaydi.\r\n\r\nBu yerda o‘rtada vaqtinchalik buyuruvchi belgi o‘rnatilgan bo‘lib, u barcha transport vositalariga taalluqli va faqat to‘g‘riga harakatlanishni buyuradi.\r\n\r\nShuning uchun hech bir transport vositasi burilish manevrini bajara olmaydi.\r\n\r\nDemak, toʻgʻri javob — ikkala avtomobilga ham burilish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5815,
+          "textUz": "Ҳар иккисига рухсат этилган",
+          "textRu": "Разрешено обоим",
+          "textOz": "Har ikkisiga ruxsat etilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 5816,
+          "textUz": "Оқ автомобил ҳайдовчисига",
+          "textRu": "Водителю белого автомобиля",
+          "textOz": "Oq avtomobil haydovchisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5817,
+          "textUz": "Ҳар иккисига тақиқланган",
+          "textRu": "Запрещено обоим",
+          "textOz": "Har ikkisiga taqiqlangan",
+          "isCorrect": true
+        },
+        {
+          "id": 5818,
+          "textUz": "Қизил автомобил ҳайдовчисига",
+          "textRu": "Водителю красного автомобиля",
+          "textOz": "Qizil avtomobil haydovchisiga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5817
+      ]
+    },
+    {
+      "id": 442,
+      "questionUz": "Светофорнинг асосий яшил ишорасига йўналтиргич (йўналтиргичлар)нинг шакли туширилган бўлса,  ҳайдовчиларга нима ҳақида ахборот беради?",
+      "questionRu": "Если на основной зелёный сигнал светофора нанесены стрелки (стрелка), о чём это информирует водителей?",
+      "questionOz": "Svetoforning asosiy yashil ishorasiga yo‘naltirgich (yo‘naltirgichlar)ning shakli tushirilgan bo‘lsa, haydovchilarga nima haqida axborot beradi?",
+      "explanationUz": "Агар светофорнинг асосий яшил ишорасида йўналтиргич (стрелка) шакли туширилган бўлса, бу ҳайдовчига ушбу светофорда қўшимча тармоқ мавжудлиги ҳақида ахборот беради.\r\n\r\nБундай стрелка ҳайдовчини олдиндан огоҳлантиради ва светофорнинг қўшимча секцияси маълум йўналишларда ҳаракатни алоҳида тартибга солишини билдиради.\r\n\r\nДемак, тўғри жавоб — бу светофорнинг қўшимча тармоғи борлиги ҳақида ахборот беради.",
+      "explanationRu": "Если на основном зелёном сигнале светофора изображена стрелка, это информирует водителя о наличии у данного светофора дополнительной секции.\r\n\r\nТакая стрелка заранее предупреждает водителя о том, что дополнительная секция регулирует движение в определённых направлениях отдельно.\r\n\r\nСледовательно, правильный ответ — она информирует о наличии дополнительной секции светофора.",
+      "explanationOz": "Agar svetoforning asosiy yashil ishorasida yoʻnaltirgich (strelka) shakli tushirilgan boʻlsa, bu haydovchiga ushbu svetoforda qoʻshimcha tarmoq mavjudligi haqida axborot beradi.\r\n\r\nBunday strelka haydovchini oldindan ogohlantiradi va svetoforning qoʻshimcha seksiyasi maʼlum yoʻnalishlarda harakatni alohida tartibga solishini bildiradi.\r\n\r\nDemak, toʻgʻri javob — bu svetoforning qoʻshimcha tarmogʻi borligi haqida axborot beradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5819,
+          "textUz": "Яқин орада яшил ишораси ёниши ҳақида ахборот беради",
+          "textRu": "Информирует о том, что скоро загорится зелёный сигнал",
+          "textOz": "Yaqin orada yashil ishorasi yonishi haqida axborot beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 5820,
+          "textUz": "Светофорнинг қўшимча тармоғи борлиги ҳақида ахборот беради",
+          "textRu": "Информирует о наличии дополнительной секции светофора",
+          "textOz": "Svetoforning qo‘shimcha tarmog‘i borligi haqida axborot beradi",
+          "isCorrect": true
+        },
+        {
+          "id": 5821,
+          "textUz": "Светофор ишламаётганлиги тўғрисида ахборот беради",
+          "textRu": "Информирует о том, что светофор не работает",
+          "textOz": "Svetofor ishlamayotganligi to‘g‘risida axborot beradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5820
+      ]
+    },
+    {
+      "id": 443,
+      "questionUz": "Қайси йўналишларда ҳаракат қилиш мумкин?",
+      "questionRu": "По каким направлениям разрешается движение?",
+      "questionOz": "Qaysi yo‘nalishlarda harakat qilish mumkin?",
+      "explanationUz": "Кўриб турганингиздек, светофорнинг қизил ишораси ёниб турибди, лекин қўшимча тармоқ фақат чапга ҳаракатланишга рухсат бермоқда.\r\n\r\nАвтомобилнинг жойлашуви ва йўл белгилари сабабли қайрилиб олиш тақиқланган. Шунинг учун ҳайдовчи қайрилиб ола олмайди.\r\n\r\nДемак, ушбу ҳолатда фақат чапга бурилишга рухсат этилади.\r\n\r\nТўғри жавоб — фақат чапга ҳаракатланиш мумкин.",
+      "explanationRu": "Как видно на рисунке, горит красный сигнал светофора, но дополнит��льная секция разрешает движение только налево.\r\n\r\nИз-за расположения автомобиля и требований дорожных знаков разворот запрещён. Поэтому водитель не может выполнить разворот.\r\n\r\nСледовательно, в данной ситуации разрешён только поворот налево.\r\n\r\nПравильный ответ — можно двигаться только налево.",
+      "explanationOz": "Koʻrib turganingizdek, svetoforning qizil ishorasi yonib turibdi, lekin qoʻshimcha tarmoq faqat chapga harakatlanishga ruxsat bermoqda.\r\n\r\nAvtomobilning joylashuvi va yoʻl belgilari sababli qayrilib olish taqiqlangan. Shuning uchun haydovchi qayrilib ola olmaydi.\r\n\r\nDemak, ushbu holatda faqat chapga burilishga ruxsat etiladi.\r\n\r\nToʻgʻri javob — faqat chapga harakatlanish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5822,
+          "textUz": "Барча йўналишларда ҳаракатланишга рухсат этилади",
+          "textRu": "Разрешается движение во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarda harakatlanishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5823,
+          "textUz": "Чапга ва орқага қайтиш (қайрилиб олиш)",
+          "textRu": "Налево и разворот",
+          "textOz": "Chapga va orqaga qaytish (qayrilib olish)",
+          "isCorrect": false
+        },
+        {
+          "id": 5824,
+          "textUz": "Чапга",
+          "textRu": "Налево",
+          "textOz": "Chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 5825,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5826,
+          "textUz": "Барча йўналишларда ҳаракатланиш тақиқланади",
+          "textRu": "Движение во всех направлениях запрещается",
+          "textOz": "Barcha yo‘nalishlarda harakatlanish taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5824
+      ]
+    },
+    {
+      "id": 444,
+      "questionUz": "Ушбу автомобилга кўрсатилган йўналишлардан қайси бирига ҳаракатланишга рухсат этилади?",
+      "questionRu": "Этому автомобилю разрешено двигаться в каком направлении?",
+      "questionOz": "Ushbu avtomobilga ko‘rsatilgan yo‘nalishlardan qaysi biriga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Бу ерда йўлда ажратувчи минтақа мавжуд.\r\n\r\nШунинг учун \"Чапга бурилиш мумкин эмас\" йўл белгиси фақат биринчи қатнов қисми кесишмасигача амал қилади ва иккинчи қатнов қисми кесишмасига таъсир қилмайди.\r\n\r\nНатижада, иккинчи кесишмада чапга бурилиш мумкин бўлади.\r\n\r\nБундан ташқари, \"Чапга бурилиш мумкин эмас\" белгиси қайрилиб олишни тақиқламайди. Демак, ушбу вазиятда ҳайдовчи ҳам чапга бурилиши, ҳам қайрилиб олиши мумкин.\r\n\r\nШунинг учун тўғри жавоб — иккала йўналишга ҳам ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации на дороге имеется разделительная полоса.\r\n\r\nПоэтому знак «Поворот налево запрещён» действует только до первого пересечения проезжих частей и не распространяется на второе пересечение.\r\n\r\nСледовательно, на втором пересечении поворот налево разрешён.\r\n\r\nКроме того, знак «Поворот налево запрещён» не запрещает разворот. Поэтому водитель может как повернуть налево, так и выполнить разворот.\r\n\r\nПравильный ответ — движение разрешено в обоих направлениях.",
+      "explanationOz": "Bu yerda yoʻlda ajratuvchi mintaqa mavjud.\r\n\r\nShuning uchun \"Chapga burilish mumkin emas\" yoʻl belgisi faqat birinchi qatnov qismi kesishmasigacha amal qiladi va ikkinchi qatnov qismi kesishmasiga taʼsir qilmaydi.\r\n\r\nNatijada, ikkinchi kesishmada chapga burilish mumkin bo‘ladi.\r\n\r\nBundan tashqari, \"Chapga burilish mumkin emas\" belgisi qayrilib olishni taqiqlamaydi. Demak, ushbu vaziyatda haydovchi ham chapga burilishi, ham qayrilib olishi mumkin.\r\n\r\nShuning uchun toʻgʻri javob — ikkala yoʻnalishga ham harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5827,
+          "textUz": "Фақат қайрилиб олишга",
+          "textRu": "Только для разворота",
+          "textOz": "Faqat qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5828,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5829,
+          "textUz": "Иккала йўналишга ҳам ҳаракатланиш тақиқланади",
+          "textRu": "Движение в обоих направлениях запрещено",
+          "textOz": "Ikkala yo‘nalishga ham harakatlanish taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5830,
+          "textUz": "Иккала йўналишга ҳам ҳаракатланишга рухсат этилади",
+          "textRu": "Движение в обоих направлениях разрешено",
+          "textOz": "Ikkala yo‘nalishga ham harakatlanishga ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5830
+      ]
+    },
+    {
+      "id": 445,
+      "questionUz": "Қайси транспорт воситалари ўнгга ҳаракатланишга рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешено движение направо?",
+      "questionOz": "Qaysi transport vositalari o'ngga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Ушбу вазиятда трамвай светофори трамвайга фақат тўғрига ҳаракатланишга рухсат бермоқда. Трамвай бошқа йўналишларда ҳаракатлана олмайди.\r\n\r\nҚизил автомобил учун эса асосий яшил сигнал ёниб турибди. Асосий яшил сигнал енгил автомобилга йўл белгилари ва чизиқлар билан чекланмаган барча рухсат этилган йўналишларда ҳаракатланиш имконини беради.\r\n\r\nШунинг учун саволда қайси транспорт воситасига ҳаракатланишга рухсат берилгани сўралган бўлса, тўғри жавоб — енгил автомобил.\r\n\r\nДемак, тўғри жавоб — енгил автомобилга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации трамвайный светофор разрешает трамваю движение только прямо. Движение в других направлениях для трамвая не разрешено.\r\n\r\nДля красного легкового автомобиля горит основной зелёный сигнал светофора. Основной зелёный сигнал разрешает движение во всех направлениях, которые не запрещены дорожными знаками или разметкой.\r\n\r\nПоэтому, если вопрос заключается в том, какому транспортному средству разрешено движение, правильный ответ — легковому автомобилю.\r\n\r\nСледовательно, движение разрешено только легковому автомобилю.",
+      "explanationOz": "Ushbu vaziyatda tramvay svetofori tramvayga faqat toʻgʻriga harakatlanishga ruxsat bermoqda. Tramvay boshqa yoʻnalishlarda harakatlana olmaydi.\r\n\r\nQizil avtomobil uchun esa asosiy yashil signal yonib turibdi. Asosiy yashil signal yengil avtomobilga yoʻl belgilari va chiziqlar bilan cheklanmagan barcha ruxsat etilgan yoʻnalishlarda harakatlanish imkonini beradi.\r\n\r\nShuning uchun savolda qaysi transport vositasiga harakatlanishga ruxsat berilgani soʻralgan boʻlsa, toʻgʻri javob — yengil avtomobil.\r\n\r\nDemak, toʻgʻri javob — yengil avtomobilga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5831,
+          "textUz": "Ҳар иккалага",
+          "textRu": "Обоим",
+          "textOz": "Har ikkisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5832,
+          "textUz": "Трамвайга",
+          "textRu": "Трамваю",
+          "textOz": "Tramvayga",
+          "isCorrect": false
+        },
+        {
+          "id": 5833,
+          "textUz": "Енгил автомобилга",
+          "textRu": "Легковому автомобилю",
+          "textOz": "Yengil avtomobilga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5833
+      ]
+    },
+    {
+      "id": 446,
+      "questionUz": "Милтилловчи қизил ишора?",
+      "questionRu": "Мигающий красный сигнал?",
+      "questionOz": "Miltillovchi qizil ishora?",
+      "explanationUz": "Милтилловчи қизил ишора ҳаракатланишни тақиқлайди.\r\n\r\nБундай сигнал ҳайдовчига тўхташ ва эҳтиёткорлик билан ҳаракат қилиш зарурлигини билдиради. Айниқса, темир йўл кесишмаларида милтилловчи қизил чироқ транспорт воситаларининг ҳаракатланишини тақиқлайди.\r\n\r\nДемак, милтилловчи қизил ишора — ҳаракатланишни тақиқловчи сигнал ҳисобланади.",
+      "explanationRu": "Мигающий красный сигнал запрещает движение.\r\n\r\nТакой сигнал указывает водителю на необходимость остановиться и действовать с повышенной осторожностью. Особенно на железнодорожных переездах мигающий красный сигнал запрещает дальнейшее движение транспортных средств.\r\n\r\nСледовательно, мигающий красный сигнал является запрещающим сигналом.",
+      "explanationOz": "Miltillovchi qizil ishora harakatlanishni taqiqlaydi.\r\n\r\nBunday signal haydovchiga toʻxtash va ehtiyotkorlik bilan harakat qilish zarurligini bildiradi. Ayniqsa, temir yoʻl kesishmalarida miltillovchi qizil chiroq transport vositalarining harakatlanishini taqiqlaydi.\r\n\r\nDemak, miltillovchi qizil ishora — harakatlanishni taqiqlovchi signal hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5834,
+          "textUz": "Ҳаракатни тақиқлайди",
+          "textRu": "Запрещает движение",
+          "textOz": "Harakatni taqiqlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 5835,
+          "textUz": "Кэскин тормоз бэрмасдан тўхташга улгура олмайдиган ҳайдовчиларга ҳаракатланишни давом эттиришга рухсат этилади",
+          "textRu": "Разрешает продолжить движение водителям, которые без резкого торможения не успевают остановиться",
+          "textOz": "Keskin tormoz bermasdan to‘xtashga ulgura olmaydigan haydovchilarga harakatlanishni davom ettirishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5836,
+          "textUz": "Ҳаракатланишга рухсат бэради",
+          "textRu": "Разрешает движение",
+          "textOz": "Harakatlanishga ruxsat beradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5834
+      ]
+    },
+    {
+      "id": 447,
+      "questionUz": "Кўк ва Қора автомобиллар ҳайдовчиларига ўнгга бурилишни амалга оширишга рухсат этилганми?",
+      "questionRu": "Разрешен ли водителям синих и черных автомобилей совершать правый поворот?",
+      "questionOz": "Ko'k va Qora avtomobillar haydovchilariga o‘ngga burilishni amalga oshirishga ruxsat etilganmi?",
+      "explanationUz": "Бу ерда кўк ва қора автомобил ҳайдовчилари ўнгга бурилишни амалга оширмоқчи.\r\n\r\nЛекин чорраҳада «Фақат тўғрига ҳаракатланиш» (4.1.1) йўл белгиси ўрнатилган.\r\n\r\nУшбу белги транспорт воситаларига фақат тўғрига ҳаракатланишга рухсат беради ва ўнгга бурилишни тақиқлайди.\r\n\r\nДемак, тўғри жавоб — кўк ва қора автомобилларга ўнгга бурилиш тақиқланади.",
+      "explanationRu": "В данной ситуации водители синего и чёрного автомобилей хотят повернуть направо.\r\n\r\nОднако на перекрёстке установлен знак «Движение прямо» (4.1.1), который разрешает движение только прямо и запрещает поворот направо.\r\n\r\nСледовательно, правильный ответ — поворот направо для синего и чёрного автомобилей запрещён.",
+      "explanationOz": "Bu yerda ko‘k va qora avtomobil haydovchilari o‘ngga burilishni amalga oshirmoqchi.\r\n\r\nLekin chorrahada 4.1.1 — :contentReference[oaicite:0]{index=0} yoʻl belgisi o‘rnatilgan.\r\n\r\nUshbu belgi transport vositalariga faqat to‘g‘riga harakatlanishga ruxsat beradi va o‘ngga burilishni taqiqlaydi.\r\n\r\nDemak, toʻgʻri javob — ko‘k va qora avtomobillarga o‘ngga burilish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/61.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5837,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешён",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5838,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещён",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5838
+      ]
+    },
+    {
+      "id": 761,
+      "questionUz": "Ушбу вазиятдас сиз",
+      "questionRu": "В этой ситуации вы:",
+      "questionOz": "Ushbu vaziyatdas siz",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 105 бандига асосан, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. Бундай чорраҳаларда кейинги ҳаракат йўналишидан қатъий назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади.\r\nЙўл ҳаракати қоидаларининг 107 бандига асосан, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак.\r\nУшбу чорраҳада трамвай биринчи, тўғрига ҳаракатланаётган автобус иккинчи, чапга бурилаётган қизил автомобил учунчи бўлиб ҳаракатланади.",
+      "explanationRu": "Согласно пункту 105 Правил дорожного движения, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Этим же правилом должны руководствоваться между собой водители трамваев. На таких перекрестках трамвай имеет право на приоритет движения перед безрельсовыми транспортными средствами, независимо от направления его движения.\r\nСогласно пункту 107 Правил дорожного движения, при повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо, а также производящим обгон в разрешенных случаях. Этим же правилом должны руководствоваться между собой водители трамваев.\r\nНа этом перекрёстке первым движется трамвай, вторым — автобус, идущий прямо, а третьим — красный автомобиль, поворачивающий налево.",
+      "explanationOz": "Yo‘l harakati qoidalarining 105 bandiga asosan, teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak. Bunday chorrahalarda keyingi harakat yo‘nalishidan qat’iy nazar, tramvay relssiz transport vositalariga nisbatan oldin o‘tish huquqiga ega bo‘ladi.\r\nYo‘l harakati qoidalarining 107 bandiga asosan, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo‘ldan qarama-qarshi yo‘nalishdan to‘g‘riga yoki o‘ngga harakatlanayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\r\nUshbu chorrahada tramvay birinchi, to‘g‘riga harakatlanayotgan avtobus ikkinchi, chapga burilayotgan qizil avtomobil uchunchi bo‘lib harakatlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4305,
+          "textUz": "Тўхтамасдан ҳаракатни давом эттиришингиз мумкин",
+          "textRu": "Вы можете продолжать движение, не останавливаясь",
+          "textOz": "To'xtamasdan harakatni davom ettirishingiz mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 4306,
+          "textUz": "Белги олдида тўхташингиз ва светофорнинг рухсат берувчи ишорасини кутишингиз керак",
+          "textRu": "Вы должны остановиться перед знаком и дождаться разрешающего сигнала светофора",
+          "textOz": "Belgi oldida to'xtashingiz va svetoforning ruxsat beruvchi ishorasini kutishingiz kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4306
+      ]
+    },
+    {
+      "id": 1251,
+      "questionUz": "Қайси йўналишларда сизга ҳаракатни давом эттиришга рухсат этилади?",
+      "questionRu": "В каких направлениях вам разрешается продолжить движение?",
+      "questionOz": "Qaysi yo‘nalishlarda sizga harakatni davom ettirishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси 5.8.2-банди, 5-бўлим (Ахборот-кўрсаткич белгилари) ва ЙҲҚнинг 7-боб, 32-бандига асосан:\r\n\r\n5.8.2 — «Тасма бўйича ҳаракатланиш йўналиши» белгиси ушбу тасма бўйича рухсат этилган ҳаракат йўналишини билдиради. Бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари доирасимон светофор ишоралари билан бир хил маънога эга бўлиб, фақат кўрсатилган йўналишга таъсир қилади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи яшил йўналтиргич қайрилиб олишга ҳам рухсат беради.\r\n\r\nМазкур ҳолатда йўл тасмаси ва светофор ишорасига кўра фақат чапга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно Приложению 1, пункту 5.8.2, разделу 5 (Информационно-указательные знаки) и главе 7, пункту 32 Правил дорожного движения:\r\n\r\n5.8.2 — знак «Направления движения по полосе» указывает разрешённое направление движения по данной полосе. Движение в других направлениях запрещается.\r\n\r\n32. Красные, жёлтые и зелёные сигналы светофора в виде стрелок имеют то же значение, что и круглые сигналы, но распространяются только на указанное направление. Если разворот не запрещён соответствующим дорожным знаком, зелёная стрелка, разрешающая поворот налево, разрешает также разворот.\r\n\r\nВ данной ситуации, согласно разметке полосы и сигналу светофора, разрешается движение только налево.",
+      "explanationOz": "YHQning 1-ilovasi 5.8.2-band, 5-band (Axborot-ko‘rsatkich belgilari) va YHQning 7-bob, 32-bandiga asosan:\r\n\r\n5.8.2 — \"Tasma bo‘yicha harakatlanish yo‘nalishi\" belgisi ushbu tasma bo‘yicha ruxsat etilgan harakat yo‘nalishini bildiradi. Boshqa yo‘nalishlarda harakatlanish taqiqlanadi.\r\n\r\n32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari doirasimon svetofor ishoralari bilan bir xil ma’noga ega bo‘lib, faqat ko‘rsatilgan yo‘nalishga ta’sir qiladi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yashil yo‘naltirgich qayrilib olishga ham ruxsat beradi.\r\n\r\nMazkur holatda yo‘l tasmasi va svetofor ishorasiga ko‘ra faqat chapga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380729556-245825671.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6709,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 6710,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6711,
+          "textUz": "Чапга ва орқага қайрилиб олишга",
+          "textRu": "Налево и на разворот",
+          "textOz": "Chapga va orqaga qayrilib olishga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6709
+      ]
+    },
+    {
+      "id": 1252,
+      "questionUz": "Қора автомобиль қайси йўналишлар бўйича ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каких направлениях разрешается движение чёрному автомобилю?",
+      "questionOz": "Qora avtomobil qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси 5.8.2-банди, 5-бўлими (Ахборот-кўрсаткич белгилари) ва ЙҲҚнинг 7-боб, 32-бандига асосан:\r\n\r\n5.8.2 — «Тасма бўйича ҳаракатланиш йўналиши» белгиси ушбу тасма бўйича рухсат этилган ҳаракат йўналишини билдиради. Бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари доирасимон светофор ишоралари билан бир хил маънога эга бўлиб, фақат кўрсатилган йўналишга таъсир қилади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи яшил йўналтиргич қайрилиб олишга ҳам рухсат беради.\r\n\r\nМазкур ҳолатда қора автомобиль жойлашган тасма бўйича фақат чапга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно Приложению 1, пункту 5.8.2, разделу 5 (Информационно-указательные знаки) и главе 7, пункту 32 Правил дорожного движения:\r\n\r\n5.8.2 — знак «Направления движения по полосе» определяет разрешённое направление движения по данной полосе. Движение в иных направлениях запрещено.\r\n\r\n32. Красные, жёлтые и зелёные сигналы светофора в виде стрелок имеют то же значение, что и круглые сигналы, и распространяются только на указанное направление. Если разворот не запрещён соответствующим дорожным знаком, зелёная стрелка, разрешающая поворот налево, также разрешает разворот.\r\n\r\nВ данной ситуации чёрному автомобилю, находящемуся на данной полосе, разрешается движение только налево.",
+      "explanationOz": "YHQning 1-ilovasi 5.8.2-bandi, 5-bo‘lim (Axborot-ko‘rsatkich belgilari) va YHQning 7-bob, 32-bandiga asosan:\r\n\r\n5.8.2 — \"Tasma bo‘yicha harakatlanish yo‘nalishi\" belgisi ushbu tasma bo‘yicha ruxsat etilgan harakat yo‘nalishini bildiradi. Boshqa yo‘nalishlarda harakatlanish taqiqlanadi.\r\n\r\n32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari doirasimon svetofor ishoralari bilan bir xil ma’noga ega bo‘lib, faqat ko‘rsatilgan yo‘nalishga ta’sir qiladi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yashil yo‘naltirgich qayrilib olishga ham ruxsat beradi.\r\n\r\nMazkur holatda qora avtomobil joylashgan tasma bo‘yicha faqat chapga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380338105-124409972.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6689,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6690,
+          "textUz": "Тўғрига ва қайрилиб олишга",
+          "textRu": "Прямо и на разворот",
+          "textOz": "To‘g‘riga va qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 6691,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6692,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6692
+      ]
+    },
+    {
+      "id": 1253,
+      "questionUz": "Оқ автомобиль қайси йўналишга ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешается движение белому автомобилю?",
+      "questionOz": "Oq avtomobil qaysi yo‘nalishga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 1-иловаси 5.8.2-банди, 5-бўлими (Ахборот-кўрсаткич белгилари) ва ЙҲҚнинг 7-боб, 32-бандига асосан:\r\n\r\n5.8.2 — «Тасма бўйича ҳаракатланиш йўналиши» белгиси ушбу тасма бўйича рухсат этилган ҳаракат йўналишини билдиради. Бошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари доирасимон светофор ишоралари билан бир хил маънога эга бўлиб, фақат кўрсатилган йўналишга таъсир қилади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи яшил йўналтиргич қайрилиб олишга ҳам рухсат беради.\r\n\r\nМазкур ҳолатда оқ автомобиль жойлашган тасма бўйича фақат тўғрига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно Приложению 1, пункту 5.8.2, разделу 5 (Информационно-указательные знаки) и главе 7, пункту 32 Правил дорожного движения:\r\n\r\n5.8.2 — знак «Направления движения по полосе» определяет разрешённое направление движения по данной полосе. Движение в иных направлениях запрещено.\r\n\r\n32. Красные, жёлтые и зелёные сигналы светофора в виде стрелок имеют то же значение, что и круглые сигналы и распространяются только на указанное направление. Если разворот не запрещён соответствующим дорожным знаком, зелёная стрелка, разрешающая поворот налево, также разрешает разворот.\r\n\r\nВ данной ситуации белому автомобилю, находящемуся на данной полосе, разрешается движение только прямо.",
+      "explanationOz": "YHQning 1-ilovasi 5.8.2-bandi, 5-bo‘lim (Axborot-ko‘rsatkich belgilari) va YHQning 7-bob, 32-bandiga asosan:\r\n\r\n5.8.2 — \"Tasma bo‘yicha harakatlanish yo‘nalishi\" belgisi ushbu tasma bo‘yicha ruxsat etilgan harakat yo‘nalishini bildiradi. Boshqa yo‘nalishlarda harakatlanish taqiqlanadi.\r\n\r\n32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari doirasimon svetofor ishoralari bilan bir xil ma’noga ega bo‘lib, faqat ko‘rsatilgan yo‘nalishga ta’sir qiladi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yashil yo���naltirgich qayrilib olishga ham ruxsat beradi.\r\n\r\nMazkur holatda oq avtomobil joylashgan tasma bo‘yicha faqat to‘g‘riga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784614936095-890691393.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6714,
+          "textUz": "Ҳаракатланиш тақиқланади",
+          "textRu": "Движение запрещено",
+          "textOz": "Harakatlanish taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 6715,
+          "textUz": "Тўғрига, чапга ва орқага қайрилишга",
+          "textRu": "Прямо, налево и на разворот",
+          "textOz": "To‘g‘riga, chapga va orqaga qayrilishga",
+          "isCorrect": false
+        },
+        {
+          "id": 6716,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6717,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6717
+      ]
+    }
+  ]
+}

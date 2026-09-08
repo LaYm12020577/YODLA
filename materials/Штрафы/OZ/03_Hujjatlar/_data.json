@@ -1,0 +1,36 @@
+{
+  "category": "Hujjatlar",
+  "count": 3,
+  "fines": [
+    {
+      "article": 135,
+      "subArticle": null,
+      "violation": "Sug'urtasiz avtomobil boshqarish",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 135,
+      "subArticle": 1,
+      "violation": "Hujjatsiz avtomobil boshqarish (guvohnoma, texpassport)",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 135,
+      "subArticle": 2,
+      "violation": "Haydovchilik guvohnomasisiz avtomobil boshqarish (umuman yo'q)",
+      "fineBhm": "50.00",
+      "fineUzs": "18750000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": "yoki 15 sutkagacha ma'muriy qamoq",
+      "repeatOffense": false
+    }
+  ]
+}

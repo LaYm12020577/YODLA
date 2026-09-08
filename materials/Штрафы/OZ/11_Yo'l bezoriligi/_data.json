@@ -1,0 +1,26 @@
+{
+  "category": "Yo'l bezoriligi",
+  "count": 2,
+  "fines": [
+    {
+      "article": 136,
+      "subArticle": null,
+      "violation": "Yo'l bezoriligi (shashka, drift va xavfli manevrlar)",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "10.0",
+      "additionalPenalty": "1-2 yilga haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": false
+    },
+    {
+      "article": 136,
+      "subArticle": null,
+      "violation": "Yo'l bezoriligi (guvohnoma bo'lmasa yoki mahrum qilingan)",
+      "fineBhm": "50.00",
+      "fineUzs": "18750000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": "yoki 15 sutkagacha ma'muriy qamoq",
+      "repeatOffense": false
+    }
+  ]
+}

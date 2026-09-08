@@ -1,0 +1,828 @@
+{
+  "title": "06. Знаки приоритета (боб 1.2)",
+  "count": 19,
+  "questions": [
+    {
+      "id": 128,
+      "questionUz": "Қайси белги қарама-қарши ҳаракатланишнинг устунлигини билдиради?",
+      "questionRu": "Какой знак обозначает преимущество встречного движения?",
+      "questionOz": "Qaysi belgi qarama-qarshi harakatlanishning ustunligini bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлими 2.6 белгисига асосан, «Рўпара ҳаракатланишнинг устунлиги». Қарама-қарши ҳаракатланишни қийинлаштирадиган ҳолларда йўлнинг тор қисмига кириш тақиқланади. Ҳайдовчи йўлнинг тор қисмида бўлган ёки рўпарадан унга яқин бўлган транспорт воситасига йўл бериши (тўсқинлик қилмаслиги) керак.",
+      "explanationRu": "Согласно знаку 2.6 раздела 2 приложения № 1 к ПДД, «Приоритет встречного движения» запрещает въезд на узкий участок дороги, если это может затруднить встречное движение. Водитель должен уступить дорогу (не создавать помех) встречным транспортным средствам, находящимся на узком участке или противоположном подъезде к нему.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo'limi 2.6 belgisiga asosan, \"Ro'para harakatlanishning ustunligi\". Qarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo'lning tor qismiga kirish taqiqlanadi. Haydovchi yo'lning tor qismida bo'lgan yoki ro'paradan unga yaqin bo'lgan transport vositasiga yo'l berishi (to'sqinlik qilmasligi) kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 410,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 411,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 412,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 413,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 414,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        411
+      ]
+    },
+    {
+      "id": 129,
+      "questionUz": "Қайси транспорт воситасининг хайдовчиси биринчи навбатда ҳаракатланиш ҳуқуқига эга?",
+      "questionRu": "Водитель какого транспортного средства имеет право на первоочередное движение?",
+      "questionOz": "Qaysi transport vositasining xaydovchisi birinchi navbatda harakatlanish huquqiga ega?",
+      "explanationUz": "ЙҲҚ 1-иловаси 2-бўлими 2.6 белгиси, «Рўпара ҳаракатнинг устунлиги» қарама-қарши ҳаракатланишни қийинлаштирадиган ҳолларда йўлнинг тор қисмига киришга тақиқлайди. Ҳайдовчи йўлнинг тор қисмида бўлган ёки рўпарадан унга яқин бўлган транспорт воситасига йўл бериши керак. 2.7 белгиси эса,  «Рўпарадаги ҳаракатланишга нисбатан имтиёз». Йўлнинг тор қисмида ҳаракатланишда ҳайдовчи рўпарадан келаётган транспорт воситасига нисбатан имтиёзга эгалигини билдиради.",
+      "explanationRu": "Знак 2.6 главы 2 приложения № 1 к ПДД, «Приоритет встречного движения» запрещает въезд на узкий участок дороги, если это может затруднить встречное движение. Водитель должен уступить дорогу встречным транспортным средствам, находящимся на узком участке или противоположном подъезде к нему. А знак 2.7. «Преимущество перед встречным движением». Узкий участок дороги, при движении по которому водитель пользуется приоритетом по отношению к встречным транспортным средствам.",
+      "explanationOz": "YHQ 1-ilovasi 2-bo'limi 2.6 belgisi, \"Ro'para harakatning ustunligi\" qarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo'lning tor qismiga kirishga taqiqlaydi. Haydovchi yo'lning tor qismida bo'lgan yoki ro'paradan unga yaqin bo'lgan transport vositasiga yo'l berishi kerak. 2.7 belgisi esa, \"Ro'paradagi harakatlanishga nisbatan imtiyoz\". Yo'lning tor qismida harakatlanishda haydovchi ro'paradan kelayotgan transport vositasiga nisbatan imtiyozga egaligini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 415,
+          "textUz": "Юк автомобили ҳайдовчиси\r\n",
+          "textRu": "Водитель грузового автомобиля\r\n",
+          "textOz": "Yuk avtomobili haydovchisi\r\n",
+          "isCorrect": true
+        },
+        {
+          "id": 416,
+          "textUz": "Автобус ҳайдовчиси",
+          "textRu": "Водитель автобуса\r\n",
+          "textOz": "Avtobus haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        415
+      ]
+    },
+    {
+      "id": 130,
+      "questionUz": "Қайси белги кесиб ўтган йўлларда ҳаракатланаётган транспорт воситаларига йўл беришни юклайди?",
+      "questionRu": "Какой знак обязывает уступить дорогу транспортным средствам; движущимся по пересекаемой дороге?",
+      "questionOz": "Qaysi belgi kesib o'tgan yo'llarda harakatlanayotgan transport vositalariga yo'l berishni yuklaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлими 2.4 белгисига асосан, «Йўл беринг!». Ҳайдовчи кесиб ўтилаётган йўлдан, 7.13 қўшимча-ахборот белгиси бўлганда эса асосий йўлдан ҳаракатланаётган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Согласно знаку 2.4 раздела 2 приложения № 1 к ПДД, «Уступите дорогу». Водитель должен уступить дорогу транспортным средствам, движущимся по пересекаемой дороге, а при наличии дополнительного знака 7.13 — по главной.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo'limi 2.4 belgisiga asosan, \"Yo'l bering!\". Haydovchi kesib o'tilayotgan yo'ldan, 7.13 qo'shimcha-axborot belgisi bo'lganda esa asosiy yo'ldan harakatlanayotgan transport vositasiga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.3.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 417,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 418,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 419,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 420,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 421,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        419
+      ]
+    },
+    {
+      "id": 131,
+      "questionUz": "Чорраҳа олдида бу белги ўрнатилган бўлса; ҳайдовчи қандай йўл тутиши керак?",
+      "questionRu": "Если данный знак установлен у перекрестка то как должен поступить водитель?",
+      "questionOz": "Chorraha oldida bu belgi o'rnatilgan bo'lsa; haydovchi qanday yo'l tutishi kerak?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлими 2.5-бандига асосан, «Тўхтамасдан ҳаракатланиш тақиқланган» белгиси тўхташ чизиғи олдида, агар у бўлмаса, кесиб ўтиладиган қатнов қисмининг четида тўхтамасдан ҳаракатланиш тақиқланади. Ҳайдовчи кесиб ўтилаётган йўлдан, 7.13 қўшимча-ахборот белгиси бўлганда эса асосий йўлдан ҳаракатланаётган транспорт воситаларига йўл бериши керак. Бу белги темир йўл кесишмаси ёки карантин масканидан олдин ўрнатилиши мумкин. Бундай ҳолларда ҳайдовчи тўхташ чизиғи олдида, у бўлмаса, белги олдида тўхташи керак.",
+      "explanationRu": "Согласно пункту 2.5 раздела 2 приложения № 1 к ПДД, «Движение без остановки запрещено» запрещается движение без остановки перед стоп-линией, а если ее нет — перед краем пересекаемой проезжей части. Водитель должен уступить дорогу транспортным средствам, движущимся по пересекаемой, а при наличии дополнительного дорожного знака 7.13 – по главной дороге. Этот дорожный знак может быть установлен перед железнодорожным переездом или карантинным постом. В этих случаях водитель должен остановиться перед стоп-линией, а при ее отсутствии — перед знаком.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo'limi 2.5-bandiga asosan, \"To'xtamasdan harakatlanish taqiqlangan\" belgisi to'xtash chizig'i oldida, agar u bo'lmasa, kesib o'tiladigan qatnov qismining chetida to'xtamasdan harakatlanish taqiqlanadi. Haydovchi kesib o'tilayotgan yo'ldan, 7.13 qo'shimcha-axborot belgisi bo'lganda esa asosiy yo'ldan harakatlanayotgan transport vositalariga yo'l berishi kerak. Bu belgi temir yo'l kesishmasi yoki karantin maskanidan oldin o'rnatilishi mumkin. Bunday hollarda haydovchi to'xtash chizig'i oldida, u bo'lmasa, belgi oldida to'xtashi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/8.1.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4321,
+          "textUz": "Кесишадиган йўлда транспорт воситалари бўлмаса чорраҳадан тўхтамай ўтиши",
+          "textRu": "Если на перекрестке на месте пересечения нет транспортных средств должен проехать без остановки",
+          "textOz": "Kesishadigan yo'lda transport vositalari bo'lmasa chorrahadan to'xtamay o'tishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4322,
+          "textUz": "Чорраҳадан ўтишда айниқса ҳушёр бўлиши",
+          "textRu": "Должен быть осторожным при проезде через перекресток",
+          "textOz": "Chorrahadan o'tishda ayniqsa hushyor bo'lishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4323,
+          "textUz": "Кесишадиган йўл бўйлаб ҳаракатланаётган транспорт воситаларига йўл бериш учун, тўхташ чизиғида тўхтаб, у йўқ бўлса кесиб ўтиладиган қатнов қисмининг четида тўхташи",
+          "textRu": "Запрещается движение без остановки перед стоп линией, а если ее нет - перед краем пересекамой проезжей части",
+          "textOz": "Kesishadigan yo'l bo'ylab harakatlanayotgan transport vositalariga yo'l berish uchun, to'xtash chizig'ida to'xtab, u yo'q bo'lsa kesib o'tiladigan qatnov qismining chetida to'xtashi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4323
+      ]
+    },
+    {
+      "id": 132,
+      "questionUz": "Қайси белги рўпарадан ҳаракатланаётган транспорт воситаларига йўл беришни талаб қилади?",
+      "questionRu": "Какой знак требует уступить дорогу встречным транспортным средствам?",
+      "questionOz": "Qaysi belgi ro'paradan harakatlanayotgan transport vositalariga yo'l berishni talab qiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлимидаги 2.6 белгига асосан, «Рўпара ҳаракатланишнинг устунлиги». Қарама-қарши ҳаракатланишни қийинлаштирадиган ҳолларда йўлнинг тор қисмига кириш тақиқланади. Ҳайдовчи йўлнинг тор қисмида бўлган ёки рўпарадан унга яқин бўлган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Знак 2.6 раздела 2 приложения № 1 к ПДД, «Преимущество встречного движения». Запрещается въезд на узкий участок дороги, если это может затруднить встречное движение. Водитель должен уступить дорогу встречным транспортным средствам, находящимся на узком участке или противоположном подъезде к нему.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo‘limidagi 2.6 belgiga asosan, «Ro‘para harakatlanishning ustunligi». Qarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo‘lning tor qismiga kirish taqiqlanadi. Haydovchi yo‘lning tor qismida bo‘lgan yoki ro‘paradan unga yaqin bo‘lgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 425,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 426,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 427,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 428,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 429,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        426
+      ]
+    },
+    {
+      "id": 133,
+      "questionUz": "Ҳайдовчи қандай ҳолда бу белгининг талабларини тўғри бажаради?",
+      "questionRu": "В каком случае водитель правильно выполнил требования этого знака?",
+      "questionOz": "Haydovchi qanday holda bu belgining talablarini to'g'ri bajaradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлимидаги 2.4 «Йўл беринг» белгисида ҳайдовчи кесиб ўтилаётган йўлдан, 7.13 қўшимча-ахборот белгиси бўлганда эса асосий йўлдан ҳаракатланаётган транспорт воситасига йўл бериши (тўсқинлик қилмаслиги) керак.",
+      "explanationRu": "Знак 2.4 «Уступите дорогу» раздела 2 приложения № 1 к ПДД, водитель должен уступить дорогу (не создавать помех) транспортным средствам, движущимся по пересекаемой дороге, а при наличии дополнительного знака 7.13 – по главной.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo'limidagi 2.4 \"Yo'l bering\" belgisida haydovchi kesib o'tilayotgan yo'ldan, 7.13 qo'shimcha-axborot belgisi bo'lganda esa asosiy yo'ldan harakatlanayotgan transport vositasiga yo'l berishi (to'sqinlik qilmasligi) kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/21.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 430,
+          "textUz": "Кесишадиган йўл бўйлаб ҳаракат қилаётган механик транспорт воситаларига йўл беради",
+          "textRu": "Уступил дорогу механическим транспортным средствам движущимся по пересекаемой дороге",
+          "textOz": "Kesishadigan yo'l bo'ylab harakat qilayotgan mexanik transport vositalariga yo'l beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 431,
+          "textUz": "Кесишадиган йўл бўйлаб ҳаракат қилаётган транспорт воситаларига йўл беради",
+          "textRu": "Уступил дорогу транспортным средствам движущимся по пересекаемой дороге",
+          "textOz": "Kesishadigan yo'l bo'ylab harakat qilayotgan transport vositalariga yo'l beradi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        431
+      ]
+    },
+    {
+      "id": 134,
+      "questionUz": "Қайси белги кесишадиган йўл бўйлаб ҳаракат қилаётган транспорт воситаларига йўл бериш мажбуриятини юклайди?",
+      "questionRu": "Какой знак обязывает уступить дорогу транспортным средствам движущимся по пересекаемой дороге?",
+      "questionOz": "Qaysi belgi kesishadigan yo'l bo'ylab harakat qilayotgan transport vositalariga yo'l berish majburiyatini yuklaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлимидаги 2.4 «Йўл беринг» белгисида ҳайдовчи кесиб ўтилаётган йўлдан ҳаракатланаётган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Знак 2.4 «Уступите дорогу» раздела 2 приложения № 1 к ПДД, водитель должен уступить дорогу транспортным средствам, движущимся по пересекаемой дороге.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo‘limidagi 2.4 “Yo‘l bering” belgisida haydovchi kesib o‘tilayotgan yo‘ldan harakatlanayotgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 432,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 433,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 434,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 435,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 436,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        435
+      ]
+    },
+    {
+      "id": 135,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+      "explanationUz": "Тўғри жавоб 4-белги — 2.4. «Йўл беринг!». Ҳайдовчи кесиб ўтилаётган йўлдан, асосий йўл бўйлаб ҳаракатланаётган транспорт воситаларига йўл бериши керак.",
+      "explanationRu": "Правильный ответ — знак №4, 2.4 «Уступите дорогу!». Водитель обязан уступить дорогу транспортным средствам, движущимся по пересекаемой главной дороге.",
+      "explanationOz": "Toʻgʻri javob 4-belgi — 2.4. “Yoʻl bering!”. Haydovchi kesib oʻtilayotgan yoʻldan, asosiy yoʻldan harakatlanayotgan transport vositalariga yoʻl berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/35.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4769,
+          "textUz": "Трактор ҳайдовчиси",
+          "textRu": "Водитель трактора",
+          "textOz": "Traktor haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 4770,
+          "textUz": "Автобус ҳайдовчиси",
+          "textRu": "Водитель автобуса",
+          "textOz": "Avtobus haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4770
+      ]
+    },
+    {
+      "id": 136,
+      "questionUz": "Кўрсатилган йўл белгиларидан  қайсилари Сиз йўлнинг тор қисмида йўл беришингизни  талаб қилади?",
+      "questionRu": "Какие знаки требует, что Вы должны уступить дорогу, если встречный разъезд затруднен?",
+      "questionOz": "Ko'rsatilgan yo'l belgilaridan  qaysilari Siz yo'lning tor qismida yo'l berishingizni  talab qiladi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 49 бандига асосан, қувиб ўтиш ҳақида товушли ишора ўрнига ёки у билан бирга фара чироқларини ёқиб-ўчириб, огоҳлантириш ишорасини ҳам бериш мумкин.\r\nЙўл ҳаракати қоидаларининг 48 бандига асосан, товушли ишоралар фақат қуйидаги ҳолларда қўлланилиши мумкин: аҳоли пунктларидан ташқарида бошқа ҳайдовчиларни қувиб ўтиш ҳақида огоҳлантириш учун; зарур бўлган ҳолларда йўл-транспорт ҳодисасининг олдини олиш учун.\r\nЮқорида кўрсатилган ҳоллардан ташқари товушли ишоралардан фойдаланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 49 Правил дорожного движения, вместо звукового сигнала об обгоне или же вместе с ним может подаваться предупредительный сигнал переключением фар.\r\nСогласно пункту 48 Правил дорожного движения, звуковые сигналы могут применяться в следующих случаях: вне населенных пунктов при обгоне, для предупреждения других водителей; в необходимых случаях — для предотвращения дорожно-транспортного происшествия.\r\nИспользование звуковых сигналов запрещено, за исключением случаев, указанных выше.",
+      "explanationOz": "Yo‘l harakati qoidalarining 49 bandiga asosan, quvib o‘tish haqida tovushli ishora o‘rniga yoki u bilan birga fara chiroqlarini yoqib-o‘chirib, ogohlantirish ishorasini ham berish mumkin.\r\nYo‘l harakati qoidalarining 48 bandiga asosan, tovushli ishoralar faqat quyidagi hollarda qo‘llanilishi mumkin: aholi punktlaridan tashqarida boshqa haydovchilarni quvib o‘tish haqida ogohlantirish uchun; zarur bo‘lgan hollarda yo‘l-transport hodisasining oldini olish uchun.\r\nYuqorida ko‘rsatilgan hollardan tashqari tovushli ishoralardan foydalanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/38.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 439,
+          "textUz": "Фақат «В»",
+          "textRu": "Только «В»",
+          "textOz": "Faqat «В»",
+          "isCorrect": false
+        },
+        {
+          "id": 440,
+          "textUz": "«А» ва «В»",
+          "textRu": "«А» и «В»",
+          "textOz": "«А» va «В»",
+          "isCorrect": true
+        },
+        {
+          "id": 441,
+          "textUz": "«Б» ва «В»",
+          "textRu": "«Б» и «В»",
+          "textOz": "«Б» va «В»",
+          "isCorrect": false
+        },
+        {
+          "id": 442,
+          "textUz": "«Б» ва «Г»",
+          "textRu": "«Б» и «Г»",
+          "textOz": "«Б» va «Г»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        440
+      ]
+    },
+    {
+      "id": 137,
+      "questionUz": "Қайси белги йўлнинг тор қисмларида рўпарадан келаётган транспорт воситасига йўл бериш лозимлигини билдиради?",
+      "questionRu": "Какой знак указывает на необходимость уступить дорогу встречному транспортному средству на узких участках дороги?",
+      "questionOz": "Qaysi belgi yo'lning tor qismlarida ro'paradan kelayotgan transport vositasiga yo'l berish lozimligini bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлимидаги 2.6 белгига асосан, «Рўпара ҳаракатланишнинг устунлиги». Қарама-қарши ҳаракатланишни қийинлаштирадиган ҳолларда йўлнинг тор қисмига кириш тақиқланади. Ҳайдовчи йўлнинг тор қисмида бўлган ёки рўпарадан унга яқин бўлган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Знак 2.6 раздела 2 приложения № 1 к ПДД, «Преимущество встречного движения». Запрещается въезд на узкий участок дороги, если это может затруднить встречное движение. Водитель должен уступить дорогу встречным транспортным средствам, находящимся на узком участке или противоположном подъезде к нему.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo‘limidagi 2.6 belgiga asosan, «Ro‘para harakatlanishning ustunligi». Qarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo‘lning tor qismiga kirish taqiqlanadi. Haydovchi yo‘lning tor qismida bo‘lgan yoki ro‘paradan unga yaqin bo‘lgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 443,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": true
+        },
+        {
+          "id": 444,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 445,
+          "textUz": "Б ва В",
+          "textRu": "Б и В",
+          "textOz": "B va V",
+          "isCorrect": false
+        },
+        {
+          "id": 446,
+          "textUz": "А ва Г",
+          "textRu": "А и Г",
+          "textOz": "A va G",
+          "isCorrect": false
+        },
+        {
+          "id": 447,
+          "textUz": "Г",
+          "textRu": "Г",
+          "textOz": "G",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        443
+      ]
+    },
+    {
+      "id": 138,
+      "questionUz": "Қайси белги тўхташ чизиғи олдида, у бўлмаганда, кесиб ўтиладиган қатнов қисмининг четида тўхтамасдан ҳаракатланишни таъқиқлайди?",
+      "questionRu": "Какой знак запрещает движение без остановки перед стоп-линией, а при эё отсутствии перед линией пересечения проезжих частей дороги?",
+      "questionOz": "Qaysi belgi to'xtash chizig'i oldida, u bo'lmaganda, kesib o'tiladigan qatnov qismining chetida to'xtamasdan harakatlanishni taqiqlaydi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, ҳаракатланиш тасмаси — автомобилларнинг бир қатор бўлиб ҳаракатланиши учун етарлича кенг бўлган, йўл чизиқлари билан белгиланган ёки белгиланмаган йўл қатнов қисмининг ҳар қандай бўйлама тасмаси.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, полоса движения — любая из пр��дольных полос проезжей части, обозначенная или необозначенная дорожной разметкой и имеющая ширину, достаточную для движения автомобилей в один ряд.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, harakatlanish tasmasi — avtomobillarning bir qator bo‘lib harakatlanishi uchun yetarlicha keng bo‘lgan, yo‘l chiziqlari bilan belgilangan yoki belgilanmagan yo‘l qatnov qismining har qanday bo‘ylama tasmasi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 448,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 449,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "B",
+          "isCorrect": true
+        },
+        {
+          "id": 450,
+          "textUz": "Б ва В",
+          "textRu": "Б и В",
+          "textOz": "B va V",
+          "isCorrect": false
+        },
+        {
+          "id": 451,
+          "textUz": "А ва Г",
+          "textRu": "А и Г",
+          "textOz": "A va G",
+          "isCorrect": false
+        },
+        {
+          "id": 452,
+          "textUz": "Г",
+          "textRu": "Г",
+          "textOz": "G",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        449
+      ]
+    },
+    {
+      "id": 139,
+      "questionUz": "Қайси йўл белгилари йўлнинг тор қисмида ҳайдовчига устунлик беради?",
+      "questionRu": "Какие дорожные знаки дают преимущество водителю на узком участке дороги?",
+      "questionOz": "Qaysi yo'l belgilari yo'lning tor qismida haydovchiga ustunlik beradi?",
+      "explanationUz": "«Рўпарадаги ҳаракатланишга нисбатан имтиёз». Йўлнинг тор қисмида ҳаракатланишда ҳайдовчи рўпарадан келаётган транспорт воситасига нисбатан имтиёзга эгалигини билдиради.",
+      "explanationRu": "«Преимущество перед встречным движением». Обозначает, что при движении по узкому участку дороги водитель имеет преимущество перед транспортными средствами, движущимися во встречном направлении.",
+      "explanationOz": "“Roʻparadagi harakatlanishga nisbatan imtiyoz”. Yoʻlning tor qismida harakatlanishda haydovchi roʻparadan kelayotgan transport vositasiga nisbatan imtiyozga egaligini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/44.20.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4771,
+          "textUz": "Фақат Б",
+          "textRu": "Только B",
+          "textOz": "Faqat B",
+          "isCorrect": false
+        },
+        {
+          "id": 4772,
+          "textUz": "А ва Б",
+          "textRu": "А и B",
+          "textOz": "A va B",
+          "isCorrect": false
+        },
+        {
+          "id": 4773,
+          "textUz": "Фақат Д",
+          "textRu": "Только Д",
+          "textOz": "Faqat D",
+          "isCorrect": true
+        },
+        {
+          "id": 4774,
+          "textUz": "Фақат C",
+          "textRu": "Только C",
+          "textOz": "Faqat C",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4773
+      ]
+    },
+    {
+      "id": 140,
+      "questionUz": "Қайси белги ҳайдовчига кесиб ўтилаётган йўлда ҳаракатланаётган транспорт воситаларига йўл бериш лозимлигини билдиради?",
+      "questionRu": "Какой знак предписывает водителю уступить дорогу транспортным средствам, движущимся по пересекаемой дороге?",
+      "questionOz": "Qaysi belgi haydovchiga kesib o'tilayotgan yo'lda harakatlanayotgan transport vositalariga yo'l berish lozimligini bildiradi?",
+      "explanationUz": "2.4 ва 2.5 йўл белгиларининг иккаласи ҳам иккинчи даражали йўлда ўрнатилади ва ҳайдовчига асосий йўлдан ҳаракатланаётган транспорт воситаларига йўл бериш мажбуриятини юклайди.",
+      "explanationRu": "Оба дорожных знака 2.4 и 2.5 устанавливаются на второстепенной дороге и обязывают водителя уступить дорогу транспортным средствам, движущимся по главной дороге.",
+      "explanationOz": "2.4 va 2.5 yo'l belgilarining ikkalasi ham ikkinchi darajali yo'lda o'rnatiladi va  asosiy yoʻldan harakatlanayotgan transport vositalariga yoʻl berishi majburiyatini yuklaydi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/45.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6821,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 6822,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "Б",
+          "isCorrect": false
+        },
+        {
+          "id": 6823,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "В",
+          "isCorrect": false
+        },
+        {
+          "id": 6824,
+          "textUz": "Г",
+          "textRu": "Г",
+          "textOz": "Г",
+          "isCorrect": false
+        },
+        {
+          "id": 6825,
+          "textUz": "Б ва Г",
+          "textRu": "Б и Г",
+          "textOz": "Б va Г",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6825
+      ]
+    },
+    {
+      "id": 141,
+      "questionUz": "Қайси белги иккинчи даражали йўл билан кесишувни билдиради?",
+      "questionRu": "Какой знак обозначает пересечение с второстепенной дорогой?",
+      "questionOz": "Qaysi belgi ikkinchi darajali yo'l bilan kesishuvni bildiradi?",
+      "explanationUz": "«Иккинчи даражали йўл билан кесишув»ни билдиради. Бу белги йўлнинг асосий йўл эканлигини англатади ва унда икки томондан иккинчи даражали йўллар билан кесишув мавжудлигидан огоҳлантиради.",
+      "explanationRu": "Обозначает «Пересечение со второстепенной дорогой». Этот знак указывает, что данная дорога является главной, и предупреждает о наличии пересечений со второстепенными дорогами с обеих сторон.",
+      "explanationOz": "“Ikkinchi darajali yoʻl bilan kesishuv” ni bildidradi. Bu belgi Asosiy yo'l ekandaligini anglatadi va unga ikki tarafdan ikkinchi darajali yo'l bilan kesishuv borligidan ogohlantiradi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4780,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": true
+        },
+        {
+          "id": 4781,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4782,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 4783,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 4784,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4780
+      ]
+    },
+    {
+      "id": 142,
+      "questionUz": "Қайси белги иккинчи даражали йўл билан туташувни билдиради?",
+      "questionRu": "Какой знакобозначает примыкание второстепенной дороги?",
+      "questionOz": "Qaysi belgi ikkinchi darajali yo'l bilan tutashuvni bildiradi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 98 бандига асосан, ҳаракатланиш навбати светофор ёки тартибга солувчининг ишоралари билан бошқариладиган чорраҳа — тартибга солинган чорраҳа ҳисобланади.\r\nМилтилловчи сариқ ишора ёниб-ўчаётган, светофорлар ишламаётган ёки тартибга солувчи бўлмаган чорраҳа — тартибга солинмаган чорраҳа ҳисобланади. Ҳайдовчилар тартибга солинмаган чорраҳалардан ўтиш қоидаларига ҳамда чорраҳада ўрнатилган имтиёз белгиларига амал қилишлари шарт.",
+      "explanationRu": "Согласно пункту 98 Правил дорожного движения, перекресток, где очередность движения определяется сигналами светофора или регулировщика, считается регулируемым. \r\nПри желтом мигающем сигнале, неработающих светофорах или отсутствии регулировщика перекресток считается нерегулируемым, и водители обязаны руководствоваться правилами проезда нерегулируемых перекрёстков и установленными на перекрёстке знаками приоритета.",
+      "explanationOz": "Yo‘l harakati qoidalarining 98 bandiga asosan, harakatlanish navbati svetofor yoki tartibga soluvchining ishoralari bilan boshqariladigan chorraha — tartibga solingan chorraha hisoblanadi.\r\nMiltillovchi sariq ishora yonib-o‘chayotgan, svetoforlar ishlamayotgan yoki tartibga soluvchi bo‘lmagan chorraha — tartibga solinmagan chorraha hisoblanadi. Haydovchilar tartibga solinmagan chorrahalardan o‘tish qoidalariga hamda chorrahada o‘rnatilgan imtiyoz belgilariga amal qilishlari shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 467,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 468,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 469,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 470,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 471,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        468
+      ]
+    },
+    {
+      "id": 143,
+      "questionUz": "Қайси йўл белгилари йўлнинг тор қисмида ҳайдовчига устунлик беради?",
+      "questionRu": "При наличии каких знаков водитель пользуеться преимушеством, если встречный разъезд затруднен припятствием?",
+      "questionOz": "Qaysi yo'l belgilari yo'lning tor qismida haydovchiga ustunlik beradi?",
+      "explanationUz": "ЙҲҚ 1 илова: 1.11.1, 1.11.2. “Хавфли бурилиши”. 1.11.1 ўнгга, 1.11.2 - чапга йўл белгилари йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради.",
+      "explanationRu": "Приложение № 1 ПДД: 1.11.1, 1.11.2. “Опасный поворот”. Закругление дороги малого радиуса или с ограниченной видимостью: 1.11.1 направо, 1.11.2 - налево.",
+      "explanationOz": "YHQ 1 ilova: 1.11.1, 1.11.2. “Xavfli burilishi”. 1.11.1 o‘ngga, 1.11.2 - chapga yo‘l belgilari yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 472,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "В",
+          "isCorrect": false
+        },
+        {
+          "id": 473,
+          "textUz": "А ва В",
+          "textRu": "А и В",
+          "textOz": "A va В",
+          "isCorrect": false
+        },
+        {
+          "id": 474,
+          "textUz": "Б ва В",
+          "textRu": "Б и В",
+          "textOz": "Б va В",
+          "isCorrect": false
+        },
+        {
+          "id": 475,
+          "textUz": "Б ва Г",
+          "textRu": "Б и Г",
+          "textOz": "Б va Г",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        475
+      ]
+    },
+    {
+      "id": 144,
+      "questionUz": "Бундай вазиятда сиз:",
+      "questionRu": "В этой ситуации вы:",
+      "questionOz": "Bunday vaziyatda siz:",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.18 чизиғи, чорраҳада тасмалар бўлаклар бўйича рухсат этилган ҳаракатланиш йўналишларини кўрсатади. Мустақил ёки 5.8.1, 5.8.2 «Бўлаклар бўйича ҳаракатланишнинг йўналиши» белгилари билан биргаликда қўлланилиши мумкин; охири берк йўл тасвирланган чизиқ шу йўналишдаги ён томонда жойлашган қатнов қисмига бурилиш тақиқланганлигини кўрсатиш учун чизилади; четки чап тасмадан чапга бурилишга рухсат берувчи йўналтиргич шу тасмадан қайрилишга ҳам рухсат беради.",
+      "explanationRu": "Линия 1.18 раздела 1 приложения № 2 к ПДД, указывает разрешённые направления движения по полосам на перекрестке. Применяется самостоятельно или в сочетании со знаками 5.8.1, 5.8.2 «Направления движения по полосам», разметка с изображением тупика наносится для указания того, что поворот на ближайшую проезжую часть запрещён; разметка, разрешающая поворот налево из крайней левой полосы, разрешает и разворот.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo‘limidagi 1.18 chizig‘i, chorrahada tasmalar bo‘laklar bo‘yicha ruxsat etilgan harakatlanish yo‘nalishlarini ko‘rsatadi. Mustaqil yoki 5.8.1, 5.8.2 “Bo‘laklar bo‘yicha harakatlanishning yo‘nalishi” belgilari bilan birgalikda qo‘llanilishi mumkin; oxiri berk yo‘l tasvirlangan chiziq shu yo‘nalishdagi yon tomonda joylashgan qatnov qismiga burilish taqiqlanganligini ko‘rsatish uchun chiziladi; chetki chap tasmadan chapga burilishga ruxsat beruvchi yo‘naltirgich shu tasmadan qayrilishga ham ruxsat beradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/51.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 476,
+          "textUz": "Биринчи ўтиш ҳуқуқига эгаман",
+          "textRu": "У меня есть право первого прохода",
+          "textOz": "Birinchi o‘tish huquqiga egaman",
+          "isCorrect": false
+        },
+        {
+          "id": 477,
+          "textUz": "Рўпарадан келаётган автомобилга йўл бераман",
+          "textRu": "Я уступаю дорогу приближающейся машине",
+          "textOz": "Ro‘paradan kelayotgan avtomobilga yo‘l beraman",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        477
+      ]
+    },
+    {
+      "id": 145,
+      "questionUz": "Огоҳлантирувчи белгиларни топинг",
+      "questionRu": "Найдите предупреждающие знаки",
+      "questionOz": "Ogohlantiruvchi belgilarni toping",
+      "explanationUz": "ЙҲҚ 9-боби 60-банди: Транспорт воситаларининг ҳаракатланиш йўналишлари кесишганда ва ўтиш навбати Қоидаларда назарда тутилмаган ҳолларда, ҳайдовчи ўнг томондан яқинлашаётган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Пункта 60 главы 9 ПДД, гласит:\r\nВ случаях, когда траектории движения транспортных средств пересекаются, а очередность проезда не оговорена Правилами, дорогу должен уступить водитель, к которому транспортное средство приближается справа.",
+      "explanationOz": "YHQ 9-bobi 60-bandi: Transport vositalarining harakatlanish yo‘nalishlari kesishganda va o‘tish navbati Qoidalarda nazarda tutilmagan hollarda, haydovchi o‘ng tomondan yaqinlashayotgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 478,
+          "textUz": "Ҳаммаси",
+          "textRu": "Все",
+          "textOz": "Hammasi",
+          "isCorrect": false
+        },
+        {
+          "id": 479,
+          "textUz": "1,2,4,5",
+          "textRu": "1,2 4,5",
+          "textOz": "1,2,4,5",
+          "isCorrect": false
+        },
+        {
+          "id": 480,
+          "textUz": "4,5",
+          "textRu": "4,5",
+          "textOz": "4,5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        480
+      ]
+    },
+    {
+      "id": 146,
+      "questionUz": "Имтиёз бэлгилари қайси жойларда ҳаракатланиш навбатини бэлгилайди?",
+      "questionRu": "В каких местах знаки приоритета определяют очередность движения?",
+      "questionOz": "Imtiyoz belgilari qaysi joylarda harakatlanish navbatini belgilaydi?",
+      "explanationUz": "ЙҲҚ 1 илова: 5.15.1. “Пуллик тўхтаб туриш жойи”.",
+      "explanationRu": "ПДД приложение № 1: 5.15.1 “Платная стоянка”.",
+      "explanationOz": "YHQ 1 ilova: 5.15.1. “Pullik to‘xtab turish joyi”.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4327,
+          "textUz": "Фақат чорраҳаларда",
+          "textRu": "Только на перекрестках",
+          "textOz": "Faqat chorrahalarda",
+          "isCorrect": false
+        },
+        {
+          "id": 4328,
+          "textUz": "Фақат ё Ининг тор қисмиарида",
+          "textRu": "Только между узкой частью ствола",
+          "textOz": "Faqat yo Ining tor qismiarida",
+          "isCorrect": false
+        },
+        {
+          "id": 4329,
+          "textUz": "Ҳар иккала жавоб ҳам тўғри",
+          "textRu": "Оба ответа верны",
+          "textOz": "Har ikkala javob ham to'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4329
+      ]
+    }
+  ]
+}

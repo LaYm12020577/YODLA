@@ -1,0 +1,823 @@
+{
+  "title": "Bilet 18",
+  "count": 20,
+  "questions": [
+    {
+      "id": 343,
+      "questionUz": "«Тўхташ тақиқланган» белгиси билан бирга тўсиқнинг усти бўйлаб узлуксиз сариқ чизиқ чизилган жойда йўловчиларни туширишга рухсат бериладими?",
+      "questionRu": "Разрешается ли произвести высадку пассажиров в месте; где нанесена по верху бордюра сплошная желтая линия в сочетании со знаком \"Остановка запрещена\"?",
+      "questionOz": "«To'xtash taqiqlangan» belgisi bilan birga to'siqning usti bo'ylab uzluksiz sariq chiziq chizilgan joyda yo'lovchilarni tushirishga ruxsat beriladimi?",
+      "explanationUz": "Саволга эътибор берамиз. Саволда ушбу сариқ чизиқ бўйлаб йўловчиларни туширишга рухсат бериладими деб сўралмоқда. Демак, рухсат берилади, аммо фақат белгиланган йўналишли транспорт воситалари учун рухсат этилади. Шунинг учун тўғри жавоб — фақат белгиланган йўналишли транспорт воситаларига рухсат берилади.",
+      "explanationRu": "Обратим внимание на вопрос. В нём спрашивается, разрешена ли высадка пассажиров в зоне данной жёлтой линии. Да, разрешена, но только для маршрутных транспортных средств. Следовательно, правильный ответ — разрешено только маршрутным транспортным средствам.",
+      "explanationOz": "Savolga e’tibor beramiz. Savolda ushbu sariq chiziq bo‘ylab yo‘lovchilarni tushirishga ruxsat beriladimi deb so‘ralmoqda. Demak, ruxsat beriladi, ammo faqat belgilangan yo‘nalishli transport vositalari uchun ruxsat etiladi. Shuning uchun to‘g‘ri javob — faqat belgilangan yo‘nalishli transport vositalariga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/8.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5562,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5563,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5564,
+          "textUz": "Белгиланган йўналишдаги транспорт воситалари йўқ бўлганда рухсат берилади",
+          "textRu": "Разрешается в отсутствии маршрутных транспортных средств.",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalari yo'q bo'lganda ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5565,
+          "textUz": "Белгиланган йўналишдаги транспорт воситаларига рухсат берилади",
+          "textRu": "Разрешается только маршрутным транспортным средствам",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalariga ruxsat beriladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5565
+      ]
+    },
+    {
+      "id": 344,
+      "questionUz": "Қуйидаги 3.27 «Тўхташ тақиқланган» белгисининг амал қилиш чегараси қаерда тугайди?",
+      "questionRu": "Где заканчивается зона действия знака 3.27 \"Остановка запрещена\" в данной ситуации?",
+      "questionOz": "Quyidagi 3.27 «To'xtash taqiqlangan» belgisining amal qilish chegarasi qaerda tugaydi?",
+      "explanationUz": "Саволда амал қилиш чегараси қаерда тугаши сўралмоқда. Кўриб турганингиздек, йўл четида узлуксиз сариқ чизиқ чизилган. Ушбу тақиқнинг амал қилиш ҳудуди сариқ чизиқ давом этган қисмда сақланади ва сариқ чизиқ тугаган жойда ўз кучини йўқотади.\r\n\r\nДемак, тўғри жавоб — амал қилиш чегараси сариқ чизиқнинг охирида тугайди.",
+      "explanationRu": "Вопрос заключается в том, где заканчивается зона действия данного ограничения. Как видно, вдоль края проезжей части нанесена сплошная жёлтая линия. Ограничение действует на всём протяжении этой линии и прекращает своё действие в месте её окончания.\r\n\r\nСледовательно, правильный ответ — зона действия заканчивается в конце жёлтой линии.",
+      "explanationOz": "Savolda amal qilish chegarasi qayerda tugashi soʻralmoqda. Koʻrib turganingizdek, yoʻl chetida uzluksiz sariq chiziq chizilgan. Ushbu taqiqning amal qilish hududi sariq chiziq davom etgan qismda saqlanadi va sariq chiziq tugagan joyda o‘z kuchini yo‘qotadi.\r\n\r\nDemak, toʻgʻri javob — amal qilish chegarasi sariq chiziqning oxirida tugaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/9.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5566,
+          "textUz": "Биринчи чорраҳада",
+          "textRu": "У первого перекрёстка",
+          "textOz": "Birinchi chorrahada",
+          "isCorrect": false
+        },
+        {
+          "id": 5567,
+          "textUz": "Аҳоли яшайдиган жойнинг охирида",
+          "textRu": "В конце населенного пункта",
+          "textOz": "Aholi yashaydigan joyning oxirida",
+          "isCorrect": false
+        },
+        {
+          "id": 5568,
+          "textUz": "Йўлнинг ётиқ сариқ чизиғи охирида",
+          "textRu": "В конце желтой линии дорожной разметки.",
+          "textOz": "Yo'lning yotiq sariq chizig'i oxirida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5568
+      ]
+    },
+    {
+      "id": 345,
+      "questionUz": "Қайси йўналишларда ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каких направлениях разрешается движение?",
+      "questionOz": "Qaysi yo'nalishlarda harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Демак, ушбу вазиятда барча йўналишларда ҳаракатланишга рухсат этилади.\r\n\r\nСабаби, ўнгга бурилишни тақиқловчи ҳеч қандай йўл белгиси ёки йўл чизиғи мавжуд эмас. Тўғрига ҳаракатланишга ҳам ҳеч қандай чеклов қўйилмаган.\r\n\r\nЧапга бурилиш ҳам тақиқланмаган, чунки йўл чизиғи узлуксиз эмас, балки узуқ-узуқ чизиқдан иборат. Бундай чизиқни кесиб ўтишга рухсат этилади.\r\n\r\nДемак, ушбу ҳолатда барча кўрсатилган йўналишлар бўйича ҳаракатланишга рухсат берилади.",
+      "explanationRu": "В данной ситуации движение разрешено во всех направлениях.\r\n\r\nПричина заключается в том, что отсутствуют дорожные знаки или разметка, запрещающие поворот направо. Также нет ограничений для движения прямо.\r\n\r\nПоворот налево тоже не запрещён, поскольку на дороге нанесена прерывистая линия разметки, которую разрешается пересекать.\r\n\r\nСледовательно, в данной ситуации движение разрешено по всем указанным направлениям.",
+      "explanationOz": "Demak, ushbu vaziyatda barcha yoʻnalishlarda harakatlanishga ruxsat etiladi.\r\n\r\nSababi, o‘ngga burilishni taqiqlovchi hech qanday yo‘l belgisi yoki yo‘l chizig‘i mavjud emas. To‘g‘riga harakatlanishga ham hech qanday cheklov qo‘yilmagan.\r\n\r\nChapga burilish ham taqiqlanmagan, chunki yo‘l chizig‘i uzluksiz emas, balki uzuq-uzuq chiziqdan iborat. Bunday chiziqni kesib o‘tishga ruxsat etiladi.\r\n\r\nDemak, ushbu holatda barcha ko‘rsatilgan yo‘nalishlar bo‘yicha harakatlanishga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/10.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5569,
+          "textUz": "« А » йўналишида",
+          "textRu": "По направлению « А »",
+          "textOz": "« А » yo'nalishida",
+          "isCorrect": false
+        },
+        {
+          "id": 5570,
+          "textUz": "« Б » йўналишида",
+          "textRu": "По направлению « Б »",
+          "textOz": "« Б » yo'nalishida",
+          "isCorrect": false
+        },
+        {
+          "id": 5571,
+          "textUz": "« В » йўналишида",
+          "textRu": "По направлению « В »",
+          "textOz": "« В » yo'nalishida",
+          "isCorrect": false
+        },
+        {
+          "id": 5572,
+          "textUz": "« А », « Б » ва « В » йўналишларида",
+          "textRu": "По направлениям « А », « Б » и « В »",
+          "textOz": "« А », « Б » va « В » yo'nalishlarida",
+          "isCorrect": true
+        },
+        {
+          "id": 5573,
+          "textUz": "« Б » ва « В » йўналишларида",
+          "textRu": "По направлениям « Б » и « В »",
+          "textOz": "« Б » va « В » yo'nalishlarida",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5572
+      ]
+    },
+    {
+      "id": 346,
+      "questionUz": "Бу ётиқ чизиқ қуйидаги вазифани бажаради:",
+      "questionRu": "Данная горизонтальная разметка выполняет следующую функцию:",
+      "questionOz": "Bu yotiq chiziq quyidagi vazifani bajaradi:",
+      "explanationUz": "ЙҲҚ 2 – иловаси 1 – бўлимининг ўн олтинчи ва ўн еттинчи хатбошларига асосан: 1.14.2 (зебра) – тартибга солинмаган пиёдаларнинг ўтиш жойини белгилайди, 1.14.2 ётиқ чизиқнинг йўналтиргичлари пиёдаларнинг ҳаракатланиш йўналишини кўрсатади.",
+      "explanationRu": "Согласно шестнадцатому и семнадцатому абзацу раздела 1 приложения 2 ПДД: Горизонтальная разметка 1.14.2 (зебра) обозначает нерегулируемый пешеходный переход. Стрелы разметки 1.14.2 указывают направление движения пешеходов.",
+      "explanationOz": "YHQ 2 – ilovasi 1 – bo‘limining o‘n oltinchi va o‘n yettinchi xatboshlariga asosan: 1.14.2 (zebra) – tartibga solinmagan piyodalarning o‘tish joyini belgilaydi, 1.14.2 yotiq chiziqning yo‘naltirgichlari piyodalarning harakatlanish yo‘nalishini ko‘rsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/10.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1185,
+          "textUz": "Махсус пиёдалар йўлкасини билдиради",
+          "textRu": "Обозначает специальную дорожку для пешеходов",
+          "textOz": "Maxsus piyodalar yo'lkasini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 1186,
+          "textUz": "Велосипед йўлкасини билдиради, чизиқ йўналтиргичлари бўлаклар бўйича ҳаракат йўналишини кўрсатади",
+          "textRu": "Обозначает дорожку для велосипедистов, стрелки показывают направление движения",
+          "textOz": "Velosiped yo'lkasini bildiradi, chiziq yo'naltirgichlari bo'laklar bo'yicha harakat yo'nalishini ko'rsatadi",
+          "isCorrect": false
+        },
+        {
+          "id": 1187,
+          "textUz": "Пиёдалар ўтиш жойини билдиради,чизиқ йўналтиргичлари пиёдалар ҳаракатланиш йўналишини кўрсатади",
+          "textRu": "Обозначает пешеходный переход, стрелки указыают направление движения пешеходов",
+          "textOz": "Piyodalar o'tish joyini bildiradi,chiziq yo'naltirgichlari piyodalar harakatlanish yo'nalishini ko'rsatadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1187
+      ]
+    },
+    {
+      "id": 347,
+      "questionUz": "Йўналтиргичлар билан кўрсатилган йўналишларнинг қайси биридан ҳаракат қилиш мумкин?",
+      "questionRu": "По какому пути из числа обозначенных стрелками разрешено движение?",
+      "questionOz": "Yo'naltirgichlar bilan ko'rsatilgan yo'nalishlarning qaysi biridan harakat qilish mumkin?",
+      "explanationUz": "ЙҲҚ 2-иловаси 1-бўлимининг 1.11 ётиқ чизиғи фақат бир томондан қайта тизилишга рухсат этилган йўл қисмларида, бир йўналишдаги ёки қарама-қарши келаётган транспорт оқимларини ажратади. Қайрилиб олиш, тўхташ майдончалари ва шунга ўхшашларга кириш-чиқиш жойларида ҳаракатланиш фақат бир йўналишда рухсат этилганлигини кўрсатади. 1.11 чизиғини узуқ-узуқ чизиқ томонидан, сидирға чизиқ томонидан эса фақат қувиб ёки айланиб ўтишни тугатаётганда босиб ўтишга рухсат этилади.",
+      "explanationRu": "Согласно горизонтальной разметке 1.11 раздела 1 приложения № 2 к ПДД, данная разметка разделяет транспортные потоки противоположных или попутных направлений на участках дорог, где перестроение разрешено только из одной полосы; обозначает места, предназначенные для разворота, въезда и выезда со стояночных площадок и т. п., где движение разрешено только в одну сторону. Линию 1.11 разрешается пересекать со стороны прерывистой, а также и со стороны сплошной, но только при завершении обгона или объезда.",
+      "explanationOz": "YHQ 2-ilovasi 1-bo'limining 1.11 yotiq chizig'i faqat bir tomondan qayta tizilishga ruxsat etilgan yo'l qismlarida, bir yo'nalishdagi yoki qarama-qarshi kelayotgan transport oqimlarini ajratadi. Qayrilib olish, to'xtash maydonchalari va shunga o'xshashlarga kirish-chiqish joylarida harakatlanish faqat bir yo'nalishda ruxsat etilganligini ko'rsatadi. 1.11 chizig'ini uzuq-uzuq chiziq tomonidan, sidirg'a chiziq tomonidan esa faqat quvib yoki aylanib o'tishni tugatayotganda bosib o'tishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/11.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1188,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": true
+        },
+        {
+          "id": 1189,
+          "textUz": "Чапга ва орқага",
+          "textRu": "Налево и в обратном направлении",
+          "textOz": "Chapga va orqaga",
+          "isCorrect": false
+        },
+        {
+          "id": 1190,
+          "textUz": "Тўғрига, чапга ва орқага",
+          "textRu": "Прямо, налево и в обратном направлении",
+          "textOz": "To'g'riga, chapga va orqaga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1188
+      ]
+    },
+    {
+      "id": 348,
+      "questionUz": "Қатнов қисмидаги бундай йўналтиргичлар нимани билдиради?",
+      "questionRu": "Что обозначают такие стрелы на проезжей части?",
+      "questionOz": "Qatnov qismidagi bunday yo'naltirgichlar nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.19 чизиғига асосан, қатнов қисмининг торайган (шу йўналишдаги ҳаракатланиш тасмаларининг сони камайган) жойига ёки қарама-қарши йўналишдан келаётган транспорт воситалари оқимларини ажратувчи 1.1 ёки 1.11 чизиғига яқинлашганлик ҳақида огоҳлантирувчи чизиқ. Биринчи ҳолда 1.18.1 – 1.18.3 белгилари билан қўлланилиши мумкин.",
+      "explanationRu": "Линия 1.19 раздела 1 приложения № 2 к ПДД, предупреждает о приближении к сужению проезжей части (участку, где уменьшается количество полос движения в данном направлении) или к линии разметки 1.1 или 1.11, разделяющей транспортные потоки противоположных направлений. В первом случае может применяться в сочетании со знаками 1.18.1 – 1.18.3.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limidagi 1.19 chizig‘iga asosan, qatnov qismining toraygan (shu yo‘nalishdagi harakatlanish tasmalarining soni kamaygan) joyiga yoki qarama-qarshi yo‘nalishdan kelayotgan transport vositalari oqimlarini ajratuvchi 1.1 yoki 1.11 chizig‘iga yaqinlashganlik haqida ogohlantiruvchi chiziq. Birinchi holda 1.18.1 – 1.18.3 belgilari bilan qo‘llanilishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/12.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1191,
+          "textUz": "Ҳайдовчини йўлнинг хавфли қисмига яқинлашаётганлиги ҳақида огоҳлантиради",
+          "textRu": "Предупреждают водителя о приближении к опасному участку дороги",
+          "textOz": "Haydovchini yo'lning xavfli qismiga yaqinlashayotganligi haqida ogohlantiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 1192,
+          "textUz": "Қатнов қисмининг торайишига яқинлашаётганлиги ҳақида огоҳлантиради",
+          "textRu": "Предупреждают о приближении к сужению проезжей части",
+          "textOz": "Qatnov qismining torayishiga yaqinlashayotganligi haqida ogohlantiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 1193,
+          "textUz": "Йўлнинг хавфли бурилиш йўналишини кўрсатади",
+          "textRu": "Указывают направление опасного поворота дороги",
+          "textOz": "Yo'lning xavfli burilish yo'nalishini ko'rsatadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1192
+      ]
+    },
+    {
+      "id": 349,
+      "questionUz": "Бу ётиқ чизиқлардан қайси бири белгиланган йўналишдаги транспорт воситаларининг тўхташ жойини билдиради?",
+      "questionRu": "Какая из этих линий обозначает остановку маршрутных транспортных средств?",
+      "questionOz": "Bu yotiq chiziqlardan qaysi biri belgilangan yo'nalishdagi transport vositalarining to'xtash joyini bildiradi?",
+      "explanationUz": "ЙҲҚ 2 – иловаси 1 – бўлимининг йигирма биринчи хатбошисига асосан: 1.17 – йўналишли транспорт воситаларининг бекатлари ҳамда таксиларнинг тўхтаб туриш жойларини билдиради.",
+      "explanationRu": "Линия 1.17 раздела 1 приложения № 2 к ПДД, обозначает остановки маршрутных транспортных средств и стоянки такси.",
+      "explanationOz": "YHQ 2 – ilovasi 1 – bo‘limining yigirma birinchi xatboshisiga asosan: 1.17 – yo‘nalishli transport vositalarining bekatlari hamda taksilarning to‘xtab turish joylarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/13.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1194,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": false
+        },
+        {
+          "id": 1195,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": true
+        },
+        {
+          "id": 1196,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": false
+        },
+        {
+          "id": 1197,
+          "textUz": "«А» ва «Б»",
+          "textRu": "«А» и «Б»",
+          "textOz": "«А» va «Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 1198,
+          "textUz": "«А» ва «В»",
+          "textRu": "«А» и «В»",
+          "textOz": "«А» va «В»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1195
+      ]
+    },
+    {
+      "id": 350,
+      "questionUz": "Реверсив ҳаракатланиш амалга ошириладиган ҳаракат бўлаклари чегараларини белгилаш учун бу ётиқ чизиқларнинг қай биридан фойдаланилади?",
+      "questionRu": "Какая из этих линий разметки используется для обозначения границ полос движения; на которых осуществляется реверсивное движение?",
+      "questionOz": "Reversiv harakatlanish amalga oshiriladigan harakat bo'laklari chegaralarini belgilash uchun bu yotiq chiziqlarning qay biridan foydalaniladi?",
+      "explanationUz": "ЙҲҚ 2 – иловаси 1 – бўлимининг ўн биринчи хатбошисига асосан: 1.9 – реверсив ҳаракат ташкил этилган бўлакларнинг чегарасини белгилайди;\r\nреверсив ҳаракатланиш амалга оширилган йўлларда (реверсив светафори ўчирилган ҳолатда) қарама-қарши йўналишдаги транспорт оқимини ажратади.",
+      "explanationRu": "Разметка 1.9 раздела 1 приложения № 2 к ПДД, обозначает границы полос движения, на которых осуществляется реверсивное движение; разделяет транспортные потоки противоположных направлений (при выключенных реверсивных светофорах) на дорогах, где осуществляется реверсивное движение.",
+      "explanationOz": "YHQ 2 – ilovasi 1 – bo‘limining o‘n birinchi xatboshisiga asosan: 1.9 – reversiv harakat tashkil etilgan bo‘laklarning chegarasini belgilaydi;\r\nreversiv harakatlanish amalga oshirilgan yo‘llarda (reversiv svetafori o‘chirilgan holatda) qarama-qarshi yo‘nalishdagi transport oqimini ajratadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/13.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1199,
+          "textUz": "1-чизиқ",
+          "textRu": "Линия 1",
+          "textOz": "1-chiziq",
+          "isCorrect": false
+        },
+        {
+          "id": 1200,
+          "textUz": "2-чизиқ",
+          "textRu": "Линия 2",
+          "textOz": "2-chiziq",
+          "isCorrect": true
+        },
+        {
+          "id": 1201,
+          "textUz": "3-чизиқ",
+          "textRu": "Линия 3",
+          "textOz": "3-chiziq",
+          "isCorrect": false
+        },
+        {
+          "id": 1202,
+          "textUz": "2- ва 3-чизиқ",
+          "textRu": "Линия 2 и 3",
+          "textOz": "2- va 3-chiziq",
+          "isCorrect": false
+        },
+        {
+          "id": 1203,
+          "textUz": "3- ва 4-чизиқ",
+          "textRu": "Линия 3 и 4",
+          "textOz": "3- va 4-chiziq",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1200
+      ]
+    },
+    {
+      "id": 351,
+      "questionUz": "Бу «тўхташ» ётиқ чизиқ қайси йўл белгиси билан қўлланилади?",
+      "questionRu": "С каким дорожным знаком применяется «стоп - линия»?",
+      "questionOz": "Bu «to'xtash» yotiq chiziq qaysi yo'l belgisi bilan qo'llaniladi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.12 чизиғига асосан, 1.12 (тўхташ чизиғи) – 2.5 «Тўхтамасдан ҳаракатланиш тақиқланган» белгиси ёки светофорнинг (тартибга солувчининг) тақиқловчи ишорасида ҳайдовчи тўхташ керак бўлган жойни кўрсатади.",
+      "explanationRu": "Линия 1.12 раздела 1 приложения № 2 к ПДД (стоп-линия) – указывает на место, где водитель должен остановиться при наличии знака 2.5 «Движение без остановки запрещено»  или при запрещающем сигнале светофора (регулировщика).",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limidagi 1.12 chizig'iga asosan, 1.12 (to'xtash chizig'i) – 2.5 \"To'xtamasdan harakatlanish taqiqlangan\" belgisi yoki svetoforning (tartibga soluvchining) taqiqlovchi ishorasida haydovchi to'xtash kerak bo'lgan joyni ko'rsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1204,
+          "textUz": "«Йўл беринг» белгиси билан",
+          "textRu": "Со знаком «Уступите дорогу»",
+          "textOz": "«Yo'l bering» belgisi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 1205,
+          "textUz": "«Тўхтамасдан ҳаракатланиш тақиқланган» белгиси билан",
+          "textRu": "Со знаком «Движение без остановки запрещено»",
+          "textOz": "«To'xtamasdan xarakatlanish taqiqlangan» belgisi bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 1206,
+          "textUz": "«Йўл беринг» белгиси билан ва «Тўхтамасдан ҳаракатланиш тақиқланган» белгиси билан",
+          "textRu": "Со знаком «Уступите дорогу» и со знаком «Движение без остановки запрещено»",
+          "textOz": "«Yo'l bering» belgisi bilan va «To'xtamasdan harakatlanish taqiqlangan» belgisi bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1205
+      ]
+    },
+    {
+      "id": 352,
+      "questionUz": "Бу чизиқ қайси йўл белгиси билан қўлланилади?",
+      "questionRu": "С каким дорожным знаком применяется эта разметка?",
+      "questionOz": "Bu chiziq qaysi yo'l belgisi bilan qo'llaniladi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.13 чизиғи кесишаётган йўлда ҳаракатланаётган транспорт воситасига йўл бериш учун тўхташ зарур бўлганда, ҳайдовчига транспорт воситасини тўхтатиш жойини кўрсатади. 2.4. «Йўл беринг!» белгисида ҳайдовчи кесиб ўтилаётган йўлдан ҳаракатланаётган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Линия 1.13 раздела 1 приложения № 2 к ПДД, указывает место, где водитель должен при необходимости остановиться, уступая дорогу транспортным средствам, движущимся по пересекаемой дороге. При знаке 2.4. «Уступите дорогу» водитель должен уступить дорогу транспортным средствам, движущимся по пересекаемой дороге.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limidagi 1.13 chizig'i kesishayotgan yo'lda harakatlanayotgan transport vositasiga yo'l berish uchun to'xtash zarur bo'lganda, haydovchiga transport vositasini to'xtatish joyini ko'rsatadi. 2.4. \"Yo'l bering!\"belgisida haydovchi kesib o'tilayotgan yo'ldan harakatlanayotgan transport vositasiga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6731,
+          "textUz": "«Йўл беринг» белгиси билан",
+          "textRu": "Со знаком «Уступите дорогу»",
+          "textOz": "«Yo'l bering» belgisi bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 6732,
+          "textUz": "«Тўхтамасдан ҳаракатланиш тақиқланган» белгиси билан",
+          "textRu": "Со знаком «Движение без остановки запрещено»",
+          "textOz": "«Toxtamasdan harakatlanish taqiqlanadi» belgisi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 6733,
+          "textUz": "Огоҳлантирувчи «Тенг аҳамиятли йўллар кесишуви» белгиси билан",
+          "textRu": "С предупреждающим знаком «Пересечение равнозначных дорог»",
+          "textOz": "Ogohlantiruvchi «Teng ahamiyatli yo'llar kesishuvi» belgisi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 6734,
+          "textUz": "Барча санаб ўтилган белгилар билан",
+          "textRu": "Со всеми перечисленными знаками",
+          "textOz": "Barcha sanab o'tilgan belgilar bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6731
+      ]
+    },
+    {
+      "id": 353,
+      "questionUz": "Тўхташни тақиқловчи жойларни билдирувчи сидирға сариқ чизиқ қаерда чизилади?",
+      "questionRu": "Где наносится сплошная желтая линия; запрещающая остановку?",
+      "questionOz": "To'xtashni taqiqlovchi joylarni bildiruvchi sidirg'a sariq chiziq qaerda chiziladi?",
+      "explanationUz": "ЙҲҚ 2 – иловаси 1 – бўлимининг олтинчи хатбошисига асосан: 1.4 – тўхташ тақиқланган жойни билдиради. Якка ҳолда ёки 3.27 “Тўхташ тақиқланган” йўл белгиси билан қўлланилади ҳамда йўлнинг қатнов қисми читига ёки йўл четидаги тўсиқ устидан чизилади.",
+      "explanationRu": "Горизонтальная разметка 1.4 (сплошная желтая линия) - обозначает места, где запрещена остановка. Применяется самостоятельно или в сочетании со знаком 3.27 и наносится у края проезжей части или по верху бордюра.",
+      "explanationOz": "YHQ 2 – ilovasi 1 – bo‘limining oltinchi xatboshisiga asosan: 1.4 – to‘xtash taqiqlangan joyni bildiradi. Yakka holda yoki 3.27 “To‘хtash taqiqlangan” yo‘l belgisi bilan qo‘llaniladi hamda yo‘lning qatnov qismi chitiga yoki yo’l chetidagi to‘siq ustidan chiziladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1211,
+          "textUz": "Ҳаракатланиш қисмида",
+          "textRu": "На проезжей части",
+          "textOz": "Harakatlanish qismida",
+          "isCorrect": false
+        },
+        {
+          "id": 1212,
+          "textUz": "Ҳаракатланиш қисмининг четида",
+          "textRu": "У края проезжей части",
+          "textOz": "Harakatlanish qismining chetida",
+          "isCorrect": false
+        },
+        {
+          "id": 1213,
+          "textUz": "Ҳаракатланиш қисмининг четида ёки бордюр устидан чизилади",
+          "textRu": "У края проезжей части или по верху бордюров",
+          "textOz": "Harakatlanish qismining chetida yoki bordyur ustidan chiziladi",
+          "isCorrect": true
+        },
+        {
+          "id": 1214,
+          "textUz": "Фақат тўсиқ (бордюр) устида",
+          "textRu": "Только по верху бордюра",
+          "textOz": "Faqat to'siq (bordyur) ustida",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1213
+      ]
+    },
+    {
+      "id": 354,
+      "questionUz": "Бу йўл чизиғи нимани билдиради?",
+      "questionRu": "Эта дорожная разметка обозначает?",
+      "questionOz": "Bu yo'l chizig'i nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.19 чизиғига асосан, қатнов қисмининг торайган (шу йўналишдаги ҳаракатланиш тасмаларининг сони камайган) жойига ёки қарама-қарши йўналишдан келаётган транспорт воситалари оқимларини ажратувчи 1.1 ёки 1.11 чизиғига яқинлашганлик ҳақида огоҳлантирувчи чизиқ. Биринчи ҳолда 1.18.1 – 1.18.3 белгилари билан қўлланилиши мумкин.",
+      "explanationRu": "Линия 1.19 раздела 1 приложения № 2 к ПДД, предупреждает о приближении к сужению проезжей части (участку, где уменьшается количество полос движения в данном направлении) или к линии разметки 1.1 или 1.11, разделяющей транспортные потоки противоположных направлений. В первом случае может применяться в сочетании со знаками 1.18.1 – 1.18.3.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limidagi 1.19 chizig'iga asosan, qatnov qismining toraygan (shu yo'nalishdagi harakatlanish tasmalarining soni kamaygan) joyiga yoki qarama-qarshi yo'nalishdan kelayotgan transport vositalari oqimlarini ajratuvchi 1.1 yoki 1.11 chizig'iga yaqinlashganlik haqida ogohlantiruvchi chiziq. Birinchi holda 1.18.1 – 1.18.3 belgilari bilan qo'llanilishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1215,
+          "textUz": "Якка 40 км/с дан кам тезлик билан ҳаракат қилувчи икки ғилдиракли мотоцикллар, велосипедчилардан ташқари барча транспорт воситаларини қувиб ўтишни тақиқловчи ҳудудга",
+          "textRu": "Зону, в которой запрещается обгонять все транспортные средства, кроме одиночных, движущихся со скоростью менее 30 км/ч двухколесных мотоциклов, велосипедистов",
+          "textOz": "Yakka 40 km/s dan kam tezlik bilan harakat qiluvchi ikki g'ildirakli motosikllar, velosipedchilardan tashqari barcha transport vositalarini quvib o'tishni taqiqlovchi hududga",
+          "isCorrect": false
+        },
+        {
+          "id": 1216,
+          "textUz": "Қатнов қисмининг торайишига ёки қарама-қарши йўналишдан келаётган транспорт оқимини ажратувчи 1,1 ёки 1,11 чизиғига яқинлашаётганини",
+          "textRu": ". Приближение к сужению проезжей части или к линии разметки; разделяющей транспортные потоки противоположных направлений",
+          "textOz": "Qatnov qismining torayishiga yoki qarama-qarshi yo'nalishdan kelayotgan transport oqimini ajratuvchi 1,1 yoki 1,11 chizig'iga yaqinlashayotganini",
+          "isCorrect": true
+        },
+        {
+          "id": 1217,
+          "textUz": "Фақат белгиланган йўналишдаги транспорт воситалари ҳаракати учун мўлжалланган қатнов қисми бўлагига",
+          "textRu": "Приближение к полосе проезжей части; предназначенной для движения только маршрутных транспортных средств",
+          "textOz": "Faqat belgilangan yo'nalishdagi transport vositalari harakati uchun mo'ljallangan qatnov qismi bo'lagiga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1216
+      ]
+    },
+    {
+      "id": 355,
+      "questionUz": "Энли узуқ-узуқ чизиқ кўринишидаги ётиқ чизиқ нимани билдиради?",
+      "questionRu": "Что обозначает прерывистая широкая линия?",
+      "questionOz": "Enli uzuq-uzuq chiziq ko'rinishidagi yotiq chiziq nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлими 1.8 чизиғи (энли узуқ-узуқ чизиқ) – тезлашиш ёки секинлашиш тасмаси билан йўлнинг қатнов қисмидаги асосий тасмаси ўртасидаги чегарани билдиради (чорраҳаларда, йўлнинг турли сатҳда кесишган қисмларида, автобуслар тўхтайдиган жойларда ва бошқалар). 1.8 чизиғини исталган томондан босиб ўтиш мумкин.",
+      "explanationRu": "1.8 широкая прерывистая линия раздела 1 приложения № 2 к ПДД, – обозначает границу между полосой разгона или торможения и основной полосой проезжей части (на перекрестках, пересечениях дорог на разных уровнях, в зоне автобусных остановок и т. п.). Линию 1.8 пересекать разрешается с любой стороны.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limi 1.8 chizig'i (enli uzuq-uzuq chiziq) – tezlashish yoki sekinlashish tasmasi bilan yo'lning qatnov qismidagi asosiy tasmasi o'rtasidagi chegarani bildiradi (chorrahalarda, yo'lning turli sathda kesishgan qismlarida, avtobuslar to'xtaydigan joylarda va boshqalar). 1.8 chizig'ini istalgan tomondan bosib o'tish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1218,
+          "textUz": "Қатнов қисми билан йўл ёқаси ўртасидаги чегарани",
+          "textRu": "Границу между проезжей частью дороги и обочиной",
+          "textOz": "Qatnov qismi bilan yo'l yoqasi o'rtasidagi chegarani",
+          "isCorrect": false
+        },
+        {
+          "id": 1219,
+          "textUz": "Тезланиш ёки секинланиш бўлаги билан қатнов қисми асосий бўлаги ўртасидаги чегарани билдиради",
+          "textRu": "Границу между основной проезжей частью и полосой разгона или торможения",
+          "textOz": "Tezlanish yoki sekinlanish bo'lagi bilan qatnov qismi asosiy bo'lagi o'rtasidagi chegarani bildiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 1220,
+          "textUz": "Транспорт воситаларининг тўхташи ва тўхтаб туриши учун белгиланган майдончаларни",
+          "textRu": "Площадки для остановки и стоянки транспортных средств",
+          "textOz": "Transport vositalarining to'xtashi va to'xtab turishi uchun belgilangan maydonchalarni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1219
+      ]
+    },
+    {
+      "id": 356,
+      "questionUz": "Бу ётиқ чизиқ нимани англатади?",
+      "questionRu": "Что означает эта разметка?",
+      "questionOz": "Bu yotiq chiziq nimani anglatadi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 16.3 чизиғи транспорт оқимларини қўшиладиган жойларида йўналтирувчи оролчаларни билдиради.",
+      "explanationRu": "Линия 16.3 раздела 1 приложения № 2 к ПДД, обозначает направляющие островки в местах разделения или слияния транспортных потоков.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limidagi 16.3 chizig'i transport oqimlarini qo'shiladigan joylarida yo'naltiruvchi orolchalarni bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1221,
+          "textUz": "Транспорт воситалари оқими қўшиладиган жойлардаги йўналтирувчи оролчани",
+          "textRu": "Направляющий островок в местах слияния транспортных потоков",
+          "textOz": "Transport vositalari oqimi qo'shiladigan joylardagi yo'naltiruvchi orolchani",
+          "isCorrect": true
+        },
+        {
+          "id": 1222,
+          "textUz": "Қатнов қисмидаги хавфли жойларда пиёдалар учун оролчани",
+          "textRu": "Островок для пешеходов на опасных участках движения",
+          "textOz": "Qatnov qismidagi xavfli joylarda piyodalar uchun orolchani",
+          "isCorrect": false
+        },
+        {
+          "id": 1223,
+          "textUz": "Транспорт воситалари тўхтаб туриш қисмининг чегарасини",
+          "textRu": "Границу места стоянки транспортных средств",
+          "textOz": "Transport vositalari to'xtab turish qismining chegarasini",
+          "isCorrect": false
+        },
+        {
+          "id": 1224,
+          "textUz": "Транспорт воситалари оқими ажраладиган жойдаги йўналтирувчи оролчани",
+          "textRu": "Островок; обозначающий в местах разделения транспортных потоков",
+          "textOz": "Transport vositalari oqimi ajraladigan joydagi yo'naltiruvchi orolchani",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1221
+      ]
+    },
+    {
+      "id": 357,
+      "questionUz": "Ҳар бир чизиқ узунлиги улар орасидаги масофадан уч баробар катта бўлган узуқ-узуқ чизиқ билдиради?",
+      "questionRu": "Прерывистая линия; у которой длина штрихов в три раза превышает промежутки между ними, обозначает:",
+      "questionOz": "Har bir chiziq uzunligi ular orasidagi masofadan uch barobar katta bo'lgan uzuq-uzuq chiziq bildiradi?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлими 1.6 ётиқ чизиқларига асосан, 1.6 (яқинлашиш чизиғи – ҳар бир чизиқ узунлиги улар орасидаги масофадан уч баробар катта бўлган узуқ-узуқ чизиқ) — қарама-қарши ёки бир йўналишда ҳаракатланаётган транспорт воситалари оқимларини ажратувчи 1.1 ёки 1.11 чизиғига яқинлашаётганлик ҳақида огоҳлантиради. 1.6 чизиғини исталган томондан босиб ўтиш мумкин.",
+      "explanationRu": "Согласно горизонтальной разметке 1.6, раздела 1 приложения № 2 к ПДД, линия 1.6 (линия приближения – прерывистая линия, у которой длина штрихов в три раза превышает промежутки между ними) – предупреждает о приближении к разметке 1.1 или 1.11, которая разделяет транспортные потоки противоположных или попутных направлений. Линию 1.6 пересекать разрешается с любой стороны.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limi 1.6 yotiq chiziqlariga asosan, 1.6 (yaqinlashish chizig'i – har bir chiziq uzunligi ular orasidagi masofadan uch barobar katta bo'lgan uzuq-uzuq chiziq) — qarama-qarshi yoki bir yo'nalishda harakatlanayotgan transport vositalari oqimlarini ajratuvchi 1.1 yoki 1.11 chizig'iga yaqinlashayotganlik haqida ogohlantiradi. 1.6 chizig'ini istalgan tomondan bosib o'tish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1225,
+          "textUz": "Тезланиш ёки тормозлаш бўлаги билан қатнов қисмидаги асосий бўлак ўртасидаги чегарани",
+          "textRu": "Границы между полосой разгона или торможения и основной полосой проезжей части",
+          "textOz": "Tezlanish yoki tormozlash bo'lagi bilan qatnov qismidagi asosiy bo'lak o'rtasidagi chegarani",
+          "isCorrect": false
+        },
+        {
+          "id": 1226,
+          "textUz": "Автомагистралларда қатнов қисмининг четларини",
+          "textRu": "Края проезжей части на автомагистралях",
+          "textOz": "Avtomagistrallarda qatnov qismining chetlarini",
+          "isCorrect": false
+        },
+        {
+          "id": 1227,
+          "textUz": "Рўпарадан келаётган ёки шу йўналишда ҳаракатланаётган транспорт оқимини ажратиб турган сидирға чизиққа яқинлашганликни",
+          "textRu": "Приближение к сплошной линии разметки; которая разделяет транспортные потоки противоположных или попутных направлений",
+          "textOz": "Ro'paradan kelayotgan yoki shu yo'nalishda harakatlanayotgan transport oqimini ajratib turgan sidirg'a chiziqqa yaqinlashganlikni",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1227
+      ]
+    },
+    {
+      "id": 358,
+      "questionUz": "Бу йўл чизиғи қуйидаги мақсадни:",
+      "questionRu": "Эта дорожная разметка:",
+      "questionOz": "Bu yo'l chizig'i quyidagi maqsadni:",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.17 чизиғи сариқ рангдаги, аррасимон чизиқ йўналишли транспорт в��ситаларининг бекатлари ҳамда таксиларнинг тўхтаб туриш жойларини билдиради.",
+      "explanationRu": "Линия 1.17 (зигзагообразная желтая) раздела 1 приложения № 2 к ПДД, обозначает остановку маршрутных транспортных средств и стоянки такси.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo'limidagi 1.17 chizig'i sariq rangdagi, arrasimon chiziq yo'nalishli transport vositalarining bekatlari hamda taksilarning to'xtab turish joylarini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1228,
+          "textUz": "Тротуар яқинидаги тўхтаб туриш жойида механик транспорт воситаларининг қўйиш усуллари кўрсатилган тўхтаб туриш жойини билдиради",
+          "textRu": "Обозначает стояночные места; где указаны способы постановки механических транспортных средств на около тротуарной стоянке",
+          "textOz": "Trotuar yaqinidagi to'xtab turish joyida mexanik transport vositalarining qo'yish usullari ko'rsatilgan to'xtab turish joyini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 1229,
+          "textUz": "Механик транспорт воситаларининг тўхташи тақиқланган жойларни билдиради",
+          "textRu": "Обозначает места; где запрещена остановка механических транспортных средств",
+          "textOz": "Mexanik transport vositalarining to'xtashi taqiqlangan joylarni bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 1230,
+          "textUz": "Белгиланган йўналишдаги транспорт воситаларининг тўхташ ва таксининг тўхтаб туриш жойини билдиради",
+          "textRu": "Обозначает остановку маршрутных транспортных средств и стоянки такси",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalarining to'xtash va taksining to'xtab turish joyini bildiradi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1230
+      ]
+    },
+    {
+      "id": 359,
+      "questionUz": "Бу ётиқ чизиқ нимани билдиради?",
+      "questionRu": "Эта горизонтальная дорожная разметка обозначает:",
+      "questionOz": "Bu yotiq chiziq nimani bildiradi?",
+      "explanationUz": "Бу йўл чизиғи \"Йўл беринг\" йўл белгиси билан бирга қўлланилади. У ҳайдовчига кесиб ўтилаётган йўл бўйлаб ҳаракатланаётган транспорт воситаларига йўл бериши кераклигини билдиради.\r\n\r\nШунингдек, ушбу чизиқ ҳайдовчи зарурат туғилганда қаерда тўхташи кераклигини ҳам кўрсатади. Демак, бу йўл чизиғи йўл бериш жойини ва зарур ҳолларда тўхташ чегарасини билдиради.",
+      "explanationRu": "Данная дорожная разметка применяется совместно со знаком «Уступите дорогу». Она указывает водителю на необходимость уступить дорогу транспортным средствам, движущимся по пересекаемой дороге.\r\n\r\nКроме того, эта разметка показывает место, где водитель должен остановиться при необходимости. Следовательно, она обозначает границу, перед которой следует уступить дорогу и при необходимости остановиться.",
+      "explanationOz": "Bu yoʻl chizigʻi \"Yoʻl bering\" yoʻl belgisi bilan birga qoʻllaniladi. U haydovchiga kesib oʻtilayotgan yoʻl boʻylab harakatlanayotgan transport vositalariga yoʻl berishi kerakligini bildiradi.\r\n\r\nShuningdek, ushbu chiziq haydovchi zarurat tugʻilganda qayerda toʻxtashi kerakligini ham koʻrsatadi. Demak, bu yoʻl chizigʻi yoʻl berish joyini va zarur hollarda toʻxtash chegarasini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.3.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5574,
+          "textUz": "Мазкур йўналишда ҳаракатланиш бўлаги сони камая бориб, қатнов қисмининг торайишини",
+          "textRu": "Сужение проезжей части, где уменьшается количество полос движения в данном направлении",
+          "textOz": "Mazkur yo'nalishda harakatlanish bo'lagi soni kamaya borib, qatnov qismining torayishini",
+          "isCorrect": false
+        },
+        {
+          "id": 5575,
+          "textUz": "Кесиб ўтиладиган йўл бўйлаб ҳаракатланаётган транспорт воситасига йўл берар экан, ҳайдовчи зарур ҳолда қаерда тўхташи керак бўлган жойни",
+          "textRu": "Место, где водитель должен при необходимости остановиться, уступая дорогу транспортным средствам движущимся по пересекаемой дороге",
+          "textOz": "Kesib o'tiladigan yo'l bo'ylab harakatlanayotgan transport vositasiga yo'l berar ekan, haydovchi zarur holda qaerda to'xtashi kerak bo'lgan joyni",
+          "isCorrect": true
+        },
+        {
+          "id": 5576,
+          "textUz": "Тўхташ тақиқланган жойга яқинлашилганини",
+          "textRu": "Приближение к месту где запрещена остановка",
+          "textOz": "To'xtash taqiqlangan joyga yaqinlashilganini",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5575
+      ]
+    },
+    {
+      "id": 360,
+      "questionUz": "Транспорт воситаларига сидирға оқ чизиқ билан ажратилган ва «Белгиланган йўналишдаги транспорт воситалари учун мўлжалланган бўлак» йўл белгиси билан белгиланган йўлнинг ўнг бўлагида тўхтаб туришга рухсат этиладими?",
+      "questionRu": "Разрешается ли стоянка транспортных средств на правой полосе дороги отделенной сплошной белой линией разметки и обозначенной дорожным знаком «Полоса для маршрутных транспортных средств»?",
+      "questionOz": "Transport vositalariga sidirg'a oq chiziq bilan ajratilgan va «Belgilangan yo'nalishdagi transport vositalari uchun mo'ljallangan bo'lak» yo'l belgisi bilan belgilangan yo'lning o'ng bo'lagida to'xtab turishga ruxsat etiladimi?",
+      "explanationUz": "Саволда транспорт воситалари учун сидирға оқ чизиқ билан ажратилган ва белгиланган йўналишли транспорт воситалари учун мўлжалланган бўлакнинг ўнг томонида тўхтаб туришга рухсат этиладими деб сўралмоқда.\r\n\r\nУшбу вазиятда А бўлаги белгиланган йўналишли транспорт воситалари учун ажратилган бўлиб, у сидирға чизиқ билан ажратилган. Оддий транспорт воситалари ушбу бўлакда ҳаракатланиши ёки тўхтаб туриши мумкин эмас.\r\n\r\nШунинг учун бу ерда тўхтаб туришга рухсат этилмайди.\r\n\r\nДемак, тўғри жавоб — тўхтаб туриш тақиқланади.",
+      "explanationRu": "Вопрос заключается в том, разрешена ли стоянка на правой полосе дороги, выделенной для маршрутных транспортных средств и отделённой сплошной белой линией.\r\n\r\nВ данной ситуации полоса А предназначена для маршрутных транспортных средств и отделена сплошной линией разметки. Обычным транспортным средствам движение и стоянка на этой полосе не разрешаются.\r\n\r\nСледовательно, стоянка в данном месте запрещена.\r\n\r\nПравильный ответ — стоянка не разрешается.",
+      "explanationOz": "Savolda transport vositalari uchun sidirg‘a oq chiziq bilan ajratilgan va belgilangan yo‘nalishli transport vositalari uchun mo‘ljallangan bo‘lakning o‘ng tomonida to‘xtab turishga ruxsat etiladimi deb so‘ralmoqda.\r\n\r\nUshbu vaziyatda A bo‘lagi belgilangan yo‘nalishli transport vositalari uchun ajratilgan bo‘lib, u sidirg‘a chiziq bilan ajratilgan. Oddiy transport vositalari ushbu bo‘lakda harakatlanishi yoki to‘xtab turishi mumkin emas.\r\n\r\nShuning uchun bu yerda to‘xtab turishga ruxsat etilmaydi.\r\n\r\nDemak, to‘g‘ri javob — to‘xtab turish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5577,
+          "textUz": "Агар тўхтаб туришни тақиқловчи белги бўлмаса, рухсат этилади",
+          "textRu": "Разрешается если нет знака запрещающего стоянку",
+          "textOz": "Agar to'xtab turishni taqiqlovchi belgi bo'lmasa, ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5578,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5579,
+          "textUz": "Фақат шу ҳудуддаги корхонага хизмат қиладиган ёки яқин ўртадаги уйларда яшайдиган фуқароларга қарашли автомобилларга рухсат этилади",
+          "textRu": "Разрешается только автомобилям которые обслуживают предприятия находящиеся в этой зоне или принадлежат гражданам проживающим в ближайших дома",
+          "textOz": "Faqat shu hududdagi korxonaga xizmat qiladigan yoki yaqin o'rtadagi uylarda yashaydigan fuqarolarga qarashli avtomobillarga ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5578
+      ]
+    },
+    {
+      "id": 361,
+      "questionUz": "Бу ётиқ чизиқ билдиради:",
+      "questionRu": "Эта горизонтальная дорожная разметка обозначает:",
+      "questionOz": "Bu yotiq chiziq bildiradi:",
+      "explanationUz": "Бу йўл ётиқ чизиғи одатда йўлларда, айниқса чорраҳалар олдида чизилади. У ҳайдовчиларга ҳар бир ҳаракатланиш тасмасидан қайси йўналишларга ҳаракатланиш мумкинлигини кўрсатиб туради.\r\n\r\nЯъни, ушбу йўл чизиғи чорраҳада ҳаракатланиш тасмалари бўйлаб рухсат этилган ҳаракатланиш йўналишларини билдиради.\r\n\r\nДемак, тўғри жавоб — чорраҳада бўлаклар бўйлаб рухсат этилган ҳаракатланиш йўналишларини кўрсатади.",
+      "explanationRu": "Данная дорожная разметка обычно наносится на дорогах, чаще всего перед перекрёстками. Она показывает водителям, в каких направлениях разрешено движение с каждой полосы.\r\n\r\nТо есть эта разметка указывает разрешённые направления движения по полосам на перекрёстке.\r\n\r\nСледовательно, правильный ответ — обозначает разрешённые направления движения по полосам на перекрёстке.",
+      "explanationOz": "Bu yoʻl yotiq chizigʻi odatda yoʻllarda, ayniqsa chorrahalar oldida chiziladi. U haydovchilarga har bir harakatlanish tasmasidan qaysi yoʻnalishlarga harakatlanish mumkinligini koʻrsatib turadi.\r\n\r\nYaʼni, ushbu yoʻl chizigʻi chorrahada harakatlanish tasmalari boʻylab ruxsat etilgan harakatlanish yoʻnalishlarini bildiradi.\r\n\r\nDemak, toʻgʻri javob — chorrahada bo‘laklar bo‘ylab ruxsat etilgan harakatlanish yo‘nalishlarini ko‘rsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.13.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5580,
+          "textUz": "Кўрсатилган йўналишларда ҳаракатланишни тақиқлайди",
+          "textRu": "Запрещается движение в указанных направлениях",
+          "textOz": "Ko'rsatilgan yo'nalishlarda harakatlanishni taqiqlaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 5581,
+          "textUz": "Чорраҳада бўлаклар бўйлаб рухсат этилган ҳаракат йўналишларини кўрсатади",
+          "textRu": "Указывает разрешенные на перекрестке направления движения по полосам",
+          "textOz": "Chorrahada bo'laklar bo'ylab ruxsat etilgan harakat yo'nalishlarini ko'rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5582,
+          "textUz": "Ҳаракат барча йўналишларда рухсат этилган йўлларнинг кесишмасига яқинлашганини",
+          "textRu": "Приближение к пересечению дорог на котором движение разрешается во всех направлениях",
+          "textOz": "Harakat barcha yo'nalishlarda ruxsat etilgan yo'llarning kesishmasiga yaqinlashganini",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5581
+      ]
+    },
+    {
+      "id": 362,
+      "questionUz": "Реверсив светофорлар бўлмаганда ёки улар ўчириб қўйилганда иккитали узуқ-узуқ чизиқни кесиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли пересекать прерывистую двойную линию разметки при отсутствии реверсивных светофоров или когда они отключены?",
+      "questionOz": "Reversiv svetoforlar bo'lmaganda yoki ular o'chirib qo'yilganda ikkitali uzuq-uzuq chiziqni kesib o'tishga ruxsat etiladimi?",
+      "explanationUz": "Саволда реверсив светофорлар бўлмаганда ёки ўчириб қўйилганда иккита узуқ чизиқни кесиб ўтишга рухсат этиладими деб сўралмоқда.\r\n\r\nУшбу йўл чизиғи реверсив ҳаракат ташкил этилган йўлларда қўлланилади. Бундай йўлларда ҳаракат йўналиши реверсив светофорлар ёрдамида тартибга солинади ва айрим ҳолларда қарама-қарши оқим учун ажратилиши мумкин.\r\n\r\nАгар реверсив светофорлар ишламаётган ёки ўчириб қўйилган бўлса, ҳайдовчи реверсив бўлакка чиқмаслиги керак. Иккита узуқ чизиқни фақат ўнг томондан кесиб ўтиб, ўз ҳаракатланиш бўлагига қайтиш учун кесиб ўтишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — ҳайдовчи чизиқнинг ўнг томонида бўлсагина уни кесиб ўтишга рухсат этилади.",
+      "explanationRu": "Вопрос заключается в том, разрешается ли пересекать двойную прерывистую линию при отсутствии или отключении реверсивных светофоров.\r\n\r\nТакая разметка применяется на дорогах с реверсивным движением. Направление движения по реверсивной полосе регулируется специальными светофорами, и в определ��нные моменты эта полоса может использоваться встречным потоком.\r\n\r\nЕсли реверсивные светофоры не работают или отключены, водитель не должен выезжать на реверсивную полосу. Пересечение двойной прерывистой линии допускается только для возвращения в свою полосу движения, если водитель находится справа от этой разметки.\r\n\r\nСледовательно, правильный ответ — пересечение разрешается только водителю, находящемуся справа от линии разметки.",
+      "explanationOz": "Savolda reversiv svetoforlar bo‘lmaganda yoki o‘chirib qo‘yilganda ikkita uzuq chiziqni kesib o‘tishga ruxsat etiladimi deb so‘ralmoqda.\r\n\r\nUshbu yo‘l chizig‘i reversiv harakat tashkil etilgan yo‘llarda qo‘llaniladi. Bunday yo‘llarda harakat yo‘nalishi reversiv svetoforlar yordamida tartibga solinadi va ayrim hollarda qarama-qarshi oqim uchun ajratilishi mumkin.\r\n\r\nAgar reversiv svetoforlar ishlamayotgan yoki o‘chirib qo‘yilgan bo‘lsa, haydovchi reversiv bo‘lakka chiqmasligi kerak. Ikkita uzuq chiziqni faqat o‘ng tomondan kesib o‘tib, o‘z harakatlanish bo‘lagiga qaytish uchun kesib o‘tishga ruxsat etiladi.\r\n\r\nDemak, to‘g‘ri javob — haydovchi chiziqning o‘ng tomonida bo‘lsagina uni kesib o‘tishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5583,
+          "textUz": "Агар у ҳайдовчининг чап томонида бўлса рухсат этилади",
+          "textRu": "Разрешается если она расположена слева от водителя",
+          "textOz": "Agar u haydovchining chap tomonida bo'lsa ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5584,
+          "textUz": "Агар у ҳайдовчининг ўнг томонида бўлса рухсат этилади",
+          "textRu": "Разрешается если она расположена справа от водителя",
+          "textOz": "Agar u haydovchining o'ng tomonida bo'lsa ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 5585,
+          "textUz": "Исталган томондан рухсат этилади",
+          "textRu": "Разрешается с любой стороны",
+          "textOz": "Istalgan tomondan ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5586,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5584
+      ]
+    }
+  ]
+}

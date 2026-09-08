@@ -1,0 +1,16 @@
+{
+  "category": "Тўхташ ва туриш",
+  "count": 1,
+  "fines": [
+    {
+      "article": 127,
+      "subArticle": null,
+      "violation": "Белгиланмаган жойда тўхташ ёки туриш",
+      "fineBhm": "2.00",
+      "fineUzs": "824000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

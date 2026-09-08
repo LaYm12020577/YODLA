@@ -1,0 +1,816 @@
+{
+  "title": "Bilet 3",
+  "count": 20,
+  "questions": [
+    {
+      "id": 41,
+      "questionUz": "Агар ҳайдовчи ўзи харакатланаётган йўлнинг қопламасини бор- йўклигини аниклай олмаса ( қоронги вақт, лой, кор) ва имтиёз белгилари бўлмаса )?",
+      "questionRu": "Что делать, если водитель не может определить, заасфальтирована ли дорога, по которой он едет (темнота, грязь, снег), и нет знаков приоритета движения?",
+      "questionOz": "Agar haydovchi o'zi xarakatlanayotgan yo'lning qoplamasini bor-yo'qligini aniklay olmasa ( qorongi vaqt, loy, kor) va imtiyoz belgilari bo'lmasa )?",
+      "explanationUz": "Агар ҳайдовчи ўзи ҳаракатланаётган йўлнинг қопламаси бор ёки йўқлигини аниқлай олмаса (қоронғи вақт, лой, қор ва бошқа шароитларда) ҳамда имтиёз белгилари мавжуд бўлмаса, у ўзини иккинчи даражали йўлда ҳаракатланаётган деб ҳисоблаши керак. Асос: ЙҲҚ 108-банд.",
+      "explanationRu": "Если водитель не может определить наличие или отсутствие покрытия на дороге, по которой он движется (в тёмное время суток, при наличии грязи, снега и в других подобных условиях), и при этом отсутствуют знаки приоритета, он должен считать, что движется по второстепенной дороге. Основание: пункт 108 ПДД.",
+      "explanationOz": "Agar haydovchi oʻzi harakatlanayotgan yoʻlning qoplamasi bor-yoʻqligini aniqlay olmasa (qorongʻi vaqt, loy, qor va boshqalar) va imtiyoz belgilari boʻlmasa, unda u oʻzini ikkinchi darajali yoʻlda deb hisoblashi kerak.Asos YHQ 108-band",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4867,
+          "textUz": "Ўзини асосий йўлда деб ҳисоблаши керак",
+          "textRu": "Должен считать себя на главной дороге",
+          "textOz": "O'zini asosiy yo'lda deb hisoblashi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 4868,
+          "textUz": "Ўзини иккинчи даражали йўлда деб хисоблаши керак",
+          "textRu": "Должен выделяться на второстепенной дороге",
+          "textOz": "O'zini ikkinchi darajali yo'lda deb xisoblashi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 4869,
+          "textUz": "Барчаси тугри",
+          "textRu": "Везде",
+          "textOz": "Barchasi tugri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4868
+      ]
+    },
+    {
+      "id": 42,
+      "questionUz": "Қоидаларда нечта асосий тушунча ва атамалардан фойдаланилади?",
+      "questionRu": "Сколько основные понятий и терминов используется в Правилах?",
+      "questionOz": "Qoidalarda nechta asosiy tushuncha va atamalardan foydalaniladi?",
+      "explanationUz": "ЙҲҚ умумий қоидалар 6-банди: Авария ҳолатини юзага келтириш, автомагистраль, автопоезд ва бошқалар — умумий 78 та асосий тушунча ва атама. Аввал 77 та эди.\r\n\r\n2026 йил яна битта янги атама қўшилди. Йўл ҳаракати қоидаларининг асосий тушунча ва атамалари қаторига энг охирги бўлиб \"кичик ҳажмдаги мототранспорт воситалари\" атамаси қўшилган.\r\n\r\nУшбу тушунча Ўзбекистон Республикаси Вазирлар Маҳкамасининг 2026 йил 30 мартдаги 125-сонли қарорига асосан киритилган бўлиб, 2026 йил 1 апрелдан бошлаб кучга кирган.\r\n\r\nҚоидаларда ушбу атамага қуйидагича таъриф берилган:\r\n\r\nКичик ҳажмдаги мототранспорт воситалари — энг юқори конструктив тезлиги соатига 25 километрдан ошмайдиган, иш ҳажми 25 см³ гача бўлган ички ёнув двигателига эга бўлган ёки номинал (белгиланган) қуввати 0,25 киловаттгача бўлган икки ёки уч (тўрт) ғилдиракли транспорт воситаларидир.\r\n\r\nУшбу атама таърифига индивидуал ҳаракатланиш воситалари (скутер, электросамокат ва h.k.) кирмайди.",
+      "explanationRu": "Общие положения ПДД, пункт 6: аварийная ситуация, автомагистраль, автопоезд и другие — всего 78 основных понятий и терминов. Ранее их было 77.\r\n\r\nВ 2026 году был добавлен ещё один новый термин. В перечень основных понятий и терминов Правил дорожного движения включено понятие «малогабаритные мототранспортные средства».\r\n\r\nДанное понятие введено на основании Постановления Кабинета Министров Республики Узбекистан №125 от 30 марта 2026 года и вступило в силу с 1 апреля 2026 года.\r\n\r\nВ Правилах этому термину дано следующее определение:\r\n\r\nМалогабаритные мототранспортные средства — это двух-, трёх- или четырёхколёсные транспортные средства с максимальной конструктивной скоростью не более 25 км/ч, оснащённые двигателем внутреннего сгорания рабочим объёмом до 25 см³ либо электродвигателем с номинальной мощностью до 0,25 кВт.\r\n\r\nК данному понятию не относятся средства индивидуальной мобильности (самокаты, электросамокаты и т.п.).",
+      "explanationOz": "YHQ umumiy qoidalar 6-bandi: Avariya holatini yuzaga keltirish, avtomagistral, avtopoyezd va boshqalar — umumiy 78 ta asosiy tushuncha va atama. Avval 77 ta edi.\r\n\r\n2026-yil yana bitta yangi atama qo‘shildi. Yo‘l harakati qoidalarining asosiy tushuncha va atamalari qatoriga eng oxirgi bo‘lib \"kichik hajmdagi mototransport vositalari\" atamasi qo‘shilgan.\r\n\r\nUshbu tushuncha O‘zbekiston Respublikasi Vazirlar Mahkamasining 2026-yil 30-martdagi 125-sonli qaroriga asosan kiritilgan bo‘lib, 2026-yil 1-apreldan boshlab kuchga kirgan.\r\n\r\nQoidalarda ushbu atamaga quyidagicha ta’rif berilgan:\r\n\r\nKichik hajmdagi mototransport vositalari — eng yuqori konstruktiv tezligi soatiga 25 kilometrdan oshmaydigan, ish hajmi 25 sm³ gacha bo‘lgan ichki yonuv dvigateliga ega bo‘lgan yoki nominal (belgilangan) quvvati 0,25 kilovattgacha bo‘lgan ikki yoki uch (to‘rt) g‘ildirakli transport vositalaridir.\r\n\r\nUshbu atama ta’rifiga individual harakatlanish vositalari (skuter, elektrosamokat va h.k.) kirmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6788,
+          "textUz": "65",
+          "textRu": "65",
+          "textOz": "65",
+          "isCorrect": false
+        },
+        {
+          "id": 6789,
+          "textUz": "56",
+          "textRu": "56",
+          "textOz": "56",
+          "isCorrect": false
+        },
+        {
+          "id": 6790,
+          "textUz": "77",
+          "textRu": "77",
+          "textOz": "77",
+          "isCorrect": false
+        },
+        {
+          "id": 6791,
+          "textUz": "78",
+          "textRu": "78",
+          "textOz": "78",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6791
+      ]
+    },
+    {
+      "id": 43,
+      "questionUz": "Қуйидаги тариф \"транспорт воситаси харакатини 10 дақиқагача бўлган муддатга тўхтатиш (харакатсиз ҳолатга келтириш)\" қайси атамага тегишли?",
+      "questionRu": "Следующее определение: «прекращение движения транспортного средства на время до 10 минут (приведение в неподвижное состояние)» относится к какому термину?",
+      "questionOz": "Quyidagi tarif \"transport vositasi xarakatini 10 daqiqagacha bo'lgan muddatga to'xtatish (xarakatsiz holatga keltirish)\" qaysi atamaga tegishli?",
+      "explanationUz": "Транспорт воситасини 10 дақиқагача ҳаракатсиз ҳолатга келтириш тўхташ дейилади.",
+      "explanationRu": "Приведение транспортного средства в неподвижное состояние на срок до 10 минут называется остановкой.",
+      "explanationOz": "Transport vositasini 10 daqiqagacha harakatsiz holatga keltirish - To'xtash deyiladi",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4873,
+          "textUz": "Тухташ",
+          "textRu": "Остановка",
+          "textOz": "Tuxtash",
+          "isCorrect": true
+        },
+        {
+          "id": 4874,
+          "textUz": "Мажбурий тухташ",
+          "textRu": "Вынужденная остановка",
+          "textOz": "Majburiy tuxtash",
+          "isCorrect": false
+        },
+        {
+          "id": 4875,
+          "textUz": "Йул бериш",
+          "textRu": "Уступить дорогу",
+          "textOz": "Yul berish",
+          "isCorrect": false
+        },
+        {
+          "id": 4876,
+          "textUz": "Тухтаб туриш",
+          "textRu": "Стоянка",
+          "textOz": "Tuxtab turish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4873
+      ]
+    },
+    {
+      "id": 44,
+      "questionUz": "Ушбу транспорт воситасига чорраха оркали кайси иўналишлар буйича харакатланишга рухсат этилади?",
+      "questionRu": "Какое направление разрешено для движения этому транспортному средству через перекресток?",
+      "questionOz": "Ushbu transport vositasiga chorraxa orqali qaysi yunalishlar bo'yicha xarakatlanishga ruxsat etiladi?",
+      "explanationUz": "Расмда кўк доира шаклидаги белги «Тўғрига ҳаракатланиш мажбурий» деган маънони билдиради. Бироқ ушбу белги йўлнинг қарама-қарши томонининг ўнг қисмида ўрнатилган. Микроавтобус ҳайдовчиси олдида эса ҳеч қандай тақиқловчи белги ёки йўл чизиғи мавжуд эмас. Шунинг учун унга барча йўналишларда — тўғрига, ўнгга, чапга ҳамда орқага қайтишга рухсат этилади.",
+      "explanationRu": "На изображении синий круглый знак означает «Движение прямо». Однако этот знак установлен с правой стороны дороги, предназначенной для встречного направления движения. Перед микроавтобусом отсутствуют какие-либо запрещающие знаки или дорожная разметка, ограничивающие направление движения. Поэтому ему разрешается движение во всех направлениях: прямо, направо, налево и разворот.",
+      "explanationOz": "Rasmda ko'k doira shaklidagi belgi \"To'g'riga harakatlanish majburiy\" degan ma'noni bildiradi, lekin bu belgi yo'lning , ya'ni qarama-qarshi tarafning o'ng tomonida o'rnatilgan. Mikroavtobusni oldida hech qanday taqiqlovchi belgi yoki yo'l chizig'i yo'q, shuning uchun barcha yo'nalishlarga - to'g'riga, o'ngga, chapga va orqaga qaytishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4877,
+          "textUz": "Факат турига ва унгга",
+          "textRu": "Только прямо и направо",
+          "textOz": "Fakat turiga va ungga",
+          "isCorrect": false
+        },
+        {
+          "id": 4878,
+          "textUz": "Факат чапга ва кайрилиб олишга",
+          "textRu": "Только налево и разворот",
+          "textOz": "Fakat chapga va kayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4879,
+          "textUz": "Факат унгга",
+          "textRu": "Только направо",
+          "textOz": "Fakat ungga",
+          "isCorrect": false
+        },
+        {
+          "id": 4880,
+          "textUz": "Факат тугрига",
+          "textRu": "Только прямо",
+          "textOz": "Fakat tugriga",
+          "isCorrect": false
+        },
+        {
+          "id": 4881,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4881
+      ]
+    },
+    {
+      "id": 45,
+      "questionUz": "Йўл ҳаракат қоидаларида нечта боб ва бандидан иборат?",
+      "questionRu": "Сколько глав и пунктов содержится в правилах дорожного движения?",
+      "questionOz": "Yo‘l harakat qoidalarida nechta bob va bandidan iborat?",
+      "explanationUz": "Йўл ҳаракати қоидалари 29 та боб ва 186 та банддан иборат.",
+      "explanationRu": "Правила дорожного движения состоят из 29 глав и 186 пунктов.",
+      "explanationOz": "Yo'l harakati qoidalar 29 ta bob va 186 banddan iborat",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4882,
+          "textUz": "50 боб 300 банд",
+          "textRu": "Глава 50 - параграф 300",
+          "textOz": "50 боб 300 банд",
+          "isCorrect": false
+        },
+        {
+          "id": 4883,
+          "textUz": "37 боб 286 банд",
+          "textRu": "Глава 37 - параграф 286",
+          "textOz": "37 bob 286 band",
+          "isCorrect": false
+        },
+        {
+          "id": 4884,
+          "textUz": "29 боб 186 банд",
+          "textRu": "Глава  29 - параграф 186",
+          "textOz": "29 bob 186 band",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4884
+      ]
+    },
+    {
+      "id": 46,
+      "questionUz": "Қайси жавобда \"авария ҳолатини юзага келтириш\" атамаси таърифи тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указано определение термина «создание аварийной обстановки»?",
+      "questionOz": "Qaysi javobda \"avariya holatini yuzaga keltirish\" atamasi ta’rifi to‘g‘ri ko‘rsatilgan?",
+      "explanationUz": "Авария ҳолатини юзага келтириш дегани бошқа ҳаракат иштирокчиларини тўсатдан йўналишини ёки тезлигини ўзгартиришга мажбур қилиш демакдир. Бу жуда хавфли ҳаракат бўлиб, йўл-транспорт ҳодисасига олиб келиши мумкин.",
+      "explanationRu": "Создание аварийной ситуации означает вынуждение других участников дорожного движения внезапно изменить направление движения или скорость. Это является крайне опасным действием и может привести к дорожно-транспортному происшествию.",
+      "explanationOz": "Avariya holatini yuzaga keltirish degani boshqa haydovchilarni to'satdan yo'nalish yoki tezlikni o'zgartirishga majbur qilish demakdir. Bu juda xavfli harakat bo'lib, yo'l-transport hodisasiga olib kelishi mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4885,
+          "textUz": "Йўл-транспорт ҳодисаларининг келиб чиқиш сабабларининг олдини олишга, уларнинг оғир оқибатларини камайтиришга қаратилган фаолият",
+          "textRu": "Деятельность, направленная на предотвращение причин дорожно-транспортных происшествий и уменьшение их тяжёлых последствий",
+          "textOz": "Yo‘l-transport hodisalarining kelib chiqish sabablarining oldini olishga, ularning og‘ir oqibatlarini kamaytirishga qaratilgan faoliyat",
+          "isCorrect": false
+        },
+        {
+          "id": 4886,
+          "textUz": "Йўл ҳаракатининг бошқа қатнашчиларини ҳаракат йўналиши ёки тезлигини кескин ўзгартиришга, шунингдек, ўз хавфсизлигини ёхуд бошқа фуқаролар хавфсизлигини таъминлаш учун ўзга чораларни кўришга мажбур қилиш",
+          "textRu": "Вынуждение других участников дорожного движения резко изменить направление движения или скорость, а также принять иные меры для обеспечения собственной безопасности или безопасности других граждан",
+          "textOz": "Yo‘l harakatining boshqa qatnashchilarini harakat yo‘nalishi yoki tezligini keskin o‘zgartirishga, shuningdek, o‘z xavfsizligini yoxud boshqa fuqarolar xavfsizligini ta’minlash uchun o‘zga choralarni ko‘rishga majbur qilish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4886
+      ]
+    },
+    {
+      "id": 47,
+      "questionUz": "Вазирлар Маҳкамасининг 172-сонли қарорига мувофиқ, Йўл ҳаракати қоидалари нэчта банддан иборат?",
+      "questionRu": "Согласно постановлению Кабинета Министров №172, из скольких пунктов состоят Правила дорожного движения?",
+      "questionOz": "Vazirlar Mahkamasining 172-sonli qaroriga muvofiq, Yo‘l harakati qoidalari nechta banddan iborat?",
+      "explanationUz": "Йўл ҳаракати қоидалари 29 та боб ва 186 та банддан иборат.",
+      "explanationRu": "Правила дорожного движения состоят из 29 глав и 186 пунктов.",
+      "explanationOz": "Yo'l harakati qoidalar 29 ta bob va 186 banddan iborat",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4887,
+          "textUz": "184",
+          "textRu": "Из 184",
+          "textOz": "184",
+          "isCorrect": false
+        },
+        {
+          "id": 4888,
+          "textUz": "186",
+          "textRu": "Из 186",
+          "textOz": "186",
+          "isCorrect": true
+        },
+        {
+          "id": 4889,
+          "textUz": "216",
+          "textRu": "Из 216",
+          "textOz": "216",
+          "isCorrect": false
+        },
+        {
+          "id": 4890,
+          "textUz": "220",
+          "textRu": "Из 220",
+          "textOz": "220",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4888
+      ]
+    },
+    {
+      "id": 48,
+      "questionUz": "Қайси расмда тўрт тасмали йўл кўрсатилган?",
+      "questionRu": "На каком рисунке показана четырёхполосная дорога?",
+      "questionOz": "Qaysi rasmda to‘rt tasmali yo‘l ko‘rsatilgan?",
+      "explanationUz": "Барча учта расмда ҳам тўрт тасмали йўл тасвирланган. Йўл чизиқлари билан белгиланган ёки белгиланмаган бўлишидан қатъи назар, агар қатнов қисмининг кенглиги тўртта ҳаракатланиш тасмаси сиғадиган даражада бўлса, бундай йўл тўрт тасмали ҳисобланади. Шунингдек, йўлнинг ўртасидаги иккита параллел сидирға чизиқ йўлда тўрт ва ундан ортиқ ҳаракатланиш тасмаси мавжудлигини билдиради.",
+      "explanationRu": "На всех трёх изображениях показана дорога с четырьмя полосами движения. Независимо от того, обозначены полосы дорожной разметкой или нет, если ширина проезжей части позволяет разместить четыре полосы движения, такая дорога считается четырёхполосной. Кроме того, две параллельные сплошные линии посередине дороги указывают на наличие четырёх и более полос движения.",
+      "explanationOz": "Barcha uchta rasmda to'rt tasmali yo'l ko'rsatilgan. Yo'l chiziqlari bilan belgilangan yoki belgilanmagan bo'lsin, qatnov qismining kengligi to'rtta tasma sig'adigan bo'lsa, u to'rt tasmali hisoblanadi.Ikkita paralell sidirg'a chiziq yo'lda to'rt va undan ortiq tasma borligini bildiradi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4891,
+          "textUz": "Биринчи",
+          "textRu": "На первом",
+          "textOz": "Birinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4892,
+          "textUz": "Биринчи ва иккинчи",
+          "textRu": "На первом и втором",
+          "textOz": "Birinchi va ikkinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4893,
+          "textUz": "Иккинчи ва учинчи",
+          "textRu": "На втором и третьем",
+          "textOz": "Ikkinchi va uchinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4894,
+          "textUz": "Барчасида",
+          "textRu": "На всех",
+          "textOz": "Barchasida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4894
+      ]
+    },
+    {
+      "id": 49,
+      "questionUz": "Йўл патруль ҳизмат ҳодимларига йў л ҳаракат қатнашчилари билан ўзаро муносабатлари ва махсуз мосламалардан фойдаланишда низом тўгрисидаги қонунда қандай тартиб қўйилган ?",
+      "questionRu": "Каков порядок, установленный законом о регулировании взаимодействия сотрудников дорожной полиции с участниками дорожного движения и использовании специальных средств?",
+      "questionOz": "Yo'l patrul xizmat hodimlariga yo'l harakat qatnashchilari bilan o'zaro munosabatlari va maxsuz moslamalardan foydalanishda nizom to'grisidagi qonunda qanday tartib qo'yilgan ?",
+      "explanationUz": "Йўл-патруль хизмати ходимлари барча кўрсатилган ҳолларда — ҳодисаларнинг олдини олиш, махсус тадбирларни ўтказиш, шунингдек, транспорт воситаларини таъқиб қилиш ва кузатиш жараёнида махсус мосламалардан фойдаланишлари мумкин.",
+      "explanationRu": "Сотрудники дорожно-патрульной службы могут использовать специальные средства во всех указанных случаях: для предотвращения происшествий, проведения специальных мероприятий, а также при преследовании и наблюдении за транспортными средствами.",
+      "explanationOz": "Yo'l patrul xizmati xodimlari barcha ko'rsatilgan hollarda — hodisalarni oldini olish, maxsus tadbirlar, ta'qib va kuzatish uchun maxsus moslamalardan foydalanishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4895,
+          "textUz": "Йўл транспорт ҳодисасини олдини олиш ва ҳаракат ҳафсизлигини таминлаш",
+          "textRu": "Предотвращение дорожно-транспортных происшествий и обеспечение безопасности дорожного движения.",
+          "textOz": "Yo'l transport hodisasini oldini olish va harakat hafsizligini taminlash",
+          "isCorrect": false
+        },
+        {
+          "id": 4896,
+          "textUz": "Махсуз тадбирлар ўтқазиш",
+          "textRu": "Организация специальных мероприятий",
+          "textOz": "Maxsuz tadbirlar o'tqazish",
+          "isCorrect": false
+        },
+        {
+          "id": 4897,
+          "textUz": "Тақиб қилиш",
+          "textRu": "Преследование",
+          "textOz": "Taqib qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4898,
+          "textUz": "Кузатиш",
+          "textRu": "Наблюдение",
+          "textOz": "Kuzatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4899,
+          "textUz": "Кўрсатилган барча жавоблар",
+          "textRu": "Все ответы показаны.",
+          "textOz": "Ko'rsatilgan barcha javoblar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4899
+      ]
+    },
+    {
+      "id": 50,
+      "questionUz": "Ҳайдовчи ўз ҳаракати йўналишидан қатъий назар кимга транспорт воситасини тақдим этиши керак?",
+      "questionRu": "Кому водитель должен предоставить свое транспортное средство независимо от направления движения?",
+      "questionOz": "Haydovchi o'z harakati yo'nalishidan qatiy nazar kimga transport vositasini taqdim etishi kerak?",
+      "explanationUz": "ЙҲҚ 2-боби 11-банди  з- хатбошига асосан, транспорт воситасининг ҳайдовчиси тегишли йўналишда тиббий ёрдам кўрсатишга кетаётган тиббиёт ходимларига ҳамда зудлик билан тиббий ёрдамга муҳтож бўлган фуқароларни даволаш-профилактика муассасасига олиб бориш учун транспорт воситасини фойдаланишга тақдим этишга мажбурдир.",
+      "explanationRu": "Согласно абзацу з пункта 11 главы 2 ПДД водитель транспортного средства обязан предоставлять транспортное средство медицинским работникам, следующим в попутном направлении для оказания медицинской помощи, а также для транспортировки граждан, нуждающихся в безотлагательной медицинской помощи, в лечебно-профилактическое учреждение.",
+      "explanationOz": "YHQ 2-bobi 11-bandi z - xatboshiga asosan, transport vositasining haydovchisi tegishli yo'nalishda tibbiy yordam ko'rsatishga ketayotgan tibbiyot xodimlariga hamda zudlik bilan tibbiy yordamga muhtoj bo'lgan fuqarolarni davolash-profilaktika muassasasiga olib borish uchun transport vositasini foydalanishga taqdim etishga majburdir.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 153,
+          "textUz": "Йўл хизмати ходимларига",
+          "textRu": "Сотрудникам дорожной службы",
+          "textOz": "Yo'l xizmati xodimlariga",
+          "isCorrect": false
+        },
+        {
+          "id": 154,
+          "textUz": "Тиббиёт ходимларига зудлик билан тиббий ёрдамга мухтож бўлган фукароларни даволаш-профилактика муассасасига олиб бориш учун",
+          "textRu": "Медицинским служащим, для транспортировки больного в случаях угрожающих его жизни",
+          "textOz": "Tibbiyot xodimlariga zudlik bilan tibbiy yordamga muxtoj bo'lgan fukarolarni davolash-profilaktika muassasasiga olib borish uchun",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        154
+      ]
+    },
+    {
+      "id": 51,
+      "questionUz": "Санаб ўтилган ҳолaтларнинг қайси бирида қоидалар ҳайдовчи ўзининг транспорт воситасини ички ишлар ходими ихтиёрига бериши шарт?",
+      "questionRu": "В каком из перечисленных случаев Правила обязывают водителя предоставить свое транспортное средство в распоряжение работника органов внутренних дел?",
+      "questionOz": "Sanab o'tilgan hollarning qaysi birida qoidalar haydovchi o'zining transport vositasini ichki ishlar xodimi ixtiyoriga berishi shart?",
+      "explanationUz": "ЙҲҚ 2-боби 11-банди  3- хатбошига асосан, транспорт воситасининг ҳайдовчиси  ИИО, Миллий гвардия, Давлат хавфсизлик хизмати ва Ўзбекистон Республикаси Президенти давлат хавфсизлик хизмати органлари ходимларига қонунчилик ҳужжатларида белгиланган ҳолларда кечиктириб бўлмайдиган хизмат вазифаларини бажариш учун транспорт воситасини фойдаланишга тақдим этишга мажбурдир.",
+      "explanationRu": "Согласно абзацу з пункта 11 главы 2 ПДД водитель транспортного средства обязан предоставлять транспортное средство сотрудникам ОВД, Национальной гвардии, Службы государственной безопасности и  Государственной службы безопасности Президента Республики Узбекистан для выполнения неотложных служебных заданй в случаях, предусмотренных законодательством.",
+      "explanationOz": "YHQ 2-bobi 11-bandi z - xatboshiga asosan, transport vositasining haydovchisi IIO, Milliy gvardiya, Davlat xavfsizlik xizmati va O'zbekiston Respublikasi Prezidenti davlat xavfsizlik xizmati organlari xodimlariga Qonunchilik hujjatlarida belgilangan hollarda kechiktirib bo'lmaydigan xizmat vazifalarini bajarish uchun transport vositasini foydalanishga taqdim etishga majburdir.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 155,
+          "textUz": "Барча ҳолатларда",
+          "textRu": "В любом случае",
+          "textOz": "Barcha holatlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 156,
+          "textUz": "Кечиктириб бўлмайдиган хизмат вазифаларини бажариш учун",
+          "textRu": "Для выполнения неотложных служебных заданий",
+          "textOz": "Kechiktirib bo'lmaydigan xizmat vazifalarini bajarish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 157,
+          "textUz": "Иш жойига бориш учун",
+          "textRu": "В любом случае для следования к месту работы",
+          "textOz": "Ish joyiga borish uchun",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        156
+      ]
+    },
+    {
+      "id": 52,
+      "questionUz": "Йўл-транспорт ҳодисасига дахлдор бўлган ҳайдовчилар биринчи навбатда бажаришлари шарт:",
+      "questionRu": "Что должен сделать в первую очередь водитель; причастный к дорожно-транспортному происшествию?",
+      "questionOz": "Yo'l-transport hodisasiga daxldor bo'lgan haydovchilar birinchi navbatda bajarishlari shart:",
+      "explanationUz": "ЙҲҚ 3 – боби 13 – бандига асосан, йўл – транспорт ҳодисаси содир бўлганда унга дахлдор ҳайдовчилар қуйдагиларни бажаришлари шарт: транспорт воситасини дарҳол тўхтатиши, авария ишораларини ёқиши ва авария сабабли тўхташ белгисини ўрнатиши, транспорт воситасини ва ҳодисага дахлдор буюмларни жойидан қўзғатмаслиги.",
+      "explanationRu": "Пункта 13 главы З ПДД гласит: При дорожно-транспортном происшествии водители, причастные к нему, обязаны: немедленно остановить транспортное средство, включить аварийную световую сигнализацию или выставить знак аварийной остановки (мигающий красный фонарь), не перемещать транспортное средство и предметы, имеющие отношение к происшествию.",
+      "explanationOz": "YHQ 3 – bobi 13 – bandiga asosan, yo‘l – transport hodisasi sodir bo‘lganda unga daxldor haydovchilar quydagilarni bajarishlari shart: transport vositasini darhol to‘xtatishi, avariya ishoralarini yoqishi va avariya sababli to‘xtash belgisini o‘rnatishi, transport vositasini va hodisaga daxldor buyumlarni joyidan qo‘zg‘atmasligi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 158,
+          "textUz": "Ҳодиса содир бўлган жойда тўхташ, гувоҳларнинг исми-шарифини ва манзилгоҳини ёзиб олиш, ҳодиса ҳақида ИИО ходимларига хабар бериш, шикастланганларга шифокор келгунча тиббий ёрдам бериш учун чоралар кўриш",
+          "textRu": "Остановиться на месте происшествия, записать фамилии и адреса очевидцев, сообщить о случившемся в милицию, принять меры для оказания доврачебной медицинской помощи пострадавшим",
+          "textOz": "Hodisa sodir bo'lgan joyda to'xtash, guvohlarning ismi-sharifini va manzilgohini yozib olish, hodisa haqida IIO xodimlariga xabar berish, shikastlanganlarga shifokor kelguncha tibbiy yordam berish uchun choralar ko'rish",
+          "isCorrect": false
+        },
+        {
+          "id": 159,
+          "textUz": "Дарҳол тўхташ ва ҳодиса содир бўлган жойда қолиш, мажбурий тўхташ ёритгичини ёқиш ва фалокат сабаби тўхташ белгисини ўрнатиш",
+          "textRu": "Немедленно остановиться и оставаться на месте происшествия, включить аварийную световую сигнализацию и выставить знак аварийной остановки",
+          "textOz": "Darhol to'xtash va hodisa sodir bo'lgan joyda qolish, majburiy to'xtash yoritgichini yoqish va falokat sababi to'xtash belgisini o'rnatish",
+          "isCorrect": true
+        },
+        {
+          "id": 160,
+          "textUz": "Тўхташ ва ҳодисага тегишли изларни сақлаш, уларнинг атрофини тўсиб, ҳодиса содир бўлган жойни айланиб ўтишни ташкил этиш учун ҳамма мумкин бўлган чораларни кўриш, ИИОга хабар бериш, тиббий ёрдам бериш",
+          "textRu": "Остановиться и принять все возможные меры к сохранению следов происшествия, ограждению их и организации объезда места происшествия, сообщить о случившемся в милицию и принять меры для оказания доврачебной медицинской помощи пострадавшим",
+          "textOz": "To'xtash va hodisaga tegishli izlarni saqlash, ularning atrofini to'sib, hodisa sodir bo'lgan joyni aylanib o'tishni tashkil etish uchun hamma mumkin bo'lgan choralarni ko'rish, IIOga xabar berish, tibbiy yordam berish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        159
+      ]
+    },
+    {
+      "id": 53,
+      "questionUz": "Транспорт воситалари ихтиёрига берилган ваколатномаси бўлган шахс ўзининг иштирокида транспорт воситасини бошқа шахсга бошқаришни топшириши мумкинми",
+      "questionRu": "Может ли лицо; имеющее доверенность на право распоряжения транспортным средством; передавать управление транспортным средством в своем присутствии другому лицу?",
+      "questionOz": "Transport vositalari ixtiyoriga berilgan vakolatnomasi bo'lgan shaxs o'zining ishtirokida transport vositasini boshqa shaxsga boshqarishni topshirishi mumkinmi",
+      "explanationUz": "ЙҲҚ 2-боби 8-бандига асосан: Тегишли тоифадаги транспорт воситасини бошқариш ҳуқуқини берувчи ҳайдовчилик гувоҳномасига, унинг талонига, вақтинчалик рухсатномага эга бўлган шахс, ўзига тегишли бўлмаган транспорт воситасини, унинг эгаси ёнида бўлганида ёхуд тасарруф этиш ҳуқуқини берувчи ёки эгалик қилишга, фойдаланишга берилганлигини тасдиқловчи ҳужжатлари бўлган шахс иштирокидагина (уларнинг розилиги билан) бошқариши мумкин, агар транспорт воситалари эгаларининг фуқаролик жавобгарлигини мажбурий суғурта қилиш бўйича шартнома ушбу транспорт воситасидан чекланмаган шахсларнинг фойдаланилишини ҳисобга олган ҳолда тузилган ёки транспорт воситасини бошқараётган шахс суғурта полисида кўрсатилган бўлса.",
+      "explanationRu": "Пункта 8 главы 2 ПДД гласит: Лицо, имеющее удостоверение на право управления транспортным средством соответствующей категории, талон к нему или временное разрешение, имеет право управлять не принадлежающим ему транспортным средством в присутствии владельца или лица, имеющего документ, подтверждающий право на распоряжение, владение и пользование транспортным средством (по их согласию), а также при условии, что договор обязательного страхования гражданской ответственности владельца транспортного средства заключен в отношении неограниченного числа лиц, допущенных к управлению данным транспортным средством, либо если лицо, управляющее транспортным средством, указано в страховом полисе.",
+      "explanationOz": "YHQ 2-bobi 8-bandiga asosan: Tegishli toifadagi transport vositasini boshqarish huquqini beruvchi haydovchilik guvohnomasiga, uning taloniga, vaqtinchalik ruxsatnomaga ega bo'lgan shaxs, o'ziga tegishli bo'lmagan transport vositasini, uning egasi yonida bo'lganida yoxud tasarruf etish huquqini beruvchi yoki egalik qilishga, foydalanishga berilganligini tasdiqlovchi hujjatlari bo'lgan shaxs ishtirokidagina (ularning roziligi bilan) boshqarishi mumkin, agar transport vositalari egalarining fuqarolik javobgarligini majburiy sug'urta qilish bo'yicha shartnoma ushbu transport vositasidan cheklanmagan shaxslarning foydalanilishini hisobga olgan holda tuzilgan yoki transport vositasini boshqarayotgan shaxs sug'urta polisida ko'rsatilgan bo'lsa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 161,
+          "textUz": "Мумкин",
+          "textRu": "Разрешена",
+          "textOz": "Mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 162,
+          "textUz": "Мумкин эмас\r\n",
+          "textRu": "Нельзя",
+          "textOz": "Mumkin emas\r\n",
+          "isCorrect": false
+        },
+        {
+          "id": 163,
+          "textUz": "Бу шахсда мазкур тоифали транспорт воситасини бошқаришга ҳайдовчилик гувоҳномаси бўлган тақдирда транспорт воситалари эгаларининг фуқаролик жавобгарлигини мажбурий суғурта қилиш бўйича суғурта полисида исм-шарифи кўрсатилган бўлса ёки мажбурий суғурта қилиш бўйича шартнома ушбу транспорт воситасидан чекланмаган шахсларнинг фойдаланишини ҳисобга олган ҳолда тузилган бўлса",
+          "textRu": "Может; при наличии у этого лица водительского удостоверения на право управления транспортным средством данной категории; и оно указано в страховом полисе обязательного страхования гражданской ответственности владельца транспортного средства",
+          "textOz": "Bu shaxsda mazkur toifali transport vositasini boshqarishga haydovchilik guvohnomasi bo'lgan taqdirda transport vositalari egalarining fuqarolik javobgarligini majburiy sug'urta qilish bo'yicha sug'urta polisida ism-sharifi ko'rsatilgan bo'lsa yoki majburiy sug'urta qilish bo'yicha shartnoma ushbu transport vositasidan cheklanmagan shaxslarning foydalanishini hisobga olgan holda tuzilgan bo'lsa",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        163
+      ]
+    },
+    {
+      "id": 54,
+      "questionUz": "Ҳайдовчи йўл-транспорт ҳодисасида шикастланган транспорт воситасини шатакка олиш учун юк автомобилини ички ишлар органи ходими ихтиёрига қандай ҳолда бериши керак?",
+      "questionRu": "В каком случае водитель должен предоставить грузовой автомобиль работнику органов внутренних дел для буксировки транспортного средства поврежденного при дорожно транспортном происшествии?",
+      "questionOz": "Haydovchi yo'l-transport hodisasida shikastlangan transport vositasini shatakka olish uchun yuk avtomobilini ichki ishlar organi xodimi ixtiyoriga qanday holda berishi kerak?",
+      "explanationUz": "ЙҲҚ 13-боби 91-банди: Тўхташ тақиқланади: Қатнов қисми кесишмаларида ва кесишаётган қатнов қисми четига 30 метрдан кам масофада (уч томонлама кесишадиган чоррахаларда ёндан туташган йўлнинг сидирға чизиқ, ёки ажратувчи минтақа билан ажратилган қарама-қарши томони бундан мустасно).",
+      "explanationRu": "Пункта 91 главы 13 ПДД, гласит: на пересечениях проезжих частей и на расстоянии менее 30 метров от края пересекаюшей проезжей части (за исключением противоположной стороны примыкающей дороги, отделенной разделительной линией или разделительной полосой на трехсторонних перекрестках).",
+      "explanationOz": "YHQ 13-bobi 91-bandi: To‘xtash taqiqlanadi: Qatnov qismi kesishmalarida va kesishayotgan qatnov qismi chetiga 30 metrdan kam masofada (uch tomonlama kesishadigan chorraxalarda yondan tutashgan yo‘lning sidirg‘a chiziq, yoki ajratuvchi mintaqa bilan ajratilgan qarama-qarshi tomoni bundan mustasno).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 164,
+          "textUz": "Фақат шу ҳолдаки, агар шатакка олиш йўл-йўлакай йўналишда амалга оширилса",
+          "textRu": "Только в случае, если буксировка будет осуществляться в попутном направлении",
+          "textOz": "Faqat shu holdaki, agar shatakka olish yo'l-yo'lakay yo'nalishda amalga oshirilsa",
+          "isCorrect": false
+        },
+        {
+          "id": 165,
+          "textUz": "Ҳар қандай ҳолда, фуқароларга тегишли транспорт воситаларидан ташқари",
+          "textRu": "В любом случае, кроме транспортных средств принадлежащих гражданам",
+          "textOz": "Har qanday holda, fuqarolarga tegishli transport vositalaridan tashqari",
+          "isCorrect": true
+        },
+        {
+          "id": 166,
+          "textUz": "Ҳайдовчининг истаги бўйича",
+          "textRu": "По усмотрению водителя",
+          "textOz": "Haydovchining istagi bo'yicha",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        165
+      ]
+    },
+    {
+      "id": 55,
+      "questionUz": "Реакция ва диққатни пасайтирувчи дори-дармонлар таъсирида бўлган ҳайдовчига транспорт воситаларини бошқаришга рухсат этиладими?",
+      "questionRu": "Разрешается ли водителю управлять транспортным средством под воздействием лекарственных препаратов; снижающих скорость реакции и внимание?",
+      "questionOz": "Reaksiya va diqqatni pasaytiruvchi dori-darmonlar tasirida bo'lgan haydovchiga transport vositalarini boshqarishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 2-боби 12-бандининг биринчи хатбошисига асосан, ҳайдовчига қуидагилар тақиқланади:\r\nтранспорт воситасини мастлик ҳолатида (алкогол, гиёҳванд моддалар истеъмол қилган ва ҳ. к.), сезгирлик ва эътиборни сусайтирадиган дори-дармонлар таъсирида, йўл ҳаракати хависизлигига таҳдид соладиган даражадаги чарчоқлик ва бетоблик ҳолатида бошқариш.",
+      "explanationRu": "Пункту 12 главы 2 ПДД, гласит: Водителю запрещается: - управлять транспортным средством в состоянии любого опьянения (алкогольного, наркотического и др.), под воздействием лекарственных препаратов, снижающих скорость реакции и внимание, в болезненном или утомленном состоянии, способным создать угрозу безопасности движения.",
+      "explanationOz": "YHQ 2-bobi 12-bandining birinchi xatboshisiga asosan, haydovchiga quidagilar taqiqlanadi:\r\ntransport vositasini mastlik holatida (alkogol, giyohvand moddalar iste’mol qilgan va h. k.), sezgirlik va e’tiborni susaytiradigan dori-darmonlar ta’sirida, yo‘l harakati xavisizligiga tahdid soladigan darajadagi charchoqlik va betoblik holatida boshqarish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 167,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 168,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 169,
+          "textUz": "Агар ҳайдовчининг ишлаган даври 2 йилдан ортиқ бўлса, рухсат этилади",
+          "textRu": "Разрешается, если стаж водителя более 2-х лет",
+          "textOz": "Agar haydovchining ishlagan davri 2 yildan ortiq bo'lsa, ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        167
+      ]
+    },
+    {
+      "id": 56,
+      "questionUz": "Агар йўл-транспорт ҳодисаси натижасида ҳеч ким жабрланмаса, моддий зарар эса аҳамиятсиз бўлса, ҳайдовчиларнинг ўзлари ҳодиса рўй берган жойни тарк этиб, ДЙҲХХнинг энг яқин ёки ИИО идорасига ҳодисани қайд қилиш учун бора оладиларми?",
+      "questionRu": "Если в результате дорожно-транспортного происшествия нет пострадавших, а материальный ущерб несущественен, могут ли водители сами покинуть место происшествия и прибыть на ближайший пост ГСБДД или в органы внутренних дел для оформления происшествия?",
+      "questionOz": "Agar yo'l-transport hodisasi natijasida hech kim jabrlanmasa, moddiy zarar esa ahamiyatsiz bo'lsa, haydovchilarning o'zlari hodisa ro'y bergan joyni tark etib, DYHXXning eng yaqin yoki IIO idorasiga hodisani qayd qilish uchun bora oladilarmi?",
+      "explanationUz": "ЙҲҚ 3-боби 14-бандига асосан: Агар йўл-транспорт ҳодисасида шикастланганлар бўлмаса ва ҳайдовчилар ҳодисага баҳо беришда ўзаро келиша олсалар, дастлабки ҳодиса чизмасини чизиб, уни имзолаб, яқин орадаги ДЙҲҲХ маскани ёки милицияга боришлари мумкин.",
+      "explanationRu": "Пункта 14 главы 3 ПДД, гласит: Если в результате дорожно-транспортного происшествия нет пострадавших, то водители, при взаимном согласии в оценке обстоятельств случившегося, могут прибыть на ближайший пост ГСБДД или в орган милиции для оформления происшествия, предварительно составив схему происшествия и подписав ее.",
+      "explanationOz": "YHQ 3-bobi 14-bandiga asosan: Agar yo‘l-transport hodisasida shikastlanganlar bo‘lmasa va haydovchilar hodisaga baho berishda o‘zaro kelisha olsalar, dastlabki hodisa chizmasini chizib, uni imzolab, yaqin oradagi DYHHX maskani yoki militsiyaga borishlari mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 170,
+          "textUz": "Бора олмайдилар",
+          "textRu": "Не могут",
+          "textOz": "Bora olmaydilar",
+          "isCorrect": false
+        },
+        {
+          "id": 171,
+          "textUz": "Бора оладилар",
+          "textRu": "Могут",
+          "textOz": "Bora oladilar",
+          "isCorrect": false
+        },
+        {
+          "id": 172,
+          "textUz": "Ҳодиса чизмасини тахминий тузиб ва уни имзолаб бора оладилар",
+          "textRu": "Могут; предварительно составив схему происшествия и подписав ее",
+          "textOz": "Hodisa chizmasini taxminiy tuzib va uni imzolab bora oladilar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        172
+      ]
+    },
+    {
+      "id": 57,
+      "questionUz": "Ҳайдовчига транспорт воситасини бошқариш вақтида телефондан фойдаланишга  рухсат этиладими?",
+      "questionRu": "Разрешается ли водителю пользоваться телефоном во время движения?",
+      "questionOz": "Haydovchiga transport vositasini boshqarish vaqtida telefondan foydalanishga  ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.6 белгиси, «Тенг аҳамиятли йўллар кесишуви». Аҳоли пунктларида хавфли жойдан 50 — 100 метр олдин ўрнатилади. ЙҲҚ 16-боби 105-бандига мувофиқ, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан келаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Знак 1.6 раздела 1 приложения № 1 к ПДД, «Пересечение равнозначных дорог». Устанавливаются в населенных пунктах на расстоянии 50 — 100 м до начала опасного участка. Согласно пункту 105 главы 16 ПДД, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.6 belgisi, \"Teng ahamiyatli yo'llar kesishuvi\". Aholi punktlarida xavfli joydan 50 — 100 metr oldin o'rnatiladi. YHQ 16-bobi 105-bandiga muvofiq, teng ahamiyatga ega bo'lgan yo'llar kesishgan chorrahada relssiz transport vositasining haydovchisi o'ngdan kelayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 173,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 174,
+          "textUz": "Қўлни ишлатмасдан техник восилалардан фойдаланиш гаплашишга рухсат этилади",
+          "textRu": "Разрешается только при использовании технического устройства, позволяющего вести переговоры без использования рук",
+          "textOz": "Qo'lni ishlatmasdan texnik vosilalardan foydalanish gaplashishga ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 175,
+          "textUz": "20 км/с тезликда ҳаракатланаётганда рухсат этилади",
+          "textRu": "Разрешается только при движении со скоростью менее 20 км/ч",
+          "textOz": "20 km/s tezlikda harakatlanayotganda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        174
+      ]
+    },
+    {
+      "id": 58,
+      "questionUz": "Йўл транспорт ҳодисасига даҳлдор ҳайдовчилар биринчи навбатда нима қилишлари керак?",
+      "questionRu": "Что обязаны сделать в первую очередь водители, причастные к дорожно-транспортному происшествию?",
+      "questionOz": "Yo'l transport hodisasiga dahldor haydovchilar birinchi navbatda nima qilishlari kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 67-бандига асосан, аҳоли пунктларидан ташқаридаги йўлларда ҳамда аҳоли пунктларида айрим турдаги транспорт воситалари учун ушбу Қоидаларда белгилангандан юқори тезликда ҳаракатланиш рухсат этилган йўл қисмларида ҳайдовчилар транспорт воситаларини мумкин қадар қатнов қисмининг ўнг четига яқинроқ олиб ҳаракатланишлари керак. Ўнг тасмалар бўш бўлганда чап тасмаларни эгаллаш тақиқланади.",
+      "explanationRu": "Согласно пункту 67 Правил дорожного движения, вне населенных пунктов, а также в населенных пунктах на участках дорог, где разрешено движение с большей скоростью для отдельных видов транспортных средств, чем предписано настоящими Правилами, водители транспортных средств должны двигаться по возможности ближе к правому краю проезжей части. Запрещается занимать левые полосы движения при свободных правых.",
+      "explanationOz": "Yo‘l harakati qoidalarining 67-bandiga asosan, aholi punktlaridan tashqaridagi yo‘llarda hamda aholi punktlarida ayrim turdagi transport vositalari uchun ushbu Qoidalarda belgilangandan yuqori tezlikda harakatlanish ruxsat etilgan yo‘l qismlarida haydovchilar transport vositalarini mumkin qadar qatnov qismining o‘ng chetiga yaqinroq olib harakatlanishlari kerak. O‘ng tasmalar bo‘sh bo‘lganda chap tasmalarni egallash taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 176,
+          "textUz": "Йўлнинг ҳаракат қисмини бўшатишлари керак",
+          "textRu": "Освободить проезжую часть",
+          "textOz": "Yo'lning harakat qismini bo'shatishlari kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 177,
+          "textUz": "Транспорт воситасини дарҳол тўхтатиши, авария ишораларини ёқиши ва авария сабабли тўхташ белгисини ўрнатиши",
+          "textRu": "Немедленно остановиться, включить аварийную сигнализацию и выставить знак аварийной остановки",
+          "textOz": "Transport vositasini darhol to'xtatishi, avariya ishoralarini yoqishi va avariya sababli to'xtash belgisini o'rnatishi",
+          "isCorrect": true
+        },
+        {
+          "id": 178,
+          "textUz": "Содир этилган ҳодиса хақида ЙҲХХга хабар бериши керак",
+          "textRu": "Сообщить о случившемся в СБДД",
+          "textOz": "Sodir etilgan hodisa xaqida YHXXga xabar berishi kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        177
+      ]
+    },
+    {
+      "id": 59,
+      "questionUz": "Қуйидаги шахсларга хавфсизлик камарини (канструкциясида хавфсизлик камари назарда тутилган транспорт воситаларида)тақмасликга рухсат берилади:",
+      "questionRu": "Следующим лицам разрешается не пристегиваться ремнями безопасности в транспортных средствах, предусмотренных конструкцией ремней безопасности?",
+      "questionOz": "Quyidagi shaxslarga xavfsizlik kamarini (kanstruksiyasida xavfsizlik kamari nazarda tutilgan transport vositalarida)taqmaslikga ruxsat beriladi:",
+      "explanationUz": "ЙҲҚ 7-боби 32-банди: Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари ҳам доирасимон шаклдаги светофор ишоралари билан бир хил маънога эга бўлади. Улар фақат кўрсатилган йўналишга таъсир этади. Агар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи йўналтиргич қайрилиб олишга ҳам рухсат беради. Қўшимча тармоқдаги яшил йўналтиргич ҳам худди шу маънони билдиради. Светофорнинг қўшимча тармоқдаги ишора ўчирилган бўлса, шу тармоқ тартибга солаётган йўналишда ҳаракатланиш тақиқланганлигини билдиради. ЙҲҚ 1 илова: 3.18.2. “Чапга бурилиш тақиқланади”.",
+      "explanationRu": "Пункта 32 главы 7 ПДД, гласит: Сигналы светофора, выполненные в виде стрелок красного, желтого и зеленого цветов тоже имеют то же значение, что и круглые соответствующего цвета. Их действие распространяется только на направление, указываемое стрелками.\r\nСтрелка, разрешающая поворот налево, разрешает и разворот, если это не запрещено соответствующим дорожным знаком.\r\nТакже это значение имеет зелёная стрелка в дополнительной секции.\r\nВыключенный сигнал дополнительной секции означает запрещение движения в направлении, регулируемом этой секцией.\r\nПДД приложение № 1: Поворот налево запрещен.",
+      "explanationOz": "YHQ 7-bobi 32-bandi: Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari ham doirasimon shakldagi svetofor ishoralari bilan bir xil ma’noga ega bo‘ladi. Ular faqat ko‘rsatilgan yo‘nalishga ta’sir etadi. Agar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yo‘naltirgich qayrilib olishga ham ruxsat beradi. Qo‘shimcha tarmoqdagi yashil yo‘naltirgich ham xuddi shu ma’noni bildiradi. Svetoforning qo‘shimcha tarmoqdagi ishora o‘chirilgan bo‘lsa, shu tarmoq tartibga solayotgan yo‘nalishda harakatlanish taqiqlanganligini bildiradi. YHQ 1 ilova: 3.18.2. “Chapga burilish taqiqlanadi”.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 179,
+          "textUz": "Автомобилнинг орқа ўриндиқдаги 12 ёшгача бўлган болаларга",
+          "textRu": "Детям до 12 лет на заднем сиденье автомобиля",
+          "textOz": "Avtomobilning orqa o'rindiqdagi 12 yoshgacha bo'lgan bolalarga",
+          "isCorrect": false
+        },
+        {
+          "id": 180,
+          "textUz": "Хомиладор аёлларга",
+          "textRu": "Беременным женщинам",
+          "textOz": "Xomilador ayollarga",
+          "isCorrect": false
+        },
+        {
+          "id": 181,
+          "textUz": "Орқага харакатни амалга оширётган хайдовчиларга",
+          "textRu": "Водителям, едущим задним ходом",
+          "textOz": "Orqaga xarakatni amalga oshiryotgan xaydovchilarga",
+          "isCorrect": false
+        },
+        {
+          "id": 182,
+          "textUz": "1 ва 2 жавоблар тўғри",
+          "textRu": "1 и 2 ответы верны",
+          "textOz": "1 va 2 javoblar to'g'ri",
+          "isCorrect": true
+        },
+        {
+          "id": 183,
+          "textUz": "Санаб ўтилган барча холларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Sanab o'tilgan barcha xollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        182
+      ]
+    },
+    {
+      "id": 60,
+      "questionUz": "Механик транспорт воситасининг эгаси ёнида ҳайдочилик гувоҳномаси бўлмаганида қандай ҳужжат билан бошқаришга рухсат этилади?",
+      "questionRu": "Какой документ разрешает владельцу механического транспортного средства управлять транспортным средством, если у него нет водительских прав?",
+      "questionOz": "Mexanik transport vositasining egasi yonida haydochilik guvohnomasi  bo'lmaganida qanday hujjat bilan boshqarishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 13-боби 91-бандига асосан: Тўхтаган транспорт воситаси билан сидирға чизиқ (қатнов қисмининг четини белгиловчи чизиқдан ташқари) Ажратувчи минтақа ёки қатнов қисмининг қарама-қарши чети орасидаги масофа 3 метрдан кам бўлган жойларда.",
+      "explanationRu": "Пункт 91 главы 13 ПДД гласит:\r\nчто остановка запрещается в местах, где расстояние между сплошной линией разметки (кроме обозначающей край проезжей части) и остановившимся транспортным средством менее 3 м.",
+      "explanationOz": "YHQ 13-bobi 91-bandiga asosan: To‘xtagan transport vositasi bilan sidirg‘a chiziq (qatnov qismining chetini belgilovchi chiziqdan tashqari) Ajratuvchi mintaqa yoki qatnov qismining qarama-qarshi cheti orasidagi masofa 3 metrdan kam bo‘lgan joylarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 184,
+          "textUz": "Биометрик пасспорт",
+          "textRu": "Биометрик паспорт",
+          "textOz": "Biometrik passport",
+          "isCorrect": false
+        },
+        {
+          "id": 185,
+          "textUz": "ID карта",
+          "textRu": "ID карта",
+          "textOz": "ID karta",
+          "isCorrect": false
+        },
+        {
+          "id": 186,
+          "textUz": "Эгалик ҳуқуқи",
+          "textRu": "Право собственности",
+          "textOz": "Egalik huquqi",
+          "isCorrect": false
+        },
+        {
+          "id": 187,
+          "textUz": "Барча жавоблар тўғри",
+          "textRu": "Все ответы верны",
+          "textOz": "Barcha javoblar to'g'ri",
+          "isCorrect": false
+        },
+        {
+          "id": 188,
+          "textUz": "Биринчи ва иккинчи жавоблар тўғри",
+          "textRu": "Первый и второй ответы верны",
+          "textOz": "Birinchi va ikkinchi javoblar to'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        188
+      ]
+    }
+  ]
+}

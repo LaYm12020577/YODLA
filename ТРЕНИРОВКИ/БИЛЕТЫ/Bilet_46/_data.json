@@ -1,0 +1,732 @@
+{
+  "title": "Bilet 46",
+  "count": 20,
+  "questions": [
+    {
+      "id": 903,
+      "questionUz": "Транспорт воситаларининг тезлиги техник тавсифномасига ёки ҳолатига кўра 40 км/с дан кам бўлганда автомагистрал бўйлаб ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли движение по автомагистралям транспортных средств; скорость которых по техничес­кой характеристике или их состоянию менее 40 км/ч?",
+      "questionOz": "Transport vositalarining tezligi texnik tavsifnomasiga yoki holatiga ko'ra 40 km/s dan kam bo'lganda avtomagistral bo'ylab harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 18-бобининг 121-бандига мувофиқ, автомагистралларда пиёдалар, уй ҳайвонлари, от-аравалар, велосипедлар, мопедлар, тракторлар ва ўзи юрар машиналар, техник тавсифномасига ёки ҳолатига кўра тезлиги соатига 40 километрдан кам бўлган транспорт воситаларининг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно пункту 121 главы 18 ПДД, на автомагистралях запрещается движение пешеходов, домашних животных, грузовых повозок, велосипедов, мопедов, тракторов и самоходных машин, транспортных средств, скорость которых по технической характеристике или их состоянию менее 40 км/ч.",
+      "explanationOz": "YHQ 18-bobining 121-bandiga muvofiq, avtomagistrallarda piyodalar, uy hayvonlari, ot-aravalar, velosipedlar, mopedlar, traktorlar va o'zi yurar mashinalar, texnik tavsifnomasiga yoki holatiga ko'ra tezligi soatiga 40 kilometrdan kam bo'lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2965,
+          "textUz": "Иккинчи бўлакдан нарига ўтмаганда рухсат этилади",
+          "textRu": "Разрешается не далее второй полосы",
+          "textOz": "Ikkinchi bo'lakdan nariga o'tmaganda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2966,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2967,
+          "textUz": "Агар «Энг кам тезлик» белгиси ўрнатилмаган бўлса рухсат этилади",
+          "textRu": "Разрешается; если не установлен знак \"Ограничение минимальной скорости\"",
+          "textOz": "Agar «Энг кам тезлик» belgisi o'rnatilmagan bo'lsa ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2966
+      ]
+    },
+    {
+      "id": 904,
+      "questionUz": "Кўрсатилган белгилардан қайсиниси орқага ҳаракатланишни тақиқлайди?",
+      "questionRu": "Какой из показанных знаков запрещает движение задним ходом?",
+      "questionOz": "Ko'rsatilgan belgilardan qaysinisi orqaga harakatlanishni taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 19-боби 121-бандининг бешинчи хатбошисига асосан, автомагистралларда қуйдагилар тақиқланади: орқага ҳаракатланиш.",
+      "explanationRu": "Пункта 121 главы 19 ПДД, гласит: На автомагистралях запрещается; движение задним ходом Соответственно, в зоне действия знака 5.1 “Автомагистраль” движение задним ходом запрещено.",
+      "explanationOz": "YHQ 19-bobi 121-bandining beshinchi xatboshisiga asosan, avtomagistrallarda quydagilar taqiqlanadi: orqaga harakatlanish.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/34.13.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2968,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": true
+        },
+        {
+          "id": 2969,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 2970,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 2971,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 2972,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2968
+      ]
+    },
+    {
+      "id": 905,
+      "questionUz": "Автомагистралда тўхташга рухсат берилган",
+      "questionRu": "Остановка на автомагистрали разрешена:",
+      "questionOz": "Avtomagistralda to'xtashga ruxsat berilgan",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 121 бандига асосан, автомагистралларда қуйидагилар тақиқланади: 5.15 ёки 6.11 йўл белгилари билан белгиланган махсус тўхтаб туриш майдончаларидан бошқа жойларда тўхташ.",
+      "explanationRu": "Согласно пункту 121 Правил дорожного движения, на автомагистралях запрещается: остановка вне специальных площадок для стоянки, обозначенных дорожными знаками 5.15 или 6.11.",
+      "explanationOz": "Yo‘l harakati qoidalarining 121 bandiga asosan, avtomagistrallarda quyidagilar taqiqlanadi: 5.15 yoki 6.11 yo‘l belgilari bilan belgilangan maxsus to‘xtab turish maydonchalaridan boshqa joylarda to‘xtash.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2973,
+          "textUz": "Фақат қатнов қисмини четини билдирувчи чизиқдан четда",
+          "textRu": "Только правее линии разметки, обозначающей край проезжей части",
+          "textOz": "Faqat qatnov qismini chetini bildiruvchi chiziqdan chetda",
+          "isCorrect": false
+        },
+        {
+          "id": 2974,
+          "textUz": "Қатнов қисмидан четда барча жойда",
+          "textRu": "В любых местах за пределами проезжей части",
+          "textOz": "Qatnov qismidan chetda barcha joyda",
+          "isCorrect": false
+        },
+        {
+          "id": 2975,
+          "textUz": "5.15 ёки 6.11 йўл белгилари билан белгиланган махсус тўхтаб туриш майдончаларида",
+          "textRu": "Только на специальных площадках для стоянки, обозначенных соответствующими знаками (5.15 или 6.11).",
+          "textOz": "5.15 yoki 6.11 yo'l belgilari bilan belgilangan maxsus to'xtab turish maydonchalarida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2975
+      ]
+    },
+    {
+      "id": 906,
+      "questionUz": "Қайси транспорт воситаси ҳайдовчиси қоида бузиб ҳаракатланмоқда?",
+      "questionRu": "Кто из водителей нарушает правила?",
+      "questionOz": "Qaysi transport vositasi haydovchisi qoida buzib harakatlanmoqda?",
+      "explanationUz": "ЙҲҚ 12-боби 86-банди: Қувиб ўтиш қуйидаги ҳолларда тақиқланади: тепаликнинг охирида ва йўлнинг кўриниши чекланган жойларда;\r\nҚоидани бузмади, сабаби Мототсилкчи тепаликнинг охирида эмас.",
+      "explanationRu": "Пункта 86 главы 12 ПДД, гласит: Обгон запрещен:\r\n— в КОНЦЕ подъема и на других участках дорог с ограниченной видимостью;\r\nНе нарушает, потому что мотоциклист не на КОНЦЕ подъема.",
+      "explanationOz": "YHQ 12-bobi 86-bandi: Quvib o‘tish quyidagi hollarda taqiqlanadi: tepalikning oxirida va yo‘lning ko‘rinishi cheklangan joylarda;\r\nQoidani buzmadi, sababi Mototsilkchi tepalikning oxirida emas.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2976,
+          "textUz": "Рухсат этилган тўла вазни 3 тонна бўлган юк автомобили ва мопет ҳайдовчиси",
+          "textRu": "Водители грузового автомобиля с разрешенной максимальной массой 3т и мопеда",
+          "textOz": "Ruxsat etilgan to'la vazni 3 tonna bo'lgan yuk avtomobili va mopet haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 2977,
+          "textUz": "Фақат мопед ҳайдовчиси",
+          "textRu": "Только водитель мопеда",
+          "textOz": "Faqat moped haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2978,
+          "textUz": "Ҳеч ким қоида бузмаябди",
+          "textRu": "Никто не нарушает",
+          "textOz": "Hech kim qoida buzmayabdi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2976
+      ]
+    },
+    {
+      "id": 907,
+      "questionUz": "Мазкур белги билан белгиланган ҳудудда қандай чекланишлар киритилган?",
+      "questionRu": "Какие ограничения установлены на территории; обозначенной указанным знакам?",
+      "questionOz": "Mazkur belgi bilan belgilangan hududda qanday cheklanishlar kiritilgan?",
+      "explanationUz": "ЙҲҚ 20-боби 124-бандига асосан, турар-жой даҳаларида механик транспорт воситасини бошқаришни ўргатиш,  двигатели ишлаб турган ҳолда тўхтаб туриш, рухсат этилган тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобилларининг махсус ажратилган, йўл белгилари ва (ёки) йўл чизиқлари билан белгиланган жойлардан ташқарида тўхтаб туриши тақиқланади.",
+      "explanationRu": "Согласно абзацу 1 пункта 124 главы 20 ПДД, в жилой зоне запрещается учебная езда на механических транспортных средствах, стоянка с работающим двигателем, стоянка грузовых автомобилей с разрешенной максимальной массой более 3,5 т вне специально выделенных и обозначенных дорожными знаками и (или) дорожной разметкой мест.",
+      "explanationOz": "YHQ 20-bobi 124-bandiga asosan, turar-joy dahalarida mexanik transport vositasini boshqarishni o'rgatish, dvigateli ishlab turgan holda to'xtab turish, ruxsat etilgan to'liq vazni 3,5 tonnadan ortiq bo'lgan yuk avtomobillarining maxsus ajratilgan, yo'l belgilari va (yoki) yo'l chiziqlari bilan belgilangan joylardan tashqarida to'xtab turishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2979,
+          "textUz": "Ҳаракат тезлигини 5км/с ошмаслиги кераклигини билдиради",
+          "textRu": "Запрещается движение со скоростью более 5км/ч",
+          "textOz": "Harakat tezligini 5km/s oshmasligi kerakligini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 2980,
+          "textUz": "Транспорт воситаларини бошқаришни ўргатиш",
+          "textRu": "Обучение вождению транспортных средств",
+          "textOz": "Transport vositalarini boshqarishni o'rgatish",
+          "isCorrect": true
+        },
+        {
+          "id": 2981,
+          "textUz": "Кириб, чиқиб кетиш ҳаракати тақиқланади",
+          "textRu": "Запрещается сквозное движение",
+          "textOz": "Kirib, chiqib ketish harakati taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2982,
+          "textUz": "Енгил автомобилларнинг тунда тўхтаб туришини тақиқлайди",
+          "textRu": "Запрещается стоянка в ночное время легковых автомобилей",
+          "textOz": "Engil avtomobillarning tunda to'xtab turishini taqiqlaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2980
+      ]
+    },
+    {
+      "id": 908,
+      "questionUz": "Енгил автомобил ҳайдовчиси йўл бериши керакми?",
+      "questionRu": "Обязан ли водитель легкового автомобиля уступить дорогу?",
+      "questionOz": "Engil avtomobil haydovchisi yo'l berishi kerakmi?",
+      "explanationUz": "ЙҲҚ 20-боби 126-бандига асосан, турар-жой даҳаларидан чиқишда ҳайдовчилар бошқа ҳаракат қатнашчиларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 126 главы 20 ПДД, «Конец жилой зоны», при выезде из жилых зон водители должны уступить дорогу другим участникам движения.",
+      "explanationOz": "YHQ 20-bobi 126-bandiga asosan, turar-joy dahalaridan chiqishda haydovchilar boshqa harakat qatnashchilariga yo'l berishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2983,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 2984,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2983
+      ]
+    },
+    {
+      "id": 909,
+      "questionUz": "Рулда ўрганувчи бўлса, қайси томонга ҳаракатланишга рухсат берилади?",
+      "questionRu": "В каком направлении разрешено движение этому транспортному средству, если за рулем находится обучаемый?",
+      "questionOz": "Rulda o'rganuvchi bo'lsa, qaysi tomonga harakatlanishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚ 20-боби 124-банди 1-хатбошига асосан, турар жой даҳаларида механик транспорт воситасини бошқаришни ўргатиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 1 пункта 124 главы 20 ПДД, в жилой зоне запрещается учебная езда на механических транспортных средствах.",
+      "explanationOz": "YHQ 20-bobi 124- bandi 1-xatboshiga asosan, turar joy dahalarida mexanik transport vositasini boshqarishni o'rganish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2985,
+          "textUz": "Ҳамма томонга",
+          "textRu": "В любом",
+          "textOz": "Hamma tomonga",
+          "isCorrect": false
+        },
+        {
+          "id": 2986,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 2987,
+          "textUz": "Ўнгга, чапга ва қайрилиш",
+          "textRu": "Направо, налево и в обратном направлении",
+          "textOz": "O'ngga, chapga va qayrilish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2987
+      ]
+    },
+    {
+      "id": 910,
+      "questionUz": "Қуйидаги ҳолатда ҳайдовчи пиё��аларга йўл бериши лозимми?",
+      "questionRu": "Обязан ли водитель уступить дорогу пешеходам в данном месте?",
+      "questionOz": "Quyidagi holatda haydovchi piyodalarga yo'l berishi lozimmi?",
+      "explanationUz": "ЙҲҚ 20-бобининг 123-бандига мувофиқ, турар жой даҳалари (кириш ва чиқиш 5.38 ва 5.39 йўл белгилари билан белгиланган ҳудудлар)да пиёдаларга тротуарлар ҳамда қатнов қисмида ҳаракатланишга рухсат этилади. Бунда пиёдалар имтиёзга эга бўладилар, бироқ улар транспорт воситаларининг ҳаракатланишига асоссиз халақит бермасликлари керак.",
+      "explanationRu": "Согласно пункту 123 главы 20 ПДД, в жилой зоне (территории, въезды и выезды с которых обозначены знаками 5.38 и 5.39) движение пешеходов разрешается по тротуарам и проезжей части. При этом пешеходы имеют приоритет, однако, они не должны создавать необоснованные помехи для движения транспортных средств.",
+      "explanationOz": "YHQ 20-bobining 123-bandiga muvofiq, turar joy dahalari (kirish va chiqish 5.38 va 5.39 yo'l belgilari bilan belgilangan hududlar)da piyodalarga trotuarlar hamda qatnov qismida harakatlanishga ruxsat etiladi. Bunda piyodalar imtiyozga ega bo'ladilar, biroq ular transport vositalarining harakatlanishiga asossiz xalaqit bermasliklari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2988,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 2989,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2988
+      ]
+    },
+    {
+      "id": 911,
+      "questionUz": "Турар жой даҳаларида қандай ҳаракатлар тақиқланган?",
+      "questionRu": "Какие действия запрещены в жилой зоне?",
+      "questionOz": "Turar joy dahalarida qanday harakatlar taqiqlangan?",
+      "explanationUz": "Йўл ҳаракати қоидаларига 3-илова 3 бандига асосан, ёритувчи чироқ нурининг йўналиши бузилган бўлса, агар ташқи ёритгичлар ва нур қайтаргичлар белгиланган тартибда ишламаётган ёки ифлосланган бўлса, олд қисмида — оқ ёки сариқ рангдан бошқа рангли туманга қарши фаралар, сариқ ёки зарғалдоқ рангдан бошқа рангли бурилишни кўрсатадиган милтилловчи чироқ, оқ рангдан бошқа рангли нур қайтаргичлар ўрнатилган бўлса фойдаланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 3 Приложение № 3 к Правилам дорожного движения, запрещается эксплуатация транспортных средств при нарушена регулировка фар, не работают в установленном режиме или загрязнены внешние световые приборы и световозвращатели, на транспортном средстве установлены:\r\nспереди — противотуманные фары с огнями любого цвета, кроме белого или жёлтого, указатели поворота с огнями любого цвета, кроме жёлтого или оранжевого, а световозвращающие приспособления — любого цвета, кроме белого.",
+      "explanationOz": "Yo‘l harakati qoidalariga 3-ilova 3 bandiga asosan, yorituvchi chiroq nurining yo‘nalishi buzilgan bo‘lsa, agar tashqi yoritgichlar va nur qaytargichlar belgilangan tartibda ishlamayotgan yoki ifloslangan bo‘lsa, old qismida — oq yoki sariq rangdan boshqa rangli tumanga qarshi faralar, sariq yoki zarg‘aldoq rangdan boshqa rangli burilishni ko‘rsatadigan miltillovchi chiroq, oq rangdan boshqa rangli nur qaytargichlar o‘rnatilgan bo‘lsa foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2990,
+          "textUz": "Фақат ўқув машғулотларини бажариш",
+          "textRu": "Только учебная езда",
+          "textOz": "Faqat o'quv mashg'ulotlarini bajarish",
+          "isCorrect": false
+        },
+        {
+          "id": 2991,
+          "textUz": "Фақат двигатель ишлаб турганда тўхтаб туриш",
+          "textRu": "Только стоянка с работающим двигателем",
+          "textOz": "Faqat dvigatel ishlab turganda to'xtab turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2992,
+          "textUz": "Барча санаб ўтилган ҳолларда",
+          "textRu": "Все вышеперечисленные действия",
+          "textOz": "Barcha sanab o'tilgan hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2992
+      ]
+    },
+    {
+      "id": 912,
+      "questionUz": "Пиёдалар турар жой даҳасида қаерда ҳаракатланишлари мумкин?",
+      "questionRu": "Где могут двигаться пешеходы в жилой зоне?",
+      "questionOz": "Piyodalar turar joy dahasida qaerda harakatlanishlari mumkin?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 138 бандига асосан, сутканинг ёруғ вақтида қуйидаги ҳолларда яқинни ёритувчи фара чироқлари ёқилиши керак: транспорт воситалари ташкилий жамланма сафида ҳаракатланаётганда; йўловчиларни ташиётган автобуслар ва йўналишли транспорт воситаларида; болалар гуруҳини ташкилий ташишда; хавфли, катта ўлчамли ва оғир вазнли юкларни ташишда;\r\nмеханик транспорт воситаларини шатакка олишда (шатакка олиб кетаётган транспорт воситасида); кучли ёғингарчилик (ёмғир, қор) шароитида; мотоцикл ва мопедларда.",
+      "explanationRu": "Согласно пункту 138 Правил дорожного движения, в светлое время суток ближний свет фар должен быть включен в следующих случаях: при движении в составе организованной транспортной колонны; на автобусах и маршрутных транспортных средствах, перевозящих пассажиров; при организованной перевозке группы детей; при перевозке опасных, крупногабаритных и тяжеловесных грузов; \r\nпри буксировке механических транспортных средств (на буксирующем транспортном средстве); на мотоциклах и мопедах.",
+      "explanationOz": "Yo‘l harakati qoidalarining 138 bandiga asosan, sutkaning yorug‘ vaqtida quyidagi hollarda yaqinni yorituvchi fara chiroqlari yoqilishi kerak: transport vositalari tashkiliy jamlanma safida harakatlanayotganda; yo‘lovchilarni tashiyotgan avtobuslar va yo‘nalishli transport vositalarida; bolalar guruhini tashkiliy tashishda; xavfli, katta o‘lchamli va og‘ir vaznli yuklarni tashishda;\r\nmexanik transport vositalarini shatakka olishda (shatakka olib ketayotgan transport vositasida); kuchli yog‘ingarchilik (yomg‘ir, qor) sharoitida; mototsikl va mopedlarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2993,
+          "textUz": "Фақат тратуарда",
+          "textRu": "Только по тротуарам",
+          "textOz": "Faqat tratuarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2994,
+          "textUz": "Фақат қатнов қисмидан",
+          "textRu": "По тротуарам и в один ряд по краю проезжей части",
+          "textOz": "Faqat qatnov qismidan",
+          "isCorrect": false
+        },
+        {
+          "id": 2995,
+          "textUz": "Тратуарда, ҳамда қатнов қисмида",
+          "textRu": "По тротуарам и по проезжей части",
+          "textOz": "Tratuarda, hamda qatnov qismida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2995
+      ]
+    },
+    {
+      "id": 913,
+      "questionUz": "Турар жой даҳаларидан чиқишда ҳайдовчилар:",
+      "questionRu": "При выезде из жилой зоны водитель:",
+      "questionOz": "Turar joy dahalaridan chiqishda haydovchilar:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 126 бандига асосан, турар жой даҳаларидан чиқишда ҳайдовчилар бошқа ҳаракат қатнашчиларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 126 Правил дорожного движения, при выезде из жилых зон водители должны уступить дорогу другим участникам движения.",
+      "explanationOz": "Yo‘l harakati qoidalarining 126 bandiga asosan, turar joy dahalaridan chiqishda haydovchilar boshqa harakat qatnashchilariga yo‘l berishlari ker",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2996,
+          "textUz": "Бошқа ҳаракат қатнашчиларига йўл бериши керак",
+          "textRu": "Должен уступить дорогу другим участникам движения",
+          "textOz": "Boshqa harakat qatnashchilariga yo'l berishi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 2997,
+          "textUz": "Бошқа ҳаракат қатнашчиларига нисбатан имтиёзга ега",
+          "textRu": "Он имеет приоритет перед другими участниками движения",
+          "textOz": "Boshqa harakat qatnashchilariga nisbatan imtiyozga ega",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2996
+      ]
+    },
+    {
+      "id": 914,
+      "questionUz": "Турар жой даҳасидан йўлга чиқишда йўл бериш зарур?\n",
+      "questionRu": "При выезде из жилой зоны необходимо уступить дорогу?",
+      "questionOz": "Turar joy dahasidan yo'lga chiqishda yo'l berish zarur?\n",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 126 бандига асосан, турар жой даҳаларидан чиқишда ҳайдовчилар бошқа ҳаракат қатнашчиларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 126 Правил дорожного движения, при выезде из жилых зон водители должны уступить дорогу другим участникам движения.",
+      "explanationOz": "Yo‘l harakati qoidalarining 126 bandiga asosan, turar joy dahalaridan chiqishda haydovchilar boshqa harakat qatnashchilariga yo‘l berishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2998,
+          "textUz": "Ўнг томондан яқинлашиб келаётган транспорт воситаларига",
+          "textRu": "Только транспортным средствам, приближающимся справа",
+          "textOz": "O'ng tomondan yaqinlashib kelayotgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2999,
+          "textUz": "Чап томондан яқинлашиб келаётган транспорт воситаларига",
+          "textRu": "Только транспортным средствам, приближающимся слева",
+          "textOz": "Chap tomondan yaqinlashib kelayotgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 3000,
+          "textUz": "Кўк рангли ялт-ялт етувчи чироқча-маёқча ёқилган транспорт воситаларига",
+          "textRu": "Только транспортным средствам с включенным проблесковым маячком",
+          "textOz": "Ko'k rangli yalt-yalt etuvchi chiroqcha-mayoqcha yoqilgan transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 3001,
+          "textUz": "Барча транспорт воситаларига ",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga ",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3001
+      ]
+    },
+    {
+      "id": 915,
+      "questionUz": "Турар жой даҳаларида пиёдалар йўлнинг қайси қисмида ҳаракатланишлари керак?",
+      "questionRu": "Где могут двигаться пешеходы в жилой зоне?",
+      "questionOz": "Turar joy dahalarida piyodalar yo'lning qaysi qismida harakatlanishlari kerak?",
+      "explanationUz": "ЙҲҚ 2-иловасининг 1-бўлимидаги 1.28 йўл чизиғига асосан, тақиқловчи йўл белгиларини такрорловчи йўл чизиғи.",
+      "explanationRu": "Дорожная разметка 1.28 раздела 1 приложения № 2 к ПДД, дорожная разметка, дублирующая запрещающие знаки.",
+      "explanationOz": "YHQ 2-ilovasining 1-bo‘limidagi 1.28 yo‘l chizig‘iga asosan, taqiqlovchi yo‘l belgilarini takrorlovchi yo‘l chizig‘i.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3002,
+          "textUz": "Тротуардан ёки қатнов қисмидан",
+          "textRu": "По тротуарам и по проезжей части",
+          "textOz": "Trotuardan yoki qatnov qismidan",
+          "isCorrect": true
+        },
+        {
+          "id": 3003,
+          "textUz": "Фақат тротуар бўйича",
+          "textRu": "Только по тротуарам",
+          "textOz": "Faqat trotuar bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 3004,
+          "textUz": "Қатнов қисми четида бир қатор бўлиб",
+          "textRu": "В один ряд по краю проезжей части",
+          "textOz": "Qatnov qismi chetida bir qator bo'lib",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3002
+      ]
+    },
+    {
+      "id": 916,
+      "questionUz": "Ким йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Kim yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 21 – боби 128 – бандга асосан: Йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларида, қарама – қарши йўналишларда ҳаракатланишни қийинлаштирадиган биром – бир тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак.",
+      "explanationRu": "Предупреждающий знак 1.14 \"Крутой подъем\". Пункту 128 главы 21 ПДД гласит: На уклонах, обозначенных знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск. В данном случае водитель грузового автомобиля движется на спуск, поэтому он должен уступить дорогу.",
+      "explanationOz": "YHQ 21 – bobi 128 – bandga asosan: Yo‘lning 1.13 va 1.14 yo‘l belgilari bilan belgilangan qiyaliklarida, qarama – qarshi yo‘nalishlarda harakatlanishni qiyinlashtiradigan birom – bir to‘siq bo‘lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3005,
+          "textUz": "Юк автомобиль ҳайдовчиси",
+          "textRu": "Водитель грузовика",
+          "textOz": "Yuk avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 3006,
+          "textUz": "Енгил автомобиль ҳайдовчиси",
+          "textRu": "Водитель легкового автомобиля",
+          "textOz": "Engil avtomobil haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3005
+      ]
+    },
+    {
+      "id": 917,
+      "questionUz": "Қайси транспорт воситаси ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasi haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 21-боби 128-бандига асосан, агар йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларда, қарама-қарши йўналишларда ҳаракатланишни қийинлаштирадиган тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак.",
+      "explanationRu": "Согласно пункту 128 главы 21 ПДД, на уклонах, обозначенных дорожными знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск.",
+      "explanationOz": "YHQ 21-bobi 128-bandiga asosan, agar yo'lning 1.13 va 1.14 yo'l belgilari bilan belgilangan qiyaliklarda, qarama-qarshi yo'nalishlarda harakatlanishni qiyinlashtiradigan to'siq bo'lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3007,
+          "textUz": "Автобуснинг ҳайдовчиси",
+          "textRu": "Водитель автобуса",
+          "textOz": "Avtobusning haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 3008,
+          "textUz": "Юк ташувчи автомобилнинг ҳайдовчиси",
+          "textRu": "Водитель грузовика",
+          "textOz": "Yuk tashuvchi avtomobilning haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3008
+      ]
+    },
+    {
+      "id": 918,
+      "questionUz": "Агар тегишли белгилар билан белгиланган қияликларда юзма-юз келаётган транспортларнинг ўтиб кетиши қийин бўлса, йўл бериш зарур:",
+      "questionRu": "Если встречный разъезд на уклонах, обозначенных соответствующими знаками, затруднен, необходимо уступить дорогу:",
+      "questionOz": "Agar tegishli belgilar bilan belgilangan qiyaliklarda yuzma-yuz kelayotgan transportlarning o'tib ketishi qiyin bo'lsa, yo'l berish zarur:",
+      "explanationUz": "ЙҲҚ 21-боби 128-бандига асосан, агар йўлнинг 1.13 ва 1.14 йўл белгилари билан белгиланган қияликларда, қарама-қарши йўналишларда ҳаракатланишни қийинлаштирадиган тўсиқ бўлса, нишабликка ҳаракатланаётган транспорт воситасининг ҳайдовчиси йўл бериши керак.",
+      "explanationRu": "Согласно пункту 128 главы 21 ПДД, на уклонах, обозначенных дорожными знаками 1.13 и 1.14, при наличии препятствия, затрудняющего движение в противоположных направлениях, уступить дорогу должен водитель транспортного средства, движущегося на спуск.",
+      "explanationOz": "YHQ 21-bobi 128-bandiga asosan, agar yo'lning 1.13 va 1.14 yo'l belgilari bilan belgilangan qiyaliklarda, qarama-qarshi yo'nalishlarda harakatlanishni qiyinlashtiradigan to'siq bo'lsa, nishablikka harakatlanayotgan transport vositasining haydovchisi yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/33.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3009,
+          "textUz": "Пастлик томон ҳаракатланаётган транспорт воситасига",
+          "textRu": "Транспортному средству; движущемуся на спуск",
+          "textOz": "Pastlik tomon harakatlanayotgan transport vositasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3010,
+          "textUz": "Белгиланган йўналишдаги транспорт воситасига",
+          "textRu": "Маршрутному транспортному средству",
+          "textOz": "Belgilangan yo'nalishdagi transport vositasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3011,
+          "textUz": "Баландликка ҳаракатланаётган транспорт воситасига",
+          "textRu": "Транспортному средству; движущемуся на подъем",
+          "textOz": "Balandlikka harakatlanayotgan transport vositasiga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3011
+      ]
+    },
+    {
+      "id": 919,
+      "questionUz": "Ўнгга бурилганда шу белги билан белгиланган бўлакка ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли заезжать на полосу; обозначенную этим знаком при повороте направо?",
+      "questionOz": "O'ngga burilganda shu belgi bilan belgilangan bo'lakka o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 22- боби 132- бандининг иккинчи ва учинчи хатбошларига асосан: Агар 5.9 йўл белгиси билан белгиланган тасма қатнов қисмининг бошқа тасмалардан узуқ-узуқ чизиқ билан ажратилган бўлса, бурилмоқчи бўлаётган транспорт воситалари бу тасмага қайта тизилишлари керак. Шунингдек, бундай жойларда йўналишли транспорт воситаларининг харакатига ҳалақит бермаслик шарти билан йўлга чиқиш, қатнов қисмининг четки ўнг томонида йўловчиларни чиқариш ва тушириш учун бу бўлакка ўтишга рухсат этилади.\r\nБу ҳолда, агар йўлнинг бу қисми бошқа қисмидан узлуксиз чизиқ билан ажратилмаган бўлса, транспорт воситалари бурилиш пайтида ушбу йўл бўлагига қайта жойлашиши керак.",
+      "explanationRu": "В соответствии с вторым и третьим абзацами пункта 132 главы 22 ПДД: Если полоса, обозначенная дорожным знаком 5.9 отделена от остальной проезжей части дороги прерывистой линией разметки, то при поворотах транспортные средства должны перестраиваться на эту полосу. Разрешается также в таких местах заезжать на эту полосу при въезде на дорогу и для посадки и высадки пассажиров у правого края проезжей части при условии, что это не создаст помех движению маршрутных транспортных средств.\r\nВ данном случае, если полоса не ограничена от остальной части дороги сплошной линией, транспортные средства должны перестраиваться на эту полосу при поворотах.",
+      "explanationOz": "YHQ 22- bobi 132- bandining ikkinchi va uchinchi xatboshlariga asosan: Agar 5.9 yo‘l belgisi bilan belgilangan tasma qatnov qismining boshqa tasmalardan uzuq-uzuq chiziq bilan ajratilgan bo‘lsa, burilmoqchi bo‘layotgan transport vositalari bu tasmaga qayta tizilishlari kerak. Shuningdek, bunday joylarda yo‘nalishli transport vositalarining xarakatiga halaqit bermaslik sharti bilan yo‘lga chiqish, qatnov qismining chetki o‘ng tomonida yo‘lovchilarni chiqarish va tushirish uchun bu bo‘lakka o‘tishga ruxsat etiladi.\r\nBu holda, agar yo‘lning bu qismi boshqa qismidan uzluksiz chiziq bilan ajratilmagan bo‘lsa, transport vositalari burilish paytida ushbu yo‘l bo‘lagiga qayta joylashishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3012,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3013,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3014,
+          "textUz": "Агар бўлак қолган ҳаракат қисмидан ётиқ узлуксиз чизиқ билан ажратилмаган бўлса, рухсат этилади",
+          "textRu": "Разрешается; если полоса не ограничена от остальной части дороги сплошной линией",
+          "textOz": "Agar bo'lak qolgan harakat qismidan yotiq uzluksiz chiziq bilan ajratilmagan bo'lsa, ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3014
+      ]
+    },
+    {
+      "id": 920,
+      "questionUz": "Кўрсатиган вазиятда қайси бўлакдан ўнгга бурилиш лозим ?",
+      "questionRu": "Из какой полосы следует поворачивать направо в показанной ситуации?",
+      "questionOz": "Ko'rsatigan vaziyatda qaysi bo'lakdan o'ngga burilish lozim ?",
+      "explanationUz": "ЙҲҚ 22-боби 132-бандига асосан, йўналишли транспорт воситаларининг ҳаракатланиши учун 5.9, 5.10.1 — 5.10.3 йўл белгилари билан ажратилган тасмада бошқа транспорт воситаларининг ҳаракатланиши ва тўхташи тақиқланади. Агар 5.9 йўл белгиси билан белгиланган тасма қатнов қисмининг бошқа тасмалардан узуқ-узуқ чизиқ билан ажратилган бўлса, бурилмоқчи бўлаётган транспорт воситалари бу тасмага қайта тизилишлари керак.",
+      "explanationRu": "Cогласно пункту 132 главы 22 ПДД, по полосе, обозначенной дорожными знаками 5.9, 5.10.1 — 5.10.3 для движения маршрутных транспортных средств, движение и остановка других транспортных средств запрещается. Если полоса, обозначенная дорожным знаком 5.9 отделена от остальной проезжей части дороги прерывистой линией разметки, то при поворотах транспортные средства должны перестраиваться на эту полосу.",
+      "explanationOz": "YHQ 22-bobi 132-bandiga asosan, yo'nalishli transport vositalarining harakatlanishi uchun 5.9, 5.10.1 — 5.10.3 yo'l belgilari bilan ajratilgan tasmada boshqa transport vositalarining harakatlanishi va to'xtashi taqiqlanadi. Agar 5.9 yo'l belgisi bilan belgilangan tasma qatnov qismining boshqa tasmalardan uzuq-uzuq chiziq bilan ajratilgan bo'lsa, burilmoqchi bo'layotgan transport vositalari bu tasmaga qayta tizilishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3015,
+          "textUz": "Фақат иккинчи бўлакдан",
+          "textRu": "Только из второй полосы",
+          "textOz": "Faqat ikkinchi bo'lakdan",
+          "isCorrect": false
+        },
+        {
+          "id": 3016,
+          "textUz": "Фақат « А » чизиғи билан белгиланган ўнг чеккадаги бўлакдан",
+          "textRu": "Только из крайней правой полосы; обозначенной разметкой « А »",
+          "textOz": "Faqat « А » chizig'i bilan belgilangan o'ng chekkadagi bo'lakdan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3016
+      ]
+    },
+    {
+      "id": 921,
+      "questionUz": "Белгиланган йўналиш бўйлаб кетаётган автобус ҳайдовчиси ушбу шароитда йўл бериши керакми?",
+      "questionRu": "Должен ли водитель автобуса; движущегося по установленному маршруту; уступать дорогу в данной ситуации?",
+      "questionOz": "Belgilangan yo'nalish bo'ylab ketayotgan avtobus haydovchi  ushbu sharoitda yo'l berishi kerakmi?",
+      "explanationUz": "ЙҲҚ 16-боби 105-банди: Тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. Бундай чорраҳаларда кейинги ҳаракат йўналишидан қатъий назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади.\r\nБу ҳолатда трамвай автобусга нисбатан устунликка эга. Шу сабабли, автобус ҳайдовчиси унга йўл бериши керак.",
+      "explanationRu": "Пункта 105 главы 16 ПДД, гласит: На перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа.\r\nЭтим же правилом должны руководствоваться между собой водители трамваев. На таких перекрестках трамвай имеет право на первоочередное движение перед безрельсовыми транспортными средствами независимо от направления его движения. В данном случае трамвай имеет приоритет перед автобусом. Соответственно, водитель автобуса должен уступить ему дорогу.",
+      "explanationOz": "YHQ 16-bobi 105-bandi: Teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak. Bunday chorrahalarda keyingi harakat yo‘nalishidan qat’iy nazar, tramvay relssiz transport vositalariga nisbatan oldin o‘tish huquqiga ega bo‘ladi.\r\nBu holatda tramvay avtobusga nisbatan ustunlikka ega. Shu sababli, avtobus haydovchisi unga yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3017,
+          "textUz": "Керак.",
+          "textRu": "Должен",
+          "textOz": "Kerak.",
+          "isCorrect": true
+        },
+        {
+          "id": 3018,
+          "textUz": "Керак эмас.",
+          "textRu": ". Не должен",
+          "textOz": "Kerak emas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3019,
+          "textUz": "Керак эмас, чунки у тўғрига кетаяпти",
+          "textRu": "Не должен, так как он движется прямо",
+          "textOz": "Kerak emas, chunki u to'g'riga ketayapti",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3017
+      ]
+    },
+    {
+      "id": 922,
+      "questionUz": "Агар йўл бошланишида ушбу белги турган бўлса, қатнов қисмининг қарама-қарши йўналишига ўтиш мумкинми?\u000b",
+      "questionRu": "Можно ли заезжать на крайнюю левую полосу проезжей части; если в начале участка дороги стоит этот знак?",
+      "questionOz": "Agar yo'l boshlanishida ushbu belgi turgan bo'lsa, qatnov qismining qarama-qarshi yo'nalishiga o'tish mumkinmi?\u000b",
+      "explanationUz": "ЙҲҚ 22 – боби 132 – бандининг биринчи хатбошига асосан: Йўналиши транспорт воситаларининг ҳаракатланиши учун 5.9, 5.10.1 – 5.10.3 йўл белгилари билан ажратилган тасмада бошқа транспорт воситаларинг ҳаракатланиши ва тўхташи тақиқланади.\r\nШунингдек, бундай жойларда йўналишли транспорт воситаларининг ҳаракатига халақит бермаслик шарти билан йўлга чиқиш, қатнов қисмининг четки ўнг томонида йўловчиларни чақириш ва тушуриш учун бу бўлакка ўтишга рухсат этилади.",
+      "explanationRu": "Информационно-указательный знак 5.10.1 \"Дорога с полосой для маршрутных транспортных средств\". Дорога, по которой движение маршрутных транспортных средств осуществляется навстречу общему потоку транспортных средств по выделенной полосе. Пункт Пункта 132 главы 22 ПДД гласит: По полосе, обозначенной знаками 5.9, 5.10.1-5.10.3 для движения маршрутных транспортных средств, движение и остановка других транспортных средств запрещается. Если эта полоса отделена от остальной проезжей части дороги прерывистой линией разметки, то при поворотах транспортные средства должны перестраиваться на эту полосу. Разрешается также в таких местах заезжать на эту полосу при въезде на дорогу и для посадки и высадки пассажиров у правого края проезжей части при условии, что это не создаст помех движению маршрутных транспортных средств.",
+      "explanationOz": "YHQ 22 – bobi 132 – bandining birinchi xatboshiga asosan: Yo‘nalishi transport vositalarining harakatlanishi uchun 5.9, 5.10.1 – 5.10.3 yo‘l belgilari bilan ajratilgan tasmada boshqa transport vositalaring harakatlanishi va to‘xtashi taqiqlanadi.\r\nShuningdek, bunday joylarda yo‘nalishli transport vositalarining harakatiga xalaqit bermaslik sharti bilan yo‘lga chiqish, qatnov qismining chetki o‘ng tomonida yo‘lovchilarni chaqirish va tushurish uchun bu bo‘lakka o‘tishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3020,
+          "textUz": "Чапга бурилиш учун мумкин",
+          "textRu": "Можно для поворота налево",
+          "textOz": "Chapga burilish uchun mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 3021,
+          "textUz": "Қувиб ўтиш учун мумкин агар рўпарадан ҳаракатланиш бўлмаса ва бўлак қатнов қисмининг қолган бўлагидан узуқ-узуқ чизиғи билан ажратилган бўлса",
+          "textRu": "Можно для обгона, если нет встречного движения и полоса отделена от остальной проезжей части прерывистой линией разметки",
+          "textOz": "Quvib o'tish uchun mumkin agar ro'paradan harakatlanish bo'lmasa va bo'lak qatnov qismining qolgan bo'lagidan uzuq-uzuq chizig'i bilan ajratilgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 3022,
+          "textUz": "Тақиқланади",
+          "textRu": "Нельзя ни при каких обстоятельствах",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3022
+      ]
+    }
+  ]
+}

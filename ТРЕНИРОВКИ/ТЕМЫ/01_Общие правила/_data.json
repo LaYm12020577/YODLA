@@ -1,0 +1,1935 @@
+{
+  "title": "01. Общие правила (боб 1)",
+  "count": 51,
+  "questions": [
+    {
+      "id": 1,
+      "questionUz": "Агар тупроқ йўлда бевосита чорраҳа олдида тўшамали (қопламали) йўл қисми бўлса, бу уни аҳамияти жиҳатидан кесиб ўтилаётган йўл қисми билан тенг ҳуқуқли қиладими?",
+      "questionRu": "Если на грунтовой дороге непосредственно перед перекрестком имеется участок с покрытием, то делает ли это ее равной по значению с пересекаемой?",
+      "questionOz": "Agar tuproq yo'lda bevosita chorraha oldida to'shamali (qoplamali) yo'l qismi bo'lsa, bu uni ahamiyati jihatidan kesib o'tilayotgan yo'l qismi bilan teng huquqli qiladimi?",
+      "explanationUz": "ЙҲҚ 1-боби 6-банди 12-тушунчасига асосан, асосий йўл — тупроқли ёки шағалли йўлга нисбатан қаттиқ қопламали (асфальт, цемент-бетонли ва шунга ўхшашлар ётқизилган), кесишаётган ёки туташган йўлга нисбатан 2.1, 2.3.1 — 2.3.3 ёки 5.1 йўл белгилари билан белгиланган ёхуд ёндош ҳудуддан чиқадиган йўлга нисбатан ҳар қандай йўл. Иккинчи даражали йўлнинг бевосита чорраҳага туташ қисмининг қопламали бўлиши уни асосий йўл билан тенг ҳуқуқли қилмайди.",
+      "explanationRu": "Согласно определению 12 пункта 6 главы 1 ПДД, главная дорога – дорога с твердым покрытием (асфальт, цементно-бетон и тому подобное) по отношению к грунтовой дороге или дорога, обозначенная знаками 2.1, 2.3.1 – 2.3.3 или 5.1, по отношению к пересекаемой (примыкающей), либо любая дорога по отношению к выездам с прилегающих территорий. Наличие покрытия на второстепенной дороге непосредственно перед перекрестком не делает ее равной по значению с пересекаемой.",
+      "explanationOz": "YHQ 1-bobi 6-bandi 12-tushunchasiga asosan, asosiy yo'l — tuproqli yoki shag'alli yo'lga nisbatan qattiq qoplamali (asfalt, sement-betonli va shunga o'xshashlar yotqizilgan), kesishayotgan yoki tutashgan yo'lga nisbatan 2.1, 2.3.1 - 2.3.3 yoki 5.1 yo'l belgilari bilan belgilangan yoxud yondosh tutashgan yo'lga nisbatan har qanday yo'l. Ikkinchi darajali yo'lning bevosita chorrahaga tutash qismining qoplamali bo'lishi uni asosiy yo'l bilan teng huquqli  qilmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4745,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": true
+        },
+        {
+          "id": 4746,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4745
+      ]
+    },
+    {
+      "id": 2,
+      "questionUz": "Кимлар «йўл ҳаракати қатнашчиси» ҳисобланади?",
+      "questionRu": "Кто является «Участником дорожного движения»?",
+      "questionOz": "Kimlar «yo'l harakati qatnashchisi» hisoblanadi?",
+      "explanationUz": "ЙҲҚ 1-бобининг 6-банди 58-тушунчасига асосан, йўл ҳаракати қатнашчиси – йўл ҳаракати жараёнида транспорт воситасининг ҳайдовчиси, йўловчиси ёки пиёда тариқасида бевосита иштирок этувчи шахс.",
+      "explanationRu": "Согласно определению 58 пункта 6 главы 1 ПДД, участник дорожного движения – лицо, принимающее непосредственное участие в процессе дорожного движения в качестве водителя, пассажира транспортного средства или пешехода.",
+      "explanationOz": "YHQ 1-bobining 6-bandi 58-tushunchasiga asosan, yo'l harakati qatnashchisi – yo'l harakati jarayonida transport vositasining haydovchisi, yo'lovchisi yoki piyoda tariqasida bevosita ishtirok etuvchi shaxs.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3,
+          "textUz": "Йўл ҳаракати жараёнида транспорт воситасининг ҳайдовчиси, йўловчиси ёки пиёда тариқасида бевосита иштирок этаётган шахс",
+          "textRu": "Лицо, принимающее непосредственное участие в процессе движения как пешеход, водитель, пассажир транспортного средства",
+          "textOz": "Yo'l harakati jarayonida transport vositasining haydovchisi, yo'lovchisi yoki piyoda tariqasida bevosita ishtirok etayotgan shaxs",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "textUz": "Йўлда бўлган ва унда иш бажармаётган ҳар қандай шахс",
+          "textRu": "Любое лицо, находящееся на дороге и не выполняющее на ней работы",
+          "textOz": "Yo'lda bo'lgan va unda ish bajarmayotgan har qanday shaxs",
+          "isCorrect": false
+        },
+        {
+          "id": 5,
+          "textUz": "Бирор бир транспорт воситасини бошқараётган шахс",
+          "textRu": "Лицо, управляющее каким-либо транспортным средством",
+          "textOz": "Biror bir transport vositasini boshqarayotgan shaxs",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "questionUz": "Мажбурий тўхтаган ҳайдовчи қандай чоралар кўриши керак?",
+      "questionRu": "Что должен предпринять водитель при вынужденной остановке?",
+      "questionOz": "Majburiy to'xtagan haydovchi qanday choralar ko'rishi kerak?",
+      "explanationUz": "ЙҲҚ 8-боби 50- ва 51- бандларига мувофиқ, тўхташ тақиқланган жойларда мажбурий тўхталганда авария ёруғлик ишораси ёқилиши керак, агар у ишламаса авария тўхташ белгисини (милтилловчи қизил чироқ) дарҳол ўрнатиш керак.",
+      "explanationRu": "Согласно пунктов 50 и 51 главы главы 8 ПДД, при вынужденной остановке в местах, где остановка запрещена должна быть включена аварийная световая сигнализация, а также при ее неисправности надо незамедлительно выставить знак (мигающий красный фонарь) аварийной остановки.",
+      "explanationOz": "YHQ 8-bobi 50 - va 51 - bandlariga muvofiq, to'xtash taqiqlangan joylarda majburiy to'xtalganda avariya yorug'lik ishorasi yoqilishi kerak, agar u ishlamasa avariya to'xtash belgisini (miltillovchi qizil chiroq) darhol o'rnatish kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3994,
+          "textUz": "Яқинни ёритувчи фаралар ёки туманга қарши фараларни ёқиши керак",
+          "textRu": "Включить ближний свет фар или противотуманные фары",
+          "textOz": "Yaqinni yorituvchi faralar yoki tumanga qarshi faralarni yoqishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 3995,
+          "textUz": "Юргизгич капотини кўтариб қўйиши керак",
+          "textRu": "Поднять капот двигателя",
+          "textOz": "Yurgizgich kapotini ko'tarib qo'yishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 3996,
+          "textUz": "Фалокат ёруғлик ишоралари ёқиши, агар у йўқ ёки носоз бўлса, фалокат сабабли тўхташ белгиси аҳоли пунктларида транспорт воситасидан 15 метрдан, улардан ташқарида эса 30 метрдан кам бўлмаган масофада ўрнатиши керак",
+          "textRu": "Знаки аварийной остановки должны быть включены, а при их отсутствии или неисправностях должен быть установлен знак аварийной остановки на расстоянии не менее 15 метров от транспортного средства в населенных пунктах и не менее 30 метров вне их.",
+          "textOz": "Falokat yorug‘lik ishoralari yoqishi, agar u yo‘q yoki nosoz bo‘lsa, falokat sababli to‘xtash belgisi aholi punktlarida transport vositasidan 15 metrdan, ulardan tashqarida esa 30 metrdan kam bo‘lmagan masofada o‘rnatishi kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3996
+      ]
+    },
+    {
+      "id": 4,
+      "questionUz": "Белгиланган йўналишдаги транспорт воситаларига қайсилар киради?",
+      "questionRu": "К маршрутным транспортным средствам относятся:",
+      "questionOz": "Belgilangan yo'nalishdagi transport vositalariga qaysilar kiradi?",
+      "explanationUz": "ЙҲҚ 1-боби 6-банди 18-тушунчасига асосан, йўналишли транспорт воситаси — белгиланган йўналиши ва бекатлари бўлган, йўловчи ташиш учун мўлжалланган умумий фойдаланишдаги транспорт воситалари (троллейбус, трамвай, автобус, йўналишли такси).",
+      "explanationRu": "Согласно определению 18 пункта 6 главы 1 ПДД, маршрутное транспортное средство – транспортное средство общего пользования (троллейбус, автобус, трамвай, маршрутное такси), предназначенное для перевозки пассажиров и имеющее установленный маршрут с остановочными пунктами (остановками).",
+      "explanationOz": "YHQ 1-bobi 6-bandi 18-tushunchasiga asosan, yo'nalishli transport vositasi — belgilangan yo'nalishi va bekatlari bo'lgan, yo'lovchi tashish uchun mo'ljallangan umumiy foydalanishdagi transport vositalari (trolleybus, tramvay, avtobus, yo'nalishli taksi).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 9,
+          "textUz": "Автобуслар ва йўналишли таксилар",
+          "textRu": "Автобусы и маршрутные такси",
+          "textOz": "Avtobuslar va yo'nalishli taksilar",
+          "isCorrect": false
+        },
+        {
+          "id": 10,
+          "textUz": "Трамвайлар ва троллейбуслар",
+          "textRu": "Трамваи и троллейбусы",
+          "textOz": "Tramvaylar va trolleybuslar",
+          "isCorrect": false
+        },
+        {
+          "id": 11,
+          "textUz": "Белгиланган йўналишлар бўйича ҳаракатланадиган автобуслар, троллейбуслар, трамвайлар ва йўналишли таксилар",
+          "textRu": "Автобусы, троллейбусы, трамваи и маршрутные такси, движущиеся по установленным маршрутам",
+          "textOz": "Belgilangan yo'nalishlar bo'yicha harakatlanadigan avtobuslar, trolleybuslar, tramvaylar va yo'nalishli taksilar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        11
+      ]
+    },
+    {
+      "id": 5,
+      "questionUz": "«Рухсат этилган тўла вазн» нима?",
+      "questionRu": "Что такое «Разрешенная максимальная масса»?",
+      "questionOz": "«Ruxsat etilgan to'la vazn» nima?",
+      "explanationUz": "ЙҲҚ 1-бўлим 6-бандини 43-тушунчасига асосан, рухсат этилган тўлиқ вазн — жиҳозланган транспорт воситасининг ишлаб чиқарган корхона томонидан белгиланган юк, ҳайдовчи ва йўловчилари билан биргаликдаги энг юқори вазни (ўлчови).",
+      "explanationRu": "Согласно определению 43 пункта 6 главы 1 ПДД, разрешенная максимальная масса – максимальная масса (величина) снаряженного транспортного средства с грузом, водителем и пассажирами, установленная предприятием–изготовителем.",
+      "explanationOz": "YHQ 1-bo'lim 6-bandini 43-tushunchasiga asosan, ruxsat etilgan to'liq vazn — jihozlangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan yuk, haydovchi va yo'lovchilari bilan birgalikdagi eng yuqori vazni (o'lchovi).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4091,
+          "textUz": "Транспорт воситасининг юк кўтариши",
+          "textRu": "Грузоподъемность транспортного средства",
+          "textOz": "Transport vositasining yuk ko'tarishi",
+          "isCorrect": false
+        },
+        {
+          "id": 4092,
+          "textUz": "Транспорт воситасининг ҳақиқий вазни",
+          "textRu": "Фактическая масса транспортного средства",
+          "textOz": "Transport vositasining haqiqiy vazni",
+          "isCorrect": false
+        },
+        {
+          "id": 4093,
+          "textUz": "Аслаҳаланган транспорт воситасининг ишлаб чиқарувчи корхона томонидан белгиланган, юк, ҳайдовчи ва йўловчилари билан биргаликдаги энг юқори вазни (ўлчови). Бир таркибда ҳаракатланаётган (тиркама ва ҳ.к.) транспорт воситаларининг рухсат этилган тўла вазнига шу таркибга кирувчи транспорт воситаларининг рухсат этилган тўла вазнлари йиғиндиси киради",
+          "textRu": ". Масса снаряженного транспортного средства с грузом, водителем и пассажирами, установленная предприятием-изготовителем в качестве максимально допустимой",
+          "textOz": "Aslahalangan transport vositasining ishlab chiqaruvchi korxona tomonidan belgilangan, yuk, haydovchi va yo'lovchilari bilan birgalikdagi eng yuqori vazni (o'lchovi). Bir tarkibda harakatlanayotgan (tirkama va h.k.) transport vositalarining ruxsat etilgan to'la vazniga shu tarkibga kiruvchi transport vositalarining ruxsat etilgan to'la vaznlari yig'indisi kiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 4094,
+          "textUz": "Транспорт воситасида ташиладиган юкнинг ишлаб чиқарган корхона йўл қўйган техник тавсифномаси сифатида белгиланадиган вазни",
+          "textRu": "Масса груза перевозимого транспортным средством которая устанавливается в качестве допустимой технической характеристики завода-изготовителя",
+          "textOz": "Transport vositasida tashiladigan yukning ishlab chiqargan korxona yo'l qo'ygan texnik tavsifnomasi sifatida belgilanadigan vazni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4093
+      ]
+    },
+    {
+      "id": 6,
+      "questionUz": "Ёнилғи қуйиш жойидан йўлга чиқиш чорраҳа ҳисобланадими?",
+      "questionRu": "Считается ли перекрестком выезд на дорогу с автозаправочной станции?",
+      "questionOz": "Yonilg'i quyish joyidan yo'lga chiqish chorraha hisoblanadimi?",
+      "explanationUz": "ЙҲҚ 1-боб 6-банди 36 ва 51 -тушунчаларига асосан, ёндош ҳудуддан чиқиш жойлари чорраҳа хисобланмайди. Ёндош ҳудуд – бевосита йўлга туташган ва транспорт воситалари ўтиб кетиши учун мўлжалланмаган ҳудуд (ҳовлилар, маҳаллалар, турар жой даҳалари, транспорт воситаси тўхтаб туриш жойлари, ёнилғи қуйиш шохобчалари, корхона ва шунга ўхшашлар).",
+      "explanationRu": "Согласно определений 36 и 51, данному в пункте 6 главы 1 ПДД, не считаются перекрестками выезды с прилегающих территорий. Прилегающая территория – территория, непосредственно прилегающая к дороге и не предназначенная для сквозного движения транспортных средств (дворы, жилые массивы, автостоянки, автозаправочные станции, предприятия и т. п).",
+      "explanationOz": "YHQ 1-bob 6-bandi 36 va 51 -tushunchalariga asosan, yondosh hududdan chiqish joylari chorraha hisoblanmaydi. Yondosh hudud – bevosita yo'lga tutashgan va transport vositalari o'tib ketishi uchun mo'ljallanmagan hudud (hovlilar, mahallalar, turar joy dahalari, transport vositasi to'xtab turish joylari, yonilg'i quyish shaxobchalari, korxona va shunga o'xshashlar).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 16,
+          "textUz": "Ҳисобланмайди",
+          "textRu": "Не считается",
+          "textOz": "Hisoblanmaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 17,
+          "textUz": "Ҳисобланади",
+          "textRu": "Считается",
+          "textOz": "Hisoblanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        16
+      ]
+    },
+    {
+      "id": 7,
+      "questionUz": "Қайси йўл асосий йўл ҳисобланади?",
+      "questionRu": "Какую дорогу считать главной?",
+      "questionOz": "Qaysi yo'l asosiy yo'l hisoblanadi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 1-bobi 6-bandi 12-tushunchasiga asosan, asosiy yo'l — tuproqli yoki shag'alli yo'lga nisbatan qattiq qoplamali (asfalt, sement-betonli va shunga o'xshashlar yotqizilgan), kesishayotgan yoki tutashgan yo'lga nisbatan 2.1, 2.3.1 — 2.3.3 yoki 5.1 yo'l belgilari bilan belgilangan yoxud yondosh hududdan chiqadigan yo'lga nisbatan har qanday yo'l. Ikkinchi darajali yo'lning bevosita chorrahaga tutash qismining qoplamali bo'lishi uni asosiy yo'l bilan teng huquqli qilmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 18,
+          "textUz": "Тупроқли йўлга нисбатан қопламали йўл ёки тегишли белгилар билан белгиланган йўл",
+          "textRu": "Дорогу с твёрдым покрытием по отношению к грунтовой или обозначенную соответствующими знаками",
+          "textOz": "Tuproqli yo'lga nisbatan qoplamali yo'l yoki tegishli belgilar bilan belgilangan yo'l",
+          "isCorrect": true
+        },
+        {
+          "id": 19,
+          "textUz": "Уч томонлама чорраҳада туташиб келган йўлга нисбатан ҳар икки томонга давом этувчи йўл",
+          "textRu": "Дорогу с продолжением в обе стороны по отношению к примыкающей на трехстороннем перекрестке",
+          "textOz": "Uch tomonlama chorrahada tutashib kelgan yo'lga nisbatan har ikki tomonga davom etuvchi yo'l",
+          "isCorrect": false
+        },
+        {
+          "id": 20,
+          "textUz": "Ҳар бир йўналишда ҳаракатланиш учун бир бўлакли йўлга нисбатан кўп бўлакли қатнов қисми бўлган йўл",
+          "textRu": "Дорогу с многополосной проезжей частью по отношению к дороге с одной полосой для движения в каждом направлении",
+          "textOz": "Har bir yo'nalishda harakatlanish uchun bir bo'lakli yo'lga nisbatan ko'p bo'lakli qatnov qismi bo'lgan yo'l",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        18
+      ]
+    },
+    {
+      "id": 8,
+      "questionUz": "«Етарли кўринмаслик» деганда нима тушунилади?",
+      "questionRu": "Что понимается под «Недостаточной видимостью»?",
+      "questionOz": "«Etarli ko'rinmaslik» deganda nima tushuniladi?",
+      "explanationUz": "ЙҲҚ 1-боби 6-банди 23-тушунчасига асосан, етарли кўринмаслик – ёмғир, қор ёғиши, туман тушиши ва шунга ўхшаш шароитларда, шунингдек куннинг ғира-шира вақтида йўлнинг кўриниш масофаси 300 метрдан кам бўлиши.",
+      "explanationRu": "Согласно определению 23, пункта 6 главы 1 ПДД, недостаточная видимость – видимость дороги менее 300 м в условиях дождя, снегопада, тумана и в других подобных условиях, а также в сумерки.",
+      "explanationOz": "YHQ 1-bobi 6-bandi 23-tushunchasiga asosan, yetarli ko'rinmaslik – yomg'ir, qor yog'ishi, tuman tushishi va shunga o'xshash sharoitlarda, shuningdek kunning g'ira-shira vaqtida yo'lning ko'rinish masofasi 300 metrdan kam bo'lishi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 21,
+          "textUz": "Оқшомдан тонггача бўлган вақт",
+          "textRu": "Промежуток времени от конца вечерних сумерек до начала утренних сумерек",
+          "textOz": "Oqshomdan tonggacha bo'lgan vaqt",
+          "isCorrect": false
+        },
+        {
+          "id": 22,
+          "textUz": "Кўриниш 150 м. дан кам бўлган ҳолат",
+          "textRu": "Видимость менее 150 м",
+          "textOz": "Ko'rinish 150 m. dan kam bo'lgan holat",
+          "isCorrect": false
+        },
+        {
+          "id": 23,
+          "textUz": "Туман тушганда, ёмғир, қор ёғаётганда ва ҳоказо шароитларда, шунингдек куннинг ғира-шира вақтида йўлнинг кўриниши 300 м. дан кам бўлиши",
+          "textRu": "Видимость менее 300 м в условиях тумана, дождя, снегопада и т.п., а также в сумерки",
+          "textOz": "Tuman tushganda, yomg'ir, qor yog'ayotganda va hokazo sharoitlarda, shuningdek kunning g'ira-shira vaqtida yo'lning ko'rinishi 300 m. dan kam bo'lishi",
+          "isCorrect": true
+        },
+        {
+          "id": 24,
+          "textUz": "Ёмғир, қор ёғиши, оқшом",
+          "textRu": "Дождь, снегопад, сумерки",
+          "textOz": "Yomg'ir, qor yog'ishi, oqshom",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        23
+      ]
+    },
+    {
+      "id": 9,
+      "questionUz": "Ушбу йўл нечта ҳаракатланиш бўлагига эга?",
+      "questionRu": "Сколько полос движений имеет данная дорога?",
+      "questionOz": "Ushbu yo'l nechta harakatlanish bo'lagiga ega?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 5-бўлимидаги 5.5 белгига асосан, 5.5. «Бир томонлама ҳаракатли йўл». Транспорт воситалари бутун кенглик бўйича бир йўналишда ҳаракатланадиган йўл ёки қатнов қисми.",
+      "explanationRu": "Знак 5.5 раздела 5 приложения № 1 к ПДД, 5.5. «Дорога с односторонним движением». Дорога или проезжая часть, по всей ширине которой движение транспортных средств осуществляется в одном направлении.",
+      "explanationOz": "YHQ 1-ilovasining 5-bo‘limidagi 5.5 belgiga asosan, 5.5. «Bir tomonlama harakatli yo‘l». Transport vositalari butun kenglik bo‘yicha bir yo‘nalishda harakatlanadigan yo‘l yoki qatnov qismi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/36.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 25,
+          "textUz": "Битта ҳаракатланиш бўлагига",
+          "textRu": "Одну полосу для движения",
+          "textOz": "Bitta harakatlanish bo'lagiga",
+          "isCorrect": false
+        },
+        {
+          "id": 26,
+          "textUz": "Иккита ҳаракатланиш бўлагига",
+          "textRu": "Две полосы для движения",
+          "textOz": "Ikkita harakatlanish bo'lagiga",
+          "isCorrect": true
+        },
+        {
+          "id": 27,
+          "textUz": "Учта ҳаракатланиш бўлагига",
+          "textRu": "Три полосы для движения",
+          "textOz": "Uchta harakatlanish bo'lagiga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        26
+      ]
+    },
+    {
+      "id": 10,
+      "questionUz": "“Қувиб  ўтиш” атамаси нимани  билдиради?",
+      "questionRu": "Что означает термин \"обгон\"?",
+      "questionOz": "“Quvib  o'tish” atamasi nimani  bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.17.2 «Хавф-хатар» белгисига мувофиқ, йўл-транспорт ҳодисаси ёки бошқа хавфли вазиятлар туфайли, истисносиз, барча транспорт воситаларининг ҳаракатланиши тақиқланишини билдиради.",
+      "explanationRu": "Согласно знаку 3.17.2 раздела 3 приложения № 1 к ПДД, «Опасность». Запрещается дальнейшее движение всех транспортных средств в связи с дорожно-транспортным происшествием или другой опасностью.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.17.2 \"Xavf-xatar\" belgisiga muvofiq, yo'l-transport hodisasi yoki boshqa xavfli vaziyatlar tufayli, istisnosiz, barcha transport vositalarining harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 28,
+          "textUz": "Бир ва бир неча транспорт воситаларидан  ўзиб кетиш",
+          "textRu": "Опережение одного или нескольких транспортных средств",
+          "textOz": "Bir va bir necha transport vositalaridan  o'zib ketish",
+          "isCorrect": false
+        },
+        {
+          "id": 29,
+          "textUz": "Эгаллаб турган  бўлакдан қарама қарши ҳаракат бўлагига  чиқиб бир ёки бир неча транспорт воситаларидан ўзиб кетиш ва дастлаб эгаллаб турган бўлагига қайтиш",
+          "textRu": "Опережение одного или нескольких транспортных средств, связанное с выездом на полосу (сторону проезжей части), предназначенную для встречного движения, и последующим возвращением на ранее занимаемую полосу (сторону проезжей части)",
+          "textOz": "Egallab turgan  bo'lakdan qarama qarshi harakat bo'lagiga  chiqib bir yoki bir necha transport vositalaridan o'zib ketish va dastlab egallab turgan bo'lagiga qaytish",
+          "isCorrect": true
+        },
+        {
+          "id": 30,
+          "textUz": "Эгаллаган ҳаракатланиш бўлагидан чиқиб, олдинда ҳаракатланаётган транспорт воситасидан ўзиб кетиш",
+          "textRu": "Опережение движущегося впереди транспортного средства, связанное с выездом из занимаемой полосы",
+          "textOz": "Egallagan harakatlanish bo'lagidan chiqib, oldinda harakatlanayotgan transport vositasidan o'zib ketish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        29
+      ]
+    },
+    {
+      "id": 11,
+      "questionUz": "Пиёдалар ўтиш жойи – бу...",
+      "questionRu": "Пешеходный переход - это...",
+      "questionOz": "Piyodalar o'tish joyi – bu...",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 38 бандига асосан, Тартибга солувчининг ишоралари қуйидаги маънони билдиради: Қўллари ён томонга узатилганда ёки туширилганда: чап ва ўнг ён томонидан трамвайга тўғрига, рельссиз транспорт воситаларига тўғрига ва ўнгга ҳаракатланишга, пиёдаларга қатнов қисмини кесиб ўтишга рухсат берилади; олд ва орқа томонидан барча транспорт воситалари ва пиёдаларнинг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно пункту 38 Правил дорожного движения, Сигналы регулировщика имеют следующие значения: руки вытянуты в стороны или опущены: со стороны левого и правого бока — разрешено движение трамваю прямо, безрельсовым транспортным средствам — прямо и направо, пешеходам разрешено переходить проезжую часть; со стороны груди и спины — движение всех транспортных средств и пешеходов запрещено.\r\nВ этой ситуации движение разрешено красной и желтой машине.",
+      "explanationOz": "Yo‘l harakati qoidalarining 38 bandiga asosan, Tartibga soluvchining ishoralari quyidagi ma’noni bildiradi: Qo‘llari yon tomonga uzatilganda yoki tushirilganda: chap va o‘ng yon tomonidan tramvayga to‘g‘riga, relssiz transport vositalariga to‘g‘riga va o‘ngga harakatlanishga, piyodalarga qatnov qismini kesib o‘tishga ruxsat beriladi; old va orqa tomonidan barcha transport vositalari va piyodalarning harakatlanishi taqiqlanadi.\r\nUshbu vaziyatda qizil va sariq avtomobillarga harakatlanishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 31,
+          "textUz": "Йўл қатнов қисмининг пиёдалар кесиб ўтиши мўлжалланган, 5.16.1, 5.16.2 йўл белгилари ва 1.14.1-1.14.3 йўл чизиқлари билан ажратилган бўлаги.",
+          "textRu": "Часть участка дороги, предназначенная для пешеходного перехода с дорожными знаками 5.16.1, 5.16.2 и дорожными полосами 1.14.1-1.14.3.",
+          "textOz": "Yo'l qatnov qismining piyodalar kesib o'tishi mo'ljallangan, 5.16.1, 5.16.2 yo'l belgilari va 1.14.1-1.14.3 yo'l chiziqlari bilan ajratilgan bo'lagi.",
+          "isCorrect": true
+        },
+        {
+          "id": 32,
+          "textUz": "Йўлнинг пиёдалар ҳаракатланиши учун мўлжалланган ва транспорт воситалари ҳаракати таъқиқланган қисми.",
+          "textRu": "Часть дороги, предназначенная для пешеходного движения и запрещенная для движения транспортных средств.",
+          "textOz": "Yo'lning piyodalar harakatlanishi uchun mo'ljallangan va transport vositalari harakati taqiqlangan qismi.",
+          "isCorrect": false
+        },
+        {
+          "id": 33,
+          "textUz": "Қатнов қисмига туташган ёки ундан майсазор ариқ махсус тўсиқлар билан ажратилган ва пиёдаларнинг ва пиёдаларнинг ҳаракатланиши учун мўлжалланган йўл қисми",
+          "textRu": "Часть дороги, примыкающая к проезжей части или отделенная от нее газоном, бордюром, специальными ограждениями и предназначенная для движения пешеходов.",
+          "textOz": "Qatnov qismiga tutashgan yoki undan maysazor ariq maxsus to'siqlar bilan ajratilgan va piyodalarning va piyodalarning harakatlanishi uchun mo'ljallangan yo'l qismi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        31
+      ]
+    },
+    {
+      "id": 12,
+      "questionUz": "Йўл транспорт ҳодисаси-",
+      "questionRu": "Дорожно-транспортное происшествие-",
+      "questionOz": "Yo'l transport hodisasi-",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 34,
+          "textUz": "Транспорт воситасининг йўлда ҳаракатланиши жараёнида рўй берган, фуқароларнинг ҳалок бўлишига ёки соғлигига зарар етишига, транспорт воситалари, иншоотлар, юкларнинг шикастланиши ёхуд бошқа моддий зарар етишига сабаб бўлган ҳодиса",
+          "textRu": "Событие, произошедшее во время движения транспортного средства по дороге и повлекшее гибель или вред здоровью граждан, повреждение транспортных средств, сооружений, груза или иной материальный ущерб",
+          "textOz": "Transport vositasining yo'lda harakatlanishi jarayonida ro'y bergan, fuqarolarning halok bo'lishiga yoki sog'ligiga zarar etishiga, transport vositalari, inshootlar, yuklarning shikastlanishi yoxud boshqa moddiy zarar etishiga sabab bo'lgan hodisa",
+          "isCorrect": true
+        },
+        {
+          "id": 35,
+          "textUz": "Йўл ҳаракати қатнашчиларининг йўл-транспорт ҳодисалари ва уларнинг оқибатларидан ҳимояланганлик даражасини акс еттирувчи йўл ҳаракати ҳолати",
+          "textRu": "Дорожная ситуация, отражающая уровень защищенности участников дорожного движения от дорожно-транспортных происшествий и их последствий",
+          "textOz": "Yo'l harakati qatnashchilarining yo'l-transport hodisalari va ularning oqibatlaridan himoyalanganlik darajasini aks ettiruvchi yo'l harakati holati",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        34
+      ]
+    },
+    {
+      "id": 13,
+      "questionUz": "Қайси расмда иккита қатнов қисмига эга йўл кўрсатилинган?",
+      "questionRu": "На каком рисунке изображена дорога с двумя проезжими частями?",
+      "questionOz": "Qaysi rasmda ikkita qatnov qismiga ega yo'l ko'rsatilingan?",
+      "explanationUz": "Йўл - транспорт ҳодисаларида биринчи ёрдам фанига  асосан, бош мия жароҳатланишининг асосий аломатлари қуйидагилар: \r\n-Ҳушдан кетиш бир неча сониядан бир неча соатгача бўлиши мумкин;\r\n-Қайт қилиш бир - икки марта, оғир ҳолатларда кўпроқ бўлиши мумкин;\r\n-Амнезия - хотиранинг йўқолиши, содир бўлган жароҳатланиш билан боғлиқ ва ҳаётидаги баъзи воқеалар хотирасидан ўчади.",
+      "explanationRu": "Согласно предмету Первой помощи при дорожно-транспортных происшествиях, травма головного мозга характеризуется следующими основными признаками:\r\n- Потеря сознания может длиться от нескольких секунд до нескольких часов;\r\n- Рвота - два-три раза, в тяжёлых случаях больше;\r\n- Амнезия - потеря памяти, связана с полученной травмой и некоторые события; жизни стираются из памяти.",
+      "explanationOz": "Yo‘l - transport hodisalarida birinchi yordam faniga asosan, bosh miya jarohatlanishining asosiy alomatlari quyidagilar:\r\n-Hushdan ketish bir necha soniyadan bir necha soatgacha bo‘lishi mumkin;\r\n-Qayt qilish bir - ikki marta, og‘ir holatlarda ko‘proq bo‘lishi mumkin;\r\n-Amneziya - xotiraning yo‘qolishi, sodir bo‘lgan jarohatlanish bilan bog‘liq va hayotidagi ba’zi voqealar xotirasidan o‘chadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 36,
+          "textUz": "Биринчисида",
+          "textRu": "На первой рисунке",
+          "textOz": "Birinchisida",
+          "isCorrect": false
+        },
+        {
+          "id": 37,
+          "textUz": "Иккинчисида",
+          "textRu": "На второй рисунке",
+          "textOz": "Ikkinchisida",
+          "isCorrect": true
+        },
+        {
+          "id": 38,
+          "textUz": "Иккала расмда",
+          "textRu": "На обеих рисунках",
+          "textOz": "Ikkala rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        37
+      ]
+    },
+    {
+      "id": 14,
+      "questionUz": "Пиёдалар йўлкаси – бу...",
+      "questionRu": "Пешеходная дорожка – это...",
+      "questionOz": "Piyodalar yo'lkasi – bu...",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.31 «Барча чекловларнинг охири» белгисига мувофиқ,  3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 тақиқловчи белгиларидан бир нечтасига бир вақтда амал қиладиган оралиқларнинг охирини билдиради.",
+      "explanationRu": "Согласно знаку 3.31 раздела 3 приложения № 1 к ПДД, «Конец зоны всех ограничений»,  обозначение конца зоны действия одновременно нескольких запрещающих знаков из следующих: 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.31 “Barcha cheklovlarning oxiri” belgisiga muvofiq, 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 taqiqlovchi belgilaridan bir nechtasiga bir vaqtda amal qiladigan oraliqlarning oxirini bildiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 39,
+          "textUz": "Йўл қатнов қисмининг пиёдалар кесиб ўтиши учун мўлжалланган, 5.16.1, 5.16.2 йўл белгилари ва 1.14.1-1.14.3 йўл чизиқлари билан ажратилган бўлаги.",
+          "textRu": "Часть участка дороги, предназначенная для движения пешеходов, отделенная знаками 5.16.1, 5.16.2 и дорожной разметкой 1.14.1-1.14.3.",
+          "textOz": "Yo'l qatnov qismining piyodalar kesib o'tishi uchun mo'ljallangan, 5.16.1, 5.16.2 yo'l belgilari va 1.14.1-1.14.3 yo'l chiziqlari bilan ajratilgan bo'lagi.",
+          "isCorrect": false
+        },
+        {
+          "id": 40,
+          "textUz": "Йўлнинг пиёдалар ҳаракатланиши учун мўлжалланган ва транспорт воситалари ҳаракати таъқиқланган қисми",
+          "textRu": "Участок дороги, предназначенный для пешеходов и движения транспортных средств, запрещен.",
+          "textOz": "Yo'lning piyodalar harakatlanishi uchun mo'ljallangan va transport vositalari harakati taqiqlangan qismi",
+          "isCorrect": true
+        },
+        {
+          "id": 41,
+          "textUz": "Қатнов қисмига туташган ёки ундан майсазор, ариқ махсус тўсиқлар билан ажратилган ва пиёдаларнинг ҳаракатланиши учун мўлжалланган йўл қисми",
+          "textRu": "Часть дороги, примыкающая к проезжей части или отделенная от нее газоном, арыком, специальными ограждениями и предназначенная для движения пешеходов.",
+          "textOz": "Qatnov qismiga tutashgan yoki undan maysazor, ariq maxsus to'siqlar bilan ajratilgan va piyodalarning harakatlanishi uchun mo'ljallangan yo'l qismi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        40
+      ]
+    },
+    {
+      "id": 15,
+      "questionUz": "Чорраҳа бу - ...",
+      "questionRu": "Перекресток это...",
+      "questionOz": "Chorraha bu - ...",
+      "explanationUz": "ЙҲҚ 7-боби 42-бандига асосан, сариқ ишора ёнганда тўхташ чизиғи олдида, бундай чизиқ бўлмаганда эса чорраҳанинг қатнов қисми билан кесишган жойида кескин тормоз бермасдан тўхташга улгура олмайдиган транспорт воситаларининг ҳайдовчиларига ҳаракатни давом эттиришга рухсат этилади.",
+      "explanationRu": "Согласно пункту 42 главы 7 ПДД, водителям, которые при включении жёлтого сигнала светофора не могут остановиться, не прибегая к экстренному торможению, перед стоп-линией, а в случае её отсутствия на перекрестке — перед пересекаемой проезжей частью, разрешается дальнейшее движение.",
+      "explanationOz": "YHQ 7-bobi 42-bandiga asosan, sariq ishora yonganda to'xtash chizig'i oldida, bunday chiziq bo'lmaganda esa chorrahaning qatnov qismi bilan kesishgan joyida keskin tormoz bermasdan to'xtashga ulgura olmaydigan transport vositalarining haydovchilariga harakatni davom ettirishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 42,
+          "textUz": "Бевосита йўлга туташган ва транспорт воситалари ўтиб кетиши учун мўлжалланмаган ҳудуд (ҳовлилар, турар жой даҳалари, автомобил тўхтаб туриш жойлари, ёнилғи қуйиш шахобчалари, корхона ва шунга ўхшашлар)",
+          "textRu": "Территория непосредственно прилегающая к дороге и не предназначенная для сквозного движения транспортных средств.",
+          "textOz": "Bevosita yo'lga tutashgan va transport vositalari o'tib ketishi uchun mo'ljallanmagan hudud (hovlilar, turar joy dahalari, avtomobil to'xtab turish joylari, yonilg'i quyish shaxobchalari, korxona va shunga o'xshashlar)",
+          "isCorrect": false
+        },
+        {
+          "id": 43,
+          "textUz": "Йўлларнинг ўзаро бир сатҳда кесишадиган, туташадиган ва айриладиган жойи",
+          "textRu": "Место пересечения, примыкания или разветвление дорог на одном уровне.",
+          "textOz": "Yo'llarning o'zaro bir sathda kesishadigan, tutashadigan va ayriladigan joyi",
+          "isCorrect": true
+        },
+        {
+          "id": 44,
+          "textUz": "Йўлнинг релссиз транспорт воситалари ҳаракати учун мўлжалланган қисми",
+          "textRu": "Часть дороги, предназначенная для движения безрельсовых транспортных средств",
+          "textOz": "Yo'lning relssiz transport vositalari harakati uchun mo'ljallangan qismi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        43
+      ]
+    },
+    {
+      "id": 16,
+      "questionUz": "Йўл ҳаракати хавфсизлигини таъминлаш - ...",
+      "questionRu": "Обеспечение безопасности дорожного движения -",
+      "questionOz": "Yo'l harakati xavfsizligini taminlash - ...",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, чорраҳа — йўлларнинг ўзаро бир сатҳда кесишадиган, туташадиган ва айриладиган жойи. Чорраҳа чегараси унинг марказидан қатнов қисмлари охиридаги қарама-қарши томонларнинг энг узоқ бурилиш жойларини туташтирувчи тасаввур қилинадиган чизиқлар билан аниқланади.\r\nЁндош ҳудудлардан чиқиш жойлари чорраҳа ҳисобланмайди.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, Перекресток — место пересечения, примыкания или разветвления дорог на одном уровне. Границы перекрестка определяются воображаемыми линиями, соединяющими соответственно противоположные, наиболее удаленные от центра перекрестка начала закруглений проезжих частей.\r\nНе считаются перекрестками выезды с прилегающих территорий.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, chorraha — yo‘llarning o‘zaro bir sathda kesishadigan, tutashadigan va ayriladigan joyi. Chorraha chegarasi uning markazidan qatnov qismlari oxiridagi qarama-qarshi tomonlarning eng uzoq burilish joylarini tutashtiruvchi tasavvur qilinadigan chiziqlar bilan aniqlanadi.\r\nYondosh hududlardan chiqish joylari chorraha hisoblanmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 45,
+          "textUz": "Йўл транспорт ҳодисаларининг келиб чиқиш сабабларини олдини олишга, уларнинг оғир оқибатларини камайтиришга қаратилган фаолият",
+          "textRu": "Деятельность, направленная на предупреждение причин дорожно -транспортных происшествий и уменьшение их тяжелых последствий",
+          "textOz": "Yo'l transport hodisalarining kelib chiqish sabablarini oldini olishga, ularning og'ir oqibatlarini kamaytirishga qaratilgan faoliyat",
+          "isCorrect": true
+        },
+        {
+          "id": 46,
+          "textUz": "Йўлларда ҳаракатни бошқариш бўйича ҳуқуқий, ташкилий – техникавий тадбирлар ва бошқарув ҳаракатлари мажмуи.",
+          "textRu": "Комплекс правовых, организационно-технических мероприятий и распорядительных действий по управлению движения на дорогах",
+          "textOz": "Yo'llarda harakatni boshqarish bo'yicha huquqiy, tashkiliy – texnikaviy tadbirlar va boshqaruv harakatlari majmui.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        45
+      ]
+    },
+    {
+      "id": 17,
+      "questionUz": "Автомобилларнинг бир қатор бўлиб ҳаракатланиши учун етарлича кенг бўлган, йўл чизиқлари билан белгиланган ёки белгиланмаган йўл қатнов қисмининг ҳар қандай бўйлама бўлаги нима деб аталади?",
+      "questionRu": "Как называется любая из продольных полос проезжей части, обозначенная или не обозначенная дорожной разметкой и имеющая ширину, достаточную для движения в один раз?",
+      "questionOz": "Avtomobillarning bir qator bo'lib harakatlanishi uchun etarlicha keng bo'lgan, yo'l chiziqlari bilan belgilangan yoki belgilanmagan yo'l qatnov qismining har qanday bo'ylama bo'lagi nima deb ataladi?",
+      "explanationUz": "Тик нишабликда ҳаракатланаётганида ҳайдовчи қанча паст узатмани танласа, двигатель ёрдамида тормозлаш шунчалик самара беради. Шунинг учун нишаблик қанчалик тик бўлса, узатмани ҳам шунчалик паст танлаш керак.",
+      "explanationRu": "Более низкая передача на крутом спуске обеспечит большую эффективность торможения двигателем, поэтому выбирать передачу следует исходя из условия: чем круче спуск, тем ниже передача.",
+      "explanationOz": "Tik nishablikda harakatlanayotganida haydovchi qancha past uzatmani tanlasa, dvigatel yordamida tormozlash shunchalik samara beradi. Shuning uchun nishablik qanchalik tik bo'lsa, uzatmani ham shunchalik past tanlash kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 47,
+          "textUz": "Қатнов қисми",
+          "textRu": "Проезжная часть",
+          "textOz": "Qatnov qismi",
+          "isCorrect": false
+        },
+        {
+          "id": 48,
+          "textUz": "Ҳаракатланиш тасмаси",
+          "textRu": "Полоса движения",
+          "textOz": "Harakatlanish tasmasi",
+          "isCorrect": true
+        },
+        {
+          "id": 49,
+          "textUz": "Йўл ёқаси",
+          "textRu": "Обочина дороги",
+          "textOz": "Yo'l yoqasi",
+          "isCorrect": false
+        },
+        {
+          "id": 50,
+          "textUz": "Ёндош ҳудуд",
+          "textRu": "Прилегающая территория",
+          "textOz": "Yondosh hudud",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        48
+      ]
+    },
+    {
+      "id": 18,
+      "questionUz": "Қуйидаги изоҳ қайси атамага тегишли? Техник нуқсон, ташилаётган юк, ҳайдовчи ва йўловчининг ҳолати, йўлдаги бирор тўсиқ туфайли хавф юзага келганда ёхуд об-ҳаво шароитига боғлиқ ҳолда транспор воситаси ҳаракатини тўхтатиш",
+      "questionRu": "К какому термину относится следующее пояснения? Остановка движения транспортного средства из-за технической неисправности, перевозимого груза, состояния водителя и пассажиров, наличия препятствия на дороге или погодных условий.",
+      "questionOz": "Quyidagi izoh qaysi atamaga tegishli? Texnik nuqson, tashilayotgan yuk, haydovchi va yo'lovchining holati, yo'ldagi biror to'siq tufayli xavf yuzaga kelganda yoxud ob-havo sharoitiga bog'liq holda transport vositasi harakatini to'xtatish",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, мажбурий тўхташ — техник нуқсон, ташилаётган юк, ҳайдовчи ва йўловчининг ҳолати, йўлдаги бирор тўсиқ туфайли хавф юзага келганда ёхуд об-ҳаво шароитига боғлиқ ҳолда транспорт воситаси ҳаракатини тўхтатиш. Ҳайдовчининг ушбу хатти-ҳаракати охирги зарур чора бўлиб, қоидабузарлик деб эътироф этилмайди.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, вынужденная остановка — прекращение движения транспортного средства по причине технической неисправности или опасности, создаваемой перевозимым грузом, состоянием водителя, пассажира, препятствием на дороге или метеорологическими условиями. Такое поведение водителя является последней необходимой мерой и нарушением не признается.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, majburiy to‘xtash — texnik nuqson, tashilayotgan yuk, haydovchi va yo‘lovchining holati, yo‘ldagi biror to‘siq tufayli xavf yuzaga kelganda yoxud ob-havo sharoitiga bog‘liq holda transport vositasi harakatini to‘xtatish. Haydovchining ushbu xatti-harakati oxirgi zarur chora bo‘lib, qoidabuzarlik deb e’tirof etilmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 51,
+          "textUz": "Йўл транспорт ҳодисаси",
+          "textRu": "Дорожно-транспортное происшествие",
+          "textOz": "Yo'l transport hodisasi",
+          "isCorrect": false
+        },
+        {
+          "id": 52,
+          "textUz": "Йўл ҳаракати хавфсизлигини таъминлаш",
+          "textRu": "Обеспечение безопасности дорожного движения",
+          "textOz": "Yo'l harakati xavfsizligini taminlash",
+          "isCorrect": false
+        },
+        {
+          "id": 53,
+          "textUz": "Мажбурий тўхташ",
+          "textRu": "Вынужденная остановка",
+          "textOz": "Majburiy to'xtash",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        53
+      ]
+    },
+    {
+      "id": 19,
+      "questionUz": "\"Имтиёз\" атамасига тегишли таърифни кўрсатинг",
+      "questionRu": "В какой формулеровке указан правильный ответ термину «Приоритет»",
+      "questionOz": "\"Imtiyoz\" atamasiga tegishli tarifni ko'rsating",
+      "explanationUz": "Ёмғир ёғаётганида ғилдираклар билан қоплама орасида албатта сув қолади (айниқса едирилган шина протекторида) ва бу ўз навбатида “сув понаси”ни ҳосил қилади. Оқибатда ғилдираклар сирпана бошлайди. Бунда ҳайдовчи тезликни двигатель ёрдамида пасайтириши керак, акс ҳолда тезликнинг кескин пасайиши автомобилнинг сирпаниб кетишига олиб келади.",
+      "explanationRu": "Во время сильного дождя вода сохраняется в зоне контакта колес с покрытием, в результате чего может (особенно при изношенном протекторе) образоваться «водяной клин», а колеса начинают скользить по покрытию. В этом случае водителю следует плавно снизить скорость, применяя торможение двигателем, так как любое резкое изменение скорости движения может привести к заносу автомобиля.",
+      "explanationOz": "Yomg'ir yog'ayotganida g'ildiraklar bilan qoplama orasida albatta suv qoladi (ayniqsa yedirilgan shina protektorida) va bu o'z navbatida \"Suv ponasi\"ni hosil qiladi. Oqibatda g'ildiraklar sirpana boshlaydi. Bunda haydovchi tezlikni dvigatel yordamida pasaytirishi kerak, aks holda tezlikning keskin pasayishi avtomobilning sirpanib ketishiga olib keladi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 54,
+          "textUz": "Йўл ҳаракати қатнашчиларига нисбатан имтиёзи бўлган бошқа йўл ҳаракати қатнашчисининг ҳаракат йўналиши ёки тезлигини ўзгартиришга мажбур етишимумкин бўлган ҳолларда ҳаракатни давом мумкин бўлган ҳолларда ҳаракатни давом еттирмаслигини ёки бошламаслигини, бирор-бир манёвр бажариши мумкин емаслигини билдирувчи талаб",
+          "textRu": "Требование о том, что они не могут продолжать или начинать движение, совершать какие-либо маневры, в случаях, когда они могут вынудить другого участника дорожного движения, имеющего преимущественное право проезда, изменить направление или скорость движения",
+          "textOz": "Yo'l harakati qatnashchilariga nisbatan imtiyozi bo'lgan boshqa yo'l harakati qatnashchisining harakat yo'nalishi yoki tezligini o'zgartirishga majbur etishimumkin bo'lgan hollarda harakatni davom mumkin bo'lgan hollarda harakatni davom ettirmasligini yoki boshlamasligini, biror-bir manyovr bajarishi mumkin emasligini bildiruvchi talab",
+          "isCorrect": false
+        },
+        {
+          "id": 55,
+          "textUz": "Мўлжалланган йўналишда бошқа йўл ҳаракати қатнашчиларига нисбатан олдин ҳаракатланиш ҳуқуқи",
+          "textRu": "Право на первоочередное движение в намеченном направлении по отношению к другим участникам движения",
+          "textOz": "Mo'ljallangan yo'nalishda boshqa yo'l harakati qatnashchilariga nisbatan oldin harakatlanish huquqi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        55
+      ]
+    },
+    {
+      "id": 20,
+      "questionUz": "Йўл ҳаракати қоидаларига кўра йўл белгилари нечта гуруҳга бўлинади",
+      "questionRu": "По правилам дорожного движения дорожные знаки делятся на сколько групп?",
+      "questionOz": "Yo'l harakati qoidalariga ko'ra yo'l belgilari nechta guruhga bo'linadi",
+      "explanationUz": "Йўл белгилари жами 7 гуруҳга бўлинади. Улар: огоҳлантирувчи белгилар, имтиёз белгилари, т��қиқловчи белгилар, буюрувчи белгилар, ахборот-ишора белгилари, сервис белгилари ҳамда қўшимча ахборот белгилари (лавҳалар)дан иборат.",
+      "explanationRu": "Дорожные знаки подразделяются на 7 групп. К ним относятся: предупреждающие знаки, знаки приоритета, запрещающие знаки, предписывающие знаки, информационно-указательные знаки, знаки сервиса и знаки дополнительной информации (таблички).",
+      "explanationOz": "Yo'l belgilari hammasi bo'lib 7 guruhga bo'linadi. Masalan, ogohlantiruvchi, imyiyoz,taqiqlovchi, buyuruvchi va axborot-ishora va qo'shimcha axborot ishora yo'l belkgilari turlari mavjud.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4864,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        },
+        {
+          "id": 4865,
+          "textUz": "6",
+          "textRu": "6",
+          "textOz": "6",
+          "isCorrect": false
+        },
+        {
+          "id": 4866,
+          "textUz": "7",
+          "textRu": "7",
+          "textOz": "7",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4866
+      ]
+    },
+    {
+      "id": 21,
+      "questionUz": "Механик транспорт воситаси – бу ...",
+      "questionRu": "Механическое транспортное средство...",
+      "questionOz": "Mexanik transport vositasi – bu ...",
+      "explanationUz": "Механик транспорт воситаси деганда двигател билан ишлайдиган барча транспорт воситалари тушунилади. Бунга автомобиллар, мотоцикллар, тракторлар ва бошқа ўзиюрар техникалар киради.",
+      "explanationRu": "Под механическим транспортным средством понимаются все транспортные средства, приводимые в движение двигателем. К ним относятся автомобили, мотоциклы, тракторы и другая самоходная техника.",
+      "explanationOz": "Mexanik transport vositasi deganda dvigatel bilan ishlaydigan barcha vositalar tushuniladi. Bunga avtomobillar, motosikllar,traktorlar va boshqa o'ziyurar texnikalar kiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4785,
+          "textUz": "Одамларни, юкларни ташишга ёки махсус ишларни бажаришга мўлжалланган қурилма",
+          "textRu": "Устройство, предназначнное для перевозки людей, грузов или выполнения специальных задач.",
+          "textOz": "Odamlarni, yuklarni tashishga yoki maxsus ishlarni bajarishga mo'ljallangan qurilma",
+          "isCorrect": false
+        },
+        {
+          "id": 4786,
+          "textUz": "Механик транспорт воситаси таркибида ҳаракатланишга мўлжалланган, двигател билан жиҳозланмаган транспорт воситаси. Бу атама ярим тиркама ва узайтирилган тиркама ва узайтириладиган тиркамаларга ҳам таадуқлидир",
+          "textRu": "Транспортное средство, не оборудованное двигателем, предназначенное для движения в составе механического транспортного средства. Этот термин также применяется к полуприцепам и раздвижным прицепам",
+          "textOz": "Mexanik transport vositasi tarkibida harakatlanishga mo'ljallangan, dvigatel bilan jihozlanmagan transport vositasi. Bu atama yarim tirkama va uzaytirilgan tirkama va uzaytiriladigan tirkamalarga ham taaduqlidir",
+          "isCorrect": false
+        },
+        {
+          "id": 4787,
+          "textUz": "Двигател билан ҳаракатга келтириладиган транспортвоситаси (мопеддан ташқари). Бу атама барча трактор ва ўзиюрар мосламаларга ҳам тааллуқлидир",
+          "textRu": "Транспортное средство (кроме мопеда) приводимое в движение двигателем. Термин распространяется на любые трактора и самоходные механизмы",
+          "textOz": "Dvigatel bilan harakatga keltiriladigan transportvositasi (mopeddan tashqari). Bu atama barcha traktor va o'ziyurar moslamalarga ham taalluqlidir",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4787
+      ]
+    },
+    {
+      "id": 22,
+      "questionUz": "Ёндош ҳудуд бу - ...",
+      "questionRu": "Прилегающая территория-...",
+      "questionOz": "Yondosh hudud bu - ...",
+      "explanationUz": "Ёндош ҳудуд — бу йўлга туташган, лекин транспорт воситаларининг ҳаракатланиши учун мўлжалланмаган ҳудуд. Бунга ҳовлилар, автотураргоҳлар, ёнилғи қуйиш шохобчалари ва шунга ўхшаш жойлар киради.",
+      "explanationRu": "Прилегающая территория — это территория, примыкающая к дороге, но не предназначенная для движения транспортных средств. К ней относятся дворы, автостоянки, автозаправочные станции и другие подобные места.",
+      "explanationOz": "Yondosh hudud — bu yoʻlga tutashgan, lekin transport vositalarining harakatlanishi uchun moʻljallanmagan hudud. Bunga hovlilar, avtoturargohlar, yonilgʻi quyish shoxobchalari va shunga oʻxshash joylar kiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4788,
+          "textUz": "Бевосита йўлга туташган ва транспорт воситалари ўтиб кетиши учун мўлжалланмаган ҳудуд (ҳовлилар, турар жой даҳалари автомобил тўхтаб туриш жойлари, ёнилғи қуйиш шахобчалари, корхона ва шунга ўхшашлар).",
+          "textRu": "Территория, непосредственно прилегающая к дороге и не предназначенная для сквозного движения транспортных средств.",
+          "textOz": "Bevosita yo'lga tutashgan va transport vositalari o'tib ketishi uchun mo'ljallanmagan hudud (hovlilar, turar joy dahalari avtomobil to'xtab turish joylari, yonilg'i quyish shaxobchalari, korxona va shunga o'xshashlar).",
+          "isCorrect": true
+        },
+        {
+          "id": 4789,
+          "textUz": "Йўлларнинг ўзаро бир сатҳда кесишадиган, туташадиган ва айриладиган жойи",
+          "textRu": "Место, где дороги пересекаются и разветвляются на одном уровне",
+          "textOz": "Yo'llarning o'zaro bir sathda kesishadigan, tutashadigan va ayriladigan joyi",
+          "isCorrect": false
+        },
+        {
+          "id": 4790,
+          "textUz": "Йўлнинг релссиз транспорт воситалари ҳаракати учун мўлжалланган қисми",
+          "textRu": "Участок дороги, предназначенный для движения безрельсовых транспортных средств",
+          "textOz": "Yo'lning relssiz transport vositalari harakati uchun mo'ljallangan qismi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4788
+      ]
+    },
+    {
+      "id": 23,
+      "questionUz": "\"Аҳоли пункти\" атамаси нимани билдиради?",
+      "questionRu": "Какое описание подходит под понятие «Населённый пункт»?",
+      "questionOz": "\"Aholi punkti\" atamasi nimani bildiradi?",
+      "explanationUz": "Ёндош ҳудуд — бу йўлга туташган, лекин транспорт воситаларининг ҳаракатланиши учун мўлжалланмаган ҳудуд. Бунга ҳовлилар, автотураргоҳлар, ёнилғи қуйиш шохобчалари ва шунга ўхшаш жойлар киради.",
+      "explanationRu": "Прилегающая территория — это территория, примыкающая к дороге, но не предназначенная для движения транспортных средств. К ней относятся дворы, автостоянки, автозаправочные станции и другие подобные места.",
+      "explanationOz": "Yondosh hudud — bu yoʻlga tutashgan, lekin transport vositalarining harakatlanishi uchun moʻljallanmagan hudud. Bunga hovlilar, avtoturargohlar, yonilgʻi quyish shoxobchalari va shunga oʻxshash joylar kiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4791,
+          "textUz": "Кириш ва чиқиш йўллари 5.22-5.25 белгилари билан белгиланган ҳудудни",
+          "textRu": "Территория въезда и выезда, с которых обозначены знаками 5.22 - 5.25.",
+          "textOz": "Kirish va chiqish yo'llari 5.22-5.25 belgilari bilan belgilangan hududni",
+          "isCorrect": true
+        },
+        {
+          "id": 4792,
+          "textUz": "Аҳоли яшайдиган ҳудудни",
+          "textRu": "Территория места жительства людей.",
+          "textOz": "Aholi yashaydigan hududni",
+          "isCorrect": false
+        },
+        {
+          "id": 4793,
+          "textUz": "Шаҳар, қишлоқ жойлари ҳудудини",
+          "textRu": "Территория города и посёлка.",
+          "textOz": "Shahar, qishloq joylari hududini",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4791
+      ]
+    },
+    {
+      "id": 24,
+      "questionUz": "Йўл ҳаракати ҳавфсизлигини таъминлаш",
+      "questionRu": "Обеспечение безопасности дорожного движения –",
+      "questionOz": "Yo'l harakati havfsizligini taminlash",
+      "explanationUz": "Йўл хавфсизлиги дегани — йўл-транспорт ҳодисаларининг олдини олиш ва улар содир бўлган тақдирда оқибатларини камайтиришга қаратилган чора-тадбирлар мажмуидир. Оддий қилиб айтганда, бу одамларнинг йўлда хавфсиз ҳаракатланишини таъминлаш учун амалга ошириладиган ишлар йиғиндисидир.",
+      "explanationRu": "Безопасность дорожного движения — это комплекс мер, направленных на предотвращение дорожно-транспортных происшествий и снижение тяжести их последствий в случае возникновения. Проще говоря, это совокупность действий, обеспечивающих безопасное движение людей на дорогах.",
+      "explanationOz": "Yo'l xavfsizligi degani - avtohalokat bo'lmasligiga harakat qilish va agar bo'lsa, uning oqibatlarini kamaytirishdir. Bu oddiy qilib aytganda, odamlar yo'lda xavfsiz bo'lishi uchun qilinadigan ishlar majmuidir.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4794,
+          "textUz": "Йўл транспорт ҳодисаларининг келиб чиқиш сабабларини олдини олишга, уларнинг оғир оқибатларини камайтиришга қаратилган фаолият",
+          "textRu": "Мероприятия, направленные на предупреждение причин дорожно-транспортных происшествий и уменьшение их тяжких последствий",
+          "textOz": "Yo'l transport hodisalarining kelib chiqish sabablarini oldini olishga, ularning og'ir oqibatlarini kamaytirishga qaratilgan faoliyat",
+          "isCorrect": true
+        },
+        {
+          "id": 4795,
+          "textUz": "Йўлларда ҳаракатни бошқариш бўйича ҳуқуқий, ташкилий-техникавий тадбирлар ва бошқарув ҳаракатлари мажмуи",
+          "textRu": "Комплекс правовых, конструктивных и технических мероприятий и управленческих мероприятий по организации дорожного движения",
+          "textOz": "Yo'llarda harakatni boshqarish bo'yicha huquqiy, tashkiliy-texnikaviy tadbirlar va boshqaruv harakatlari majmui",
+          "isCorrect": false
+        },
+        {
+          "id": 4796,
+          "textUz": "Йўл ҳаракати қатнашчиларининг йўл-транспорт ҳодисалари ва уларнинг оқибатларидан ҳимояланганлик даражасини акс эттирувчи йўл ҳаракати ҳолати",
+          "textRu": "Дорожная ситуация, отражающая уровень защищенности участников дорожного движения от дорожно-транспортных происшествий и их последствий",
+          "textOz": "Yo'l harakati qatnashchilarining yo'l-transport hodisalari va ularning oqibatlaridan himoyalanganlik darajasini aks ettiruvchi yo'l harakati holati",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4794
+      ]
+    },
+    {
+      "id": 25,
+      "questionUz": "Ажратувчи минтақа - ...",
+      "questionRu": "Разделительная зона - …",
+      "questionOz": "Ajratuvchi mintaqa - ...",
+      "explanationUz": "Ажратувчи минтақа — йўлнинг қарама-қарши йўналишдаги қатнов қисмларини ажратиб турувчи, конструктив ажратилган ёки махсус белгиланган қисмдир. Бу ҳудудда транспорт воситаларининг ҳаракатланиши ва тўхташи тақиқланади.",
+      "explanationRu": "Разделительная полоса — это конструктивно выделенная или специально обозначенная часть дороги, разделяющая проезжие части встречных направлений движения. Движение и остановка транспортных средств на ней запрещены.",
+      "explanationOz": "Ajratuvchi mintaqa yo'lning ikki tomonini ajratib turuvchi baland yoki to'siqli qismdir. Bu yerda mashinalar yurib yoki to'xtab bo'lmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4797,
+          "textUz": "Йўлнинг релссиз транспорт воситалари ҳаракати учун мўлжалланган қисми",
+          "textRu": "Часть дороги, предназначенная для движения нерельсового транспорта",
+          "textOz": "Yo'lning relssiz transport vositalari harakati uchun mo'ljallangan qismi",
+          "isCorrect": false
+        },
+        {
+          "id": 4798,
+          "textUz": "Автомобилларнинг бир қатор бўлиб ҳаракатланиши учун етарлича кенг бўлган, йўл чизиқлари билан белгиланган ёки белгиланмаган йўл қатнов қисмининг ҳар қандай бўйлама бўлаги",
+          "textRu": "Любой продольный участок проезжей части, обозначенный или не обозначенный дорожными линиями, достаточно широкий для движения транспортных средств в один ряд",
+          "textOz": "Avtomobillarning bir qator bo'lib harakatlanishi uchun etarlicha keng bo'lgan, yo'l chiziqlari bilan belgilangan yoki belgilanmagan yo'l qatnov qismining har qanday bo'ylama bo'lagi",
+          "isCorrect": false
+        },
+        {
+          "id": 4799,
+          "textUz": "Йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан кўтарилган ёки майсазор, ариқ, махсус тўсиқлар билан ажратилган баланд қисми",
+          "textRu": "Высокий участок дороги, разделяющий расположенные рядом участки движения, не предназначенный для движения или остановки транспортных средств, приподнятый над уровнем дороги или отделенный газоном, канавой, специальным бордюром",
+          "textOz": "Yo'lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to'xtashi uchun mo'ljallanmagan, yo'l sathidan ko'tarilgan yoki maysazor, ariq, maxsus to'siqlar bilan ajratilgan baland qismi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4799
+      ]
+    },
+    {
+      "id": 26,
+      "questionUz": "Қайси расмда ажратувчи минтақа бор йўл кўрсатилган?",
+      "questionRu": "На каком рисунке изображена дорога с разделительная зона?",
+      "questionOz": "Qaysi rasmda ajratuvchi mintaqa bor yo'l ko'rsatilgan?",
+      "explanationUz": "Ўнг расмдаги йўлнинг ўртасида кўк ўтлар билан қопланган кенг ажратувчи минтақа аниқ кўринмоқда, бу қарама-қарши йўналишдаги ҳаракатни тўлиқ ажратиб туради. Чап расмдаги йўлда эса фақат оқ чизиқлар мавжуд бўлиб, ажратувчи минтақа йўқ.",
+      "explanationRu": "На правом изображении хорошо видна широкая разделительная полоса, покрытая зелёной растительностью, которая полностью отделяет встречные направления движения. На левом изображении имеются только белые линии разметки, а разделительная полоса отсутствует.",
+      "explanationOz": "O'ng rasmdagi yo'lning o'rtasida ko'k o'tlar bilan qoplangan keng ajratuvchi mintaqa aniq ko'rinmoqda, bu qarama-qarshi yo'nalishdagi harakatni butunlay ajratib turadi. Chap rasmdagi yo'lda esa faqat oq chiziqlar bor, ajratuvchi mintaqa yo'q.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/45.20.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4800,
+          "textUz": "Ўнгдаги расмда",
+          "textRu": "На правом рисунке",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 4801,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На левом рисунке",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4802,
+          "textUz": "Ҳар иккала расмда",
+          "textRu": "На обоих рисунках",
+          "textOz": "Har ikkala rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4800
+      ]
+    },
+    {
+      "id": 27,
+      "questionUz": "“Имтиёз” атамасига тегишли тарифни кўрсатинг",
+      "questionRu": "Дайте определение термину «Приоритет»",
+      "questionOz": "“Imtiyoz” atamasiga tegishli tarifni ko'rsating",
+      "explanationUz": "Имтиёз дегани бирор ҳайдовчининг бошқа ҳаракат иштирокчиларига нисбатан биринчи бўлиб ҳаракатланиш ёки ўтиш ҳуқуқига эга эканлигини англатади. Масалан, асосий йўлда ҳаракатланаётган транспорт воситаси иккинчи даражали йўлдан келаётган транспорт воситасидан олдин ўтиш ҳуқуқига эга.",
+      "explanationRu": "Преимущество означает право одного водителя проехать или продолжить движение первым по отношению к другим участникам дорожного движения. Например, транспортное средство, движущееся по главной дороге, имеет преимущество перед транспортным средством, выезжающим со второстепенной дороги.",
+      "explanationOz": "Imtiyoz degani biror haydovchining boshqalarga qaraganda birinchi bo'lib o'tish huquqi borligini anglatadi. Masalan, asosiy yo'ldagi mashina ikkinch darajali yo'ldagi mashinadan oldin o'tadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4803,
+          "textUz": "Йўл ҳаракати қатнашчиларига нисбатан имтиёзи бўлган бошқа йўл ҳаракати қатнашчисининг ҳаракат йўналиши ёки тезлигини ўзгартиришга мажбур этиши мумкин бўлган ҳолларда ҳаракатни давом эттирмаслигини ёки бошламаслигини, бирор-бир манёвр бажариши мумкин эмаслигини билдирувчи талаб",
+          "textRu": "Требование о том, что они не могут продолжать или начинать движение, совершать какие-либо маневры, в случаях, когда они могут вынудить другого участника дорожного движения, имеющего преимущественное право проезда, изменить направление или скорость движения",
+          "textOz": "Yo'l harakati qatnashchilariga nisbatan imtiyozi bo'lgan boshqa yo'l harakati qatnashchisining harakat yo'nalishi yoki tezligini o'zgartirishga majbur etishi mumkin bo'lgan hollarda harakatni davom ettirmasligini yoki boshlamasligini, biror-bir manyovr bajarishi mumkin emasligini bildiruvchi talab",
+          "isCorrect": false
+        },
+        {
+          "id": 4804,
+          "textUz": "Мўлжалланган йўналишда бошқа йўл ҳаракати қатнашчиларига нисбатан олдин ҳаракатланиш ҳуқуқи",
+          "textRu": "Право на первоочередное движение в намеченном направлении по отношению к другим участникам движения",
+          "textOz": "Mo'ljallangan yo'nalishda boshqa yo'l harakati qatnashchilariga nisbatan oldin harakatlanish huquqi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4804
+      ]
+    },
+    {
+      "id": 28,
+      "questionUz": "Қайси расмда иккита қатнов қисмига эга бўлган йўл кўрсатилган?",
+      "questionRu": "На каком рисунке изображена дорога двумя проезжими частями?",
+      "questionOz": "Qaysi rasmda ikkita qatnov qismiga ega bo'lgan yo'l ko'rsatilgan?",
+      "explanationUz": "Иккала расмда ҳам йўлларда ажратувчи минтақа мавжуд эмас. Шунинг учун ҳар иккала йўл ҳам битта қатнов қисмидан иборат. Демак, иккала ҳолатда ҳам иккита қатнов қисми мавжуд эмас.",
+      "explanationRu": "На обоих изображениях отсутствует разделительная полоса. Поэтому каждая из дорог состоит из одной проезжей части. Следовательно, ни в одном из случаев нет двух проезжих частей.",
+      "explanationOz": "Ikkala rasmda ha yo'llarida ajratuvchi mintaqa bo'lmagani uchun ikkala yo'l ham bitta qatnov qismida iborat. Va ikklasida ham ikkita qanov qismi mavjud emas",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4805,
+          "textUz": "”А” расмда",
+          "textRu": "На рисунке “А”",
+          "textOz": "”A” rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4806,
+          "textUz": "”B” расмда",
+          "textRu": "На рисунке “Б”",
+          "textOz": "”B” rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4807,
+          "textUz": "Ҳеч қайси расмда",
+          "textRu": "Ни на одном рисунке",
+          "textOz": "Hech qaysi rasmda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4807
+      ]
+    },
+    {
+      "id": 29,
+      "questionUz": "Ушбу йўл нечта қатнов қисмига эга?",
+      "questionRu": "Сколько проезжих частей имеет эта дорога?",
+      "questionOz": "Ushbu yo'l nechta qatnov qismiga ega?",
+      "explanationUz": "Ушбу тасвирда йўлнинг ўртасида ажратувчи минтақа мавжуд эмас. Шу сабабли ушбу йўл битта қатнов қисмидан иборат.",
+      "explanationRu": "На данном изображении в середине дороги отсутствует разделительная полоса. Поэтому эта дорога состоит из одной проезжей части.",
+      "explanationOz": "Ushbu tasvirda Yo'lning o'rtasida ajratuvchi mintaqa bo'lmagani hisobiga ushbu yo'l bitta qatnov qismidan iborat.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4808,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": true
+        },
+        {
+          "id": 4809,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4810,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4808
+      ]
+    },
+    {
+      "id": 30,
+      "questionUz": "Қайси расмда ажратувчи минтақа кўрсатилган?",
+      "questionRu": "На каком рисунков показано разделительная зона?",
+      "questionOz": "Qaysi rasmda ajratuvchi mintaqa ko'rsatilgan?",
+      "explanationUz": "Иккала расмда ҳам йўлнинг қарама-қарши йўналишларини ажратиб турувчи баланд ёки тўсиқли қисм мавжуд эмас. Шу сабабли иккала расмда ҳам ажратувчи минтақа йўқ.",
+      "explanationRu": "На обоих изображениях отсутствует возвышенная или ограждённая часть, разделяющая встречные направления движения. Поэтому на обоих изображениях разделительная полоса отсутствует.",
+      "explanationOz": "Ikkala rasmda ham ikki tomonini ajratib turuvchi baland yoki to'siqli qism bo'lmagani sababli Ikkala rasmda ham ajratuvchi mintaqa mavjud emas",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4811,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 4812,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "Б",
+          "isCorrect": false
+        },
+        {
+          "id": 4813,
+          "textUz": "А ва Б",
+          "textRu": "А и Б",
+          "textOz": "A va Б",
+          "isCorrect": false
+        },
+        {
+          "id": 4814,
+          "textUz": "Ҳеч қайсида",
+          "textRu": "Ни на одном рисунке",
+          "textOz": "Hech qaysida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4814
+      ]
+    },
+    {
+      "id": 31,
+      "questionUz": "Йўлнинг қатнов қисми:",
+      "questionRu": "Проезжая часть дороги:",
+      "questionOz": "Yo'lning qatnov qismi:",
+      "explanationUz": "Қатнов қисми деб транспорт воситалари ҳаракатланиши учун мўлжалланган йўл қисми тушунилади. Одатда бу биз ҳаракатланадиган асфальт қисмдир. Релссиз транспорт воситалари деганда эса релсда ҳаракатланмайдиган транспорт воситалари, яъни автомобиллар, мототранспорт воситалари ва велосипедлар назарда тутилади.",
+      "explanationRu": "Под проезжей частью понимается часть дороги, предназначенная для движения транспортных средств. Обычно это асфальтированная часть дороги, по которой осуществляется движение. Под безрельсовыми транспортными средствами понимаются транспортные средства, не движущиеся по рельсам, то есть автомобили, мототранспортные средства и велосипеды.",
+      "explanationOz": "Qatnov qismi deb Yuradigan \"Asfalt\" yo'limiz nazarda tutiladi. Rellsiz transport vositalari degan relsi yo'q ya'ni avtomobillar va mototransport vositalari va velosipedlar nazarda  tutiladi",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4815,
+          "textUz": "Йўлнинг рельссиз транспорт воситалари ҳаракати учун мўлжалланган қисми",
+          "textRu": "Часть дороги, предназначенная для движения безрельсовых транспортных средств",
+          "textOz": "Yo'lning relssiz transport vositalari harakati uchun mo'ljallangan qismi",
+          "isCorrect": true
+        },
+        {
+          "id": 4816,
+          "textUz": "Йўлнинг транспорт воситалари ҳаракати учун мўлжалланган қисми",
+          "textRu": "Часть дороги, предназначенная для движения транспортных средств",
+          "textOz": "Yo'lning transport vositalari harakati uchun mo'ljallangan qismi",
+          "isCorrect": false
+        },
+        {
+          "id": 4817,
+          "textUz": "Йўлнинг автомобиллар ҳаракати учун мўлжалланган қисми",
+          "textRu": "Часть дороги, предназначенная для движения автомобилей",
+          "textOz": "Yo'lning avtomobillar harakati uchun mo'ljallangan qismi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4815
+      ]
+    },
+    {
+      "id": 32,
+      "questionUz": "Ҳаракатланиш бўлаги:",
+      "questionRu": "Полоса движения:",
+      "questionOz": "Harakatlanish bo'lagi:",
+      "explanationUz": "Ҳаракатланиш тасмаси деб қатнов қисмининг транспорт воситалари бир қаторда ҳаракатланиши учун мўлжалланган ва йўл чизиқлари билан белгиланган ёки белгиланишидан қатъи назар, эни бир автомобилнинг хавфсиз ҳаракатланиши учун етарли бўлган қисмига айтилади.",
+      "explanationRu": "Полоса движения — это часть проезжей части, предназначенная для движения транспортных средств в один ряд и обозначенная дорожной разметкой либо имеющая ширину, достаточную для безопасного движения одного автомобиля.",
+      "explanationOz": "Harakatlanish tasmasi deb bitta avtomobil yetarlicha sig'a oladigan kattalikda uzuq-uzuq chiziqlar bilan ajratilagan yo'l qismlariha aytiladi",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4818,
+          "textUz": "Йўлнинг рельссиз транспорт воситалари ҳаракати учун мўлжалланган қисми",
+          "textRu": "Часть дороги, предназначенная для движения безрельсовых транспортных средств",
+          "textOz": "Yo'lning relssiz transport vositalari harakati uchun mo'ljallangan qismi",
+          "isCorrect": false
+        },
+        {
+          "id": 4819,
+          "textUz": "Йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан баланд ва (ёки) 1.1 ётиқ чизиғи билан белгиланган қисми",
+          "textRu": "Элемент дороги, разделяющий смежные проезжие части и не предназначенный для движения и остановки транспортных средств, расположенный выше уровня дороги и (или) обозначенный дорожной разметкой 1.1",
+          "textOz": "Yo'lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to'xtashi uchun mo'ljallanmagan, yo'l sathidan baland va (yoki) 1.1 yotiq chizig'i bilan belgilangan qismi",
+          "isCorrect": false
+        },
+        {
+          "id": 4820,
+          "textUz": "Автомобилларнинг бир қатор бўлиб ҳаракатланиши учун етарлича кенг бўлган, йўл чизиқлари билан белгиланган ёки белгиланмаган йўл қатнов қисмининг ҳар қандай бўйлама бўлаги",
+          "textRu": "Любая из продольных полос проезжей части, обозначенная или необозначенная дорожной разметкой и имеющая ширину, достаточную для движения автомобилей в один ряд",
+          "textOz": "Avtomobillarning bir qator bo'lib harakatlanishi uchun etarlicha keng bo'lgan, yo'l chiziqlari bilan belgilangan yoki belgilanmagan yo'l qatnov qismining har qanday bo'ylama bo'lagi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4820
+      ]
+    },
+    {
+      "id": 33,
+      "questionUz": "Транспорт воситасининг рухсат этилган тўла вазн бу - ...",
+      "questionRu": "Что называется разрешённой максимальной массой транспортного средства?",
+      "questionOz": "Transport vositasining ruxsat etilgan to'la vazn bu - ...",
+      "explanationUz": "Рухсат этилган тўла вазн дегани транспорт воситаси ишлаб чиқарувчиси томонидан белгиланган энг катта вазн бўлиб, унга транспорт воситасининг ўзи, ҳайдовчи, йўловчилар ва юкнинг умумий оғирлиги киради. Бу хавфсизликни таъминлаш учун белгиланган чегара ҳисобланади ва ундан ортиқ юк ортиш хавфли ҳамда тақиқланади.",
+      "explanationRu": "Разрешённая максимальная масса — это наибольшая масса транспортного средства, установленная заводом-изготовителем, включая массу самого транспортного средства, водителя, пассажиров и груза. Это предельное значение установлено в целях безопасности, и превышение этой массы является опасным и запрещённым.",
+      "explanationOz": "Ruxsat etilgan to'la vazn degani mashina zavodi belgilagan eng ko'p vazn bo'lib, u mashinaning o'zi, haydovchi, yo'lovchilar va yuk bilan birgalikda hisoblanadi. Bu xavfsizlik uchun belgilangan chegara bo'lib, bundan ortiq yuk ortish xavfli.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4821,
+          "textUz": "Аслаҳаланган транспорт воситасининг ишлаб чиқарган корхона томонидан белгиланган, юк, ҳайдовчи ва йўловчилари билан биргаликдаги энг юқори вазни (ўлчови)",
+          "textRu": "Максимальная масса (величина) снаряженного транспортного средства с грузом, водителем и пассажирами, установленная предприятием-изготовителем",
+          "textOz": "Aslahalangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan, yuk, haydovchi va yo'lovchilari bilan birgalikdagi eng yuqori vazni (o'lchovi)",
+          "isCorrect": true
+        },
+        {
+          "id": 4822,
+          "textUz": "Транспорт воситасининг юки, ҳайдовчи ва йўловчилари билан биргаликдаги вазни",
+          "textRu": "Масса транспортного средства с грузом, водителем и пассажирами",
+          "textOz": "Transport vositasining yuki, haydovchi va yo'lovchilari bilan birgalikdagi vazni",
+          "isCorrect": false
+        },
+        {
+          "id": 4823,
+          "textUz": "Аслаҳаланган транспорт воситасининг ишлаб чиқарган корхона томонидан белгиланган, юксиз, ҳайдовчисиз ва йўловчиларсиз энг юқори вазни (ўлчови)",
+          "textRu": "Максимальная масса (величина) снаряженного транспортного средства без груза, без водителя и без пассажирами, установленная предприятием-изготовителем",
+          "textOz": "Aslahalangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan, yuksiz, haydovchisiz va yo'lovchilarsiz eng yuqori vazni (o'lchovi)",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4821
+      ]
+    },
+    {
+      "id": 34,
+      "questionUz": "Қайси транспорт воситалари йўналишли транспорт воситалари ҳисобланади?",
+      "questionRu": "Какие транспортные средства относятся к маршрутным транспортным средствам?",
+      "questionOz": "Qaysi transport vositalari yo'nalishli transport vositalari hisoblanadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлимидаги 2.5 белгига асосан, «Тўхтамасдан ҳаракатланиш тақиқланган». Тўхташ чизиғи олдида, агар у бўлмаса, кесиб ўтиладиган қатнов қисмининг четида тўхтамасдан ҳаракатланиш тақиқланади. Ҳайдовчи кесиб ўтилаётган йўлдан, 7.13 қўшимча-ахборот белгиси бўлганда эса асосий йўлдан ҳаракатланаётган транспорт воситаларига йўл бериши керак.\r\nБу белги темир йўл кесишмаси ёки карантин масканидан олдин ўрнатилиши мумкин. Бундай ҳолларда ҳайдовчи тўхташ чизиғи олдида, у бўлмаса, белги олдида тўхташи керак.",
+      "explanationRu": "Знак 2.5 раздела 2 приложения № 1 к ПДД, «Движение без остановки запрещено». Запрещается движение без остановки перед стоп-линией, а если ее нет — перед краем пересекаемой проезжей части. Водитель должен уступить дорогу транспортным средствам, движущимся по пересекаемой, а при наличии дополнительного дорожного знака 7.13 — по главной дороге.\r\nЭтот дорожный знак может быть установлен перед железнодорожным переездом или карантинным постом. В этих случаях водитель должен остановиться перед стоп-линией, а при ее отсутствии — перед знаком.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo‘limidagi 2.5 belgiga asosan, «To‘xtamasdan harakatlanish taqiqlangan». To‘xtash chizig‘i oldida, agar u bo‘lmasa, kesib o‘tiladigan qatnov qismining chetida to‘xtamasdan harakatlanish taqiqlanadi. Haydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositalariga yo‘l berishi kerak.\r\nBu belgi temir yo‘l kesishmasi yoki karantin maskanidan oldin o‘rnatilishi mumkin. Bunday hollarda haydovchi to‘xtash chizig‘i oldida, u bo‘lmasa, belgi oldida to‘xtashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 98,
+          "textUz": "Белгиланган йўналиши ва бекатлари бўлган, йўловчи ташиш учун мўлжалланган умум фойдаланишдаги транспорт воситалари (троллейбус, трамвай, автобус, йўналишли такси)",
+          "textRu": "Транспортное средство общего пользования (троллейбус, автобус, трамвай, маршрутное такси), предназначенное для перевозки пассажиров и имеющее установленный маршрут с остановочными пунктами (остановками)",
+          "textOz": "Belgilangan yo'nalishi va bekatlari bo'lgan, yo'lovchi tashish uchun mo'ljallangan umum foydalanishdagi transport vositalari (trolleybus, tramvay, avtobus, yo'nalishli taksi)",
+          "isCorrect": true
+        },
+        {
+          "id": 99,
+          "textUz": "Автобуслар",
+          "textRu": "Автобусы",
+          "textOz": "Avtobuslar",
+          "isCorrect": false
+        },
+        {
+          "id": 100,
+          "textUz": "Йўловчиларни ташувчи исталган транспорт воситалари",
+          "textRu": "Любые транспортные средства, перевозящие пассажиров",
+          "textOz": "Yo'lovchilarni tashuvchi istalgan transport vositalari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        98
+      ]
+    },
+    {
+      "id": 35,
+      "questionUz": "Асосий йўл:",
+      "questionRu": "Главная дорога:",
+      "questionOz": "Asosiy yo'l:",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Йўналишли транспорт воситаси - белгиланган йўналиши ва бекатлари бўлган, йўловчи ташиш учун мўлжалланган умум фойдаланишдаги транспорт воситалари (троллейбус, трамвай, автобус, йўналишли такси).",
+      "explanationRu": "ПДД общие положения: Маршрутное транспортное средство - транспортное средство общего пользования (троллейбус, автобус, трамвай, маршрутное такси), предназначенное для перевозки пассажиров и имеющее установленный маршрут с остановочными пунктами (остановками)",
+      "explanationOz": "YHQ umumiy qoidalar: Yo‘nalishli transport vositasi - belgilangan yo‘nalishi va bekatlari bo‘lgan, yo‘lovchi tashish uchun mo‘ljallangan umum foydalanishdagi transport vositalari (trolleybus, tramvay, avtobus, yo‘nalishli taksi).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 101,
+          "textUz": "Тошли йўлга нисбатан асфалт қопламали йўл",
+          "textRu": "Дорога с асфальтобетонным покрытием по отношению к дороге, покрытой брусчаткой",
+          "textOz": "Toshli yo'lga nisbatan asfalt qoplamali yo'l",
+          "isCorrect": false
+        },
+        {
+          "id": 102,
+          "textUz": "Икки бўлакли йўлга нисбатан уч ёки ундан кўп бўлакли йўл",
+          "textRu": "Дорога с тремя или более полосами движения по отношению к дороге с двумя полосами",
+          "textOz": "Ikki bo'lakli yo'lga nisbatan uch yoki undan ko'p bo'lakli yo'l",
+          "isCorrect": false
+        },
+        {
+          "id": 103,
+          "textUz": "Тупроқли йўлга нисбатан қаттиқ қопламали (асфальт ва цемент-бетонли, тош ва шунга ўхшашлар ётқизилган) йўл",
+          "textRu": "Дорога с твердым покрытием по отношению к грунтовой дороге",
+          "textOz": "Tuproqli yo'lga nisbatan qattiq qoplamali (asfalt va sement-betonli, tosh va shunga o'xshashlar yotqizilgan) yo'l",
+          "isCorrect": true
+        },
+        {
+          "id": 104,
+          "textUz": "Барча жавоблар тўғри",
+          "textRu": "Все ответы правильные",
+          "textOz": "Barcha javoblar to'g'ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        103
+      ]
+    },
+    {
+      "id": 36,
+      "questionUz": "Қуйидаги жавоблардан қайси бирида «Йўловчи»атамасининг тўғри таърифи кўрсатилган?",
+      "questionRu": "Какой из нижеперечисленных ответов даетправильное определение термина «пассажир»?",
+      "questionOz": "Quyidagi javoblardan qaysi birida «Yo'lovchi» atamasining to'g'ri tarifi ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Йўловчи – транспорт воситасидаги (ҳайдовчидан ташқари) шахс, шунингдек транспорт воситасига кираётган (унга чиқиб ўтираётган) ёки транспорт воситасидан чиқаётган (ундан тушаётган) шахс.",
+      "explanationRu": "ПДД общие положения: «Пассажир» - это лицо, находящееся в транспортном средстве, а также лицо, которое входит в транспортное средство или выходит из транспортного средства.",
+      "explanationOz": "YHQ umumiy qoidalar: Yo‘lovchi – transport vositasidagi (haydovchidan tashqari) shaxs, shuningdek transport vositasiga kirayotgan (unga chiqib o‘tirayotgan) yoki transport vositasidan chiqayotgan (undan tushayotgan) shaxs.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4211,
+          "textUz": "Транспорт воситасидаги барча шахслар",
+          "textRu": "Все лица находящиеся втранспортном средстве",
+          "textOz": "Transport vositasidagi barcha shaxslar",
+          "isCorrect": false
+        },
+        {
+          "id": 4212,
+          "textUz": "Транспорт воситасидаги(ҳайдовчидан ташқари) шахс,шунингдек транспорт воситасигакираётган(унга чиқиб ўтираётган)аки транспорт воситаси данчиқаётган(ундан тушаётган) шахс",
+          "textRu": "Лицо, кроме водителя, находящеесяв транспортном средстве (кромеводителя), а также лицо, котороевходит в транспортное средство(садится на него) или выходит изтранспортного средства (сходит снего)",
+          "textOz": "Transport vositasidagi (haydovchidan tashqari) shaxs, shuningdek transport vositasiga kirayotgan (unga chiqib o'tirayotgan) yoki transport vositasidan chiqayotgan (undan tushayotgan) shaxs",
+          "isCorrect": true
+        },
+        {
+          "id": 4213,
+          "textUz": "Ҳар иккала таъриф тўғри",
+          "textRu": "Оба определения верны",
+          "textOz": "Har ikkala tarif to'g'ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4212
+      ]
+    },
+    {
+      "id": 37,
+      "questionUz": "Ўзиб кетиш деб нимага айтилади?",
+      "questionRu": "Что называется опережение?",
+      "questionOz": "O'zib ketish deb nimaga aytiladi?",
+      "explanationUz": "ЙҲҚ 1 – боби 6 – бандига асосан: Ўзиб кетиш — транспорт воситасининг бир йўналишда транспорт воситаси тезлигидан ортиқ тезликда ҳаракатланиши",
+      "explanationRu": "Пункта 6 главы 1 ПДД гласит: Опережение – движение транспортного средства со скоростью, большей скорости попутного транспортного средства.",
+      "explanationOz": "YHQ 1 – bobi 6 – bandiga asosan: O‘zib ketish — transport vositasining bir yo‘nalishda transport vositasi tezligidan ortiq tezlikda harakatlanishi",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 108,
+          "textUz": "Транспорт воситасининг бир йўналишда транспорт воситаси тезлигидан ортиқ тезликда ҳаракатланиши",
+          "textRu": "Движение транспортного средства со скоростью, большей скорости попутного транспортного средства",
+          "textOz": "Transport vositasining bir yo'nalishda transport vositasi tezligidan ortiq tezlikda harakatlanishi",
+          "isCorrect": true
+        },
+        {
+          "id": 109,
+          "textUz": "Қарама - қарши йўналишда ҳаракатланиш учун мўлжалланган тасмага чиқиб,сўнгра илгари эгаллаган қаторига қайтиб ўтиш билан боғлиқ бўлган ҳаракат",
+          "textRu": "Выезд на полосу, предназначенной для движения в противоположном направлении, с последующим возвращением на ранее занимаемую полосу",
+          "textOz": "Qarama - qarshi yo'nalishda harakatlanish uchun mo'ljallangan tasmaga chiqib,so'ngra ilgari egallagan qatoriga qaytib o'tish bilan bog'liq bo'lgan harakat",
+          "isCorrect": false
+        },
+        {
+          "id": 110,
+          "textUz": "Кам тезлик билан қўшни қаторда ҳаракатланаётган бир ёки бир нечта транспорт воситасидан ўзиб кетиш",
+          "textRu": "Обгон одного или нескольких транспортных средств, движущихся по соседней полосе на малой скорости",
+          "textOz": "Kam tezlik bilan qo'shni qatorda harakatlanayotgan bir yoki bir nechta transport vositasidan o'zib ketish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        108
+      ]
+    },
+    {
+      "id": 38,
+      "questionUz": "Тўсиқ деб нимага айтилади?",
+      "questionRu": "Что такое препятствие?",
+      "questionOz": "To'siq deb nimaga aytiladi?",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Тўсиқ - йўлнинг қатнов қисмида ҳаракатсиз ҳолда бўлган жисм (бузилиб қолган транспорт воситаси, тушиб қолган юк, йиқилган дарахт ва бошқалар).",
+      "explanationRu": "ПДД Общие положения: Препятствие - неподвижный объект на полосе движения (неисправное или поврежденное транспортное средство, дефект проезжей части, посторонние предметы и т.п.), не позволяющий продолжить движение по этой полосе.",
+      "explanationOz": "YHQ umumiy qoidalar: To‘siq - yo‘lning qatnov qismida harakatsiz holda bo‘lgan jism (buzilib qolgan transport vositasi, tushib qolgan yuk, yiqilgan daraxt va boshqalar).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 111,
+          "textUz": "Йўлнинг қатнов қисмида ҳаракатсиз ҳолда бўлган жисм",
+          "textRu": "Неподвижный объект на проезжейчасти",
+          "textOz": "Yo'lning qatnov qismida harakatsiz holda bo'lgan jism",
+          "isCorrect": true
+        },
+        {
+          "id": 112,
+          "textUz": "Тирбандлик туфайли қатнов қисмида тўхтаб турган транспорт воситаси",
+          "textRu": "Автомобиль, остановившиеся напроезжей части из-за затора",
+          "textOz": "Tirbandlik tufayli qatnov qismida to'xtab turgan transport vositasi",
+          "isCorrect": false
+        },
+        {
+          "id": 113,
+          "textUz": "Йўл ҳаракати хавфсизлигига хавф солувчи ҳар қандай омил",
+          "textRu": "Любой фактор угрожающий безопасности дорожного движения",
+          "textOz": "Yo'l harakati xavfsizligiga xavf soluvchi har qanday omil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        111
+      ]
+    },
+    {
+      "id": 39,
+      "questionUz": "Қайта тизилиш деб нимага айтилади?",
+      "questionRu": "Что такое перестроение ?",
+      "questionOz": "Qayta tizilish deb nimaga aytiladi?",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Қайта тизилиш - дастлабки ҳаракат йўналишини сақлаган ҳолда ўз ҳаракатланиш тасмасидан бошқа ҳаракатланиш қаторига ўтиш.",
+      "explanationRu": "ПДД Общие положения: Перестроение - выезд из занимаемой полосы или занимаемого ряда с сохранением первоначального направления движения.",
+      "explanationOz": "YHQ umumiy qoidalar: Qayta tizilish - dastlabki harakat yo‘nalishini saqlagan xolda o‘z harakatlanish tasmasidan boshqa harakatlanish qatoriga o‘tish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 114,
+          "textUz": "Дастлабки ҳаракат йўналишини сақлаган ҳолда ўз ҳаракатланиш тасмасидан бошқа ҳаракатланиш қаторига ўтиш",
+          "textRu": "Перестроение - с одной полосына другую, сохраняя исходное направление движения",
+          "textOz": "Dastlabki harakat yo'nalishini saqlagan holda o'z harakatlanish tasmasidan boshqa harakatlanish qatoriga o'tish",
+          "isCorrect": true
+        },
+        {
+          "id": 115,
+          "textUz": "Қатнов қисмининг махсус ажратилган,5.35 - 5.37 йўл белгилари, 1.9 йўлчизиғи билан белгиланган ва устида реверсив светофор ўрнатилган бўлагида ҳаракатланиш йўналишини қарама-қарши томонга ўзгартириш",
+          "textRu": "Перестроение - изменение направления движения в обратном направлении на специально выделенной полосе проезжей части, обозначенными дорожными знаками 5.35 - 5.37, линией 1.9и оборудованным реверсивным светофором",
+          "textOz": "Qatnov qismining maxsus ajratilgan,5.35 - 5.37 yo'l belgilari, 1.9 yo'lchizig'i bilan belgilangan va ustida reversiv svetofor o'rnatilgan bo'lagida harakatlanish yo'nalishini qarama-qarshi tomonga o'zgartirish",
+          "isCorrect": false
+        },
+        {
+          "id": 116,
+          "textUz": "Хавф туғилганда йўлдаги бошқа ҳаракат қатнашчиларининг ҳаракатланишига тўсқинлик қилмаслик учун ҳайдовчилар томонидан бажариладиган ҳаракат(манёвр)",
+          "textRu": "Перестроение - действие (маневр),совершаемое водителями с цельюне препятствовать движению другихучастников дорожного движения вслучае опасности",
+          "textOz": "Xavf tug'ilganda yo'ldagi boshqa harakat qatnashchilarining harakatlanishiga to'sqinlik qilmaslik uchun haydovchilar tomonidan bajariladigan harakat(manyovr)",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        114
+      ]
+    },
+    {
+      "id": 40,
+      "questionUz": "Қуйидаги жавоблардан қайси бирида «Хавф»атамасининг тўғри таърифи кўрсатилган?",
+      "questionRu": "Какой из ниже перечисленных ответов дает правильное определение термина «опасность»?",
+      "questionOz": "Quyidagi javoblardan qaysi birida «Xavf»atamasining to'g'ri tarifi ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Хавф – йўл ҳаракати хавфсизлигига хавф солувчи ҳар қандай омил.",
+      "explanationRu": "ПДД Общие положения: Опасность - это любой фактор, который ставит под угрозу безопасность дорожного движения.",
+      "explanationOz": "YHQ umumiy qoidalar: Xavf – yo‘l harakati xavfsizligiga xavf soluvchi har qanday omil.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 117,
+          "textUz": "Йўл ҳаракати хавфсизлигига хавф солувчи ҳар қандай омил",
+          "textRu": "F1 Любой фактор, угрожающий безопасности дорожного движения",
+          "textOz": "Yo'l harakati xavfsizligiga xavf soluvchi har qanday omil",
+          "isCorrect": true
+        },
+        {
+          "id": 118,
+          "textUz": "Йўл ҳаракати қатнашчиларининг йўналишини ўзгартиришга мажбур қиладиган ҳар қандай тўсиқ",
+          "textRu": "F2 Любое препятствие, вынуждающее участников дорожного движения менять направление движения",
+          "textOz": "Yo'l harakati qatnashchilarining yo'nalishini o'zgartirishga majbur qiladigan har qanday to'siq",
+          "isCorrect": false
+        },
+        {
+          "id": 119,
+          "textUz": "Йўл ҳаракати жараёнидан ўша йўналишда ва ўша тезликда ҳаракатланишни давом эттириш йўл транспорт ҳодисаси содир бўлишига таҳдид соладиган омил",
+          "textRu": "Ситуация, возникшая в процессе дорожного движения, при которой продолжение движения в том же направлении и с той же скоростью создает угрозу возникновения дорожно-транспортного происшествия",
+          "textOz": "Yo'l harakati jarayonidan o'sha yo'nalishda va o'sha tezlikda harakatlanishni davom ettirish yo'l transport hodisasi sodir bo'lishiga tahdid soladigan omil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        117
+      ]
+    },
+    {
+      "id": 41,
+      "questionUz": "Агар ҳайдовчи ўзи харакатланаётган йўлнинг қопламасини бор- йўклигини аниклай олмаса ( қоронги вақт, лой, кор) ва имтиёз белгилари бўлмаса )?",
+      "questionRu": "Что делать, если водитель не может определить, заасфальтирована ли дорога, по которой он едет (темнота, грязь, снег), и нет знаков приоритета движения?",
+      "questionOz": "Agar haydovchi o'zi xarakatlanayotgan yo'lning qoplamasini bor-yo'qligini aniklay olmasa ( qorongi vaqt, loy, kor) va imtiyoz belgilari bo'lmasa )?",
+      "explanationUz": "Агар ҳайдовчи ўзи ҳаракатланаётган йўлнинг қопламаси бор ёки йўқлигини аниқлай олмаса (қоронғи вақт, лой, қор ва бошқа шароитларда) ҳамда имтиёз белгилари мавжуд бўлмаса, у ўзини иккинчи даражали йўлда ҳаракатланаётган деб ҳисоблаши керак. Асос: ЙҲҚ 108-банд.",
+      "explanationRu": "Если водитель не может определить наличие или отсутствие покрытия на дороге, по которой он движется (в тёмное время суток, при наличии грязи, снега и в других подобных условиях), и при этом отсутствуют знаки приоритета, он должен считать, что движется по второстепенной дороге. Основание: пункт 108 ПДД.",
+      "explanationOz": "Agar haydovchi oʻzi harakatlanayotgan yoʻlning qoplamasi bor-yoʻqligini aniqlay olmasa (qorongʻi vaqt, loy, qor va boshqalar) va imtiyoz belgilari boʻlmasa, unda u oʻzini ikkinchi darajali yoʻlda deb hisoblashi kerak.Asos YHQ 108-band",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4867,
+          "textUz": "Ўзини асосий йўлда деб ҳисоблаши керак",
+          "textRu": "Должен считать себя на главной дороге",
+          "textOz": "O'zini asosiy yo'lda deb hisoblashi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 4868,
+          "textUz": "Ўзини иккинчи даражали йўлда деб хисоблаши керак",
+          "textRu": "Должен выделяться на второстепенной дороге",
+          "textOz": "O'zini ikkinchi darajali yo'lda deb xisoblashi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 4869,
+          "textUz": "Барчаси тугри",
+          "textRu": "Везде",
+          "textOz": "Barchasi tugri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4868
+      ]
+    },
+    {
+      "id": 42,
+      "questionUz": "Қоидаларда нечта асосий тушунча ва атамалардан фойдаланилади?",
+      "questionRu": "Сколько основные понятий и терминов используется в Правилах?",
+      "questionOz": "Qoidalarda nechta asosiy tushuncha va atamalardan foydalaniladi?",
+      "explanationUz": "ЙҲҚ умумий қоидалар 6-банди: Авария ҳолатини юзага келтириш, автомагистраль, автопоезд ва бошқалар — умумий 78 та асосий тушунча ва атама. Аввал 77 та эди.\r\n\r\n2026 йил яна битта янги атама қўшилди. Йўл ҳаракати қоидаларининг асосий тушунча ва атамалари қаторига энг охирги бўлиб \"кичик ҳажмдаги мототранспорт воситалари\" атамаси қўшилган.\r\n\r\nУшбу тушунча Ўзбекистон Республикаси Вазирлар Маҳкамасининг 2026 йил 30 мартдаги 125-сонли қарорига асосан киритилган бўлиб, 2026 йил 1 апрелдан бошлаб кучга кирган.\r\n\r\nҚоидаларда ушбу атамага қуйидагича таъриф берилган:\r\n\r\nКичик ҳажмдаги мототранспорт воситалари — энг юқори конструктив тезлиги соатига 25 километрдан ошмайдиган, иш ҳажми 25 см³ гача бўлган ички ёнув двигателига эга бўлган ёки номинал (белгиланган) қуввати 0,25 киловаттгача бўлган икки ёки уч (тўрт) ғилдиракли транспорт воситаларидир.\r\n\r\nУшбу атама таърифига индивидуал ҳаракатланиш воситалари (скутер, электросамокат ва h.k.) кирмайди.",
+      "explanationRu": "Общие положения ПДД, пункт 6: аварийная ситуация, автомагистраль, автопоезд и другие — всего 78 основных понятий и терминов. Ранее их было 77.\r\n\r\nВ 2026 году был добавлен ещё один новый термин. В перечень основных понятий и терминов Правил дорожного движения включено понятие «малогабаритные мототранспортные средства».\r\n\r\nДанное понятие введено на основании Постановления Кабинета Министров Республики Узбекистан №125 от 30 марта 2026 года и вступило в силу с 1 апреля 2026 года.\r\n\r\nВ Правилах этому термину дано следующее определение:\r\n\r\nМалогабаритные мототранспортные средства — это двух-, трёх- или четырёхколёсные транспортные средства с максимальной конструктивной скоростью не более 25 км/ч, оснащённые двигателем внутреннего сгорания рабочим объёмом до 25 см³ либо электродвигателем с номинальной мощностью до 0,25 кВт.\r\n\r\nК данному понятию не относятся средства индивидуальной мобильности (самокаты, электросамокаты и т.п.).",
+      "explanationOz": "YHQ umumiy qoidalar 6-bandi: Avariya holatini yuzaga keltirish, avtomagistral, avtopoyezd va boshqalar — umumiy 78 ta asosiy tushuncha va atama. Avval 77 ta edi.\r\n\r\n2026-yil yana bitta yangi atama qo‘shildi. Yo‘l harakati qoidalarining asosiy tushuncha va atamalari qatoriga eng oxirgi bo‘lib \"kichik hajmdagi mototransport vositalari\" atamasi qo‘shilgan.\r\n\r\nUshbu tushuncha O‘zbekiston Respublikasi Vazirlar Mahkamasining 2026-yil 30-martdagi 125-sonli qaroriga asosan kiritilgan bo‘lib, 2026-yil 1-apreldan boshlab kuchga kirgan.\r\n\r\nQoidalarda ushbu atamaga quyidagicha ta’rif berilgan:\r\n\r\nKichik hajmdagi mototransport vositalari — eng yuqori konstruktiv tezligi soatiga 25 kilometrdan oshmaydigan, ish hajmi 25 sm³ gacha bo‘lgan ichki yonuv dvigateliga ega bo‘lgan yoki nominal (belgilangan) quvvati 0,25 kilovattgacha bo‘lgan ikki yoki uch (to‘rt) g‘ildirakli transport vositalaridir.\r\n\r\nUshbu atama ta’rifiga individual harakatlanish vositalari (skuter, elektrosamokat va h.k.) kirmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6788,
+          "textUz": "65",
+          "textRu": "65",
+          "textOz": "65",
+          "isCorrect": false
+        },
+        {
+          "id": 6789,
+          "textUz": "56",
+          "textRu": "56",
+          "textOz": "56",
+          "isCorrect": false
+        },
+        {
+          "id": 6790,
+          "textUz": "77",
+          "textRu": "77",
+          "textOz": "77",
+          "isCorrect": false
+        },
+        {
+          "id": 6791,
+          "textUz": "78",
+          "textRu": "78",
+          "textOz": "78",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6791
+      ]
+    },
+    {
+      "id": 43,
+      "questionUz": "Қуйидаги тариф \"транспорт воситаси харакатини 10 дақиқагача бўлган муддатга тўхтатиш (харакатсиз ҳолатга келтириш)\" қайси атамага тегишли?",
+      "questionRu": "Следующее определение: «прекращение движения транспортного средства на время до 10 минут (приведение в неподвижное состояние)» относится к какому термину?",
+      "questionOz": "Quyidagi tarif \"transport vositasi xarakatini 10 daqiqagacha bo'lgan muddatga to'xtatish (xarakatsiz holatga keltirish)\" qaysi atamaga tegishli?",
+      "explanationUz": "Транспорт воситасини 10 дақиқагача ҳаракатсиз ҳолатга келтириш тўхташ дейилади.",
+      "explanationRu": "Приведение транспортного средства в неподвижное состояние на срок до 10 минут называется остановкой.",
+      "explanationOz": "Transport vositasini 10 daqiqagacha harakatsiz holatga keltirish - To'xtash deyiladi",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4873,
+          "textUz": "Тухташ",
+          "textRu": "Остановка",
+          "textOz": "Tuxtash",
+          "isCorrect": true
+        },
+        {
+          "id": 4874,
+          "textUz": "Мажбурий тухташ",
+          "textRu": "Вынужденная остановка",
+          "textOz": "Majburiy tuxtash",
+          "isCorrect": false
+        },
+        {
+          "id": 4875,
+          "textUz": "Йул бериш",
+          "textRu": "Уступить дорогу",
+          "textOz": "Yul berish",
+          "isCorrect": false
+        },
+        {
+          "id": 4876,
+          "textUz": "Тухтаб туриш",
+          "textRu": "Стоянка",
+          "textOz": "Tuxtab turish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4873
+      ]
+    },
+    {
+      "id": 44,
+      "questionUz": "Ушбу транспорт воситасига чорраха оркали кайси иўналишлар буйича харакатланишга рухсат этилади?",
+      "questionRu": "Какое направление разрешено для движения этому транспортному средству через перекресток?",
+      "questionOz": "Ushbu transport vositasiga chorraxa orqali qaysi yunalishlar bo'yicha xarakatlanishga ruxsat etiladi?",
+      "explanationUz": "Расмда кўк доира шаклидаги белги «Тўғрига ҳаракатланиш мажбурий» деган маънони билдиради. Бироқ ушбу белги йўлнинг қарама-қарши томонининг ўнг қисмида ўрнатилган. Микроавтобус ҳайдовчиси олдида эса ҳеч қандай тақиқловчи белги ёки йўл чизиғи мавжуд эмас. Шунинг учун унга барча йўналишларда — тўғрига, ўнгга, чапга ҳамда орқага қайтишга рухсат этилади.",
+      "explanationRu": "На изображении синий круглый знак означает «Движение прямо». Однако этот знак установлен с правой стороны дороги, предназначенной для встречного направления движения. Перед микроавтобусом отсутствуют какие-либо запрещающие знаки или дорожная разметка, ограничивающие направление движения. Поэтому ему разрешается движение во всех направлениях: прямо, направо, налево и разворот.",
+      "explanationOz": "Rasmda ko'k doira shaklidagi belgi \"To'g'riga harakatlanish majburiy\" degan ma'noni bildiradi, lekin bu belgi yo'lning , ya'ni qarama-qarshi tarafning o'ng tomonida o'rnatilgan. Mikroavtobusni oldida hech qanday taqiqlovchi belgi yoki yo'l chizig'i yo'q, shuning uchun barcha yo'nalishlarga - to'g'riga, o'ngga, chapga va orqaga qaytishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4877,
+          "textUz": "Факат турига ва унгга",
+          "textRu": "Только прямо и направо",
+          "textOz": "Fakat turiga va ungga",
+          "isCorrect": false
+        },
+        {
+          "id": 4878,
+          "textUz": "Факат чапга ва кайрилиб олишга",
+          "textRu": "Только налево и разворот",
+          "textOz": "Fakat chapga va kayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 4879,
+          "textUz": "Факат унгга",
+          "textRu": "Только направо",
+          "textOz": "Fakat ungga",
+          "isCorrect": false
+        },
+        {
+          "id": 4880,
+          "textUz": "Факат тугрига",
+          "textRu": "Только прямо",
+          "textOz": "Fakat tugriga",
+          "isCorrect": false
+        },
+        {
+          "id": 4881,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4881
+      ]
+    },
+    {
+      "id": 45,
+      "questionUz": "Йўл ҳаракат қоидаларида нечта боб ва бандидан иборат?",
+      "questionRu": "Сколько глав и пунктов содержится в правилах дорожного движения?",
+      "questionOz": "Yo‘l harakat qoidalarida nechta bob va bandidan iborat?",
+      "explanationUz": "Йўл ҳаракати қоидалари 29 та боб ва 186 та банддан иборат.",
+      "explanationRu": "Правила дорожного движения состоят из 29 глав и 186 пунктов.",
+      "explanationOz": "Yo'l harakati qoidalar 29 ta bob va 186 banddan iborat",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4882,
+          "textUz": "50 боб 300 банд",
+          "textRu": "Глава 50 - параграф 300",
+          "textOz": "50 боб 300 банд",
+          "isCorrect": false
+        },
+        {
+          "id": 4883,
+          "textUz": "37 боб 286 банд",
+          "textRu": "Глава 37 - параграф 286",
+          "textOz": "37 bob 286 band",
+          "isCorrect": false
+        },
+        {
+          "id": 4884,
+          "textUz": "29 боб 186 банд",
+          "textRu": "Глава  29 - параграф 186",
+          "textOz": "29 bob 186 band",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4884
+      ]
+    },
+    {
+      "id": 46,
+      "questionUz": "Қайси жавобда \"авария ҳолатини юзага келтириш\" атамаси таърифи тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указано определение термина «создание аварийной обстановки»?",
+      "questionOz": "Qaysi javobda \"avariya holatini yuzaga keltirish\" atamasi ta’rifi to‘g‘ri ko‘rsatilgan?",
+      "explanationUz": "Авария ҳолатини юзага келтириш дегани бошқа ҳаракат иштирокчиларини тўсатдан йўналишини ёки тезлигини ўзгартиришга мажбур қилиш демакдир. Бу жуда хавфли ҳаракат бўлиб, йўл-транспорт ҳодисасига олиб келиши мумкин.",
+      "explanationRu": "Создание аварийной ситуации означает вынуждение других участников дорожного движения внезапно изменить направление движения или скорость. Это является крайне опасным действием и может привести к дорожно-транспортному происшествию.",
+      "explanationOz": "Avariya holatini yuzaga keltirish degani boshqa haydovchilarni to'satdan yo'nalish yoki tezlikni o'zgartirishga majbur qilish demakdir. Bu juda xavfli harakat bo'lib, yo'l-transport hodisasiga olib kelishi mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4885,
+          "textUz": "Йўл-транспорт ҳодисаларининг келиб чиқиш сабабларининг олдини олишга, уларнинг оғир оқибатларини камайтиришга қаратилган фаолият",
+          "textRu": "Деятельность, направленная на предотвращение причин дорожно-транспортных происшествий и уменьшение их тяжёлых последствий",
+          "textOz": "Yo‘l-transport hodisalarining kelib chiqish sabablarining oldini olishga, ularning og‘ir oqibatlarini kamaytirishga qaratilgan faoliyat",
+          "isCorrect": false
+        },
+        {
+          "id": 4886,
+          "textUz": "Йўл ҳаракатининг бошқа қатнашчиларини ҳаракат йўналиши ёки тезлигини кескин ўзгартиришга, шунингдек, ўз хавфсизлигини ёхуд бошқа фуқаролар хавфсизлигини таъминлаш учун ўзга чораларни кўришга мажбур қилиш",
+          "textRu": "Вынуждение других участников дорожного движения резко изменить направление движения или скорость, а также принять иные меры для обеспечения собственной безопасности или безопасности других граждан",
+          "textOz": "Yo‘l harakatining boshqa qatnashchilarini harakat yo‘nalishi yoki tezligini keskin o‘zgartirishga, shuningdek, o‘z xavfsizligini yoxud boshqa fuqarolar xavfsizligini ta’minlash uchun o‘zga choralarni ko‘rishga majbur qilish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4886
+      ]
+    },
+    {
+      "id": 47,
+      "questionUz": "Вазирлар Маҳкамасининг 172-сонли қарорига мувофиқ, Йўл ҳаракати қоидалари нэчта банддан иборат?",
+      "questionRu": "Согласно постановлению Кабинета Министров №172, из скольких пунктов состоят Правила дорожного движения?",
+      "questionOz": "Vazirlar Mahkamasining 172-sonli qaroriga muvofiq, Yo‘l harakati qoidalari nechta banddan iborat?",
+      "explanationUz": "Йўл ҳаракати қоидалари 29 та боб ва 186 та банддан иборат.",
+      "explanationRu": "Правила дорожного движения состоят из 29 глав и 186 пунктов.",
+      "explanationOz": "Yo'l harakati qoidalar 29 ta bob va 186 banddan iborat",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4887,
+          "textUz": "184",
+          "textRu": "Из 184",
+          "textOz": "184",
+          "isCorrect": false
+        },
+        {
+          "id": 4888,
+          "textUz": "186",
+          "textRu": "Из 186",
+          "textOz": "186",
+          "isCorrect": true
+        },
+        {
+          "id": 4889,
+          "textUz": "216",
+          "textRu": "Из 216",
+          "textOz": "216",
+          "isCorrect": false
+        },
+        {
+          "id": 4890,
+          "textUz": "220",
+          "textRu": "Из 220",
+          "textOz": "220",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4888
+      ]
+    },
+    {
+      "id": 48,
+      "questionUz": "Қайси расмда тўрт тасмали йўл кўрсатилган?",
+      "questionRu": "На каком рисунке показана четырёхполосная дорога?",
+      "questionOz": "Qaysi rasmda to‘rt tasmali yo‘l ko‘rsatilgan?",
+      "explanationUz": "Барча учта расмда ҳам тўрт тасмали йўл тасвирланган. Йўл чизиқлари билан белгиланган ёки белгиланмаган бўлишидан қатъи назар, агар қатнов қисмининг кенглиги тўртта ҳаракатланиш тасмаси сиғадиган даражада бўлса, бундай йўл тўрт тасмали ҳисобланади. Шунингдек, йўлнинг ўртасидаги иккита параллел сидирға чизиқ йўлда тўрт ва ундан ортиқ ҳаракатланиш тасмаси мавжудлигини билдиради.",
+      "explanationRu": "На всех трёх изображениях показана дорога с четырьмя полосами движения. Независимо от того, обозначены полосы дорожной разметкой или нет, если ширина проезжей части позволяет разместить четыре полосы движения, такая дорога считается четырёхполосной. Кроме того, две параллельные сплошные линии посередине дороги указывают на наличие четырёх и более полос движения.",
+      "explanationOz": "Barcha uchta rasmda to'rt tasmali yo'l ko'rsatilgan. Yo'l chiziqlari bilan belgilangan yoki belgilanmagan bo'lsin, qatnov qismining kengligi to'rtta tasma sig'adigan bo'lsa, u to'rt tasmali hisoblanadi.Ikkita paralell sidirg'a chiziq yo'lda to'rt va undan ortiq tasma borligini bildiradi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4891,
+          "textUz": "Биринчи",
+          "textRu": "На первом",
+          "textOz": "Birinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4892,
+          "textUz": "Биринчи ва иккинчи",
+          "textRu": "На первом и втором",
+          "textOz": "Birinchi va ikkinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4893,
+          "textUz": "Иккинчи ва учинчи",
+          "textRu": "На втором и третьем",
+          "textOz": "Ikkinchi va uchinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 4894,
+          "textUz": "Барчасида",
+          "textRu": "На всех",
+          "textOz": "Barchasida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4894
+      ]
+    },
+    {
+      "id": 49,
+      "questionUz": "Йўл патруль ҳизмат ҳодимларига йў л ҳаракат қатнашчилари билан ўзаро муносабатлари ва махсуз мосламалардан фойдаланишда низом тўгрисидаги қонунда қандай тартиб қўйилган ?",
+      "questionRu": "Каков порядок, установленный законом о регулировании взаимодействия сотрудников дорожной полиции с участниками дорожного движения и использовании специальных средств?",
+      "questionOz": "Yo'l patrul xizmat hodimlariga yo'l harakat qatnashchilari bilan o'zaro munosabatlari va maxsuz moslamalardan foydalanishda nizom to'grisidagi qonunda qanday tartib qo'yilgan ?",
+      "explanationUz": "Йўл-патруль хизмати ходимлари барча кўрсатилган ҳолларда — ҳодисаларнинг олдини олиш, махсус тадбирларни ўтказиш, шунингдек, транспорт воситаларини таъқиб қилиш ва кузатиш жараёнида махсус мосламалардан фойдаланишлари мумкин.",
+      "explanationRu": "Сотрудники дорожно-патрульной службы могут использовать специальные средства во всех указанных случаях: для предотвращения происшествий, проведения специальных мероприятий, а также при преследовании и наблюдении за транспортными средствами.",
+      "explanationOz": "Yo'l patrul xizmati xodimlari barcha ko'rsatilgan hollarda — hodisalarni oldini olish, maxsus tadbirlar, ta'qib va kuzatish uchun maxsus moslamalardan foydalanishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4895,
+          "textUz": "Йўл транспорт ҳодисасини олдини олиш ва ҳаракат ҳафсизлигини таминлаш",
+          "textRu": "Предотвращение дорожно-транспортных происшествий и обеспечение безопасности дорожного движения.",
+          "textOz": "Yo'l transport hodisasini oldini olish va harakat hafsizligini taminlash",
+          "isCorrect": false
+        },
+        {
+          "id": 4896,
+          "textUz": "Махсуз тадбирлар ўтқазиш",
+          "textRu": "Организация специальных мероприятий",
+          "textOz": "Maxsuz tadbirlar o'tqazish",
+          "isCorrect": false
+        },
+        {
+          "id": 4897,
+          "textUz": "Тақиб қилиш",
+          "textRu": "Преследование",
+          "textOz": "Taqib qilish",
+          "isCorrect": false
+        },
+        {
+          "id": 4898,
+          "textUz": "Кузатиш",
+          "textRu": "Наблюдение",
+          "textOz": "Kuzatish",
+          "isCorrect": false
+        },
+        {
+          "id": 4899,
+          "textUz": "Кўрсатилган барча жавоблар",
+          "textRu": "Все ответы показаны.",
+          "textOz": "Ko'rsatilgan barcha javoblar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4899
+      ]
+    },
+    {
+      "id": 1211,
+      "questionUz": "L-тоифаси бу?",
+      "questionRu": "Категория L — это?",
+      "questionOz": "L - toifasi bu?",
+      "explanationUz": "ЙҲҚ га 3-ИЛОВА 7.22 банди 25-хатбошига асосан: Л тоифаси — мототранспорт воситалари.",
+      "explanationRu": "На основании пункта 7.22 абзаца 25 Приложения 3 к ПДД: Категория L — мототранспортные средства.",
+      "explanationOz": "YHQga 3-ILOVA 7.22 bandi 25-xatboshiga asosan: L toifasi — mototransport vositalari.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4202,
+          "textUz": "Юк автомобиллари",
+          "textRu": "Грузовые автомобили",
+          "textOz": "Yuk avtomobillari",
+          "isCorrect": false
+        },
+        {
+          "id": 4203,
+          "textUz": "Мототранспорт воситалари",
+          "textRu": "Мототранспортные средства",
+          "textOz": "Mototransport vositalari",
+          "isCorrect": true
+        },
+        {
+          "id": 4204,
+          "textUz": "Йўловчи ташувчи транспорт воситалари",
+          "textRu": "Пассажирские транспортные средства",
+          "textOz": "Yo‘lovchi tashuvchi transport vositalari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4203
+      ]
+    },
+    {
+      "id": 1228,
+      "questionUz": "Ушбу кўрсатилган йўл нечта қатнов қисмига эга?\r\n",
+      "questionRu": "Сколько проезжих частей имеет данная дорога?",
+      "questionOz": "Ushbu ko‘rsatilgan yo‘l nechta qatnov qismiga ega?",
+      "explanationUz": "ЙҲҚнинг 6-бандига асосан:\r\n\r\nАжратувчи минтақа — йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан кўтарилган ёки майсазор, ариқ, махсус тўсиқлар билан ажратилган баланд қисми.\r\n\r\nМазкур йўлда қатнов қисмлари ажратувчи минтақа билан ажратилганлиги сабабли йўл иккита қатнов қисмига эга.",
+      "explanationRu": "Согласно пункту 6 Правил дорожного движения:\r\n\r\nРазделительная полоса — это часть дороги, разделяющая расположенные рядом проезжие части, не предназначенная для движения или остановки транспортных средств и выделенная газоном, канавой, специальными ограждениями либо приподнятая над уровнем проезжей части.\r\n\r\nПоскольку на данной дороге проезжие части разделены разделительной полосой, дорога имеет две проезжие части.",
+      "explanationOz": "Ajratuvchi mintaqa — yo‘lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to‘xtashi uchun mo‘ljallanmagan, yo‘l sathidan ko‘tarilgan yoki maysazor, ariq, maxsus to‘siqlar bilan ajratilgan baland qismi.\r\n\r\nMazkur yo‘lda qatnov qismlari ajratuvchi mintaqa bilan ajratilganligi sababli yo‘l ikkita qatnov qismiga ega.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378058684-473290937.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6613,
+          "textUz": "Битта",
+          "textRu": "Одна",
+          "textOz": "Bitta",
+          "isCorrect": false
+        },
+        {
+          "id": 6614,
+          "textUz": "Иккита",
+          "textRu": "Две",
+          "textOz": "Ikkita",
+          "isCorrect": true
+        },
+        {
+          "id": 6615,
+          "textUz": "Саккизта",
+          "textRu": "Восемь",
+          "textOz": "Sakkizta",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6614
+      ]
+    }
+  ]
+}

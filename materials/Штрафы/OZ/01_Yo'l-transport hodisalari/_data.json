@@ -1,0 +1,36 @@
+{
+  "category": "Yo'l-transport hodisalari",
+  "count": 3,
+  "fines": [
+    {
+      "article": 133,
+      "subArticle": null,
+      "violation": "Yengil tan jarohatiga olib kelgan qoidabuzarlik",
+      "fineBhm": "7.00",
+      "fineUzs": "2884000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "yoki 3 yilgacha haydovchilik guvohnomasidan mahrum etish",
+      "repeatOffense": false
+    },
+    {
+      "article": 134,
+      "subArticle": null,
+      "violation": "Mol-mulkka zarar yetkazish (moddiy zarar)",
+      "fineBhm": "4.00",
+      "fineUzs": "1648000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": "yoki 1 yil muddatga haydovchilik guvohnomasidan mahrum etish",
+      "repeatOffense": false
+    },
+    {
+      "article": 134,
+      "subArticle": null,
+      "violation": "YTH joyidan qochish",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": "yoki 15 sutkagacha ma'muriy qamoq, 1-2 yilga guvohnomasidan mahrum qilish",
+      "repeatOffense": false
+    }
+  ]
+}

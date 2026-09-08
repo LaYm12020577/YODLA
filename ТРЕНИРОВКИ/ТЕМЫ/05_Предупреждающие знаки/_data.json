@@ -1,0 +1,1492 @@
+{
+  "title": "05. Предупреждающие знаки (боб 1.1)",
+  "count": 36,
+  "questions": [
+    {
+      "id": 91,
+      "questionUz": "Мазкур йўл белгиси нимани билдиради?",
+      "questionRu": "Этот дорожный знак обозначает:",
+      "questionOz": "Mazkur yo'l belgisi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.20. «Пиёдалар ўтиш жойи» белгиси 5.16.1, 5.16.2 белгилари ва (ёки) 1.14.1 — 1.14.3 чизиқлари билан белгиланган пиёдалар ўтиш жойини билдиради.",
+      "explanationRu": "Знак 1.20 «Пешеходный переход» раздела 1 приложения № 1 к ПДД, пешеходный переход, обозначенный знаками 5.16.1, 5.16.2 и (или) разметкой 1.14.1-1. 14.3.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.20. \"Piyodalar o'tish joyi\" belgisi 5.16.1, 5.16.2 belgilari va (yoki) 1.14.1-1.14.3 chiziqlari bilan belgilangan piyodalar o'tish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 277,
+          "textUz": "Йўлнинг тротуар ёки пиёдалар йўлкаси бўлган қисмини",
+          "textRu": "Участок дороги, на котором имеется тротуар или пешеходная дорожка",
+          "textOz": "Yo'lning trotuar yoki piyodalar yo'lkasi bo'lgan qismini",
+          "isCorrect": false
+        },
+        {
+          "id": 278,
+          "textUz": "Йўлнинг пиёдалар ўтиш жойи бўлган қисмини",
+          "textRu": "Участок дороги, на котором имеется пешеходный переход",
+          "textOz": "Yo'lning piyodalar o'tish joyi bo'lgan qismini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        278
+      ]
+    },
+    {
+      "id": 92,
+      "questionUz": "Ушбу йўл белгиси нима ҳақида огоҳлантиради?",
+      "questionRu": "Этот дорожный знак предупреждает:",
+      "questionOz": "Ushbu yo'l belgisi nima haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.3.1 белги «Бир изли темир йўл» – шлагбаум билан жиҳозланмаган бир изли темир йўл кесишмаси хақида огоҳлантиради.",
+      "explanationRu": "Согласно знаку 1.3.1 раздела 1 приложения № 1 к ПДД, «Однопутная железная дорога» обозначение необорудованного шлагбаумом переезда с одним путем.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.3.1 belgi \"Bir izli temir yo'l\" – shlagbaum bilan jihozlanmagan bir izli temir yo'l kesishmasi haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 279,
+          "textUz": "Бир изли темир йўл кесишмасигa яқинлашаётганлиги ҳақида",
+          "textRu": "О приближение к железнодорожному переезду с одним путем",
+          "textOz": "Bir izli temir yo'l kesishmasiga yaqinlashayotganligi haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 280,
+          "textUz": "Шлагбаум билан жихозланмаган бир изли темир йўл кесишмаси борлигидан",
+          "textRu": "Необорудованный шлагбаумом железнодорожный переезд с одним путем",
+          "textOz": "Shlagbaum bilan jixozlanmagan bir izli temir yo'l kesishmasi borligidan",
+          "isCorrect": true
+        },
+        {
+          "id": 281,
+          "textUz": "Шлагбаум билан жихозланмаган икки изли темир йўл кесишмаси борлигидан",
+          "textRu": "Необорудованный шлагбаумом Железнодорожный переезд с двумя путями",
+          "textOz": "Shlagbaum bilan jixozlanmagan ikki izli temir yo'l kesishmasi borligidan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        280
+      ]
+    },
+    {
+      "id": 93,
+      "questionUz": "Бу белгилар аҳоли яшайдиган жойларда ҳавфли йўл қисми бошланишидан қанча масофада ўрнатилади?",
+      "questionRu": "На каком расстоянии до начала опасного участка устанавливаются эти знаки в населенных пунктах?",
+      "questionOz": "Bu belgilar aholi yashaydigan joylarda havfli yo'l qismi boshlanishidan qancha masofada o'rnatiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими изоҳининг 1-хатбошига асосан, 1.1, 1.2, 1.6, 1.8 и 1.30 огоҳлантирувчи белгилар аҳоли пунктларида хавфли жойдан 50-100 метр олдин ўрнатилади.",
+      "explanationRu": "Согласно абзацу 1 раздела 1 приложения № 1 к ПДД, перечисленные предупреждающие знаки 1.1, 1.2, 1.6, 1.8 и 1.30 устанавливаются в населенных пунктах – на расстоянии 50-100 метр до начала опасного участка.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi izohining 1-xatboshiga asosan, 1.1, 1.2, 1.6, 1.8 i 1.30 ogohlantiruvchi belgilar aholi punktlarida xavfli joydan 50-100 metr oldin o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 282,
+          "textUz": "15-25 м",
+          "textRu": "15-25 м",
+          "textOz": "15-25 m",
+          "isCorrect": false
+        },
+        {
+          "id": 283,
+          "textUz": "25-50 м",
+          "textRu": "25-50 м",
+          "textOz": "25-50 m",
+          "isCorrect": false
+        },
+        {
+          "id": 284,
+          "textUz": "50-100 м",
+          "textRu": "50-100 м",
+          "textOz": "50-100 m",
+          "isCorrect": true
+        },
+        {
+          "id": 285,
+          "textUz": "100-150 м",
+          "textRu": "100-150 м",
+          "textOz": "100-150 m",
+          "isCorrect": false
+        },
+        {
+          "id": 286,
+          "textUz": "150-300 м",
+          "textRu": "150-300 м",
+          "textOz": "150-300 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        284
+      ]
+    },
+    {
+      "id": 94,
+      "questionUz": "Қайси белги «Т» симон чорраҳада ҳаракатланиш йўналишини кўрсатади?",
+      "questionRu": "Какой знак указывает направление движения на Т-образном перекрестке?",
+      "questionOz": "Qaysi belgi «T» simon chorrahada harakatlanish yo'nalishini ko'rsatadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.31.3. «Бурилишнинг йўналиши» белгиси Т-симон чорраҳада ёки йўл айрилишларида ҳаракатланиш йўналишини, таъмирланаётган йўл қисмини айланиб ўтиш йўналишини билдиради.",
+      "explanationRu": "Знак 1.31.3 «Направление поворота»  раздела 1 приложения № 1 к ПДД, направление движения на Т–образном перекрестке или разветвлении дорог. Направление объезда ремонтируемого участка дороги.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.31.3. \"Burilishning yo'nalishi\" belgisi T-Simon chorrahada yoki yo'l ayrilishlarida harakatlanish yo'nalishini, ta'mirlanayotgan yo'l qismini aylanib o'tish yo'nalishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 287,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 288,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 289,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 290,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 291,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        288
+      ]
+    },
+    {
+      "id": 95,
+      "questionUz": "Қайси белги тенг аҳамиятли йўллар кесишиш чорраҳасига яқинлашиб келаётганлик ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает о приближении к перекрестку равнозначных дорог?",
+      "questionOz": "Qaysi belgi teng ahamiyatli yo'llar kesishish chorrahasiga yaqinlashib kelayotganlik haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.6 белгига асосан, «Тенг аҳамиятли йўллар кесишуви» ҳайдовчиларни тенг аҳамиятли йўллар чорраҳасига яқинлашаётганлиги ҳақида ахборот беради.",
+      "explanationRu": "Согласно знаку 1.6 раздела 1 приложения № 1 к ПДД, «Пересечение равнозначных дорог» информирует водителей о приближении к перекрестку равных по значению дорог.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo‘limidagi 1.6 belgiga asosan, “Teng ahamiyatli yo‘llar kesishuvi” haydovchilarni teng ahamiyatli yo‘llar chorrahasiga yaqinlashayotganligi haqida axborot beradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 292,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 293,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 294,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 295,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 296,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        296
+      ]
+    },
+    {
+      "id": 96,
+      "questionUz": "Қуйидаги қайси белгилар огоҳлантирувчи белгилар жумласига киради?",
+      "questionRu": "Какие из указанных знаков относятся к предупреждающим?",
+      "questionOz": "Quyidagi qaysi belgilar ogohlantiruvchi belgilar jumlasiga kiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.11.1 белгига асосан, «Хавфли бурилиш». 1.11.1 — ўнгга, йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради.",
+      "explanationRu": "Знак 1.11.1 раздела 1 приложения № 1 к ПДД, «Опасный поворот». Закругление дороги малого радиуса или с ограниченной видимостью: 1.11.1 — направо.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo‘limidagi 1.11.1 belgiga asosan, «Xavfli burilish». 1.11.1 — o‘ngga, yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 297,
+          "textUz": "Иккинчидан бошқа барчаси",
+          "textRu": "Все кроме второго",
+          "textOz": "Ikkinchidan boshqa barchasi",
+          "isCorrect": false
+        },
+        {
+          "id": 298,
+          "textUz": "Учинчидан бошқа барчаси",
+          "textRu": "Все кроме третьего",
+          "textOz": "Uchinchidan boshqa barchasi",
+          "isCorrect": false
+        },
+        {
+          "id": 299,
+          "textUz": "Ҳаммаси",
+          "textRu": "Все",
+          "textOz": "Hammasi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        299
+      ]
+    },
+    {
+      "id": 97,
+      "questionUz": "Аҳоли пунктларидан ташқарида қайси белги такрорланади?",
+      "questionRu": "Какие знаки обязательно повторяются при установке вне населенных пунктов?",
+      "questionOz": "Aholi punktlaridan tashqarida qaysi belgi takrorlanadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.10 белги «Соҳилга чиқиш» белгиси аҳоли пунктларидан ташқарида такрорланади. Иккинчи белги йўлнинг хавфли қисми бошланишига камида 50 метр қолганда ўрнатилади.",
+      "explanationRu": "Знак 1.10 «Выезд на набережную»  раздела 1 приложения № 1 к ПДД, вне населенных пунктов повторяются. Второй знак устанавливается на расстоянии не менее 50 м до начала опасного участка.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.10 belgi \"Sohilga chiqish\" belgisi aholi punklaridan tashqari takrorlanadi. Ikkinchi belgi yo'lning xavfli qismi boshlanishiga kamida 50 metr qolganda o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/9.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 300,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 301,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 302,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 303,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 304,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        302
+      ]
+    },
+    {
+      "id": 98,
+      "questionUz": "Қайси белги «Велосипед йўлкаси билан кесишув»ни билдиради?",
+      "questionRu": "Какой знак называется “Пересечение с велосипедной дорожкой”?",
+      "questionOz": "Qaysi belgi «Velosiped yo'lkasi bilan kesishuv»ni bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.22 белги «Велосипед йўлкаси билан кесишув»ни билдиради.",
+      "explanationRu": "Согласно знаку 1.22 раздела 1 приложения № 1 к ПДД, «Пересечение с велосипедной дорожкой».",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.22 belgi \"Velosiped yo'lkasi bilan kesishuv\"ni bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 305,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 306,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 307,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 308,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 309,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        306
+      ]
+    },
+    {
+      "id": 99,
+      "questionUz": "Қайси белги йўлнинг хавфли бурилишига яқинлашаётгани ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает о приближении к опасному повороту дороги?",
+      "questionOz": "Qaysi belgi yo'lning xavfli burilishiga yaqinlashayotgani haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.11.2 «Хавфли бурилиш» белгиси йўлнинг кичик радиусли ёки кўриниш чекланган бурилиш жойи ҳақида огоҳлантиради, 1.11.2 – чапга.",
+      "explanationRu": "Знак 1.11.2 раздела 1 приложения № 1 к ПДД, «Опасный поворот» предупреждает о приближении к закруглению дороги малого радиуса или с ограниченной видимостью, 1.11.2 – налево.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.11.2 “Xavfli burilish” belgisi yo'lning kichik radiusli yoki ko'rinish cheklangan burilish joyi haqida ogohlantiradi, 1.11.2-chapga.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 310,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 311,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 312,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 313,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 314,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        311
+      ]
+    },
+    {
+      "id": 100,
+      "questionUz": "Қайси йўлдан ҳаракатланишга рухсат этилган?",
+      "questionRu": "По какому пути разрешено движение?",
+      "questionOz": "Qaysi yo'ldan harakatlanishga ruxsat etilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.11.2 белгиси «Хавфли бурилиш» – чапга, йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради ва 1.31.2 йўл белгиси «Бурилишнинг йўналиши», кичик радиусли, кўриниши чекланган йўлда ҳаракатланиш йўналишини ва йўлнинг таъмирланаётган қисмини айланиб ўтиш йўналишини билдиради. Тўғрига чапга ёки ўнга ҳаракатланиш тақиқланмаган.",
+      "explanationRu": "Знак 1.11.2 раздела 1 приложения № 1 к ПДД, «Опасный поворот», закругление дороги малого радиуса или с ограниченной видимостью – налево и знак 1.31.2. «Направление поворота», направление движения на закруглении дороги малого радиуса с ограниченной видимостью и направление объезда ремонтируемого участка дороги. Не запрещается движение прямо влево или вправо.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.11.2 belgisi \"Xavfli burilish\" – chapga, yo'lning kichik radiusli yoki ko'rinishi cheklangan burilish joyini bildiradi va 1.31.2 yo'l belgisi \"Burilishning yo'nalishi\", kichik radiusli, ko'rinishi cheklangan yo'lda harakatlanish yo'nalishini va yo'lning ta'mirlanayotgan qismini aylanib o'tish yo'nalishini bildiradi. To'g'riga chapga yoki o'nga harakatlanish taqiqlanmagan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 315,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": false
+        },
+        {
+          "id": 316,
+          "textUz": "«B»",
+          "textRu": "«B»",
+          "textOz": "«B»",
+          "isCorrect": false
+        },
+        {
+          "id": 317,
+          "textUz": "«А» ва «B»",
+          "textRu": "«А» и «B»",
+          "textOz": "«А» va «B»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        317
+      ]
+    },
+    {
+      "id": 101,
+      "questionUz": "Бу йўл белгиси олдинда нима борлигидан огоҳлантиради?",
+      "questionRu": "Этот дорожный знак предупреждает, что впереди:",
+      "questionOz": "Bu yo'l belgisi oldinda nima borligidan ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.10 белги «Соҳилга чиқиш» – дарё ёки сув ҳавзаси қирғоғига чиқиш ҳақида огоҳлантиради.",
+      "explanationRu": "Знак 1.10 «Выезд на набережную» раздела 1 приложения № 1 к ПДД, предупреждает о выезде на набережную реки или берег водоема.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.10 belgi \"Sohilga chiqish\" - daryo yoki suv havzasi qirg'og'iga chiqish haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 318,
+          "textUz": "Kўприк ёки солда кечими бўлмаган сув тўсиқли йўл қисми борлигидан",
+          "textRu": "Участок дороги с водной преградой; не имеющий моста или паромной переправы",
+          "textOz": "Ko'prik yoki solda kechimi bo'lmagan suv to'siqli yo'l qismi borligidan",
+          "isCorrect": false
+        },
+        {
+          "id": 319,
+          "textUz": "Сув тўсиқли йўл қисмида очиб қўйиладиган кўприк борлигидан",
+          "textRu": "Участок дороги с водной преградой; на котором имеется разводной мост",
+          "textOz": "Suv to'siqli yo'l qismida ochib qo'yiladigan ko'prik borligidan",
+          "isCorrect": false
+        },
+        {
+          "id": 320,
+          "textUz": "Йўл анҳор ёқасига ёки бирор-бир сув ҳавзасининг қирғоғига чиқиладиган жойи борлигидан",
+          "textRu": "Место; где дорога выходит на набережную или берег какого-либо водоема",
+          "textOz": "Yo'l anhor yoqasiga yoki biror-bir suv havzasining qirg'og'iga chiqiladigan joyi borligidan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        320
+      ]
+    },
+    {
+      "id": 102,
+      "questionUz": "Бу йўл белгиси нимани билдиради?",
+      "questionRu": "Этот дорожный знак обозначает:",
+      "questionOz": "Bu yo'l belgisi nimani bildiradi?",
+      "explanationUz": "YHQ 1-ilovasining 1-bo'limidagi 1.3.2. \"Ko'p izli temir yo'l\" belgisi ikki va undan ortiq izli temir yo'l belgilari shlagbaum bilan jihozlanmagan temir yo'l kesishmasi oldida o'rnatiladi.",
+      "explanationRu": "Знак 1.3.2 «Многопутная железная дорога» раздела 1 приложения № 1 к ПДД, для обозначение необорудованного шлагбаумом переезда через железную дорогу с двумя и более путями.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.3.2. \"Ko'p izli temir yo'l\" belgisi ikki va undan ortiq izli temir yo'l belgilari shlagbaum bilan jihozlanmagan temir yo'l kesishmasi oldida o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 321,
+          "textUz": "Шлагбаум билан жиҳозланмаган бир изли темир йўл кесишмасини",
+          "textRu": "Не оборудованный шлагбаумом железнодорожный переезд через железную дорогу с одним путем",
+          "textOz": "Shlagbaum bilan jihozlanmagan bir izli temir yo'l kesishmasini",
+          "isCorrect": false
+        },
+        {
+          "id": 322,
+          "textUz": "Шлагбаум билан жиҳозланган бир изли темир йўл кесишмасини",
+          "textRu": "Оборудованный шлагбаумом железнодорожный переезд с одним путем",
+          "textOz": "Shlagbaum bilan jihozlangan bir izli temir yo'l kesishmasini",
+          "isCorrect": false
+        },
+        {
+          "id": 323,
+          "textUz": "Шлагбаум билан жиҳозланмаган икки ва ундан кўп изли темир йўл кесишмасини",
+          "textRu": "Не оборудованный шлагбаумом железнодорожный переезд с двумя и более путями",
+          "textOz": "Shlagbaum bilan jihozlanmagan ikki va undan ko'p izli temir yo'l kesishmasini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        323
+      ]
+    },
+    {
+      "id": 103,
+      "questionUz": "Белгилардан қайси бири бевосита йўлнинг хавфли қисми олдига ўрнатилади?",
+      "questionRu": "Какой из знаков устанавливается непосредственно перед опасным участком дороги?",
+      "questionOz": "Belgilardan qaysi biri bevosita yo'lning xavfli qismi oldiga o'rnatiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимига мувофиқ, 1.3.1 «Бир изли темир йўли»  белгиси бевосита шлагбаум билан жиҳозланмаган бир изли темир йўл кесишмаси олдида ўрнатилади.",
+      "explanationRu": "Согласно разделу 1 приложения № 1 к ПДД, 1.3.1 «Однопутная железная дорога» знак устанавливается непосредственно перед однопутным железнодорожным переездом, не оборудованным шлагбаумом.",
+      "explanationOz": "YHQ 1-bo'limiga muvofiq, 1.3.1 \"Bir izli temir yo'li\" belgisi bevosita shlagbaum bilan jihozlanmagan bir izli temir yo'l kesishmasi oldida o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 324,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 325,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 326,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 327,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 328,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        328
+      ]
+    },
+    {
+      "id": 104,
+      "questionUz": "Қайси белги шлагбаумли темир йўл кесишмасига яқинлашганлик ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает о приближении к железнодорожному переезду со шлагбаумом?",
+      "questionOz": "Qaysi belgi shlagbaumli temir yo'l kesishmasiga yaqinlashganlik haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.1 «Шлагбаумли темир йўл кесишмаси» белгиси шлагбаум билан жиҳозланган темир йўл кесишмасига яқинлашаётганлиги ҳақида огоҳлантиради.",
+      "explanationRu": "Знак 1.1 раздела 1 приложения № 1 к ПДД, «Железнодорожный переезд со шлагбаумом». Предупреждает водителей о приближении к железнодорожному переезду, оборудованному шлагбаумом.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.1 \"Shlagbaumli temir yo'l kesishmasi\" belgisi shlagbaum bilan jihozlangan temir yo'l kesishmasiga yaqinlashayotganligi haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/28.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 329,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 330,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 331,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 332,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 333,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        332
+      ]
+    },
+    {
+      "id": 105,
+      "questionUz": "Ушбу йўл белгиси чорраҳага яқинлашаётганлик тўғрисида огоҳлантиради, бунда Сиз:",
+      "questionRu": "Этот знак предупреждает о приближении к перекрестку, на котором Вы:",
+      "questionOz": "Ushbu yo'l belgisi chorrahaga yaqinlashayotganlik to'g'risida ogohlantiradi, bunda Siz:",
+      "explanationUz": "Расмда кўрсатилган йўл белгиси тенг аҳамиятли чорраҳага яқинлашаётганингизни огоҳлантиради. Бундай чорраҳаларда сиз ўнг томонингиздан яқинлашиб келаётган транспорт воситаларига йўл беришингиз керак.",
+      "explanationRu": "Дорожный знак, показанный на рисунке, предупреждает о приближении к перекрёстку равнозначных дорог. На таких перекрёстках вы обязаны уступить дорогу транспортным средствам, приближающимся справа.",
+      "explanationOz": "Rasmda ko'rsatilgan  yo'l belgisi tenh ahamiyatli chorrahaga yaqinlashayotganingizni ogohlantiradi. Bunday chorahhalarda siz o'ng tomondangizdan yaqinlashib kelayotgan  transport vositalariga yo'l berishingiz kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4949,
+          "textUz": "Биринчи бўлиб ўтиш ҳуқуқига эгасиз",
+          "textRu": "Имеете право преимущественного проезда",
+          "textOz": "Birinchi bo'lib o'tish huquqiga egasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 4950,
+          "textUz": "Кесиб ўтаётган йўлдаги транспорт воситаларига йўл беришингиз керак",
+          "textRu": "Должны уступить дорогу всем транспортным средствам, движущимся по пересекаемой дороге",
+          "textOz": "Kesib o'tayotgan yo'ldagi transport vositalariga yo'l berishingiz kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 4951,
+          "textUz": "Фақатгина ўнг томондан яқинлашиб келаётган транспорт воситаларига йўл беришингиз керак",
+          "textRu": "Должны уступить дорогу только транспортным средствам, приближающимся справа",
+          "textOz": "Faqatgina o'ng tomondan yaqinlashib kelayotgan transport vositalariga yo'l berishingiz kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4951
+      ]
+    },
+    {
+      "id": 106,
+      "questionUz": "Ушбу белги...",
+      "questionRu": "Этот знак...",
+      "questionOz": "Ushbu belgi...",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.32 «Тирбандлик». Ушбу йўл белгиси вақтинчалик ёки тасвири ўзгарадиган ҳолатда тирбандлик ҳосил бўлган йўл ёки чорраҳага кириш олдидан йўлни ёки чорраҳани айланиб ўтиш имконияти бўлган жойга ўрнатилади.",
+      "explanationRu": "Знак 1.32 раздела 1 приложения № 1 к ПДД, «Затор». Знак применяется в качестве временного или в знаках с изменяемым изображением перед перекрёстком, откуда возможен объезд участка дороги, на котором образовался затор.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.32 \"Tirbandlik\". Ushbu yo'l belgisi vaqtinchalik yoki tasviri o'zgaradigan holatda tirbandlik hosil bo'lgan yo'l yoki chorrahaga kirish oldidan yo'lni yoki chorrahani aylanib o'tish imkoniyati bo'lgan joyga o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 337,
+          "textUz": "Олдинда ҳаракатланиш серқатновлиги ҳақида огоҳлантиради",
+          "textRu": "Предупреждает об интенсивном движении транспортных средств.",
+          "textOz": "Oldinda harakatlanish serqatnovligi haqida ogohlantiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 338,
+          "textUz": "Олдинда транспорт воситаларнинг тирбандлиги ҳақида огоҳлантиради",
+          "textRu": "Предупреждает о заторах впереди.",
+          "textOz": "Oldinda transport vositalarning tirbandligi haqida ogohlantiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 339,
+          "textUz": "Олдинда транспорт воситалари орасида хавфсиз оралиқни таъминлаш лозимлиги ҳақида огоҳлантиради.",
+          "textRu": "Предупреждает о необходимости обеспечения безопасной дистанции между впереди идущими автомобилями",
+          "textOz": "Oldinda transport vositalari orasida xavfsiz oraliqni taminlash lozimligi haqida ogohlantiradi.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        338
+      ]
+    },
+    {
+      "id": 107,
+      "questionUz": "Қуйидаги белгилардан қайси бири ҳайдовчини бошқа хавф-хатарлар тўғрисида огоҳлантиради?",
+      "questionRu": "Какой из указанных знаков предупреждает водителя о других опасностях?",
+      "questionOz": "Quyidagi belgilardan qaysi biri haydovchini boshqa xavf-xatarlar to'g'risida ogohlantiradi?",
+      "explanationUz": "1.30. «Бошқа хавф-хатарлар» йўл белгиси ҳайдовчини йўлнинг ушбу қисмида бошқа огоҳлантирувчи белгилар билан ифодаланмаган хавф мавжудлиги ҳақида огоҳлантиради. Тўғри жавоб — 3-расм.",
+      "explanationRu": "Дорожный знак 1.30 «Прочие опасности» предупреждает водителя о наличии на данном участке дороги опасности, не предусмотренной другими предупреждающими знаками. Правильный ответ — рисунок 3.",
+      "explanationOz": "1.30. “Boshqa xavf-xatarlar” yoʻl belgisi haydovchini yoʻlning ushbu qismida boshqa ogohlantiruvchi belgilar bilan ifodalanmagan xavf mavjudligi haqida ogohlantiradi. Toʻgʻri javob — 3-rasm.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6818,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 6819,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "Б",
+          "isCorrect": false
+        },
+        {
+          "id": 6820,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "В",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6820
+      ]
+    },
+    {
+      "id": 109,
+      "questionUz": "Кўрсатилган қайси белги йўлнинг ўта сирпанчиқ бўлган қисмини билдиради?",
+      "questionRu": "Какой из показанных знаков указывает на очень скользкий участок дороги?",
+      "questionOz": "Ko'rsatilgan qaysi belgi yo'lning o'ta sirpanchiq bo'lgan qismini bildiradi?",
+      "explanationUz": "1.15. «Сирпанчиқ йўл». Бу белги қатнов қисми ўта сирпанчиқ бўлган йўл қисми ҳақида огоҳлантиради.",
+      "explanationRu": "1.15. «Скользкая дорога». Этот знак предупреждает об участке дороги с повышенной скользкостью проезжей части.",
+      "explanationOz": "1.15. “Sirpanchiq yoʻl”. Bu belgi qatnov qismi oʻta sirpanchiq boʻlgan yoʻl qismini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/43.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6833,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 6834,
+          "textUz": "А ва Б",
+          "textRu": "А и Б",
+          "textOz": "А va Б",
+          "isCorrect": false
+        },
+        {
+          "id": 6835,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "В",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6835
+      ]
+    },
+    {
+      "id": 110,
+      "questionUz": "Қайси белги темир йўл кесишмасини тўсувчи мослама билан жиҳозланганлиги ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает водителя об оборудования заградительным устройством  железнодорожного переезда?",
+      "questionOz": "Qaysi belgi temir yo'l kesishmasini to'suvchi moslama bilan jihozlanganligi haqida ogohlantiradi?",
+      "explanationUz": "1.34. «Диққат, бошқариладиган тўсиқ». Ушбу йўл белгиси бошқариладиган тўсувчи қурилмага етмасдан олдин ўрнатилади ва транспорт воситалари ҳайдовчиларини олдинда тўсувчи қурилма мавжудлиги ҳақида огоҳлантиради.",
+      "explanationRu": "1.34. «Внимание, управляемое заграждение». Этот дорожный знак устанавливается перед управляемым заграждением и предупреждает водителей транспортных средств о наличии впереди заграждающего устройства.",
+      "explanationOz": "1.34. “Diqqat, boshqariladigan toʻsiq”. Ushbu yoʻl belgisi boshqariladigan toʻsuvchi qurilmasiga yetmasdan oʻrnatiladi va transport vositalari haydovchilarini oldinda toʻsuvchi qurilma borligi haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/43.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4958,
+          "textUz": "A",
+          "textRu": "A",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 4959,
+          "textUz": "B",
+          "textRu": "B",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 4960,
+          "textUz": "C",
+          "textRu": "C",
+          "textOz": "C",
+          "isCorrect": true
+        },
+        {
+          "id": 4961,
+          "textUz": "D",
+          "textRu": "D",
+          "textOz": "D",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4960
+      ]
+    },
+    {
+      "id": 111,
+      "questionUz": "Ушбу белги нимани билдиради?",
+      "questionRu": "О чём предупреждает этот знак?",
+      "questionOz": "Ushbu belgi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ, 1.31. “Сунъий йўл нотекислиги” белгиси.",
+      "explanationRu": "ПДД, Знак 1.31. “Искусственная неровность дороги”.",
+      "explanationOz": "YHQ, 1.31. “Sun’iy yo‘l notekisligi” belgisi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/44.1.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4557,
+          "textUz": "Олдинда тик баландлик борлигини",
+          "textRu": "Впереди крутой подъём",
+          "textOz": "Oldinda tik balandlik borligini",
+          "isCorrect": false
+        },
+        {
+          "id": 4558,
+          "textUz": "Олдинда кўтарма кўприк борлигини",
+          "textRu": "Что впереди разводной мост",
+          "textOz": "Oldinda ko'tarma ko'prik borligini",
+          "isCorrect": false
+        },
+        {
+          "id": 4559,
+          "textUz": "Сунъий йўл нотекслигини",
+          "textRu": "Искусственная неровность дороги",
+          "textOz": "Suniy yo'l noteksligini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4559
+      ]
+    },
+    {
+      "id": 112,
+      "questionUz": "Ушбу белгилардан қайси бири \"Нотекис йўл\" деб аталади?",
+      "questionRu": "Какой из этих знаков называется «Неровная дорога»?",
+      "questionOz": "Ushbu belgilardan qaysi biri \"Notekis yo'l\" deb ataladi?",
+      "explanationUz": "1.16. «Нотекис йўл». Бу белги қатнов қисми нотекис бўлган йўл қисмини билдиради. Бундай йўлларда ўнқир-чўнқирлар, ўйдим-чуқурлар, кўприкнинг йўлга нотекис туташуви ва шунга ўхшаш нотекисликлар мавжуд бўлиши мумкин.",
+      "explanationRu": "1.16. «Неровная дорога». Этот знак обозначает участок дороги с неровной проезжей частью. На таких участках могут встречаться выбоины, бугры, впадины, неровные стыки мостов с дорогой и другие подобные неровности.",
+      "explanationOz": "1.16. “Notekis yoʻl”. Bu belgi qatnov qismi notekis boʻlgan yoʻl qismini bildiradi. Bunday yoʻllarda oʻnqir-choʻnqirlar, oʻydim-chuqurlar, koʻprikning yoʻlga notekis tutashuvi va shunga oʻxshash notekisliklar mavjud boʻlishi mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/44.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4962,
+          "textUz": "A",
+          "textRu": "A",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 4963,
+          "textUz": "B",
+          "textRu": "B",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 4964,
+          "textUz": "C",
+          "textRu": "C",
+          "textOz": "C",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4964
+      ]
+    },
+    {
+      "id": 113,
+      "questionUz": "Ушбу белгилардан қайси бири олдинда йўл қопламаси устида сунъий нотекслик борлиги ҳақида огоҳлантиради?",
+      "questionRu": "Какой из этих знаков предупреждает о наличии впереди искусственной неровности дорожного покрытия?",
+      "questionOz": "Ushbu belgilardan qaysi biri oldinda yo'l qoplamasi ustida suniy notekslik borligi haqida ogohlantiradi?",
+      "explanationUz": "1.31. «Сунъий йўл нотекислиги». Ушбу белги ҳайдовчини йўлнинг сунъий нотекислик (тезликни пасайтирувчи мослама) ўрнатилган қисмига яқинлашаётганлиги ҳақида огоҳлантиради. У транспорт воситаларининг ҳаракатланиш тезлигини мажбурий равишда камайтириш мақсадида қўлланилади.",
+      "explanationRu": "1.31. «Искусственная неровность». Этот дорожный знак предупреждает водителя о приближении к участку дороги, на котором установлена искусственная неровность («лежачий полицейский»). Он применяется для принудительного снижения скорости движения транспортных средств.",
+      "explanationOz": "1.31. “Sunʼiy yoʻl notekisligi”. Yoʻlning sunʼiy notekislik oʻrnatilgan qismiga yaqinlashayotganligi toʻgʻrisida ogohlantiradi. Transport vositasining harakatlanish tezligini majburiy tarzda kamaytirish uchun qoʻllaniladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/45.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4965,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 4966,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "B",
+          "isCorrect": true
+        },
+        {
+          "id": 4967,
+          "textUz": "С",
+          "textRu": "С",
+          "textOz": "C",
+          "isCorrect": false
+        },
+        {
+          "id": 4968,
+          "textUz": "А ва С",
+          "textRu": "А и С",
+          "textOz": "A va C",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4966
+      ]
+    },
+    {
+      "id": 114,
+      "questionUz": "Ушбу йўл белгиси қандай мақсадда қўлланилади?",
+      "questionRu": "С какой целью применяется этот дорожный знак?",
+      "questionOz": "Ushbu yo'l belgisi qanday maqsadda qo'llaniladi?",
+      "explanationUz": "ЙҲҚ 11 – боб 78 – бандига асосан: Аҳоли пунктларида транспорт воситаларининг тезлигини соатига 70 километрдан, тегишли йўл белгилари ўрнатилган мактаб ва мактабгача таълим ташкилотларига етмасдан ва ўтиб кетиб 300 метрдан кам масофада соатига 30 километрдан, турар жой даҳалари ва ёндош ҳудудларда (уй-жой бинолари орасидаги ер участкасида) эса соатига 20 километрдан оширмасдан ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно пункту 78 главы 11 ПДД: В населенных пунктах разрешается движение транспортных средств со скоростью не более 70 км/ч, не более 30 км/ч (при установке соответствующих дорожных знаков) на расстоянии не менее 300 метров перед школами и дошкольными учреждениями и проехав их, а в жилых зонах и прилегающих территориях (участок земли между домовыми постройками) не более 20 км/ч.",
+      "explanationOz": "YHQ 11 – bob 78 – bandiga asosan: Aholi punktlarida transport vositalarining tezligini soatiga 70 kilometrdan, tegishli yo‘l belgilari o‘rnatilgan maktab va maktabgacha ta’lim tashkilotlariga yetmasdan va o‘tib ketib 300 metrdan kam masofada soatiga 30 kilometrdan, turar joy dahalari va yondosh hududlarda (uy-joy binolari orasidagi yer uchastkasida) esa soatiga 20 kilometrdan oshirmasdan harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 363,
+          "textUz": "Мажбурий тарзда тезликни камайтириш учун",
+          "textRu": "Для принудительного снижения скорости движения",
+          "textOz": "Majburiy tarzda tezlikni kamaytirish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 364,
+          "textUz": "Кескин тормоз бериш учун",
+          "textRu": "Для резкого торможения",
+          "textOz": "Keskin tormoz berish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 365,
+          "textUz": "Эҳтиёт чораларини кўриш учун",
+          "textRu": "Для принятия меры предосторожности",
+          "textOz": "Ehtiyot choralarini ko'rish uchun",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        363
+      ]
+    },
+    {
+      "id": 115,
+      "questionUz": "Қайси белги йўлнинг кичик радиусли бурилиш жойига яқинлашаётганлик ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждают что впереди имеется закругление дороги малого радиуса?",
+      "questionOz": "Qaysi belgi yo'lning kichik radiusli burilish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
+      "explanationUz": "1.12.1, 1.12.2. «Хавфли бурилишлар». 1.12.1 белгиси биринчи бурилиш ўнг томонга эканлигини билдиради. Ушбу йўл белгиси йўлнинг хавфли бурилишлар мавжуд бўлган қисмини кўрсатади. У ҳайдовчини олдинда кичик радиусли хавфли бурилиш борлигидан огоҳлантиради ва ҳаракат тезлигини камайтириш зарурлигини билдиради.",
+      "explanationRu": "1.12.1, 1.12.2. «Опасные повороты». Знак 1.12.1 указывает, что первый поворот будет направо. Данный дорожный знак обозначает участок дороги с опасными поворотами. Он предупреждает водителя о наличии впереди опасного поворота малого радиуса и необходимости снизить скорость движения.",
+      "explanationOz": "1.12.1, 1.12.2. “Xavfli burilishlar”. 1.12.1 — birinchi burilish oʻngga,  yoʻl belgisi yoʻlning xavfli burilishi boʻlgan qismini bildiradi. Bu belgi haydovchini oldinda kichik radiusli xavfli burilish borligidan ogohlantiradi va tezlikni kamaytirish kerakligini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4969,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 4970,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4971,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 4972,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 4973,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4973
+      ]
+    },
+    {
+      "id": 116,
+      "questionUz": "Ушбу йўл белгиси:",
+      "questionRu": "Этот дорожный знак:",
+      "questionOz": "Ushbu yo'l belgisi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 63 бандига асосан, транспорт воситасини орқага ҳаракатлантиришда ҳайдовчи йўл ҳаракати хавфсизлигини таъминлаши ва йўл ҳаракатининг бошқа қатнашчиларига халақит бермаслиги шарт. Зарурат туғилганда ҳайдовчи бошқа шахсларнинг ёрдамидан фойдаланиши керак.\r\nОрқага ҳаракатланиш чорраҳаларда ва ушбу Қоидаларнинг 62-бандига мувофиқ қайрилиб олиш мумкин бўлмаган жойларда тақиқланади.\r\nЙўл ҳаракати қоидаларининг 62 бандига асосан, қуйидаги жойларда қайрилиб олиш тақиқланади: пиёдаларнинг ўтиш жойларида; туннелларда; кўприклар, йўл ўтказгичлар, эстакадалар ва уларнинг остида (тегишли йўл белгилари билан бундай манёврни бажариш рухсат берилган йўл қисмлари бундан мустасно); темир йўл кесишмаларида; йўлнинг кўриниши бирор-бир йўналишда 100 метрдан кам бўлган жойларда.",
+      "explanationRu": "Согласно пункту 63 Правил дорожного движения, при движении транспортного средства задним ходом водитель должен обеспечить безопасность движения и не создавать помех другим участникам движения. При необходимости водитель должен прибегнуть к помощи других лиц.\r\nДвижение задним ходом запрещается на перекрестках и в местах, где запрещен разворот согласно пункту 62 настоящих Правил.\r\nСогласно пункту 62 Правил дорожного движения, разворот запрещается: на пешеходных переходах; в тоннелях; на мостах, путепроводах, эстакадах и под ними (за исключением участков дорог, где соответствующие дорожные знаки разрешают такой маневр); на железнодорожных переездах; в местах с видимостью дороги хотя бы в одном направлении менее 100 м.",
+      "explanationOz": "Yo‘l harakati qoidalarining 63 bandiga asosan, transport vositasini orqaga harakatlantirishda haydovchi yo‘l harakati xavfsizligini ta’minlashi va yo‘l harakatining boshqa qatnashchilariga xalaqit bermasligi shart. Zarurat tug‘ilganda haydovchi boshqa shaxslarning yordamidan foydalanishi kerak.\r\nOrqaga harakatlanish chorrahalarda va ushbu Qoidalarning 62-bandiga muvofiq qayrilib olish mumkin bo‘lmagan joylarda taqiqlanadi.\r\nYo‘l harakati qoidalarining 62 bandiga asosan, quyidagi joylarda qayrilib olish taqiqlanadi: piyodalarning o‘tish joylarida; tunnellarda; ko‘priklar, yo‘l o‘tkazgichlar, estakadalar va ularning ostida (tegishli yo‘l belgilari bilan bunday manyovrni bajarish ruxsat berilgan yo‘l qismlari bundan mustasno); temir yo‘l kesishmalarida; yo‘lning ko‘rinishi biror-bir yo‘nalishda 100 metrdan kam bo‘lgan joylarda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/48.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4346,
+          "textUz": "Қатнов қисмида тўсувчи қурилма борлигини билдиради",
+          "textRu": "Означает, что впереди находится управляемое блокирующее устройство",
+          "textOz": "Qatnov qismida to'suvchi qurilma borligini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 4347,
+          "textUz": "Олдинда бошқариладиган тўсувчи қурилма борлигини билдиради",
+          "textRu": "Обозначает что, на проезжей части имеется заградительное устройство ",
+          "textOz": "Oldinda boshqariladigan to'suvchi qurilma borligini bildiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 4348,
+          "textUz": "Чорраха олдида тўсувчи қурилма борлигини билдиради",
+          "textRu": "Обозначает что, перед перекрестком заградительное устройство",
+          "textOz": "Chorraxa oldida to'suvchi qurilma borligini bildiradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4347
+      ]
+    },
+    {
+      "id": 117,
+      "questionUz": "Қайси белги тартибга солинмаган пиёдалар ўтиш жойига яқинлашаётганлик ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает о приближении к нерегулируемому пешеходному переходу?",
+      "questionOz": "Qaysi belgi tartibga solinmagan piyodalar o'tish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.20 белгига асосан, «Пиёдалар ўтиш жойи». 5.16.1, 5.16.2 белгилари ва (ёки) 1.14.1 — 1.14.4 чизиқлари билан белгиланган пиёдалар ўтиш жойини билдиради.",
+      "explanationRu": "Знак 1.20 раздела 1 приложения № 1 к ПДД, «Пешеходный переход». Пешеходный переход, обозначенный знаками 5.16.1, 5.16.2 и (или) разметкой 1.14.1 – 1.14.4.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo‘limidagi 1.20 belgiga asosan, «Piyodalar o‘tish joyi». 5.16.1, 5.16.2 belgilari va (yoki) 1.14.1 — 1.14.4 chiziqlari bilan belgilangan piyodalar o‘tish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/50.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4980,
+          "textUz": "Фақат А",
+          "textRu": "Только А",
+          "textOz": "Faqat A",
+          "isCorrect": true
+        },
+        {
+          "id": 4981,
+          "textUz": "А ва В",
+          "textRu": "А ва В",
+          "textOz": "A va B",
+          "isCorrect": false
+        },
+        {
+          "id": 4982,
+          "textUz": "Хаммаси",
+          "textRu": "Все",
+          "textOz": "Xammasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4980
+      ]
+    },
+    {
+      "id": 118,
+      "questionUz": "Ушбу йўл белгиси қандай номланади:",
+      "questionRu": "Как называется этот дорожный знак:",
+      "questionOz": "Ushbu yo'l belgisi qanday nomlanadi:",
+      "explanationUz": "1.4.1 — 1.4.6. «Темир йўл кесишмасига яқинлашув» белгилари ҳайдовчини темир йўл кесишмасига яқинлашаётганлиги ҳақида огоҳлантиради.",
+      "explanationRu": "Знаки 1.4.1 — 1.4.6. «Приближение к железнодорожному переезду» предупреждают водителя о приближении к железнодорожному переезду.",
+      "explanationOz": "1.4.1 — 1.4.6.  belgilari “Temir yoʻl kesishmasiga yaqinlashuv” ni bildiradi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4974,
+          "textUz": "Бир изли темир йўл кесишмаси",
+          "textRu": "Однопутный железнодорожный переезд",
+          "textOz": "Bir izli temir yo'l kesishmasi",
+          "isCorrect": false
+        },
+        {
+          "id": 4975,
+          "textUz": "Темир йўл кесишмасига яқинлашув",
+          "textRu": "Приближение к железнодорожному переезду",
+          "textOz": "Temir yo'l kesishmasiga yaqinlashuv",
+          "isCorrect": true
+        },
+        {
+          "id": 4976,
+          "textUz": "Шлагбаумли темир йўл кесишмаси",
+          "textRu": "Железнодорожный переезд со шлагбаумом",
+          "textOz": "Shlagbaumli temir yo'l kesishmasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4975
+      ]
+    },
+    {
+      "id": 119,
+      "questionUz": "Бу белги қайерлардан олдин ўрнатилди?",
+      "questionRu": "Перед какими местами установлен этот знак?",
+      "questionOz": "Bu belgi qayerlardan oldin o'rnatildi?",
+      "explanationUz": "ЙҲҚ 2 илова: 1.14.4 — оқ-қизил рангли йўл чизиғи мактаб ва мактабгача таълим муассасалари олдида пиёдаларнинг ўтиш жойини белгилайди.",
+      "explanationRu": "",
+      "explanationOz": "YHQ 2 ilova: 1.14.4 — oq-qizil rangli yo‘l chizig‘i maktab va maktabgacha ta’lim muassasalari oldida piyodalarning o‘tish joyini belgilaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 380,
+          "textUz": "Бозорлар олдиндан",
+          "textRu": "Перед рынка",
+          "textOz": "Bozorlar oldindan",
+          "isCorrect": false
+        },
+        {
+          "id": 381,
+          "textUz": "Мактаб ва болаларнинг дам олиш масканлари олдиндан",
+          "textRu": "Перед школами и детскими развлекательными центрами",
+          "textOz": "Maktab va bolalarning dam olish maskanlari oldindan",
+          "isCorrect": true
+        },
+        {
+          "id": 382,
+          "textUz": "Вокзал олдиндан",
+          "textRu": "Перед вокзалом",
+          "textOz": "Vokzal oldindan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        381
+      ]
+    },
+    {
+      "id": 120,
+      "questionUz": "Белгилардан қайси бири қатнов қисми кесишмаси ҳудудини билдирaди?",
+      "questionRu": "Какой из указанных знаков обозначает зону пересечения проезжей части?",
+      "questionOz": "Belgilardan qaysi biri qatnov qismi kesishmasi hududini bildiradi?",
+      "explanationUz": "А ҳарфли белги 1.33. «Қатнов қисми кесишмаси ҳудуди»ни билдиради. Ушбу белги ҳайдовчини олдинда қатнов қисмларининг кесишиш ҳудуди мавжудлиги ҳақида огоҳлантиради.",
+      "explanationRu": "Знак под буквой А обозначает 1.33 «Зона пересечения проезжих частей». Этот знак предупреждает водителя о наличии впереди участка пересечения проезжих частей.",
+      "explanationOz": "A harfli belgi 1.33. “Qatnov qismi kesishmasi hududi”. ni bildiradi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4977,
+          "textUz": "«A»",
+          "textRu": "«A»",
+          "textOz": "«A»",
+          "isCorrect": true
+        },
+        {
+          "id": 4978,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 4979,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4977
+      ]
+    },
+    {
+      "id": 121,
+      "questionUz": "Бу йўл белгиси қандай номланади?",
+      "questionRu": "Как называется этот дорожный знак?",
+      "questionOz": "Bu yo'l belgisi qanday nomlanadi?",
+      "explanationUz": "ЙҲҚ 1 илова: 4.1.6.“Ҳаракатланиш ўнгга ёки чапга”.\r\nФақат белгиларада кўрсатилган кўрсаткичлар йўналишларида ҳаракатланишга рухсат этилади.\r\nЧапга бурилишга рухсат берувчи белгилар қайрилиб олишга ҳам рухсат беради. (Муайян кесишмада талаб этилган ҳаракатланиш йўналишига тегишли кўрсаткичларнинг шакли туширилган 4.1.1 - 4.1.6 белгиларини қўллаш мумкин).\r\n4.1.1 - 4.1.6 белгиларининг таъсири йўналишли транспорт воситаларига жорий қилинмайди.\r\n4.1.1 - 4.1.6 йўл белгиларı қатнов қисмларининг қайси кесишмасидан олдин ўрнатилса, белгининг таъсири шу кесишмага жорий қилинади.\r\nЙўнинг қисми бошланишида ўрнатилган 4.1.1 белгиси таъсири янги чорраҳаларда жорий қилинади.\r\nБелги ўнг томонида жойлашган ҳовилларга ва чап томондан бошқа ҳудудларга бурилишни тақиқламайди.",
+      "explanationRu": "ПДД приложение № 1: 4.1.6 Движение направо или налево. Разрешается движение только в направлениях, указанных на знаках стрелками. Знаки, разрешающие поворот налево, разрешают и разворот (могут быть применены знаки 4.1.1-4.1.6 с конфигурацией стрелок, соответствующей требуемым направлениям движения на конкретном пересечении). Действие знаков 4.1.1–4.1.6 не распространяется на маршрутные транспортные средства. Действие знаков 4.1.1–4.1.6 распространяется на пересечение проезжих частей, перед которыми установлен знак. Действие знака 4.1.1, установленного в начале участка дороги, распространяется до ближайшего перекрестка. Знак не запрещает поворот направо на прилегающие к дороге территории.",
+      "explanationOz": "YHQ 1 ilova: 4.1.6.“Harakatlanish o‘ngga yoki chapga”.\r\nFaqat belgilarada ko‘rsatilgan ko‘rsatkichlar yo‘nalishlarida harakatlanishga ruxsat etiladi.\r\nChapga burilishga ruxsat beruvchi belgilar qayrilib olishga ham ruxsat beradi. (Muayyan kesishmada talab etilgan harakatlanish yo‘nalishiga tegishli ko‘rsatkichlarning shakli tushirilgan 4.1.1 - 4.1.6 belgilarini qo‘llash mumkin).\r\n4.1.1 - 4.1.6 belgilarining ta’siri yo’nalishli transport vositalariga joriy qilinmaydi.\r\n4.1.1 - 4.1.6 yo‘l belgiları qatnov qismlarining qaysi kesishmasidan oldin o‘rnatilsa, belgining ta’siri shu kesishmaga joriy qilinadi.\r\nYo‘ning qismi boshlanishida o‘rnatilgan 4.1.1 belgisi ta’siri yangi chorrahalarda joriy qilinadi.\r\nBelgi o‘ng tomonida joylashgan hovillarga va chap tomondan boshqa hududlarga burilishni taqiqlamaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 386,
+          "textUz": "Пиёдаларнинг йўл ёқасидан юриши мумкин бўлган ҳудуд",
+          "textRu": "Зона, где пешеходы могут ходить по обочине",
+          "textOz": "Piyodalarning yo'l yoqasidan yurishi mumkin bo'lgan hudud",
+          "isCorrect": true
+        },
+        {
+          "id": 387,
+          "textUz": "Пиёдаларнинг қатнов қисмидан юриши мумкин бўлган ҳудуд",
+          "textRu": "Зона, где пешеходы могут ходить по проезжей части",
+          "textOz": "Piyodalarning qatnov qismidan yurishi mumkin bo'lgan hudud",
+          "isCorrect": false
+        },
+        {
+          "id": 388,
+          "textUz": "Пиёдаларнинг тротуардан юриши мумкин бўлган ҳудуд",
+          "textRu": "Зона, где пешеходы могут ходить по тротуарам",
+          "textOz": "Piyodalarning trotuardan yurishi mumkin bo'lgan hudud",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        386
+      ]
+    },
+    {
+      "id": 122,
+      "questionUz": "Курсатилган белгилардан қайси бири болалар деб номланади?",
+      "questionRu": "Какой из указанных знаков называется «Дети»?",
+      "questionOz": "Kursatilgan belgilardan qaysi biri bolalar deb nomlanadi?",
+      "explanationUz": "ЙҲҚ умумий қоидалар 6-банди: тўхташ — транспорт воситаси ҳаракатини 10 дақиқагача бўлган муддатга тўхтатиш (ҳаракатсиз ҳолатга келтириш).",
+      "explanationRu": "ПДД Общие положения пункт 6: Остановка – прекращение движения транспортного средства на время до 10 минут (приведение в неподвижное состояние).",
+      "explanationOz": "YHQ umumiy qoidalar 6-bandi: to‘xtash — transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish).",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 389,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 390,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 391,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        390
+      ]
+    },
+    {
+      "id": 123,
+      "questionUz": "Ёввойи ҳайвонлар белгисини кўрсатинг:",
+      "questionRu": "Покажите знак диких животных:",
+      "questionOz": "Yovvoyi hayvonlar belgisini ko'rsating:",
+      "explanationUz": "ЙҲҚ 4-боби 15-банди 3-хатбошига мувофиқ, қатнов қисми четида ҳаракатланаётган пиёдалар транспорт воситаларининг ҳаракатланишига қарама-қарши йўналишда юришлари керак.",
+      "explanationRu": "Согласно абзацу 3 пункта 15 главы 4 ПДД, пешеходы должны идти навстречу движению транспортных средств.",
+      "explanationOz": "YHQ 4-bobi 15-bandi 3-xatboshiga muvofiq, qatnov qismi chetida harakatlanayotgan piyodalar transport vositalarining harakatlanishiga qarama-qarshi yo'nalishda yurishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4316,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 4317,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 4318,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 4319,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 4320,
+          "textUz": "2 ва 4",
+          "textRu": "2 и 4",
+          "textOz": "2 va 4",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4317
+      ]
+    },
+    {
+      "id": 124,
+      "questionUz": "Кемирувчи ва судралим юрувчи ҳайвонлар қайси жавобда кўрсатилган?",
+      "questionRu": "В каком ответе показаны грызуны и рептилии?",
+      "questionOz": "Kemiruvchi va sudralib yuruvchi hayvonlar qaysi javobda ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 1 илова: 7.23. “Навбат билан ўтиш”.",
+      "explanationRu": "ПДД приложение № 1: 7.23 Поочередный проезд",
+      "explanationOz": "YHQ 1 ilova: 7.23. “Navbat bilan o‘tish”.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4226,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 4227,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4228,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 4229,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 4230,
+          "textUz": "1 ва 3",
+          "textRu": "1 и 3",
+          "textOz": "1 va 3",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4228
+      ]
+    },
+    {
+      "id": 125,
+      "questionUz": "Ушбу белги аҳоли пунктларида хавфли йўл қисми бошланишидан қанча масофа олдин ўрнатилади?",
+      "questionRu": "На каком расстоянии до начала опасного участка устанавливаются это знак в населенных пунктах?",
+      "questionOz": "Ushbu belgi aholi punktlarida xavfli yo'l qismi boshlanishidan qancha masofa oldin o'rnatiladi?",
+      "explanationUz": "ЙҲҚ 28-боби 165-банди: Йўлда велосипед, индивидуал ҳаракатланиш воситаларини ва аравани бошқариш, миниладиган ёки юк ортиладиган ҳайвонларни ҳайдаб ўтиш 14 ёшдан кичик бўлмаган, мопед ва скутерни бошқариш эса 16 ёшдан кичик бўлмаган шахсларга рухсат этилади.",
+      "explanationRu": "Пункта 165 главы 28 ПДД, гласит: Управлять велосипедом, индивидуальные транспортные средства, гужевой повозкой, быть погонщиком вьючных или верховых животных при движении по дорогам разрешается лицам не моложе 14 лет, а мопедом — не моложе 16 лет. Пункта 9 главы 2 ПДД, гласит: Водители и пассажиры мотоциклов, электромотоциклов, мопедов и скутеров должны носить специальный мотоциклетный шлем и пристегивать его. Пункта 138 главы 23 ПДД, гласит: В светлое время суток ближний свет фар должен быть включен в следующих случаях:\r\n— на мотоциклах, электромотоциклах, скутерах и мопедах.",
+      "explanationOz": "YHQ 28-bobi 165-bandi: Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4234,
+          "textUz": "150-300 м",
+          "textRu": "150-300 м",
+          "textOz": "150-300 m",
+          "isCorrect": false
+        },
+        {
+          "id": 4235,
+          "textUz": "50-100 м",
+          "textRu": "50-100 м",
+          "textOz": "50-100 m",
+          "isCorrect": true
+        },
+        {
+          "id": 4236,
+          "textUz": "Хавфли йул кисми олдига брнатилади",
+          "textRu": "Устанавливаются перед опасного участка",
+          "textOz": "Xavfli yul kismi oldiga brnatiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4235
+      ]
+    },
+    {
+      "id": 126,
+      "questionUz": "Ҳаракатланиш вақтида велосипедчи билан автомобил йўллари кесишганда ким йўл бериши керак?",
+      "questionRu": "Кто должен уступить дорогу при пересечении автомобильных дорог с велосипедистом во время движения?",
+      "questionOz": "Harakatlanish vaqtida velosipedchi bilan avtomobil yo‘llari kesishganda kim yo‘l berishi kerak?",
+      "explanationUz": "ЙҲҚнинг 25-боб. 146-бандга асосан: 146. Транспорт воситаларини бошқаришни дастлабки ўргатишга ёпиқ майдончаларда ёки автодромларда ўтказилиши керак.",
+      "explanationRu": "На основании пункта 146 главы 25 ПДД: 146. Первоначальное обучение вождению транспортных средств должно проводиться на закрытых площадках или автодромах.",
+      "explanationOz": "YHQning 25-bob. 146-bandga asosan: 146. Transport vositalarini boshqarishni dastlabki o‘rgatishga yopiq maydonchalarda yoki avtodromlarda o‘tkazilishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 405,
+          "textUz": "Автомобил",
+          "textRu": "Автомобиль",
+          "textOz": "Avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 406,
+          "textUz": "Велосипедчилар",
+          "textRu": "Велосипедисты",
+          "textOz": "Velosipedchilar",
+          "isCorrect": true
+        },
+        {
+          "id": 407,
+          "textUz": "Ўзаро келишиб ўтишади",
+          "textRu": "По взаимному согласованию",
+          "textOz": "O‘zaro kelishib o‘tishadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        406
+      ]
+    },
+    {
+      "id": 127,
+      "questionUz": "Ушбу белги нимани билдиради?",
+      "questionRu": "Что обозначает данный знак?",
+      "questionOz": "Ushbu belgi nimani bildiradi?",
+      "explanationUz": "ЙҲҚнинг 28-боб. 168-банд 5-хатбошига асосан: 168. Велосипедчилар ва индивидуал ҳаракатланиш воситаларини бошқараётган шахсларга қуйидагилар тақиқланади: велосипед йўлкаси бўлган ҳолда йўлнинг қатнов қисмида ҳаракатланиш.",
+      "explanationRu": "На основании абзаца 5 пункта 168 главы 28 ПДД: 168. Велосипедистам и лицам, управляющим средствами индивидуальной мобильности, запрещается: двигаться по проезжей части дороги при наличии велосипедной дорожки.",
+      "explanationOz": "YHQning 28-bob. 168-band 5-xatboshiga asosan: 168. Velosipedchilar va individual harakatlanish vositalarini boshqarayotgan shaxslarga quyidagilar taqiqlanadi: velosiped yo‘lkasi bo‘lgan holda yo‘lning qatnov qismida harakatlanish.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 408,
+          "textUz": "Тик баландлик",
+          "textRu": "Крутой подъём",
+          "textOz": "Tik balandlik",
+          "isCorrect": true
+        },
+        {
+          "id": 409,
+          "textUz": "Тик нишаблик",
+          "textRu": "Крутой спуск",
+          "textOz": "Tik nishablik",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        408
+      ]
+    }
+  ]
+}

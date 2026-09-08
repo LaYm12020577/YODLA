@@ -1,0 +1,16 @@
+{
+  "category": "Ҳайдаш хатти-ҳаракати",
+  "count": 1,
+  "fines": [
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Нотўғри бурилиш ёки қайтиш",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

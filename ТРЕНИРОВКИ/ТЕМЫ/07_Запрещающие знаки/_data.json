@@ -1,0 +1,2517 @@
+{
+  "title": "07. Запрещающие знаки (боб 1.3)",
+  "count": 62,
+  "questions": [
+    {
+      "id": 147,
+      "questionUz": "Қайси белги транспорт воситаларининг белгида кўрсатилгандан кам оралиқ масофада ҳаракатланишини тақиқлайди?",
+      "questionRu": "Какой знак запрещает движение транспортных средств с дистанцией между ними, меньше указанной на знаке?",
+      "questionOz": "Qaysi belgi transport vositalarining belgida ko'rsatilgandan kam oraliq masofada harakatlanishini taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.16 белгисига асосан, «Энг кам оралиқ» белгисида кўрсатилганидан кам оралиқ масофада ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно знаку 3.16 раздела 3 приложения № 1 к ПДД, «Ограничение минимальной дистанции» запрещается движение транспортных средств с дистанцией между ними меньше чем указанной на знаке.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.16 belgisiga asosan, \"Eng kam oraliq\" belgisida ko'rsatilganidan kam oraliq masofada harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 484,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 485,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 486,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 487,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 488,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        486
+      ]
+    },
+    {
+      "id": 148,
+      "questionUz": "Бу йўл белгиси билдиради:",
+      "questionRu": "Этот дорожный знак обозначает:",
+      "questionOz": "Bu yo'l belgisi bildiradi:",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.11 «Вазн чекланган» белгисига мувофиқ, ҳақиқий умумий вазни белгида кўрсатилганидан ортиқ бўлган транспорт воситаларининг, шунингдек, транспорт воситалари таркибларининг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно знаку 3.11 раздела 3 приложения № 1 к ПДД, «Ограничение массы», запрещается движение транспортных средств, в том числе составов транспортных средств, общая фактическая масса которых больше указанной на знаке.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.11 \"Vazn cheklangan\" belgisiga muvofiq, haqiqiy umumiy vazni belgida ko'rsatilganidan ortiq bo'lgan transport vositalarining, shuningdek, transport vositalari tarkiblarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 489,
+          "textUz": "Белгида кўрсатилгандан ортиқ юк кўтарувчи юк автомобиллари ва транспорт воситалари таркиби (тиркамали юк автомобиллари)нинг ҳаракат қилиши таъқиқланади.",
+          "textRu": "Запрещается движение грузовых автомобилей и составов транспортных средств (грузовых автомобилей с прицепами) грузоподъемностью больше указанной на знаке",
+          "textOz": "Belgida ko'rsatilgandan ortiq yuk ko'taruvchi yuk avtomobillari va transport vositalari tarkibi (tirkamali yuk avtomobillari)ning harakat qilishi taqiqlanadi.",
+          "isCorrect": false
+        },
+        {
+          "id": 490,
+          "textUz": "Умумий ҳақиқий вазни (йўловчилар ва юк вазнини қушган ҳолда) белгида кўрсатилгандан ортиқ бўлган транспорт воситалари, шу жумладан-тиркамали транспорт воситаларининг ҳаракат қилиши таъқиқланади.",
+          "textRu": "Запрещается движение транспортных средств, в том числе тягачей с прицепами, общая фактическая масса которых (включая массу пассажиров и груза) больше указанной на знаке",
+          "textOz": "Umumiy haqiqiy vazni (yo'lovchilar va yuk vaznini qushgan holda) belgida ko'rsatilgandan ortiq bo'lgan transport vositalari, shu jumladan-tirkamali transport vositalarining harakat qilishi taqiqlanadi.",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        490
+      ]
+    },
+    {
+      "id": 149,
+      "questionUz": "Қайси жавобда рухсат этилган ҳаракатланиш йўналишлари тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указаны все разрешенные направления движения?",
+      "questionOz": "Qaysi javobda ruxsat etilgan harakatlanish yo'nalishlari to'g'ri ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 4-хатбошига асосан, 3.18.1. «Ўнгга бурилиш тақиқланган» белгиси қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади.",
+      "explanationRu": "Согласно абзацу 4 раздела 3 приложения № 1 к ПДД, действие знака 3.18.1 «Поворот направо запрещен» распространяется на пересечение проезжих частей, перед которыми установлен знак.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 4-xatboshiga asosan, 3.18.1 \"O'ngga burilish taqiqlangan\" belgisi qatnov qismlarining qaysi kesishmasi oldiga o'rnatilsa, shu kesishmaga tatbiq etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 491,
+          "textUz": "« А »",
+          "textRu": "« А »",
+          "textOz": "« А »",
+          "isCorrect": false
+        },
+        {
+          "id": 492,
+          "textUz": "« Б »",
+          "textRu": "« Б »",
+          "textOz": "« Б »",
+          "isCorrect": false
+        },
+        {
+          "id": 493,
+          "textUz": "« В »",
+          "textRu": "« В »",
+          "textOz": "« В »",
+          "isCorrect": false
+        },
+        {
+          "id": 494,
+          "textUz": "« А » ва « Б »",
+          "textRu": "« А » и « Б »",
+          "textOz": "« А » va « Б »",
+          "isCorrect": true
+        },
+        {
+          "id": 495,
+          "textUz": "« А » ва « В »",
+          "textRu": "« А » и « В »",
+          "textOz": "« А » va « В »",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        494
+      ]
+    },
+    {
+      "id": 150,
+      "questionUz": "Қайси йўналишда ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении  разрешается движение?",
+      "questionOz": "Qaysi yo'nalishda harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлими 3.1 белгиси, «Кириш тақиқланган». Барча транспорт воситаларининг кириши тақиқланишини билдиради.",
+      "explanationRu": "Знак 3.1 раздела 3 приложения № 1 к ПДД, «Въезд запрещен». Запрещается въезд всех транспортных средств.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo'limi 3.1 belgisi, \"kirish taqiqlangan\". Barcha transport vositalarining kirishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 496,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 497,
+          "textUz": "Тўғрига ва ўнгга",
+          "textRu": "Прямо и направо",
+          "textOz": "To'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 498,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо и налево",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 499,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        496
+      ]
+    },
+    {
+      "id": 151,
+      "questionUz": "Бу белги нимани билдиради?",
+      "questionRu": "Что обозначает этот знак?",
+      "questionOz": "Bu belgi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловаси 2-бўлимининг ўнинчи хатбошисига асосан: 2.6. “Рўпара ҳаракатланишнинг устунлиги”. Қарама-қарши ҳаракатланишни қийинлаштирадиган ҳолларда йўлнинг тор қисмига кириш тақиқланади. Ҳайдовчи йўлнинг тор қисмида бўлган ёки рўпарадан унга яқин бўлган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Согласно десятому абзацу второго раздела приложения №1 ПДД: 2.6 «Преимущество встречного движения». Запрещается въезд на узкий участок дороги, если это может затруднить встречное движение. Водитель должен уступить дорогу встречным транспортным средствам, находящимся на узком участке или противоположном подъезде к нему.",
+      "explanationOz": "YHQ 1-ilovasi 2-bo‘limining o‘ninchi xatboshisiga asosan: 2.6. “Ro‘para harakatlanishning ustunligi”. Qarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo‘lning tor qismiga kirish taqiqlanadi. Haydovchi yo‘lning tor qismida bo‘lgan yoki ro‘paradan unga yaqin bo‘lgan transport vositasiga yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/6.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 500,
+          "textUz": "Рўпарадан келаётган транспорт воситаларига нисбатан биринчи ўтиш хуқуқини беради",
+          "textRu": "Предоставляет преимущество перед встречными транспортными средствами",
+          "textOz": "Ro'paradan kelayotgan transport vositalariga nisbatan birinchi o'tish xuquqini beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 501,
+          "textUz": "Ҳайдовчи рўпарадан ҳаракатланаётган транспорт воситасига йўл бериши керак",
+          "textRu": "Обязывает водителя уступить дорогу встречным транспортным средствам",
+          "textOz": "Haydovchi ro'paradan harakatlanayotgan transport vositasiga yo'l berishi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 502,
+          "textUz": "Бир томонлама ҳаракатли йўл қисмининг тамом бўлганини билдиради",
+          "textRu": "Обозначает конец участка дороги с односторонним движением",
+          "textOz": "Bir tomonlama harakatli yo'l qismining tamom bo'lganini bildiradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        501
+      ]
+    },
+    {
+      "id": 152,
+      "questionUz": "Қайси йўналишда ҳаракатланиш таъқиқланади?",
+      "questionRu": "В каком направлении запрещено движение?",
+      "questionOz": "Qaysi yo'nalishda harakatlanish taqiqlanadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 4-хатбошига асосан, 3.18.1 белгиси қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади.",
+      "explanationRu": "Согласно абзацу 4 раздела 3, приложения № 1 к ПДД, действие знака 3.18.1 распространяется на пересечение проезжих частей, перед которыми установлен знак.",
+      "explanationOz": "YHQ 1- ilovasining 3-bo'limi 4-xatboshiga asosan, 3.18.1 belgisi qatnov qismlarining qaysi kesishmasi oldiga o'rnatilsa, shu kesishmaga tatbiq etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/8.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 503,
+          "textUz": "Ўнгга биринчи йўлга",
+          "textRu": "Направо в первый проезд",
+          "textOz": "O'ngga birinchi yo'lga",
+          "isCorrect": false
+        },
+        {
+          "id": 504,
+          "textUz": "Ўнгга иккинчи йўлга",
+          "textRu": "Направо во второй проезд",
+          "textOz": "O'ngga ikkinchi yo'lga",
+          "isCorrect": true
+        },
+        {
+          "id": 505,
+          "textUz": "Ўнгга биринчи ва иккинчи йўлларга",
+          "textRu": "Направо в первый и второй проезды",
+          "textOz": "O'ngga birinchi va ikkinchi yo'llarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        504
+      ]
+    },
+    {
+      "id": 153,
+      "questionUz": "Қайси белги габарит узунлиги белгисида кўрсатилгандан узун бўлган транспорт в��ситаларининг ҳаракатланишини тақиқлайди?",
+      "questionRu": "Какой знак запрещает движение транспортных средств; габаритная длина которых больше указанной на знаке?",
+      "questionOz": "Qaysi belgi gabarit uzunligi belgisida ko'rsatilgandan uzun bo'lgan transport vositalarining harakatlanishini taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.15 «Чекланган узунлик» белгисига мувофиқ, белги габарит узунлиги (юк билан ёки юксиз) белгида кўрсатилганидан ортиқ бўлган транспорт воситалари (транспорт воситалари таркиблари)нинг ҳаракатланиши тақиқланишини билдиради.",
+      "explanationRu": "Согласно знаку 3.15 раздела 3 приложения № 1 к ПДД, «Ограничение длины», запрещается движение транспортных средств (составов транспортных средств), габаритная длина которых (с грузом или без груза) больше указанной на знаке.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.15 \"Cheklangan uzunlik\" belgisiga muvofiq, belgi gabarit uzunligi (yuk bilan yoki yuksiz) belgida ko'rsatilganidan ortiq bo'lgan transport vositalari (transport vositalari tarkiblari)ning harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/9.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 506,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 507,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 508,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 509,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 510,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        507
+      ]
+    },
+    {
+      "id": 154,
+      "questionUz": "Ҳаракатланиш мумкин бўлган йўналиш қайси расмда кўрсатилган?",
+      "questionRu": "На каком рисунке показаны разрешенные направления движения?",
+      "questionOz": "Harakatlanish mumkin bo'lgan yo'nalish qaysi rasmda ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.19 «Қайрилиш тақиқланган» белгисида фақат қайрилиш тақиқланади.",
+      "explanationRu": "Знак 3.19 раздела 3, приложения № 1 к ПДД, «Разворот запрещен» - запрещается только разворот.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.19 \"Qayrilish taqiqlangan\" belgisida faqat qayrilish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/11.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 511,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На левом рисунке",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 512,
+          "textUz": "Пастдаги расмда",
+          "textRu": "На среднем рисунке",
+          "textOz": "Pastdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 513,
+          "textUz": "Ўнгдаги расмда",
+          "textRu": "На правом рисунке",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 514,
+          "textUz": "Ўртадаги ва ўнгдаги расмда",
+          "textRu": "На среднем и правом рисунке",
+          "textOz": "O'rtadagi va o'ngdagi rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        513
+      ]
+    },
+    {
+      "id": 155,
+      "questionUz": "Қайси белги ойнинг жуфт сонли кунларда тўхтаб туришни тақиқлайди?",
+      "questionRu": "Какой знак запрещает стоянку по четным числам?",
+      "questionOz": "Qaysi belgi oyning juft sonli kunlarda to'xtab turishni taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 1 – иловаси 3 – бўлимининг ўттиз тўртинчи хатбошисига асосан: 3.30 “Ойнинг жуфт кунларида тўхтаб туриш тақиқланган”.",
+      "explanationRu": "Согласно тридцать четвертому абзацу третьего раздела приложения №1 ПДД: Запрещающий знак 3.30 “Стоянка запрещена по четным числам месяца”.",
+      "explanationOz": "YHQ 1 – ilovasi 3 – bo‘limining o‘ttiz to‘rtinchi xatboshisiga asosan: 3.30 “Oyning juft kunlarida to‘xtab turish taqiqlangan”.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/11.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 515,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 516,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 517,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 518,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 519,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        519
+      ]
+    },
+    {
+      "id": 156,
+      "questionUz": "Автомобиль ҳаракатининг барча рухсат этилган йўналишлари қайси жавобда тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указаны все разрешенные направления движения автомобиля?",
+      "questionOz": "Avtomobil harakatining barcha ruxsat etilgan yo'nalishlari qaysi javobda to'g'ri ko'rsatilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.5 «Мотоцикллар ҳаракатланиши тақиқланган» белгисига мувофиқ, фақат мотоциклларнинг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно знаку 3.5 раздела 3 приложения № 1 к ПДД, «Движение мотоциклов запрещено», запрещается движение только мотоциклам.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.5 \"Motosikllar harakatlanishi taqiqlangan\" belgisiga muvofiq, faqat motosikllarning harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/12.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 520,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 521,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 522,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 523,
+          "textUz": "Чапга ва ўнгга",
+          "textRu": "Налево и направо",
+          "textOz": "Chapga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 524,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        524
+      ]
+    },
+    {
+      "id": 157,
+      "questionUz": "Ушбу белги амал қилган ҳудудда автобус ҳайдовчиси қувиб ўтиши мумкинми?",
+      "questionRu": "Можно ли водителю автобуса обгонять в зоне действия этого знака?",
+      "questionOz": "Ushbu belgi amal qilgan hududda avtobus haydovchisi quvib o'tishi mumkinmi?",
+      "explanationUz": "ЙҲҚ 1 – иловаси 3 – бўлимининг йигирма олтинчи хатбошисига асосан: 3.22. “Юк автомобилларида қувиб ўтиш тақиқланган”. Тўла вазни 3,5 тоннадан ортиқ бўлган юк автомобилларида барча транспорт воситаларини қувиб ўтиш тақиқланишини билдиради. (соатига 40 км дан кам тезликда ҳаракатланаётган транспорт воситаси, трактор, от-арава, велосепед бундан мустасно).\r\nБелги юк машиналари қувиб ўтишни тақиқлайди, шунга кўра, ушбу белги билан таъсир оралиғида автобусларга қувиб ўтишга барча ҳолларда рухсат берилади.",
+      "explanationRu": "Согласно двадцать шестому абзацу третьего раздела приложения №1 ПДД: Запрещающий знак 3.22 \"Обгон грузовым автомобилям запрещен\". Запрещается грузовым автомобилям с разрешенной максимальной массой более 3,5 т обгон всех транспортных средств (за исключением транспортного средства, трактора, гужевой повозки, велосипеда, движущегося со скоростью менее 40 км/ч). \r\nЗнак запрещает обгон грузовым автомобилям, соответственно, автобусам в зоне действия этого знака обгон разрешен во всех случаях.",
+      "explanationOz": "YHQ 1 – ilovasi 3 – bo‘limining yigirma oltinchi xatboshisiga asosan: 3.22. “Yuk avtomobillarida quvib o‘tish taqiqlangan”. To‘la vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillarida barcha transport vositalarini quvib o‘tish taqiqlanishini bildiradi. (soatiga 40 km dan kam tezlikda harakatlanayotgan transport vositasi, traktor, ot-arava, veloseped bundan mustasno).\r\nBelgi yuk mashinalari quvib o‘tishni taqiqlaydi, shunga ko‘ra, ushbu belgi bilan ta’sir oralig‘ida avtobuslarga quvib o‘tishga barcha hollarda ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/13.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 525,
+          "textUz": "Қувиб ўтиш қоидаларига риоя қилиб барча ҳолларда мумкин",
+          "textRu": "Можно во всех случаях с соблюдением правил обгона",
+          "textOz": "Quvib o'tish qoidalariga rioya qilib barcha hollarda mumkin",
+          "isCorrect": true
+        },
+        {
+          "id": 526,
+          "textUz": "Мумкин эмас",
+          "textRu": "Нельзя",
+          "textOz": "Mumkin emas",
+          "isCorrect": false
+        },
+        {
+          "id": 527,
+          "textUz": "Агар қувиб ўтилаётган транспорт воситалари соатига 40 км.дан кам тезликда ҳаракат қилаётган бўлсагина мумкин",
+          "textRu": "Можно при условии; если обгоняемое транспортное средство движется со скоростью менее 40 км/ч",
+          "textOz": "Agar quvib o'tilayotgan transport vositalari soatiga 40 km.dan kam tezlikda harakat qilayotgan bo'lsagina mumkin",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        525
+      ]
+    },
+    {
+      "id": 158,
+      "questionUz": "Агар йўлда бу белги ўрнатилган бўлса, автомобилни шатакка олишга рухсат этиладими?",
+      "questionRu": "Разрешается ли буксировка автомобиля; если на дороге установлен этот знак?",
+      "questionOz": "Agar yo'lda bu belgi o'rnatilgan bo'lsa, avtomobilni shatakka olishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.7 белги талабига асосан, «Тиркама билан ҳаракатланиш тақиқланган». Юк ташувчи транспорт воситалари, тракторларнинг барча турдаги тиркамалар билан ҳаракатланиши, шунингдек, механик транспорт воситаларини ҳар қандай усулда шатакка олиш тақиқланади.",
+      "explanationRu": "Согласно требованию знака 3.7 раздела 3 приложения № 1 к ПДД, «Движение с прицепом запрещено» запрещается движение грузовых автомобилей и тракторов с прицепами любого типа, а также всякая буксировка механических транспортных средств.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.7 belgi talabiga asosan, \"Tirkama bilan harakatlanish taqiqlangan\". Yuk tashuvchi transport vositalari, traktorlarning barcha turdagi Tirkamalar bilan harakatlanishi, shuningdek, mexanik transport vositalarini har qanday usulda shatakka olish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 528,
+          "textUz": "Фақат енгил автомобилларга рухсат этилади",
+          "textRu": "Разрешается только легковым автомобилям\r\n",
+          "textOz": "Faqat engil avtomobillarga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 529,
+          "textUz": "Қаттиқ улагичда рухсат этилади\r\n",
+          "textRu": "Разрешается на жесткой сцепке",
+          "textOz": "Qattiq ulagichda ruxsat etiladi\r\n",
+          "isCorrect": false
+        },
+        {
+          "id": 530,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 531,
+          "textUz": "Ҳар қандай улагичда рухсат этилади",
+          "textRu": "Разрешается на любой сцепке",
+          "textOz": "Har qanday ulagichda ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        530
+      ]
+    },
+    {
+      "id": 159,
+      "questionUz": "Бу белгида қайси транспорт воситаларини қувиб ўтишни тақиқлайди?",
+      "questionRu": "Какие транспортные средства запрещается обгонять при этом знаке?",
+      "questionOz": "Bu belgida qaysi transport vositalarini quvib o'tishni taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.20 белги талабига асосан, «Қувиб ўтиш тақиқланади» белгиси бўлганда, соатига 40 км дан кам тезликда ҳаракатланаётган якка транспорт воситасидан бошқа транспорт воситаларини қувиб ўтиш тақиқланишини билдиради.",
+      "explanationRu": "Согласно требованию знаку 3.20 раздела 3 приложения № 1 к ПДД, «Обгон запрещен» запрещается обгон всех транспортных средств, кроме одиночных, движущихся со скоростью менее 40 км/ч.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.20 belgi talabiga asosan, \"Quvib o'tish taqiqlanadi\" belgisi bo'lganda, soatiga 40 km dan kam tezlikda harakatlanayotgan yakka transport vositasidan boshqa transport vositalarini quvib o'tish taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 532,
+          "textUz": "Ҳаммаси",
+          "textRu": "Все",
+          "textOz": "Hammasi",
+          "isCorrect": false
+        },
+        {
+          "id": 533,
+          "textUz": "Ҳаммасини, 40 км/с дан кам тезликда якка ҳаракат қилаётганлардан ташқари",
+          "textRu": "Все, кроме одиночных, движущихся со скоростью менее 40 км/ч",
+          "textOz": "Hammasini, 40 km/s dan kam tezlikda yakka harakat qilayotganlardan tashqari",
+          "isCorrect": true
+        },
+        {
+          "id": 534,
+          "textUz": "Енгил автомобиллар, мотоцикллар ва тўла вазни 3,5 т дан кам бўлган юк автомобиллари. Тўла вазни 3,5 т дан кўп булган юк автомобиллари",
+          "textRu": "Легковые автомобили, мотоциклы и грузовые автомобили с полной массой менее 3,5 т",
+          "textOz": "Engil avtomobillar, motosikllar va to'la vazni 3,5 t dan kam bo'lgan yuk avtomobillari. To'la vazni 3,5 t dan ko'p bulgan yuk avtomobillari",
+          "isCorrect": false
+        },
+        {
+          "id": 535,
+          "textUz": "Тўла вазни 3,5 т дан кўп бўлган юк автомобиллари",
+          "textRu": "Грузовые автомобили с полной массой более 3,5 т",
+          "textOz": "To'la vazni 3,5 t dan ko'p bo'lgan yuk avtomobillari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        533
+      ]
+    },
+    {
+      "id": 160,
+      "questionUz": "Қандай транспорт воситаларига ушбу белгининг амал қилиши татбиқ этилмайди?",
+      "questionRu": "На какие транспортные средства действие этого знака не распространяется?",
+      "questionOz": "Qanday transport vositalariga ushbu belgining amal qilishi tatbiq etilmaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.28 белги талабига асосан, «Тўхтаб туриш тақиқланган» барча транспорт воситаларининг тўхтаб туриши тақиқланади (хизмат вазифасини бажараётган ходимга бириктирилган кўк ёки қизил ёхуд кўк ва қизил рангли ялтироқ маёқчаси билан жиҳозланган ҳамда махсус рангли бўёқ схемалар ва ёзувлар билан белгиланган транспорт воситалари бундан мустасно). 3.28 белгисининг таксометри ишлаб турган таксиларга, «Ногирон» таниш белгиси билан белгиланган автомобиллар ва кажавали мотоциклларни бошқараётган ногирон ҳайдовчиларга тааллуқли эмас.",
+      "explanationRu": "Согласно требованию знака 3.28 раздела 3 приложения № 1 к ПДД, «Стоянка запрещена» запрещается стоянка транспортных средств(за исключением транспортных средств, оборудованных проблесковым маячком синего или синего и красного цветов, прикрепленным к сотруднику выполнившую неотложное служебное задание и маркированным специальными цветовыми схемами и надписями). Действие знака не распространяется на транспортные средства управляемые инвалидами, а так же на такси с включенным таксометром.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.28 belgi talabiga asosan, \"To'xtab turish taqiqlangan\" barcha transport vositalarining to'xtab turishi taqiqlanadi (xizmat vazifasini bajarayotgan xodimga biriktirilgan ko'k yoki qizil yoxud ko'k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo'yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno). 3.28 belgisining taksometri ishlab turgan taksilarga, \"Nogiron\" tanish belgisi bilan belgilangan avtomobillar va kajavali motosikllarni boshqarayotgan nogiron haydovchilarga taalluqli emas.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4330,
+          "textUz": "Йўналишли таксиларга",
+          "textRu": "Маршрутное такси",
+          "textOz": "Yo'nalishli taksilarga",
+          "isCorrect": false
+        },
+        {
+          "id": 4331,
+          "textUz": "Таксометри ишлаб турган таксиларга",
+          "textRu": "Такси с включенным таксометром",
+          "textOz": "Taksometri ishlab turgan taksilarga",
+          "isCorrect": false
+        },
+        {
+          "id": 4332,
+          "textUz": "«Ногирон» таниқлик белгиси ўрнатилган ногирон бошқараётган автомобилга",
+          "textRu": "Автомобиль, которым управляет инвалид, с установленной табличкой «инвалид».",
+          "textOz": "«Ногирон» taniqlik belgisi o'rnatilgan nogiron boshqarayotgan avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 4333,
+          "textUz": "Белгиланган йўналишдаги транспорт воситаларига",
+          "textRu": "Маршрутные транспортные средства",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 4334,
+          "textUz": "Иккинчи ва учунчи жавобларда кўрсатилган транспорт воситаларига",
+          "textRu": "варианты на которых показаны во втором и третьем ответах",
+          "textOz": "Ikkinchi va uchunchi javoblarda ko'rsatilgan transport vositalariga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4334
+      ]
+    },
+    {
+      "id": 161,
+      "questionUz": "Бу белги ўрнатилган йўлда кажавали мотоциклни шатакка олишга рухсат этиладими?",
+      "questionRu": "Разрешается ли буксировка мотоцикла с боковым прицепом по дороге на которой установлен этот знак?",
+      "questionOz": "Bu belgi o'rnatilgan yo'lda kajavali motosiklni shatakka olishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 1 – иловаси 3 – бўлимининг тўққизинчи хатбошисига асосан: 3.7. “Тиркама билан ҳаракатланиш тақиқланади”. Юк ташувчи транспорт воситалари, тракторларнинг барча турдаги тиркамалар билан ҳаракатланиши, шунингдек механик транспорт воситаларини ҳар қандай усулда шатакка олиш тақиқланишини билдиради.",
+      "explanationRu": "Запрещающий знак 3.7 \"Движение с прицепом запрещено\". Запрещается движение грузовых автомобилей и тракторов с прицепами любого типа, а также всякая буксировка механических транспортных средств. Соответственно, буксировка мотоцикла с боковым прицепом по дороге, на которой установлен этот знак, запрещена.",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 541,
+          "textUz": "Тиркамаси биттадан ортиқ бўлмаган мотоциклга рухсат этилади",
+          "textRu": "Разрешается не более одной единицы",
+          "textOz": "Tirkamasi bittadan ortiq bo'lmagan motosiklga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 542,
+          "textUz": "Фақат қаттиқ тиркагичда рухсат этилади",
+          "textRu": "Разрешается при использовании жесткой сцепки для буксировки",
+          "textOz": "Faqat qattiq tirkagichda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 543,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 544,
+          "textUz": "Сирпанчиқда тақиқланади",
+          "textRu": "Запрещается при гололеде",
+          "textOz": "Sirpanchiqda taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        543
+      ]
+    },
+    {
+      "id": 162,
+      "questionUz": "Ушбу белги санаб ўтилган юк автомобилларининг қайсиларига ҳаракатни давом эттиришни тақиқламайди?",
+      "questionRu": "Каким грузовым автомобилям из перечисленных этот знак не запрещает дальнейшее движение?",
+      "questionOz": "Ushbu belgi sanab o'tilgan yuk avtomobillarining qaysilariga harakatni davom ettirishni taqiqlamaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.4 белги - «Юк автомобилларининг ҳаракатланиши тақиқланган» белгисида чекланган вазн кўрсатилмаган бўлса, бу белги тўла вазни 3,5 тоннадан юқори бўлган барча юк автомобилларининг, барча тракторларнинг, ўзи юрар машина ва механизмларнинг ҳаракатланиншини тақиқлайди. Бу белги таъсир оралиғида яшовчи ва ишловчиларга дахлдор эмас, шунингдек, бортларига қия оқ чизиқ тортилган ёки одамларни ташиётган юк автомобилларининг ҳаракатланишини тақиқламайди.",
+      "explanationRu": "Знак 3.4 раздела 3 приложения № 1 к ПДД, «Движение грузовых автомобилей запрещено». Запрещается движение грузовых автомобилей и составов транспортных средств с разрешенной максимальной массой более 3,5 т (если на знаке не указана масса) или с разрешенной максимальной массой более указанной на знаке, а также тракторов и самоходных машин. Этот знак не запрещает движение грузовых автомобилей с наклонной белой полосой на бортах или предназначенных для перевозки людей.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.4 belgi - \"Yuk avtomobillarining harakatlanishi taqiqlangan\" belgisida cheklangan vazn ko'rsatilmagan bo'lsa, bu belgi to'la vazni 3,5 tonnadan yuqori bo'lgan barcha yuk avtomobillarining, barcha traktorlarning, o'zi yurar mashina va mexanizmlarning harakatlaninshini taqiqlaydi. Bu belgi ta'sir oralig'ida yashovchi va ishlovchilarga daxldor emas, shuningdek, bortlariga qiya oq chiziq tortilgan yoki odamlarni tashiyotgan yuk avtomobillarining harakatlanishini taqiqlamaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4757,
+          "textUz": "Ушбу 3.4. йўл белгиси бортларига қия оқ чизиқ тортилган ёки одамларни ташиш учун мўлжалланган юк автомобилларининг ҳаракатланишини тақиқламайди.",
+          "textRu": "Данный дорожный знак 3.4 не запрещает движение грузовых автомобилей с нанесённой на борта наклонной белой полосой, а также грузовых автомобилей, предназначенных для перевозки людей.",
+          "textOz": "Ushbu 3.4. yoʻl belgisi bortlariga qiya oq chiziq tortilgan yoki odamlarni tashish uchun moʻljallangan yuk avtomobillarining harakatlanishini taqiqlamaydi.",
+          "isCorrect": false
+        },
+        {
+          "id": 4758,
+          "textUz": "Рухсат этилган тўла вазни 3,5 т дан ортиқ бўлган автомобилларга",
+          "textRu": "Автомобилям с разрешенной максимальной массой более 3,5 т",
+          "textOz": "Ruxsat etilgan to'la vazni 3,5 t dan ortiq bo'lgan avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 4759,
+          "textUz": "Хавфли юк ташиётган автомобилларга",
+          "textRu": "Автомобилям, перевозящим опасные грузы",
+          "textOz": "Xavfli yuk tashiyotgan avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 4760,
+          "textUz": "Юкхонасига қия оқ чизиқ тортилган юк автомобилларига",
+          "textRu": "Грузовым автомобилям с белой наклонной полосой на бортах",
+          "textOz": "Yukxonasiga qiya oq chiziq tortilgan yuk avtomobillariga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4760
+      ]
+    },
+    {
+      "id": 163,
+      "questionUz": "Кўрсатилган белгилардан қай бири илгари киритилган барча чеклашларни бекор қилади?",
+      "questionRu": "Какой из указанных знаков отменяет все ранее введенные ограничения?",
+      "questionOz": "Ko'rsatilgan belgilardan qay biri ilgari kiritilgan barcha cheklashlarni bekor qiladi?",
+      "explanationUz": "Бу белгиларда тўғри жавоб 4-белги. Ушбу 3.31. «Барча чекловларнинг охири» йўл белгиси 3.16, 3.20, 3.22, 3.24, 3.26–3.30 белгиларидан бир нечтасига бир вақтда амал қиладиган ҳудудларнинг охирини билдиради.",
+      "explanationRu": "Среди этих знаков правильным ответом является знак №4. Дорожный знак 3.31 «Конец всех ограничений» обозначает конец зоны действия одного или нескольких знаков 3.16, 3.20, 3.22, 3.24, 3.26–3.30, действующих одновременно.",
+      "explanationOz": "Bu belgilarda to'g'ri javob 4-belgi. Ushbu 3.31. “Barcha cheklovlarning oxiri” yo'l belgisi . 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 belgilaridan bir nechtasiga bir vaqtda amal qiladigan hududlarning oxiri bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/21.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4761,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 4762,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4763,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 4764,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 4765,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4764
+      ]
+    },
+    {
+      "id": 164,
+      "questionUz": "Бу белгида қайси юк автомобили ҳаракатни давом эттириши мумкин?",
+      "questionRu": "Какому грузовому автомобилю можно продолжать движение при этом знаке?",
+      "questionOz": "Bu belgida qaysi yuk avtomobili harakatni davom ettirishi mumkin?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.4 «Юк автомобилларининг ҳаракатланиши тақиқланган» белгисига мувофиқ, тўла вазни 3,5 тоннадан (агар вазни белгида кўрсатилмаган бўлса) ёки тўла вазни белгида кўрсатилгандан ортиқ бўлган юк автомобиллари ва транспорт воситалари таркибларининг, шунингдек тракторлар, ўзиюрар мосламаларнинг ҳаракатланиши тақиқланишини билдиради.",
+      "explanationRu": "Согласно знаку 3.4 раздела 3 приложения № 1 к ПДД, «Движение грузовых автомобилей запрещено», запрещается движение грузовых автомобилей и составов транспортных средств с разрешенной максимальной массой более 3,5 т (если на знаке не указана масса) или с разрешенной максимальной массой более указанной на знаке, а также тракторов и самоходных машин.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.4 \"Yuk avtomobillarining harakatlanishi taqiqlangan\" belgisiga muvofiq, to'la vazni 3,5 tonnadan (agar vazni belgida ko'rsatilmagan bo'lsa) yoki to'la vazni belgida ko'rsatilgandan ortiq bo'lgan yuk avtomobillari va transport vositalari tarkiblarining, shuningdek traktorlar, o'ziyurar moslamalarning harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4766,
+          "textUz": "8 тоннагача юк ортган автомобил",
+          "textRu": "Автомобилю загруженному до 8 т",
+          "textOz": "8 tonnagacha yuk ortgan avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 4767,
+          "textUz": "8 тонна юк кўтариш қувватига эга бўлган бўш автомобил",
+          "textRu": "Порожнему автомобилю грузоподъемностью 8 т",
+          "textOz": "8 tonna yuk ko'tarish quvvatiga ega bo'lgan bo'sh avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 4768,
+          "textUz": "Рухсат этилган тўла вазни 8 тоннадан ортиқ бўлмаган автомобил",
+          "textRu": "Автомобилю разрешенная максимальная масса которого не более 8 т",
+          "textOz": "Ruxsat etilgan to'la vazni 8 tonnadan ortiq bo'lmagan avtomobil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4768
+      ]
+    },
+    {
+      "id": 165,
+      "questionUz": "Қайси белги тўхтамасдан ўтишни тақиқлайди?",
+      "questionRu": "Какой знак запрещает проезд без остановки?",
+      "questionOz": "Qaysi belgi to'xtamasdan o'tishni taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлим 3.17.1 «Божхона» белгиси давлат тили ва инглиз тилида ёзилиб, божхона (назорат пункти) олдида тўхтамасдан ўтиб кетиш тақиқланади.",
+      "explanationRu": "Знак 3.17.1 раздела 3 приложения № 1 к ПДД, «Таможня» запрещается проезд без остановки у таможенного (контрольного) пункта.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'lim 3.17.1 “Bojxona” belgisi davlat tili va ingliz tilida yozilib bojxona (nazorat punkti) oldida to‘xtamasdan o'tib ketish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 557,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 558,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 559,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 560,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 561,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        560
+      ]
+    },
+    {
+      "id": 166,
+      "questionUz": "Бу белги қайси транспорт воситаларига тегишли эмас?",
+      "questionRu": "На какие транспортные средства не распространяется действие данного знака?",
+      "questionOz": "Bu belgi qaysi transport vositalariga tegishli emas?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлимининг учинчи ва ўттиз саккизинчи хатбошларига асосан: 3.2. “Ҳаракатланиш тақиқланган”. Барча транспорт воситаларининг ҳаракатланиши тақиқланишини билдиради. 3.2 белгиси белгиланган зонада жойлашган корхоналарга хизмат кўрсатувчи транспорт воситаларига, шунингдек, белгиланган зонада яшайдиган ёки ишлайдиган фуқароларга хизмат қилувчи ёки уларга тегишли бўлган транспорт воситаларига таъсир қилмайди.",
+      "explanationRu": "Запрещающий знак 3.2 “Движение запрещено”. Запрещается движение всех транспортных средств. Действие знаков 3.1, 3.2, 3.3, 3.18.1, 3.18.2, 3.19, 3.27 не распространяется - на маршрутные транспортные средства, знаков 3.2-3.8 - на транспортные средства, которые обслуживают предприятия, находящиеся в обозначенной зоне, а также обслуживают или принадлежат гражданам, проживающим или работающим в обозначенной зоне. В этих случаях транспортные средства должны въезжать в обозначенную зону и выезжать из нее на ближайшем к месту назначения перекрестке.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo‘limining uchinchi va o‘ttiz sakkizinchi xatboshlariga asosan: 3.2. “Harakatlanish taqiqlangan”. Barcha transport vositalarining harakatlanishi taqiqlanishini bildiradi. 3.2 belgisi belgilangan zonada joylashgan korxonalarga xizmat ko‘rsatuvchi transport vositalariga, shuningdek, belgilangan zonada yashaydigan yoki ishlaydigan fuqarolarga xizmat qiluvchi yoki ularga tegishli bo‘lgan transport vositalariga ta'sir qilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 562,
+          "textUz": "Тракторлар ва ўзиюрар автомобилларга",
+          "textRu": "На тракторы и самоходные машины",
+          "textOz": "Traktorlar va o'ziyurar avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 563,
+          "textUz": "Автобуслар ва микро автобусларга",
+          "textRu": "На автобусы и микроавтобусы",
+          "textOz": "Avtobuslar va mikro avtobuslarga",
+          "isCorrect": false
+        },
+        {
+          "id": 564,
+          "textUz": "Белги таъсирида жойлашган корхоналарга хизмат кўрсатаётган транспорт воситасига",
+          "textRu": "На транспортные средства которые обслуживают предприятия находящиеся в зоне действия знака",
+          "textOz": "Belgi tasirida joylashgan korxonalarga xizmat ko'rsatayotgan transport vositasiga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        564
+      ]
+    },
+    {
+      "id": 167,
+      "questionUz": "Қайси белги агар юк автомобилни тиркамаси билан бирга рухсат этилган тўлиқ вазни 7 тоннага тенг бўлса, тиркамали автомобилларнинг ҳаракатланишини тақиқлайди?",
+      "questionRu": "Какой знак запрещает движение грузового автомобиля с прицепом, если суммарная разрешенная максимальная масса автомобиля и прицепа равна 7 т?",
+      "questionOz": "Qaysi belgi agar yuk avtomobilni tirkamasi bilan birga ruxsat etilgan to'liq vazni 7 tonnaga teng bo'lsa, tirkamali avtomobillarning harakatlanishini taqiqlaydi?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлимининг тўққизинчи хатбошисига асосан: 3.7 “Тиркама билан ҳаракатланиш тақиқланади”. Юк ташувчи транспорт воситалари, тракторларнинг барча турдаги тиркамалар билан ҳаракатланиши, шунингдек механик транспорт воситаларини ҳар қандай усулда шатакка олиш тақиқланишини билдиради.",
+      "explanationRu": "Запрещающий знак 3.7 “Движение с прицепом запрещено”. Запрещается движение грузовых автомобилей и тракторов с прицепами любого типа, а также всякая буксировка механических транспортных средств.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo‘limining to‘qqizinchi xatboshisiga asosan: 3.7 “Tirkama bilan harakatlanish taqiqlanadi”. Yuk tashuvchi transport vositalari, traktorlarning barcha turdagi tirkamalar bilan harakatlanishi, shuningdek mexanik transport vositalarini har qanday usulda shatakka olish taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4173,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 4174,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 4175,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 4176,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 4177,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4176
+      ]
+    },
+    {
+      "id": 168,
+      "questionUz": "Қайси белги чапга бурилишга рухсат этади?",
+      "questionRu": "Какой знак разрешат левый поворот?",
+      "questionOz": "Qaysi belgi chapga burilishga ruxsat etadi?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлимининг йигирма учинчи хатбошисига асосан: 3.19. “Қайрилиш тақиқланган”. Изоҳ. 3.19 - белгиси қайси кесишмага ўрнатилса фақат шу кесишмага тааллуқли бўлиб, чапга бурилишни тақиқламайди.",
+      "explanationRu": "Запрещающий знак 3.19 “Разворот запрещен”. Все знаки, кроме запрещающего разворот 3.19, запрещают поворот налево.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo‘limining yigirma uchinchi xatboshisiga asosan: 3.19. “Qayrilish taqiqlangan”. Izoh. 3.19 - belgisi qaysi kesishmaga o‘rnatilsa faqat shu kesishmaga taalluqli bo‘lib, chapga burilishni taqiqlamaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 570,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 571,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 572,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 573,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 574,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        572
+      ]
+    },
+    {
+      "id": 169,
+      "questionUz": "Бу йўл белгиси билан белгиланган йўл қисмида енгил автомобилни шатакка олишга рухсат этиладими?",
+      "questionRu": "Разрешается ли буксировка легкового автомобиля на участке дороги; обозначенном этим дорожным знаком?",
+      "questionOz": "Bu yo'l belgisi bilan belgilangan yo'l qismida engil avtomobilni shatakka olishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлимининг тўққизинчи хатбошисига асосан: 3.7. “Тиркама билан ҳаракатланиш тақиқланади”. Юк ташувчи транспорт воситалари, тракторларнинг барча турдаги тиркамалар билан ҳаракатланиши, шунингдек механик транспорт воситаларини ҳар қандай усулда шатакка олиш тақиқланишини билдиради.",
+      "explanationRu": "Запрещающий знак 3.7 “Движение с прицепом запрещено”. Запрещается движение грузовых автомобилей и тракторов с прицепами любого типа, а также всякая буксировка механических транспортных средств.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo‘limining to‘qqizinchi xatboshisiga asosan: 3.7. “Tirkama bilan harakatlanish taqiqlanadi”. Yuk tashuvchi transport vositalari, traktorlarning barcha turdagi tirkamalar bilan harakatlanishi, shuningdek mexanik transport vositalarini har qanday usulda shatakka olish taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 575,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 576,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        576
+      ]
+    },
+    {
+      "id": 170,
+      "questionUz": "Бу белгида юк автомобилларидан қайси бирига ҳаракатланишни давом эттиришга рухсат этилади?",
+      "questionRu": "Каким грузовым автомобилям разрешается продолжать движение при этом знаке?",
+      "questionOz": "Bu belgida yuk avtomobillaridan qaysi biriga harakatlanishni davom ettirishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.4 белги талабига мувофиқ, «Юк автомобилларининг ҳаракатланиши тақиқланган» белгида чекланган вазн кўрсатилмаган бўлса, бу белги тўла вазн 3,5 тоннадан юқори бўлган барча юк автомобилларининг, барча тракторларнинг, ўзи юрар машина ва механизмларнинг ҳаракатланиншини тақиқлайди. Бу белги таъсир оралиғида яшовчи ва ишловчиларга дахлдор эмас, шунингдек, бортларига қия оқ чизиқ тортилган ёки одамларни ташиётган юк автомобилларининг ҳаракатланишини тақиқламайди.",
+      "explanationRu": "Согласно требованию знака 3.4. раздела 3 приложения № 1 к ПДД, «Движение грузовых автомобилей запрещено» запрещается движение грузовых автомобилей и составов транспортных средств с разрешенной максимальной массой более 3,5 т (если на знаке не указана масса) или с разрешенной максимальной массой, более указанной на знаке, а также тракторов и самоходных машин.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.4 belgi talabiga muvofiq, \"Yuk avtomobillarining harakatlanishi taqiqlangan\" belgida cheklangan vazn ko'rsatilmagan bo'lsa, bu belgi to'la vazn 3,5 tonnadan yuqori bo'lgan barcha yuk avtomobillarining, barcha traktorlarning, o'zi yurar mashina va mexanizmlarning harakatlaninshini taqiqlaydi. Bu belgi ta'sir oralig'ida yashovchi va ishlovchilarga daxldor emas, shuningdek, bortlariga qiya oq chiziq tortilgan yoki odamlarni tashiyotgan yuk avtomobillarining harakatlanishini taqiqlamaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/28.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4184,
+          "textUz": "Юкхонасида одам ташишга мослаштирилган махсус юк автомобилларида",
+          "textRu": "Автомобилям с пассажирами в специально оборудованном кузове",
+          "textOz": "Yukxonasida odam tashishga moslashtirilgan maxsus yuk avtomobillarida",
+          "isCorrect": true
+        },
+        {
+          "id": 4185,
+          "textUz": "Фургон-юкхонада маҳсулотлар ташийдиган автомобилларга",
+          "textRu": "Автомобилям перевозящим продукты в кузове-фургоне",
+          "textOz": "Furgon-yukxonada mahsulotlar tashiydigan avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 4186,
+          "textUz": "«Алоқа» ёзуви бўлган автомобилларга",
+          "textRu": "Автомобилям с надписью «Связь»",
+          "textOz": "«Алоқа» yozuvi bo'lgan avtomobillarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4184
+      ]
+    },
+    {
+      "id": 171,
+      "questionUz": "Бу йўл белгиси:",
+      "questionRu": "Этот дорожный знак:",
+      "questionOz": "Bu yo'l belgisi:",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.6 белги талабига мувофиқ, «Тракторлар ҳаракатланиши тақиқланган» белгиси барча турдаги тракторлар, ўзи юрар машина ва механизмларнинг ҳаракатланишини тақиқлайди.",
+      "explanationRu": "Согласно требованию знака 3.6 раздела 3 приложения № 1 к ПДД, «Движение тракторов запрещено» запрещается движение тракторов и самоходных машин.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.6 belgi talabiga muvofiq, \"Traktorlar harakatlanishi taqiqlangan\" belgisi barcha turdagi traktorlar, o'zi yurar mashina va mexanizmlarning harakatlanishini taqiqlaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/28.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 580,
+          "textUz": "Икки ғилдиракли кажавасиз мотоцикллардан ташқари ҳамма механик транспорт воситаларининг ҳаракатланишини тақиқлайди",
+          "textRu": "Запрещает движение всех видов механических транспортных средств кроме двухколесного мотоцикла без коляски",
+          "textOz": "Ikki g'ildirakli kajavasiz motosikllardan tashqari hamma mexanik transport vositalarining harakatlanishini taqiqlaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 581,
+          "textUz": "Ғилдиракли тракторлардан ташқари ҳамма транспорт воситаларининг ҳаракатланишини тақиқлайди",
+          "textRu": "Запрещает движение всех транспортных средств кроме колесных тракторов",
+          "textOz": "G'ildirakli traktorlardan tashqari hamma transport vositalarining harakatlanishini taqiqlaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 582,
+          "textUz": "Тракторлар ва ўзи юрар машиналарнинг ҳаракатланиши тақиқланади",
+          "textRu": "Запрещает движение тракторов и самоходных машин",
+          "textOz": "Traktorlar va o'zi yurar mashinalarning harakatlanishi taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        582
+      ]
+    },
+    {
+      "id": 172,
+      "questionUz": "Йўналтиргичлар билан белгиланган йўналишларнинг қайси биридан ҳаракатланишга рухсат этилади?",
+      "questionRu": "По какому пути из числа обозначенных стрелками разрешено движение?",
+      "questionOz": "Yo'naltirgichlar bilan belgilangan yo'nalishlarning qaysi biridan harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.18.2 «Чапга бурилиш тақиқланган» белгиси қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади. Белги фақат чапга бурилишни тақиқлайди.",
+      "explanationRu": "Знак 3.18.2 «Поворот налево запрещен» раздела 3 приложения № 1 к ПДД. Действие знака распространяется на пересечение проезжих частей, перед которыми установлен знак. Знак запрещает только поворот налево.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.18.2 \"Chapga burilish taqiqlangan\" belgisi qatnov qismlarining qaysi kesishmasi oldiga o'rnatilsa, shu kesishmaga tatbiq etiladi. Belgi faqat chapga burilishni taqiqlaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/30.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 583,
+          "textUz": "«А» ва «Б»",
+          "textRu": "«А» и «Б»",
+          "textOz": "«А» va «Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 584,
+          "textUz": "«Б» ва «В»",
+          "textRu": "«Б» и «В»",
+          "textOz": "«Б» va «В»",
+          "isCorrect": false
+        },
+        {
+          "id": 585,
+          "textUz": "«А» ва «В»",
+          "textRu": "«А» и «В»",
+          "textOz": "«А» va «В»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        585
+      ]
+    },
+    {
+      "id": 173,
+      "questionUz": "Бу белгида қайси автомобилга ҳаракатланишга рухсат этилган?",
+      "questionRu": "Какому автомобилю разрешено движение при этом знаке?",
+      "questionOz": "Bu belgida qaysi avtomobilga harakatlanishga ruxsat etilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.12 «Ўққа тушадиган оғирлик чекланган» белгисига мувофиқ, бирорта ўқига тушадиган ҳақиқий оғирлиги белгида кўрсатилганидан ортиқ бўлган транспорт воситаларининг ҳаракатланиши тақиқланишини билдиради.",
+      "explanationRu": "Согласно знаку 3.12 раздела 3 приложения № 1 к ПДД, «Ограничение нагрузки на ось», запрещается движение транспортных средств, у которых фактическая нагрузка на какую-либо ось больше указанной на знаке.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.12 \"O'qqa tushadigan og'irlik cheklangan\" belgisiga muvofiq, birorta o'qiga tushadigan haqiqiy og'irligi belgida ko'rsatilganidan ortiq bo'lgan transport vositalarining harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/30.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 586,
+          "textUz": "Ҳақиқий вазни 12 т бўлган икки ўқли юк автомобилига",
+          "textRu": "Двухосному грузовому автомобилю, фактическая масса которого 12 т",
+          "textOz": "Haqiqiy vazni 12 t bo'lgan ikki o'qli yuk avtomobiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 587,
+          "textUz": "Ҳақиқий вазни 12 т бўлган уч ўқли юк автомобилига",
+          "textRu": "Трехосному грузовому автомобилю, фактическая масса которого 12 т",
+          "textOz": "Haqiqiy vazni 12 t bo'lgan uch o'qli yuk avtomobiliga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        587
+      ]
+    },
+    {
+      "id": 174,
+      "questionUz": "Қайси белги қайрилишга рухсат этади?",
+      "questionRu": "Какой знак разрешает разворот?",
+      "questionOz": "Qaysi belgi qayrilishga ruxsat etadi?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлимининг йигирма иккинчи хатбошисига асосан: 3.18.2. “Чапга бурилиш тақиқланади”. \r\nИзоҳ: 3.18.2. “Чапга бурилиш тақиқланади” белгиси, қайрилиб олишни тақиқламайди",
+      "explanationRu": "Запрещающий знак 3.18.2 “Поворот налево запрещен”.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo‘limining yigirma ikkinchi xatboshisiga asosan: 3.18.2. “Chapga burilish taqiqlanadi”.\r\nIzoh: 3.18.2. “Chapga burilish taqiqlanadi” belgisi, qayrilib olishni taqiqlamaydi",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/31.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 588,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 589,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 590,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 591,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 592,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        589
+      ]
+    },
+    {
+      "id": 175,
+      "questionUz": "Агар автомобилнинг баландлиги (юки билан ёки юксиз) белгида кўрсатилганидан ортиқ бўлса ҳайдовчи:",
+      "questionRu": "Для предотвращения опасных последствий заноса автомобиля водитель должен:",
+      "questionOz": "Agar avtomobilning balandligi (yuki bilan yoki yuksiz) belgida ko'rsatilganidan ortiq bo'lsa haydovchi:",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.13 «Чекланган баландлик» белгисига мувофиқ, габарит баландлиги (юк билан ёки юксиз) белгида кўрсатилганидан ортиқ бўлган транспорт воситаларининг ҳаракатланиши тақиқланишини билдиради.",
+      "explanationRu": "Согласно знаку 3.13 раздела 3 приложения № 1 к ПДД, «Ограничение высоты», запрещается движение транспортных средств, габаритная высота которых (с грузом или без груза) больше указанной на знаке.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.13 \"Cheklangan balandlik\" belgisiga muvofiq, gabarit balandligi (yuk bilan yoki yuksiz) belgida ko'rsatilgandan ortiq bo'lgan transport vositalarning harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/31.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4340,
+          "textUz": "Автохўжалик раҳбаридан юришга рухсат олиши керак",
+          "textRu": "Резко нажать на педаль тормоза",
+          "textOz": "Avtoxo'jalik rahbaridan yurishga ruxsat olishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 4341,
+          "textUz": "ДЙҲХХдан юришга рухсатнома олиши керак",
+          "textRu": "Нажать на педаль сцепления",
+          "textOz": "DYHXXdan yurishga ruxsatnoma olishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 4342,
+          "textUz": "Бошқа йўналиш бўйича йўл қисмини айланиб ўтиши керак",
+          "textRu": "Прекратить начатое торможение",
+          "textOz": "Boshqa yo'nalish bo'yicha yo'l qismini aylanib o'tishi kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4342
+      ]
+    },
+    {
+      "id": 176,
+      "questionUz": "Белгилардан қайси бирининг белгиланган йўналишдаги транспорт воситаларига даҳли йўқ?",
+      "questionRu": "Действие; какого из знаков не распространяется на маршрутные транспортные средства?",
+      "questionOz": "Belgilardan qaysi birining belgilangan yo'nalishdagi transport vositalariga dahli yo'q?",
+      "explanationUz": "ЙҲҚ 1-иловаси 3-бўлимининг ўттиз биринчи ва ўттиз саккизинчи хатбошларига асосан: 3.27. “Тўхташ тақиқланган”. Транспорт воситаларининг тўхташи ва тўхтаб туриши тақиқланишини билдиради. 3.27 белгисига амал қилиш ё 551 транспорт воситаларига таъсир қилмайди.",
+      "explanationRu": "Запрещающий знак 3.27 “Остановка запрещена”. Запрещается остановка и стоянка транспортных средств.",
+      "explanationOz": "YHQ 1-ilovasi 3-bo‘limining o‘ttiz birinchi va o‘ttiz sakkizinchi xatboshlariga asosan: 3.27. “To‘xtash taqiqlangan”. Transport vositalarining to‘xtashi va to‘xtab turishi taqiqlanishini bildiradi. 3.27 belgisiga amal qilish yo 551 transport vositalariga ta'sir qilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/31.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 596,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 597,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 598,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 599,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 600,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        599
+      ]
+    },
+    {
+      "id": 177,
+      "questionUz": "Бу йўл белгиси нимани билдиради?",
+      "questionRu": "Этот дорожный знак означает, что:",
+      "questionOz": "Bu yo'l belgisi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлимидаги 3.22 белги талабига мувофиқ, «Юк автомобилларида қувиб ўтиш тақиқланган» белгиси тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобилларида барча транспорт воситаларини қувиб ўтиш тақиқланишини билдиради (соатига 40 км дан кам тезликда ҳаракатланаётган транспорт воситаси, трактор, от-арава, велосипед бундан мустасно).",
+      "explanationRu": "Согласно требованию знака 3.22 раздела 3 приложения № 1 к ПДД, «Обгон грузовым автомобилям запрещен» запрещается грузовым автомобилям с разрешенной максимальной массой более 3,5 т обгон всех транспортных средств (за исключением транспортного средства, трактора, гужевой повозки, велосипеда, движущегося со скоростью менее 40 км/ч).",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limidagi 3.22 belgi talabiga muvofiq, \"Yuk avtomobillarida quvib o'tish taqiqlangan\" belgisi to'liq vazni 3,5 tonnadan ortiq bo'lgan yuk avtomobillarida barcha transport vositalarini quvib o'tish taqiqlanishini bildiradi (soatiga 40 km dan kam tezlikda harakatlanayotgan transport vositasi, traktor, ot-arava, velosiped bundan mustasno).",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/33.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 601,
+          "textUz": "40 км/с дан кам тезликда кетаётган якка, ён кажаваси бўлмаган икки ғилдиракли мотоцикллар ва велосипедлардан ташқари барча механик транспорт воситаларини қувиб ўтиш тақиқланади",
+          "textRu": "Запрещается обгонять все механические транспортные средства, кроме одиночных, движущихся со скоростью менее 40 км/ч, двухколесных мотоциклов без бокового прицепа и велосипедов",
+          "textOz": "40 km/s dan kam tezlikda ketayotgan yakka, yon kajavasi bo'lmagan ikki g'ildirakli motosikllar va velosipedlardan tashqari barcha mexanik transport vositalarini quvib o'tish taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 602,
+          "textUz": "Рухсат этилган тўла вазни 3,5 т дан зиёд бўлган юк автомобили билан 40 км/с дан кам тезликда кетаётган якка транспорт воситаларидан ташқари барча транспорт воситаларини қувиб ўтиш тақиқланади",
+          "textRu": "Грузовым автомобилям, разрешенная максимальная масса которых превышает 3,5 т, запрещается обгонять все транспортные средства, кроме одиночных, движущихся со скоростью менее 40 км/ч",
+          "textOz": "Ruxsat etilgan to'la vazni 3,5 t dan ziyod bo'lgan yuk avtomobili bilan 40 km/s dan kam tezlikda ketayotgan yakka transport vositalaridan tashqari barcha transport vositalarini quvib o'tish taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        602
+      ]
+    },
+    {
+      "id": 178,
+      "questionUz": "Бундай автопоезднинг кўприкдан ўтишига рухсат этиладими?",
+      "questionRu": "Разрешается ли такому автопоезду проехать по мосту?",
+      "questionOz": "Bunday avtopoezdning ko'prikdan o'tishiga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 3-бўлими 3.11 белгиси «Вазн чекланган», ҳақиқий умумий вазни белгида кўрсатилганидан ортиқ бўлган транспорт воситаларининг, шунингдек транспорт воситалари таркибларининг ҳаракатланиши тақиқланишини билдиради.",
+      "explanationRu": "Знак 3.11 раздела 3 приложения № 1 к ПДД, «Ограничение массы», запрещается движение транспортных средств, в том числе составов транспортных средств, общая фактическая масса которых больше указанной на знаке.",
+      "explanationOz": "YHQ 1-ilovasining 3-bo'limi 3.11 belgisi \"Vazn cheklangan\", haqiqiy umumiy vazni belgida ko'rsatilganidan ortiq bo'lgan transport vositalarining, shuningdek transport vositalari tarkiblarining harakatlanishi taqiqlanishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/34.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 603,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 604,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        604
+      ]
+    },
+    {
+      "id": 179,
+      "questionUz": "Кўрсатилган йўл белгиси қайси транспорт воситаларига ҳаракатланишни тақиқлайди?",
+      "questionRu": "Каким транспортным средствам запрещено движение по указанному знаку?",
+      "questionOz": "Ko'rsatilgan yo'l belgisi qaysi transport vositalariga harakatlanishni taqiqlaydi?",
+      "explanationUz": "Бу белги 3.3. «Механик транспорт воситаларининг ҳаракатланиши тақиқланган»ни билдиради.",
+      "explanationRu": "Этот знак обозначает 3.3 «Движение механических транспортных средств запрещено».",
+      "explanationOz": "Bu belgi 3.3. “Mexanik transport vositalarining harakatlanishi taqiqlangan”ni bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/35.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4754,
+          "textUz": "Барча механик транспорт воситаларига",
+          "textRu": "Всем механическим транспортным средствам",
+          "textOz": "Barcha mexanik transport vositalariga",
+          "isCorrect": true
+        },
+        {
+          "id": 4755,
+          "textUz": "Фақат юк автомобилларига",
+          "textRu": "Только грузовых автомобилей",
+          "textOz": "Faqat yuk avtomobillariga",
+          "isCorrect": false
+        },
+        {
+          "id": 4756,
+          "textUz": "Барча автомобилларга",
+          "textRu": "Всех автомобилей",
+          "textOz": "Barcha avtomobillarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4754
+      ]
+    },
+    {
+      "id": 180,
+      "questionUz": "Кўрсатилган қайси белгилар сизга яшаш манзилингизга автомобилда ўтишга рухсат беради?",
+      "questionRu": "Какие знаки разрешают Вам проезд на автомобиле к месту проживания?",
+      "questionOz": "Ko'rsatilgan qaysi belgilar sizga yashash manzilingizga avtomobilda o'tishga ruxsat beradi?",
+      "explanationUz": "«Ҳаракатланиш тақиқланган» ва 3.3. «Механик транспорт воситаларининг ҳаракатланиши тақиқланган» белгилари таъсир оралиғида яшовчи ёки ишловчи фуқароларга хизмат қилувчи ёки уларга тегишли бўлган транспорт воситаларига таъсир қилмайди. Бундай ҳолларда транспорт воситалари белгиланган жойга энг яқин чорраҳадан кириб ёки чиқиб кетишлари керак. Демак, тўғри жавоб А ва В бўлади.",
+      "explanationRu": "Знаки «Движение запрещено» и 3.3 «Движение механических транспортных средств запрещено» не распространяются на транспортные средства, обслуживающие граждан, проживающих или работающих в зоне действия знака, а также принадлежащие им. В таких случаях транспортные средства должны въезжать или выезжать через ближайший к месту назначения перекрёсток. Следовательно, правильным ответом будет А и В.",
+      "explanationOz": "“Harakatlanish taqiqlangan” va  3.3. “Mexanik transport vositalarining harakatlanishi taqiqlangan” belgilari taʼsir oraligʻida yashovchi yoki ishlovchi fuqarolarga xizmat qiluvchi yoki ularga tegishli boʻlgan transport vositalariga taʼsir qilmaydi. Bunday hollarda transport vositalari belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak.\r\nDemak to'gri javob A va V degan javob to'g'ri bo'ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/36.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4750,
+          "textUz": "Фақат «А»",
+          "textRu": "Только «А»",
+          "textOz": "Faqat «А»",
+          "isCorrect": false
+        },
+        {
+          "id": 4751,
+          "textUz": "Фақат «Б»",
+          "textRu": "Только «Б»",
+          "textOz": "Faqat «Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 4752,
+          "textUz": "Фақат «А» ва «B»",
+          "textRu": "Только «А» и «B»",
+          "textOz": "Faqat «А» va «B»",
+          "isCorrect": true
+        },
+        {
+          "id": 4753,
+          "textUz": "Барчаси",
+          "textRu": "Все",
+          "textOz": "Barchasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4752
+      ]
+    },
+    {
+      "id": 181,
+      "questionUz": "Шатакка олиб ҳаракатланишингиз мумкин:",
+      "questionRu": "Продолжить буксировку можно:",
+      "questionOz": "Shatakka olib harakatlanishingiz mumkin:",
+      "explanationUz": "«Тиркама билан ҳаракатланиш тақиқланган». Юк автомобиллари ва тракторларнинг барча турдаги тиркамалар билан ҳаракатланиши, шунингдек, механик транспорт воситаларини шатакка олиш тақиқланади. Шунинг учун фақат А йўналишга рухсат этилган.",
+      "explanationRu": "«Движение с прицепом запрещено». Запрещается движение грузовых автомобилей и тракторов с любыми видами прицепов, а также буксировка механических транспортных средств. Поэтому разрешено движение только в направлении А.",
+      "explanationOz": "“Tirkama bilan harakatlanish taqiqlangan”. Yuk avtomobillari va traktorlarning barcha turdagi tirkamalar bilan harakatlanishi, shuningdek, mexanik transport vositalarini shatakka olish taqiqlanadi. Shuning uchun faqat A yo'nalishga ruxsat etilgan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4747,
+          "textUz": "Фақат «А» йўналиши бўйича",
+          "textRu": "Только в направлении «А»",
+          "textOz": "Faqat «А» yo'nalishi bo'yicha",
+          "isCorrect": true
+        },
+        {
+          "id": 4748,
+          "textUz": "Фақат «Б» йўналиш бўйича",
+          "textRu": "Только в направлении «Б»",
+          "textOz": "Faqat «Б» yo'nalish bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 4749,
+          "textUz": "Кўрсатилган барча йўналиш бўйича",
+          "textRu": "В любом из указанных направлений",
+          "textOz": "Ko'rsatilgan barcha yo'nalish bo'yicha",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4747
+      ]
+    },
+    {
+      "id": 182,
+      "questionUz": "Қайси йўл белгиси  барча транспорт воситаларининг ҳаракатини истисносиз  тақиқлайди?",
+      "questionRu": "Какой знак запрещает дальнейшее движение всех без исключения транспортных средств?",
+      "questionOz": "Qaysi yo'l belgisi  barcha transport vositalarining harakatini istisnosiz  taqiqlaydi?",
+      "explanationUz": "Хавф-хатар белгиси барча транспорт воситаларининг ҳаракатланишини истисносиз тақиқлайди, яъни ҳеч қайси транспорт воситаси ҳаракатланиш ҳуқуқига эга эмас. Ушбу белги йўлда хавф-хатар юзага келганда ёки ёнғин содир бўлганда ўрнатилади.",
+      "explanationRu": "«Опасность» без исключения запрещает движение всех транспортных средств, то есть ни одно транспортное средство не имеет права продолжать движение. Этот знак устанавливается при возникновении опасной ситуации на дороге или в случае пожара.",
+      "explanationOz": "Xavf xatar belgisi barcha transport vositalarini harakatini istisnosiz taqiqlaydi ya’ni hech qaysi transport vositalari harakatlanish huquqiga ega emas .Bu belgi xavf xatar bo’lganda yoki yong’in chiqqanda qo’yiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/39.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4983,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": false
+        },
+        {
+          "id": 4984,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": true
+        },
+        {
+          "id": 4985,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4984
+      ]
+    },
+    {
+      "id": 183,
+      "questionUz": "Ушбу йўл белгиси  таъсир  оралиғида  Сизга одам тушириш (чиқариш) ёки юк ортиш (тушириш) рухсат  этиладими?",
+      "questionRu": "Разрешается ли Вам осуществить посадку (высадку) пассажиров либо загрузку (разгрузку) транспортного средства в зоне действия этого знака?",
+      "questionOz": "Ushbu yo'l belgisi  tasir  oralig'ida  Sizga odam tushirish (chiqarish) yoki yuk ortish (tushirish) ruxsat  etiladimi?",
+      "explanationUz": "Ушбу белги таъсир оралиғида йўловчиларни чиқариш ёки туширишга рухсат этилади, чунки «Тўхтаб туриш тақиқланган» белгиси фақат транспорт воситасини узоқроқ муддатга ҳаракатсиз қолдиришни тақиқлайди. Қисқа муддатли тўхташ, жумладан йўловчиларни тушириш ёки чиқариш учун рухсат этилади.",
+      "explanationRu": "В зоне действия данного знака разрешается посадка и высадка пассажиров, поскольку знак «Стоянка запрещена» запрещает только длительное прекращение движения транспортного средства. Кратковременная остановка, в том числе для посадки или высадки пассажиров, допускается.",
+      "explanationOz": "Ushbu belgi taʼsir oraligʻida yoʻlovchilarni chiqarish yoki tushirishga ruxsat etiladi, chunki “Toʻxtab turish taqiqlangan” belgisi faqat transport vositasini uzoqroq muddatga harakatsiz qoldirishni taqiqlaydi. Qisqa muddatli toʻxtash, shu jumladan yoʻlovchilarni tushirish yoki chiqarish uchun ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/40.16[1].webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4986,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 4987,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4986
+      ]
+    },
+    {
+      "id": 184,
+      "questionUz": "Кўрсатилган йўл белгиларидан қайси бири таъқиқловчи белгилар илгари киритган барча чекловларни бекор қилади?",
+      "questionRu": "Какой из перечисленных дорожных знаков отменяет все ограничения, ранее введенные запрещающими знаками?",
+      "questionOz": "Ko'rsatilgan yo'l belgilaridan qaysi biri taqiqlovchi belgilar ilgari kiritgan barcha cheklovlarni bekor qiladi?",
+      "explanationUz": "3.31 йўл белгиси — «Барча чекловларнинг охири». В ҳарфи билан кўрсатилган ушбу йўл белгиси аввал киритилган барча чекловларнинг амал қилишини бекор қилади.",
+      "explanationRu": "Дорожный знак 3.31 «Конец всех ограничений». Данный знак, обозначенный буквой В, отменяет действие всех ранее введённых ограничений.",
+      "explanationOz": "3.31 yoʻl belgisi — “Barcha cheklovlarning oxiri”. V harfi bilan koʻrsatilgan ushbu yoʻl belgisi avval kiritilgan barcha cheklovlarning amal qilishini bekor qiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4988,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "V",
+          "isCorrect": true
+        },
+        {
+          "id": 4989,
+          "textUz": "А ва Б",
+          "textRu": "А и Б",
+          "textOz": "A va B",
+          "isCorrect": false
+        },
+        {
+          "id": 4990,
+          "textUz": "В ва Г",
+          "textRu": "В и Г",
+          "textOz": "V va G",
+          "isCorrect": false
+        },
+        {
+          "id": 4991,
+          "textUz": "Барчаси",
+          "textRu": "Все",
+          "textOz": "Barchasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4988
+      ]
+    },
+    {
+      "id": 185,
+      "questionUz": "Ушбу белгилардан қайси бири ҳайдовчининг шу жойдаги яшаш ёки ишлаш жойига етиб боришига монелик қилмайди?",
+      "questionRu": "Какой из этих знаков не запрещает проезд до места жительства или работы?",
+      "questionOz": "Ushbu belgilardan qaysi biri haydovchining shu joydagi yashash yoki ishlash joyiga etib borishiga monelik qilmaydi?",
+      "explanationUz": "Ушбу белги таъсир доирасида яшовчи ёки ишловчи фуқароларга тегишли бўлган транспорт воситаларининг кириб боришига тўсқинлик қилмайди. Шунингдек, ушбу ҳудуддаги фуқароларга хизмат кўрсатувчи транспорт воситаларига ҳам рухсат этилади.",
+      "explanationRu": "Действие данного знака не распространяется на транспортные средства, принадлежащие гражданам, проживающим или работающим в данной зоне. Кроме того, въезд разрешается транспортным средствам, обслуживающим этих граждан.",
+      "explanationOz": "Ushbu belgi taʼsir doirasida yashovchi yoki ishlovchi fuqarolarga tegishli bo‘lgan transport vositalarining kirib borishiga toʻsqinlik qilmaydi. Shuningdek, ushbu hududdagi fuqarolarga xizmat koʻrsatuvchi transport vositalariga ham ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4992,
+          "textUz": "A",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 4993,
+          "textUz": "B",
+          "textRu": "В",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 4994,
+          "textUz": "C",
+          "textRu": "С",
+          "textOz": "C",
+          "isCorrect": true
+        },
+        {
+          "id": 4995,
+          "textUz": "B ва C",
+          "textRu": "В и С",
+          "textOz": "B va C",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4994
+      ]
+    },
+    {
+      "id": 186,
+      "questionUz": "Қайси белги \"Хавфли юк ташиётган транспорт воситаларининг ҳаракатланишини таъқиқланган\" деб номланади?",
+      "questionRu": "Какой знак называется «Движение транспортных средств, перевозящих опасные грузы, запрещено»?",
+      "questionOz": "Qaysi belgi \"Xavfli yuk tashiyotgan transport vositalarining harakatlanishini taqiqlangan\" deb nomlanadi?",
+      "explanationUz": "С вариантидаги белги хавфли юкларни ташиётган транспорт воситаларининг ҳаракатланиши тақиқланганини билдиради.",
+      "explanationRu": "Знак в варианте С обозначает, что движение транспортных средств, перевозящих опасные грузы, запрещено.",
+      "explanationOz": "C variantdagi belgi xavfli yuklarni tashiyotgan transport vositalarining harakatlanishi taqiqlanganini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4996,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 4997,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "V",
+          "isCorrect": false
+        },
+        {
+          "id": 4998,
+          "textUz": "С",
+          "textRu": "С",
+          "textOz": "S",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4998
+      ]
+    },
+    {
+      "id": 187,
+      "questionUz": "Ушбу белги қайси турдаги транспорт воситаларини тўхтамасдан ўтишларини таъқиқлайди?",
+      "questionRu": "Проезд каких транспортных средств без остановки запрещается данным знаком?",
+      "questionOz": "Ushbu belgi qaysi turdagi transport vositalarini to'xtamasdan o'tishlarini taqiqlaydi?",
+      "explanationUz": "«Божхона» йўл белгиси ҳар бир транспорт воситасининг божхона назорат пунктида тўхтамасдан ўтишини тақиқлайди. Ҳайдовчилар божхона ходимининг талаби бўйича тўхташлари шарт.",
+      "explanationRu": "Дорожный знак «Таможня» запрещает проезд транспортных средств без остановки на таможенном пункте. Водители обязаны остановиться по требованию сотрудника таможенной службы.",
+      "explanationOz": "“Bojxona” yoʻl belgisi har bir transport vositasining bojxona nazorat punktida toʻxtamasdan oʻtishini taqiqlaydi. Haydovchilar bojxona xodimining talabi boʻyicha toʻxtashlari shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4999,
+          "textUz": "Юк автомобилларини",
+          "textRu": "Грузовые автомобили",
+          "textOz": "Yuk avtomobillarini",
+          "isCorrect": false
+        },
+        {
+          "id": 5000,
+          "textUz": "Енгил автомобилларни",
+          "textRu": "Легковые автомобили",
+          "textOz": "Engil avtomobillarni",
+          "isCorrect": false
+        },
+        {
+          "id": 5001,
+          "textUz": "Барча турдаги транспорт воситаларини",
+          "textRu": "Все виды транспортных средств",
+          "textOz": "Barcha turdagi transport vositalarini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5001
+      ]
+    },
+    {
+      "id": 188,
+      "questionUz": "Қувиб ўтишга тааллуқли белгиларни кўрсатинг?",
+      "questionRu": "Укажите знаки связанные с обгоном?",
+      "questionOz": "Quvib o'tishga taalluqli belgilarni ko'rsating?",
+      "explanationUz": "Б белгиси тирбандликни билдиради. А ва C белгилари эса қувиб ўтиш билан боғлиқ йўл белгилари ҳисобланади.",
+      "explanationRu": "Знак Б обозначает затор (дорожную пробку). Знаки А и C относятся к дорожным знакам, связанным с обгоном.",
+      "explanationOz": "B belgisi tirbandlikni bildiradi. A va C belgilari esa quvib oʻtish bilan bogʻliq yoʻl belgilaridir.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5002,
+          "textUz": "А ва Б",
+          "textRu": "А ва Б",
+          "textOz": "A va B",
+          "isCorrect": false
+        },
+        {
+          "id": 5003,
+          "textUz": "Б ва С",
+          "textRu": "Б и С",
+          "textOz": "B va C",
+          "isCorrect": false
+        },
+        {
+          "id": 5004,
+          "textUz": "А ва С",
+          "textRu": "А и С",
+          "textOz": "A va C",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5004
+      ]
+    },
+    {
+      "id": 189,
+      "questionUz": "Қайси белгилар юк автомобилларига қувиб ўтиш тақиқланган ҳудуднинг охирини билдиради?",
+      "questionRu": "Какие знаки обозначают конец зоны запрещения обгона грузовых автомобилей?",
+      "questionOz": "Qaysi belgilar yuk avtomobillariga quvib o'tish taqiqlangan hududning oxirini bildiradi?",
+      "explanationUz": "А белгиси барча транспорт воситаларига амал қилади. Б белгиси юк автомобилларига тааллуқлидир. В белгиси эса бундан аввал жорий этилган барча тақиқларнинг амал қилишини бекор қилади.",
+      "explanationRu": "Знак А распространяется на все транспортные средства. Знак Б относится к грузовым автомобилям. Знак В отменяет действие всех ранее введённых запрещающих ограничений.",
+      "explanationOz": "A belgisi barcha transport vositalariga amal qiladi. B belgisi yuk avtomobillariga taalluqlidir. V belgisi esa bundan avval joriy etilgan barcha taqiqlarning amal qilishini bekor qiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5005,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 5006,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 5007,
+          "textUz": "А ва Б",
+          "textRu": "А и Б",
+          "textOz": "A va B",
+          "isCorrect": false
+        },
+        {
+          "id": 5008,
+          "textUz": "А, Б, В",
+          "textRu": "А, Б, В",
+          "textOz": "A, B, V",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5008
+      ]
+    },
+    {
+      "id": 190,
+      "questionUz": "Ушбу йўл белгиси қандай мақсадда қўлланилади?",
+      "questionRu": "С какой целью применяется этот дорожный знак?",
+      "questionOz": "Ushbu yo'l belgisi qanday maqsadda qo'llaniladi?",
+      "explanationUz": "Ушбу йўл белгиси тўхтамасдан ўтишни тақиқлайди ва божхона назорат пунктлари олдида ўрнатилади. Ҳайдовчилар божхона пунктида мажбурий равишда тўхташлари керак.",
+      "explanationRu": "Данный дорожный знак запрещает проезд без остановки и устанавливается перед таможенными пунктами. Водители обязаны остановиться на таможенном посту.",
+      "explanationOz": "Ushbu yoʻl belgisi toʻxtamasdan oʻtishni taqiqlaydi va bojxona nazorat punktlari oldida oʻrnatiladi. Haydovchilar bojxona punktida majburiy ravishda toʻxtashlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/44.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5009,
+          "textUz": "Мажбурий тарзда тезликни камайтириш учун",
+          "textRu": "Для принудительного снижения скорости движения.",
+          "textOz": "Majburiy tarzda tezlikni kamaytirish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 5010,
+          "textUz": "Тўхтамасдан ўтишни таъқиқлайди",
+          "textRu": "Движение без остановки запрещается",
+          "textOz": "To'xtamasdan o'tishni taqiqlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 5011,
+          "textUz": "Эҳтиёт чораларни кўриш учун",
+          "textRu": "Для принятия мер предосторожности",
+          "textOz": "Ehtiyot choralarni ko'rish uchun",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5010
+      ]
+    },
+    {
+      "id": 191,
+      "questionUz": "Ушбу йўл белгиси нимани билдиради?",
+      "questionRu": "Что означает этот дорожный знак?",
+      "questionOz": "Ushbu yo'l belgisi nimani bildiradi?",
+      "explanationUz": "Ушбу йўл белгиси хавфли юкларни ташиётган транспорт воситаларининг ҳаракатланишини тақиқлаш учун ўрнатилади.",
+      "explanationRu": "Данный дорожный знак устанавливается для запрещения движения транспортных средств, перевозящих опасные грузы.",
+      "explanationOz": "Ushbu yoʻl belgisi xavfli yuklarni tashiyotgan transport vositalarining harakatlanishini taqiqlash uchun oʻrnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/44.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5012,
+          "textUz": "Хафли юк ташиётган транспорт воситалари ҳаракатини таъқиқлайди",
+          "textRu": "Запрещает движение транспортных средств, перевозящих опасные грузы.",
+          "textOz": "Xafli yuk tashiyotgan transport vositalari harakatini taqiqlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 5013,
+          "textUz": "Оғир юк ташиётган транспорт воситалари ҳаракатини таъқиқлайди",
+          "textRu": "Запрещает движение транспортных средств, перевозящих тяжелые грузы",
+          "textOz": "Og'ir yuk tashiyotgan transport vositalari harakatini taqiqlaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 5014,
+          "textUz": "Портловчи ва тез алангаланадиган юк ташиётган траспорт воситалари ҳаракатини таъқиқлайди",
+          "textRu": "Запрещает движение транспортных средств, перевозящих взрывоопасные и легковоспламеняющиеся грузы",
+          "textOz": "Portlovchi va tez alangalanadigan yuk tashiyotgan trasport vositalari harakatini taqiqlaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5012
+      ]
+    },
+    {
+      "id": 192,
+      "questionUz": "Ушбу йўл белгиси қайси транспорт воситаларининг ҳаракатланишини тақиқлайди?",
+      "questionRu": "Движение каких транспортных средств запрещает этот дорожный знак?",
+      "questionOz": "Ushbu yo'l belgisi qaysi transport vositalarining harakatlanishini taqiqlaydi?",
+      "explanationUz": "Ушбу йўл белгиси ўрнатилганда, хавфли юк ташиётган юк автомобилларининг ҳаракатланиши тақиқланади.\r\n",
+      "explanationRu": "При наличии данного дорожного знака движение грузовых автомобилей, перевозящих опасные грузы, запрещается.\r\n",
+      "explanationOz": "Ushbu yoʻl belgisi oʻrnatilganda, xavfli yuk tashiyotgan yuk avtomobillarining harakatlanishi taqiqlanadi.\r\n",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5015,
+          "textUz": "Рухсат этилган тўла вазни 3.5тоннадан ортиқ бўлган юк автомобилларини",
+          "textRu": "Автомобили с разрешённой полной массой более 3,5 тонн",
+          "textOz": "Ruxsat etilgan to'la vazni 3.5tonnadan ortiq bo'lgan yuk avtomobillarini",
+          "isCorrect": false
+        },
+        {
+          "id": 5016,
+          "textUz": "Хавфли юк ташиётган транспорт воситаларининг ҳаракатланишини",
+          "textRu": "Движение транспортных средств, перевозящих опасные грузы",
+          "textOz": "Xavfli yuk tashiyotgan transport vositalarining harakatlanishini",
+          "isCorrect": true
+        },
+        {
+          "id": 5017,
+          "textUz": "Барча жавоблар тўғри",
+          "textRu": "Все ответы верны",
+          "textOz": "Barcha javoblar to'g'ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5016
+      ]
+    },
+    {
+      "id": 193,
+      "questionUz": "Юк автомобили ҳайдовчисига қайси йўналишда ҳаракатланишга рухсат берилади?",
+      "questionRu": "В каких направлениях разрешено движение водителю грузового автомобиля?",
+      "questionOz": "Yuk avtomobili haydovchisiga qaysi yo'nalishda harakatlanishga ruxsat beriladi?",
+      "explanationUz": "3.14. «Рухсат этилган тўла вазни 3,5 тоннадан ортиқ бўлган юк автомобилларининг ҳаракатланиши тақиқланган» йўл белгиси 3,5 тоннадан ортиқ массага эга юк автомобилларига нисбатан қўлланилади. Бизнинг автомобилнинг рухсат этилган тўла вазни 3 тонна бўлгани учун ушбу белги унга тааллуқли эмас ва ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Дорожный знак 3.14 «Движение грузовых автомобилей с разрешённой максимальной массой более 3,5 т запрещено» распространяется на грузовые автомобили с разрешённой максимальной массой свыше 3,5 тонн. Поскольку разрешённая максимальная масса нашего автомобиля составляет 3 тонны, действие данного знака на него не распространяется, и движение разрешено.",
+      "explanationOz": "3.14. “Ruxsat etilgan toʻla vazni 3,5 tonnadan ortiq boʻlgan yuk avtomobillarining harakatlanishi taqiqlangan” yoʻl belgisi 3,5 tonnadan ortiq massaga ega yuk avtomobillariga nisbatan qoʻllaniladi. Bizning avtomobilimizning ruxsat etilgan toʻla vazni 3 tonna boʻlgani uchun ushbu belgi unga taalluqli emas va harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5018,
+          "textUz": "Тўғрига ва ўнгга",
+          "textRu": "Направо и прямо",
+          "textOz": "To'g'riga va o'ngga",
+          "isCorrect": true
+        },
+        {
+          "id": 5019,
+          "textUz": "Ўнгга чапга ва орқага",
+          "textRu": "Направо и налево",
+          "textOz": "O'ngga chapga va orqaga",
+          "isCorrect": false
+        },
+        {
+          "id": 5020,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5021,
+          "textUz": "Барча йўналишларга",
+          "textRu": "На все направления",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5018
+      ]
+    },
+    {
+      "id": 194,
+      "questionUz": "Ушбу йўл белгиси қандай номланади?",
+      "questionRu": "Как называется этот дорожный знак?",
+      "questionOz": "Ushbu yo'l belgisi qanday nomlanadi?",
+      "explanationUz": "Ушбу йўл белгиси ўрнатилганда, хавфли юк ташиётган юк автомобилларининг ҳаракатланиши тақиқланади.",
+      "explanationRu": "При наличии данного дорожного знака движение грузовых автомобилей, перевозящих опасные грузы, запрещается.",
+      "explanationOz": "Ushbu yoʻl belgisi oʻrnatilganda, xavfli yuk tashiyotgan yuk avtomobillarining harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/48.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5022,
+          "textUz": "Хавфли юк ташаётган транспорт воситасининг ҳаракатланиши тақиқланган",
+          "textRu": "Движение транспортного средства, перевозящего опасные грузы, запрещено",
+          "textOz": "Xavfli yuk tashayotgan transport vositasining harakatlanishi taqiqlangan",
+          "isCorrect": true
+        },
+        {
+          "id": 5023,
+          "textUz": "Катта ўлчамли юкларни ташиш тақиқланган",
+          "textRu": "Перевозка крупногабаритных грузов запрещена",
+          "textOz": "Katta o'lchamli yuklarni tashish taqiqlangan",
+          "isCorrect": false
+        },
+        {
+          "id": 5024,
+          "textUz": "Юк автомобиллари билан қувиб ўтиш тақиқланган",
+          "textRu": "Обгон грузовых автомобилей запрещен",
+          "textOz": "Yuk avtomobillari bilan quvib o'tish taqiqlangan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5022
+      ]
+    },
+    {
+      "id": 195,
+      "questionUz": "Кўрсатилган қайси йўл белгиси енгил йўналишсиз таксиларга йўловчиларни тушуриш-чиқариш (юкларни ортиш-тушуриш) вақтида таъсир қилмайди?",
+      "questionRu": "Какие из этих указанных знаков не действует на легковые немаршрутные такси при посадке — высадке пассажиров (погрузке — выгрузке грузов)?",
+      "questionOz": "Ko'rsatilgan qaysi yo'l belgisi engil yo'nalishsiz taksilarga yo'lovchilarni tushurish-chiqarish (yuklarni ortish-tushurish) vaqtida tasir qilmaydi?",
+      "explanationUz": "Ушбу белгиларнинг барчаси таъсир доирасида таксиларга йўловчиларни тушириш ва чиқаришга рухсат этилади. Чунки йўловчиларни тушириш ёки чиқариш мақсадидаги қисқа муддатли тўхташ тўхтаб туриш ҳисобланмайди.",
+      "explanationRu": "В зоне действия всех этих знаков такси разрешается производить посадку и высадку пассажиров. Поскольку кратковременная остановка для посадки или высадки пассажиров не считается стоянкой.",
+      "explanationOz": "Ushbu belgilarning barchasi taʼsir doirasida taksilarga yoʻlovchilarni tushirish va chiqarishga ruxsat etiladi. Chunki yoʻlovchilarni tushirish yoki chiqarish maqsadidagi qisqa muddatli toʻxtash toʻxtab turish hisoblanmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/49.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5025,
+          "textUz": "Фақат A",
+          "textRu": "Только A",
+          "textOz": "Faqat A",
+          "isCorrect": false
+        },
+        {
+          "id": 5026,
+          "textUz": "Фақат B",
+          "textRu": "Только B",
+          "textOz": "Faqat B",
+          "isCorrect": false
+        },
+        {
+          "id": 5027,
+          "textUz": "Фақат B,C,D",
+          "textRu": "Только B,C,D",
+          "textOz": "Faqat B,C,D",
+          "isCorrect": false
+        },
+        {
+          "id": 5028,
+          "textUz": "Ҳаммаси",
+          "textRu": "Все",
+          "textOz": "Hammasi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5028
+      ]
+    },
+    {
+      "id": 196,
+      "questionUz": "Тартибга солинмаган чорраҳада қайси белги албатта тўхташни талаб қилади?",
+      "questionRu": "Какой из указанных знаков требует обязательной остановки на нерегулируемых перекрестках?",
+      "questionOz": "Tartibga solinmagan chorrahada qaysi belgi albatta to'xtashni talab qiladi?",
+      "explanationUz": "Тартибга солинмаган чорраҳада ушбу белги ҳайдовчидан мажбурий равишда тўхташни талаб қилади. Ҳайдовчи тўхташ чизиғи олдида, у бўлмаганда эса кесиб ўтилаётган қатнов қисми четида тўхташи керак.",
+      "explanationRu": "На нерегулируемом перекрёстке данный знак требует от водителя обязательной остановки. Водитель должен остановиться перед стоп-линией, а при её отсутствии — перед краем пересекаемой проезжей части.",
+      "explanationOz": "Tartibga solinmagan chorrahada ushbu belgi haydovchidan majburiy ravishda toʻxtashni talab qiladi. Haydovchi toʻxtash chizigʻi oldida, u boʻlmaganda esa kesib oʻtilayotgan qatnov qismi chetida toʻxtashi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/50.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5029,
+          "textUz": "Фақат А",
+          "textRu": "Только A",
+          "textOz": "Faqat A",
+          "isCorrect": false
+        },
+        {
+          "id": 5030,
+          "textUz": "Фақат B",
+          "textRu": "Только B",
+          "textOz": "Faqat B",
+          "isCorrect": true
+        },
+        {
+          "id": 5031,
+          "textUz": "B ва С",
+          "textRu": "B и C",
+          "textOz": "B va S",
+          "isCorrect": false
+        },
+        {
+          "id": 5032,
+          "textUz": "Хаммаси",
+          "textRu": "Все",
+          "textOz": "Xammasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5030
+      ]
+    },
+    {
+      "id": 197,
+      "questionUz": "Кўрсатилган белгилардан қайсиларининг талаби бевосита ўрнатилган жойидан кучга киради?",
+      "questionRu": "Требования каких знаков из указанных вступают в силу непосредственно в том месте, где они установлены?",
+      "questionOz": "Ko'rsatilgan belgilardan qaysilarining talabi bevosita o'rnatilgan joyidan kuchga kiradi?",
+      "explanationUz": "Демак, саволда кўрсатилган белгиларнинг қайсилари талаби бевосита ўрнатилган жойдан бошлаб кучга кириши сўралмоқда. А белгиси ўрнатилган жойдан бошлаб кейинги 100 метр давомида амал қилади. Демак, у бевосита ўрнатилган жойдан кучга киради. Б белгиси ҳам ўрнатилган жойдан бошлаб биринчи чорраҳагача амал қилади, яъни унинг талаби ҳам дарҳол кучга киради. С белгиси эса 200 метрдан кейин бошланишини билдиради, шунинг учун у бевосита ўрнатилган жойдан кучга кирмайди. Демак, тўғри жавоб — А ва Б.",
+      "explanationRu": "Итак, в вопросе спрашивается, требования каких из указанных знаков вступают в силу непосредственно с места их установки. Знак А действует с места установки на протяжении следующих 100 метров, следовательно, он начинает действовать сразу. Знак Б также действует с места установки до ближайшего перекрёстка, то есть его требование тоже вступает в силу немедленно. Знак С начинает действовать только через 200 метров, поэтому он не относится к знакам, действие которых начинается непосредственно с места установки. Следовательно, правильный ответ — А и Б.",
+      "explanationOz": "Demak, savolda ko‘rsatilgan belgilarning qaysilari talabi bevosita o‘rnatilgan joydan boshlab kuchga kirishi so‘ralmoqda. A belgisi o‘rnatilgan joydan boshlab keyingi 100 metr davomida amal qiladi. Demak, u bevosita o‘rnatilgan joydan kuchga kiradi. B belgisi ham o‘rnatilgan joydan boshlab birinchi chorrahagacha amal qiladi, yaʼni uning talabi ham darhol kuchga kiradi. S belgisi esa 200 metrdan keyin boshlanishini bildiradi, shuning uchun u bevosita o‘rnatilgan joydan kuchga kirmaydi. Demak, toʻgʻri javob — A va B.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/50.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5033,
+          "textUz": "Фақат B",
+          "textRu": "Только B",
+          "textOz": "Faqat B",
+          "isCorrect": false
+        },
+        {
+          "id": 5034,
+          "textUz": "А ва B",
+          "textRu": "А и В",
+          "textOz": "A va B",
+          "isCorrect": true
+        },
+        {
+          "id": 5035,
+          "textUz": "Хаммаси",
+          "textRu": "Все",
+          "textOz": "Xammasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5034
+      ]
+    },
+    {
+      "id": 198,
+      "questionUz": "Мазкур йўл белгиси:",
+      "questionRu": "Этот дорожный знак:",
+      "questionOz": "Mazkur yo'l belgisi:",
+      "explanationUz": "Ушбу йўл белгиси вақтинчалик йўл белгиси ҳисобланади. Агар йўл белгисининг ичи сариқ рангда бўлса, у вақтинчалик йўл белгиси эканлигини билдиради. Бундай белгилар одатда йўл таъмирлаш ишлари олиб борилаётган жойларда ёки ҳаракатни вақтинча ташкил этиш зарур бўлган ҳолларда қўлланилади.",
+      "explanationRu": "Данный дорожный знак является временным дорожным знаком. Если фон внутри знака имеет жёлтый цвет, это означает, что знак является временным. Такие знаки обычно устанавливаются в местах проведения дорожных работ или в случаях, когда необходимо временно изменить организацию дорожного движения.",
+      "explanationOz": "Ushbu yoʻl belgisi vaqtinchalik yoʻl belgisi hisoblanadi. Agar yoʻl belgisining ichi sariq rangda boʻlsa, u vaqtinchalik yoʻl belgisi ekanligini bildiradi. Bunday belgilar odatda yoʻl taʼmirlash ishlari olib borilayotgan joylarda yoki harakatni vaqtincha tashkil etish zarur boʻlgan hollarda qoʻllaniladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/51.18.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5036,
+          "textUz": "Доимий белги ҳисобланади",
+          "textRu": "Постоянный знак",
+          "textOz": "Doimiy belgi hisoblanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5037,
+          "textUz": "Вақтинчалик белги ҳисобланади",
+          "textRu": "Временный знак",
+          "textOz": "Vaqtinchalik belgi hisoblanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5038,
+          "textUz": "Мавсумий белги ҳисобланади",
+          "textRu": "Сезонный знак",
+          "textOz": "Mavsumiy belgi hisoblanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5037
+      ]
+    },
+    {
+      "id": 199,
+      "questionUz": "Мазкур йўл белгиси:",
+      "questionRu": "Этот дорожный знак:",
+      "questionOz": "Mazkur yo'l belgisi:",
+      "explanationUz": "Ушбу йўл белгиси ҳам ичи сариқ рангда бўлгани учун вақтинчалик йўл белгиси ҳисобланади.",
+      "explanationRu": "Данный дорожный знак также является временным дорожным знаком, поскольку его фон имеет жёлтый цвет.",
+      "explanationOz": "Ushbu yoʻl belgisi ham ichi sariq rangda boʻlgani uchun vaqtinchalik yoʻl belgisi hisoblanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.1.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5039,
+          "textUz": "Доимим белги  хисобланади",
+          "textRu": "Является постоянным знаком",
+          "textOz": "Doimim belgi  xisoblanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5040,
+          "textUz": "Вақтинчалик белги  хисобланади",
+          "textRu": "Является временным знаком",
+          "textOz": "Vaqtinchalik belgi  xisoblanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5041,
+          "textUz": "Мавсумий белги хисобланади",
+          "textRu": "Является сезонным знаком",
+          "textOz": "Mavsumiy belgi xisoblanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5040
+      ]
+    },
+    {
+      "id": 200,
+      "questionUz": "Бу белги ўрнатилган жойда тиркамали енгил автомобилни ҳаракатланишга рухсат бериладими?",
+      "questionRu": "Разрешено ли движение легкового автомобиля с прицепом в месте, где установлен этот знак?",
+      "questionOz": "Bu belgi o'rnatilgan joyda tirkamali engil avtomobilni harakatlanishga ruxsat beriladimi?",
+      "explanationUz": "Ушбу йўл белгиси «Тиркама билан ҳаракатланиш тақиқланган» белгисидир. Бу белги юк автомобилларининг тиркама билан ҳаракатланишини, шунингдек, механик транспорт воситаларини шатакка олишни тақиқлайди. Бироқ, ушбу тақиқ енгил автомобилларнинг тиркама билан ҳаракатланишига нисбатан қўлланилмайди. Шунинг учун, агар саволда енгил автомобилнинг тиркама билан ҳаракатланишига рухсат бериладими деб сўралган бўлса, тўғри жавоб — рухсат берилади.",
+      "explanationRu": "Данный дорожный знак означает «Движение с прицепом запрещено». Он запрещает движение грузовых автомобилей с прицепами, а также буксировку механических транспортных средств. Однако это ограничение не распространяется на легковые автомобили, движущиеся с прицепом. Поэтому, если в вопросе спрашивается, разрешено ли движение легкового автомобиля с прицепом, правильный ответ — разрешено.",
+      "explanationOz": "Ushbu yoʻl belgisi “Tirkama bilan harakatlanish taqiqlangan” belgisidir. Bu belgi yuk avtomobillarining tirkama bilan harakatlanishini, shuningdek, mexanik transport vositalarini shatakka olishni taqiqlaydi. Biroq, ushbu taqiq yengil avtomobillarning tirkama bilan harakatlanishiga nisbatan qoʻllanilmaydi. Shuning uchun, agar savolda yengil avtomobilning tirkama bilan harakatlanishiga ruxsat beriladimi deb soʻralgan boʻlsa, toʻgʻri javob — ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5042,
+          "textUz": "Рухсат ��ерилади агар тиркаманинг вазни 750кг дан ошмаса",
+          "textRu": "Разрешается, если масса прицепа не более 750 кг",
+          "textOz": "Ruxsat beriladi agar tirkamaning vazni 750kg dan oshmasa",
+          "isCorrect": false
+        },
+        {
+          "id": 5043,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 5044,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5043
+      ]
+    },
+    {
+      "id": 201,
+      "questionUz": "Қайси белгиларда ойнинг жуфт кунларида тўхташ мумкин",
+      "questionRu": "На каком знаки можно остановиться в четные дни месяца?",
+      "questionOz": "Qaysi belgilarda oyning juft kunlarida to'xtash mumkin",
+      "explanationUz": "Демак, саволда қайси белги таъсир доирасида ойнинг жуфт кунларида тўхташ мумкинлиги сўралмоқда. Эътибор беринг, бу ерда тўхташ ҳақида гап кетмоқда, тўхтаб туриш ҳақида эмас. Тўхташ ва тўхтаб туриш тушунчаларини адаштирмаслик керак. Шунинг учун, ушбу ҳолатда ҳар иккала белгида ҳам тўхташга рухсат берилади.",
+      "explanationRu": "Итак, в вопросе спрашивается, при каком знаке разрешена остановка в чётные дни месяца. Обратите внимание: речь идёт именно об остановке, а не о стоянке. Не следует путать эти понятия. Поэтому в данном случае остановка разрешена при обоих знаках.",
+      "explanationOz": "Demak, savolda qaysi belgi taʼsir doirasida oyning juft kunlarida toʻxtash mumkinligi soʻralmoqda. Eʼtibor bering, bu yerda toʻxtash haqida gap ketmoqda, toʻxtab turish haqida emas. Toʻxtash va toʻxtab turish tushunchalarini adashtirmaslik kerak. Shuning uchun, ushbu holatda har ikkala belgida ham toʻxtashga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6725,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На левом рисунке",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 6726,
+          "textUz": "Унгдаги расмда",
+          "textRu": "На правом рисунке",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 6727,
+          "textUz": "Хар иккисида мумкун",
+          "textRu": "На обеих рисунке можно",
+          "textOz": "Xar ikkisida mumkun",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6727
+      ]
+    },
+    {
+      "id": 202,
+      "questionUz": "Ушбу белги қандай номланади?",
+      "questionRu": "Как называется этот знак?",
+      "questionOz": "Ushbu belgi qanday nomlanadi?",
+      "explanationUz": "Ушбу белги «Индивидуал ҳаракатланиш воситаларининг ҳаракатланиши тақиқланган» деб номланади. Бу белги индивидуал ҳаракатланиш воситалари, яъни самокатлар ва шунга ўхшаш воситаларнинг ҳаракатланишини тақиқлайди.",
+      "explanationRu": "Данный знак называется «Движение средств индивидуальной мобильности запрещено». Он запрещает движение средств индивидуальной мобильности, то есть электросамокатов и других аналогичных средств передвижения.",
+      "explanationOz": "Ushbu belgi “Individual harakatlanish vositalarining harakatlanishi taqiqlangan” deb nomlanadi. Bu belgi individual harakatlanish vositalari, yaʼni samokatlar va shunga oʻxshash vositalarning harakatlanishini taqiqlaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5048,
+          "textUz": "Пиёдаларнинг ҳаракати тақиқланган",
+          "textRu": "Движение пешеходов запрещено",
+          "textOz": "Piyodalarning harakati taqiqlanga",
+          "isCorrect": false
+        },
+        {
+          "id": 5049,
+          "textUz": "Индивидуал ҳаракатланиш воситаларини бошқариш тақиқланган",
+          "textRu": "Движение индивидуальным транспортным средствам запрещено",
+          "textOz": "Individual harakatlanish vositalarini boshqarish taqiqlangan",
+          "isCorrect": true
+        },
+        {
+          "id": 5050,
+          "textUz": "Болалар учиши тақиқланган",
+          "textRu": "Пребывание детей запрещено",
+          "textOz": "Bolalar uchishi taqiqlangan",
+          "isCorrect": false
+        },
+        {
+          "id": 5051,
+          "textUz": "Кўрсатилган барча жавоблар тўғри",
+          "textRu": "Все указанные ответы являются правильными.",
+          "textOz": "Ko‘rsatilgan barcha javoblar to‘g‘ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5049
+      ]
+    },
+    {
+      "id": 203,
+      "questionUz": "Қайси йўл белгиси қайрилиб олишга рухсат беради?",
+      "questionRu": "Какой дорожный знак разрешает разворот?",
+      "questionOz": "Qaysi yo‘l belgisi qayrilib olishga ruxsat beradi?",
+      "explanationUz": "Саволда қайси йўл белгилари қайрилиб олишга рухсат бериши сўралмоқда. Учинчи белги «Қайрилиб олиш тақиқланади» маъносини билдиради. Шунинг учун ушбу белги таъсир доирасида қайрилиб олиш мумкин эмас. Демак, тўғри жавоб — 1 ва 2.",
+      "explanationRu": "В вопросе спрашивается, какие дорожные знаки разрешают разворот. Третий знак означает «Разворот запрещён». Следовательно, в зоне его действия разворот выполнять нельзя. Поэтому правильный ответ — 1 и 2.",
+      "explanationOz": "Savolda qaysi yoʻl belgilari qayrilib olishga ruxsat berishi soʻralmoqda. Uchinchi belgi “Qayrilib olish taqiqlanadi” maʼnosini bildiradi. Shuning uchun ushbu belgi taʼsir doirasida qayrilib olish mumkin emas. Demak, toʻgʻri javob — 1 va 2.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5052,
+          "textUz": "Фақат 1 ва 2",
+          "textRu": "1 и 2",
+          "textOz": "Faqat 1 va 2",
+          "isCorrect": true
+        },
+        {
+          "id": 5053,
+          "textUz": "Фақат 2 ва 3",
+          "textRu": "2 и 3",
+          "textOz": "Faqat 2 va 3",
+          "isCorrect": false
+        },
+        {
+          "id": 5054,
+          "textUz": "Барчаси",
+          "textRu": "все",
+          "textOz": "Barchasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5052
+      ]
+    },
+    {
+      "id": 204,
+      "questionUz": "Қуйидаги жойда сариқ автомобилга қувиб ўтишга рухсат берадими?",
+      "questionRu": "Разрешено ли жёлтому автомобилю выполнять обгон в указанном месте?",
+      "questionOz": "Quyidagi joyda sariq avtomobilga quvib o‘tishga ruxsat beradimi?",
+      "explanationUz": "Демак, бу ҳолатда сариқ автомобил ҳайдовчисига қувиб ўтишга рухсат этилади. Чунки «Қувиб ўтиш тақиқланади» йўл белгиси амал қилаётган бўлса ҳам, олдинда ҳаракатланаётган якка транспорт воситаси 40 км/соатдан кам тезликда ҳаракатланаётган бўлса, уни қувиб ўтишга рухсат берилади.",
+      "explanationRu": "В данной ситуации водителю жёлтого автомобиля разрешается выполнить обгон. Несмотря на действие дорожного знака «Обгон запрещён», разрешается обгон одиночного транспортного средства, движущегося со скоростью менее 40 км/ч.",
+      "explanationOz": "Demak, bu holatda sariq avtomobil haydovchisiga quvib oʻtishga ruxsat etiladi. Chunki “Quvib oʻtish taqiqlanadi” yoʻl belgisi amal qilayotgan boʻlsa ham, oldinda harakatlanayotgan yakka transport vositasi 40 km/soatdan kam tezlikda harakatlanayotgan boʻlsa, uni quvib oʻtishga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5055,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешено",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 5056,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещено",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5055
+      ]
+    },
+    {
+      "id": 205,
+      "questionUz": "Қизил автомобил қайси йўналишларда қайрилиб олишга рухсат бэрилади?",
+      "questionRu": "На каких направлениях разрешается разворот красному автомобилю?",
+      "questionOz": "Qizil avtomobil qaysi yo‘nalishlarda qayrilib olishga ruxsat beriladi?",
+      "explanationUz": "Бу ҳолатда иккала йўналишда ҳам қайрилиб олиш тақиқланади. Йўлнинг ўртасида ажратувчи минтақа мавжуд бўлиши 3.19. «Қайрилиб олиш тақиқланади» йўл белгисининг таъсирига таъсир қилмайди. Яъни, ажратувчи минтақа бор ёки йўқлигидан қатъи назар, қайрилиб олиш тақиқланган бўлади.\r\nБироқ, 3.18.2. «Чапга бурилиш тақиқланади» йўл белгиси ҳолатида ажратувчи минтақанинг мавжудлиги аҳамиятга эга бўлиши мумкин. Агар йўлнинг ўртасида ажратувчи минтақа мавжуд бўлса, ушбу белги фақат биринчи қатнов қисмига чапга бурилишни тақиқлайди. Шунинг учун иккинчи қатнов қисмига кириш орқали ҳаракатланишга рухсат этилиши мумкин.\r\nДемак, 3.19. «Қайрилиб олиш тақиқланади» белгиси ўрнатилган жойда ажратувчи минтақа бор ёки йўқлигидан қатъи назар, қайрилиб олиш тақиқланади.",
+      "explanationRu": "В данной ситуации разворот запрещён в обоих направлениях. Наличие разделительной полосы не влияет на действие знака 3.19 «Разворот запрещён». То есть независимо от того, есть разделительная полоса или нет, выполнять разворот запрещается.\r\nОднако в случае со знаком 3.18.2 «Поворот налево запрещён» наличие разделительной полосы может иметь значение. Если на дороге имеется разделительная полоса, этот знак запрещает поворот налево только на первую проезжую часть. Поэтому въезд на вторую проезжую часть может быть разрешён.\r\nСледовательно, при наличии знака 3.19 «Разворот запрещён» разворот запрещается независимо от наличия или отсутствия разделительной полосы.",
+      "explanationOz": "Bu holatda ikkala yoʻnalishda ham qayrilib olish taqiqlanadi. Yoʻlning oʻrtasida ajratuvchi mintaqa mavjud boʻlishi 3.19. “Qayrilib olish taqiqlanadi” yoʻl belgisining taʼsiriga taʼsir qilmaydi. Yaʼni, ajratuvchi mintaqa bor yoki yoʻqligidan qatʼi nazar, qayrilib olish taqiqlangan boʻladi.\r\nBiroq, 3.18.2. “Chapga burilish taqiqlanadi” yoʻl belgisi holatida ajratuvchi mintaqaning mavjudligi ahamiyatga ega boʻlishi mumkin. Agar yoʻlning oʻrtasida ajratuvchi mintaqa mavjud boʻlsa, ushbu belgi faqat birinchi qatnov qismiga chapga burilishni taqiqlaydi. Shuning uchun ikkinchi qatnov qismiga kirish orqali harakatlanishga ruxsat etilishi mumkin.\r\nDemak, 3.19. “Qayrilib olish taqiqlanadi” belgisi oʻrnatilgan joyda ajratuvchi mintaqa bor yoki yoʻqligidan qatʼi nazar, qayrilib olish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5057,
+          "textUz": "Биринчи йўналишда",
+          "textRu": "На первом направлении",
+          "textOz": "Birinchi yo‘nalishda",
+          "isCorrect": false
+        },
+        {
+          "id": 5058,
+          "textUz": "Иккинчи йўналишда",
+          "textRu": "На втором направлении",
+          "textOz": "Ikkinchi yo‘nalishda",
+          "isCorrect": false
+        },
+        {
+          "id": 5059,
+          "textUz": "Иккала йўналишларда ҳам қайрилиб олиш тақиқланган",
+          "textRu": "На обоих направлениях разворот запрещён",
+          "textOz": "Ikkala yo‘nalishlarda ham qayrilib olish taqiqlangan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5059
+      ]
+    },
+    {
+      "id": 206,
+      "questionUz": "Ёндош ҳудудлардан йўлга чиқиш жойларида ёки йўлнинг дала, ўрмон йўллари ва бошқа доимий ҳаракатланиш, ўтиб кетиш учун мўлжалланмаган йўллар билан кесишган (туташган) жойларида, уларнинг олдида тегишли белгиллар ўрнатилмаган бўлса, бу белгилларнинг таъсири йўқоладими?",
+      "questionRu": "На выезда с прилегающих территорий или в местах пересечения (примыкания) дороги с полевыми, лесными и другими дорогами, не предназначенными для постоянного движения и проезда, если перед ними не установлены соответствующие знаки, утрачивается ли действие этих знаков?",
+      "questionOz": "Yondosh hududlardan yo‘lga chiqish joylarida yoki yo‘lning dala, o‘rmon yo‘llari va boshqa doimiy harakatlanish, o‘tib ketish uchun mo‘ljallanmagan yo‘llar bilan kesishgan (tutashgan) joylarida, ularning oldida tegishli belgilar o‘rnatilmagan bo‘lsa, bu belgilarning ta’siri yo‘qoladimi?",
+      "explanationUz": "Кўриб турганингиздек, савол жуда узун ёзилган. Бундай саволларда асосий калит сўзларни ажратиб олиш керак. Масалан, саволдаги «ёндош ҳудудлардан йўлга чиқиш жойларида» деган жумлага эътибор қаратиш кифоя.\r\nСаволнинг мазмуни шуки: ёндош ҳудудлардан чиқиш жойларида, дала ёки ўрмон йўллари билан кесишган жойларда тегишли белгилар ўрнатилмаган бўлса, ушбу тақиқловчи белгиларнинг таъсир доираси тугайдими?\r\nЖавоб: йўқ, тугамайди. Чунки бундай жойлар чорраҳа ҳисобланмайди. Тақиқловчи белгиларнинг таъсир доираси эса, агар бошқа ҳолат кўрсатилмаган бўлса, биринчи чорраҳагача давом этади.\r\nДемак, ёндош ҳудудлардан йўлга чиқиш жойларида, дала ёки ўрмон йўллари билан кесишган жойларда тақиқловчи белгиларнинг таъсир доираси йўқолмайди.",
+      "explanationRu": "Как видно, вопрос сформулирован очень длинно. В таких случаях важно выделить ключевые слова. Например, достаточно обратить внимание на фразу «в местах выезда с прилегающих территорий».\r\nСуть вопроса заключается в следующем: прекращается ли действие запрещающих знаков в местах выезда с прилегающих территорий, а также в местах пересечения с полевыми, лесными и другими дорогами, не предназначенными для сквозного движения, если перед ними не установлены соответствующие знаки?\r\nОтвет: нет, не прекращается. Такие места не считаются перекрёстками. Если не указано иное, зона действия запрещающих знаков продолжается до ближайшего перекрёстка.\r\nСледовательно, в местах выезда с прилегающих территорий, а также на пересечениях с полевыми и лесными дорогами действие этих знаков не прекращается.",
+      "explanationOz": "Koʻrib turganingizdek, savol juda uzun yozilgan. Bunday savollarda asosiy kalit soʻzlarni ajratib olish kerak. Masalan, savolda “yondosh hududlardan yoʻlga chiqish joylarida” degan jumlaga eʼtibor qaratish kifoya.\r\nSavolning mazmuni shuki: yondosh hududlardan chiqish joylarida, dala yoki oʻrmon yoʻllari bilan kesishgan joylarda tegishli belgilar oʻrnatilmagan boʻlsa, ushbu taqiqlovchi belgilarning taʼsir doirasi tugaydimi?\r\nJavob: yoʻq, tugamaydi. Chunki bunday joylar chorraha hisoblanmaydi. Taqiqlovchi belgilarning taʼsir doirasi esa, agar boshqa holat koʻrsatilmagan boʻlsa, birinchi chorrahagacha davom etadi.\r\nDemak, yondosh hududlardan yoʻlga chiqish joylarida, dala yoki oʻrmon yoʻllari bilan kesishgan joylarda taqiqlovchi belgilarning taʼsir doirasi yoʻqolmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.9.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5060,
+          "textUz": "Йўқолади",
+          "textRu": "Утрачивается",
+          "textOz": "Yo‘qoladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5061,
+          "textUz": "Йўқолмайди",
+          "textRu": "Не утрачивается",
+          "textOz": "Yo‘qolmaydi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5061
+      ]
+    },
+    {
+      "id": 207,
+      "questionUz": "Кўк автомобил ҳайдовчиси қайси йўналишларда ҳаракатланишга рухсат этилмайди?",
+      "questionRu": "По каким направлениям водителю синего автомобиля запрещено движение?",
+      "questionOz": "Ko‘k avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat etilmaydi?",
+      "explanationUz": "Саволни яхшилаб ўқинг. Саволда кўк автомобил ҳайдовчисига қайси йўналишда ҳаракатланишга рухсат этилмаслиги сўралган. Кўпчилик саволни нотўғри ўқиб, «рухсат этилади» деб тушуниб юборади.\r\nУшбу ҳолатда тўғрига ҳаракатланишга рухсат этилади. Бироқ, ўнгга бурилишга рухсат этилмайди, чунки бу йўналишда вақтинчалик йўл белгиси мавжуд. Шунингдек, автомобиль ўнг ҳаракатланиш тасмасида жойлашгани сабабли учинчи ва тўртинчи йўналишларда ҳаракатланишга ҳам рухсат этилмайди.\r\nДемак, тўғри жавоб — биринчи ва учинчи йўналишлар, яъни ушбу йўналишларда ҳаракатланишга рухсат этилмайди.",
+      "explanationRu": "Внимательно прочитайте вопрос. В нём спрашивается, в каком направлении водителю синего автомобиля движение не разрешается. Многие ошибочно читают вопрос как «в каком направлении разрешается движение».\r\nВ данной ситуации движение прямо разрешено. Однако поворот направо запрещён, поскольку действует временный дорожный знак. Кроме того, автомобиль движется по правой полосе, поэтому движение по третьему и четвёртому направлениям также не разрешается.\r\nСледовательно, правильный ответ — первое и третье направления, то есть движение в этих направлениях запрещено.",
+      "explanationOz": "Savolni yaxshilab oʻqing. Savolda koʻk avtomobil haydovchisiga qaysi yoʻnalishda harakatlanishga ruxsat etilmasligi soʻralgan. Koʻpchilik savolni notoʻgʻri oʻqib, “ruxsat etiladi” deb tushunib yuboradi.\r\nUshbu holatda toʻgʻriga harakatlanishga ruxsat etiladi. Biroq, oʻngga burilishga ruxsat etilmaydi, chunki bu yoʻnalishda vaqtinchalik yoʻl belgisi mavjud. Shuningdek, avtomobil oʻng harakatlanish tasmasida joylashgani sababli uchinchi va toʻrtinchi yoʻnalishlarda harakatlanishga ham ruxsat etilmaydi.\r\nDemak, toʻgʻri javob — birinchi va uchinchi yoʻnalishlar, yaʼni ushbu yoʻnalishlarda harakatlanishga ruxsat etilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5062,
+          "textUz": "Фақат 1",
+          "textRu": "Только по направлению 1",
+          "textOz": "Faqat 1",
+          "isCorrect": false
+        },
+        {
+          "id": 5063,
+          "textUz": "Фақат 2",
+          "textRu": "Только по направлению 2",
+          "textOz": "Faqat 2",
+          "isCorrect": false
+        },
+        {
+          "id": 5064,
+          "textUz": "Фақат 1, 3, 4 йўналишларда",
+          "textRu": "По направлениям 1, 3 и 4",
+          "textOz": "Faqat 1, 3, 4 yo‘nalishlarda",
+          "isCorrect": true
+        },
+        {
+          "id": 5065,
+          "textUz": "Барча йўналишларда",
+          "textRu": "По всем направлениям",
+          "textOz": "Barcha yo‘nalishlarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5064
+      ]
+    },
+    {
+      "id": 1212,
+      "questionUz": "Ушбу белги ўрнатилган ҳудудда қайси тоифаларга эга автотранспорт воситалари ҳаракатланиши мумкин?",
+      "questionRu": "Какие категории автотранспортных средств могут двигаться в зоне действия данного знака?",
+      "questionOz": "Ushbu belgi o‘rnatilgan hududda qaysi toifalarga ega avtotransport vositalari harakatlanishi mumkin?",
+      "explanationUz": "ЙҲҚга 1-ИЛОВА 3.35 бандига асосан: 3.35. Экологик зона ҳудудида «ўрта» ва «зарарли» экологик тоифаларга эга автотранспорт воситалари ҳаракатланиши тақиқланган.\r\n3.35 белгиси экологик зона ҳудудига киришдан 150 — 300 метр олдин ўрнатилади.",
+      "explanationRu": "На основании пункта 3.35 Приложения 1 к ПДД: 3.35. На территории экологической зоны запрещено движение автотранспортных средств, имеющих «среднюю» и «вредную» экологические категории.\r\nЗнак 3.35 устанавливается на расстоянии 150 – 300 метров до въезда в экологическую зону.",
+      "explanationOz": "YHQga 1-ILOVA 3.35 bandiga asosan: 3.35. Ekologik zona hududida «o‘rta» va «zararli» ekologik toifalarga ega avtotransport vositalari harakatlanishi taqiqlangan. \r\n3.35 belgisi ekologik zona hududiga kirishdan 150 — 300 metr oldin o‘rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378970555-238192825.png",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6661,
+          "textUz": "Тоза",
+          "textRu": "Чистые",
+          "textOz": "Toza",
+          "isCorrect": true
+        },
+        {
+          "id": 6662,
+          "textUz": "Ўрта",
+          "textRu": "Средние",
+          "textOz": "O‘rta",
+          "isCorrect": false
+        },
+        {
+          "id": 6663,
+          "textUz": "Зарарли",
+          "textRu": "Загрязняющие",
+          "textOz": "Zararli",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6661
+      ]
+    }
+  ]
+}

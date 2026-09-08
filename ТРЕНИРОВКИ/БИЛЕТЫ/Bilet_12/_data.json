@@ -1,0 +1,865 @@
+{
+  "title": "Bilet 12",
+  "count": 20,
+  "questions": [
+    {
+      "id": 222,
+      "questionUz": "Қайси белги велосипед йўлкасини кўрсатади?",
+      "questionRu": "Какой знак обозначает велосипедную дорожку?",
+      "questionOz": "Qaysi belgi velosiped yo'lkasini ko'rsatadi?",
+      "explanationUz": "Агар саволда «Пиёдалар йўлкаси» белгиси сўралган бўлса, тўғри жавоб — С бўлади. Ушбу белги кўк рангли, доира шаклида бўлиб, пиёдалар ҳаракатланиши учун мўлжалланган йўлкани билдиради.\r\nА белгиси эса «Пиёдалар йўлкаси билан кесишув»ни билдиради.\r\nВ белгиси «Пиёдаларнинг ҳаракатланиши тақиқланган» маъносини англатади.\r\nДемак, С белгиси — «Пиёдалар йўлкаси»ни билдиради.",
+      "explanationRu": "Если в вопросе спрашивается о знаке «Пешеходная дорожка», то правильным ответом будет знак С. Этот знак имеет синюю круглую форму и обозначает дорожку, предназначенную для движения пешеходов.\r\nЗнак А обозначает «Пересечение с пешеходной дорожкой».\r\nЗнак В означает «Движение пешеходов запрещено».\r\nСледовательно, знак С обозначает «Пешеходную дорожку».",
+      "explanationOz": "Agar savolda “Piyodalar yoʻlkasi” belgisi soʻralgan boʻlsa, toʻgʻri javob — C bo‘ladi. Ushbu belgi koʻk rangli, doira shaklida boʻlib, piyodalar harakatlanishi uchun moʻljallangan yoʻlkani bildiradi.\r\nA belgisi esa “Piyodalar yoʻlkasi bilan kesishuv”ni bildiradi.\r\nV belgisi “Piyodalarning harakatlanishi taqiqlangan” maʼnosini anglatadi.\r\nDemak, C belgisi — “Piyodalar yoʻlkasi”ni bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5119,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 5120,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "V",
+          "isCorrect": false
+        },
+        {
+          "id": 5121,
+          "textUz": "С",
+          "textRu": "С",
+          "textOz": "S",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5121
+      ]
+    },
+    {
+      "id": 223,
+      "questionUz": "Қайси белги тўсиқни ўнг ёки чап томонидан четлаб ўтишга рухсат этилишини билдиради?",
+      "questionRu": "Какой знак указывает на то, что объезд препятствия разрешен с правой или левой стороны?",
+      "questionOz": "Qaysi belgi to'siqni o'ng yoki chap tomonidan chetlab o'tishga ruxsat etilishini bildiradi?",
+      "explanationUz": "Ўнгдан ёки чапдан четлаб ўтиш деган савол қўйилаётган экан. Демак, бу буюрувчи белгимиз бешинчи белги бўлади. Бешинчи белгимиз тўсиқни ўнгдан ёки чапдан четлаб ўтишни билдиради.",
+      "explanationRu": "Если в вопросе спрашивается об объезде препятствия справа или слева, то правильным ответом будет пятый предписывающий знак. Пятый знак обозначает объезд препятствия справа или слева.",
+      "explanationOz": "Oʻngdan yoki chapdan chetlab oʻtish degan savol qoʻyilayotgan ekan. Demak, bu buyuruvchi belgimiz beshinchi belgi boʻladi. Beshinchi belgimiz toʻsiqni oʻngdan yoki chapdan chetlab oʻtishni bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/45.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5122,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 5123,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 5124,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 5125,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 5126,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5126
+      ]
+    },
+    {
+      "id": 224,
+      "questionUz": "Куйидаги белгилардан қайси бири енгил автомобиллар ҳаракати деб номланади?",
+      "questionRu": "Какой из перечисленных знаков называется движением легковых автомобилей?",
+      "questionOz": "Kuyidagi belgilardan qaysi biri engil avtomobillar harakati deb nomlanadi?",
+      "explanationUz": "Демак, «Енгил автомобиллар ҳаракати» белгиси буюрувчи белгилар гуруҳига киради ва бу ерда иккинчи белги бўлади. Ушбу белги «Енгил автомобиллар ҳаракати» деб номланади.\r\nБиринчи белги механик транспорт воситаларининг ҳаракатланиши тақиқланганини билдиради.\r\nИккинчи белги — енгил автомобиллар ҳаракати.\r\nУчинчи белги — автомобиллар учун мўлжалланган йўлни билдиради.\r\nТўртинчи белги эса қўшимча ахборот белгиси сифатида бошқа белги билан биргаликда қўлланилади, у алоҳида ўрнатилмайди.\r\nДемак, тўғри жавоб — иккинчи жавоб.",
+      "explanationRu": "Итак, знак «Движение легковых автомобилей» относится к группе предписывающих знаков и в данном случае является вторым знаком. Этот знак называется «Движение легковых автомобилей».\r\nПервый знак обозначает, что движение механических транспортных средств запрещено.\r\nВторой знак — движение легковых автомобилей.\r\nТретий знак обозначает дорогу, предназначенную для автомобилей.\r\nЧетвёртый знак является знаком дополнительной информации и применяется только совместно с другими знаками, отдельно не устанавливается.\r\nСледовательно, правильный ответ — второй вариант.",
+      "explanationOz": "Demak, “Yengil avtomobillar harakati” belgisi buyuruvchi belgilar guruhiga kiradi va bu yerda ikkinchi belgi bo‘ladi. Ushbu belgi “Yengil avtomobillar harakati” deb nomlanadi.\r\nBirinchi belgi mexanik transport vositalarining harakatlanishi taqiqlanganini bildiradi.\r\nIkkinchi belgi — yengil avtomobillar harakati.\r\nUchinchi belgi — avtomobillar uchun moʻljallangan yoʻlni bildiradi.\r\nToʻrtinchi belgi esa qoʻshimcha axborot belgisi sifatida boshqa belgi bilan birgalikda qoʻllaniladi, u alohida oʻrnatilmaydi.\r\nDemak, toʻgʻri javob — ikkinchi javob.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5127,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 5128,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 5129,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 5130,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5128
+      ]
+    },
+    {
+      "id": 225,
+      "questionUz": "Кайси ёналишда ҳаракатланиш тақиқланади?",
+      "questionRu": "В каком направлении движение запрещено?",
+      "questionOz": "Kaysi yonalishda harakatlanish taqiqlanadi?",
+      "explanationUz": "Демак, ушбу йўл белгиси ўнгга бурилиш, чапга бурилиш ва қайрилиб олишга рухсат беради, бироқ тўғрига ҳаракатланишни тақиқлайди.",
+      "explanationRu": "Таким образом, данный дорожный знак разрешает поворот направо, поворот налево и разворот, однако запрещает движение прямо.",
+      "explanationOz": "Demak, ushbu yoʻl belgisi oʻngga burilish, chapga burilish va qayrilib olishga ruxsat beradi, biroq toʻgʻriga harakatlanishni taqiqlaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/53.10.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5131,
+          "textUz": "Фақат чапга",
+          "textRu": "Только направо",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5132,
+          "textUz": "Ўнга, чапга ва оркага қайрилиб олишга",
+          "textRu": "Направо, налево и в обратном направлении",
+          "textOz": "O'nga, chapga va orkaga qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5133,
+          "textUz": "Чапга ва оркага қайрилиб олишга",
+          "textRu": "Налево и в обратном направлении",
+          "textOz": "Chapga va orkaga qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5134,
+          "textUz": "Фақат тўрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'riga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5134
+      ]
+    },
+    {
+      "id": 226,
+      "questionUz": "йўналтиргичлар билан курсатилган кайси йуналишларда харакат рухсат этилган?",
+      "questionRu": "В каких направлениях, обозначенных стрелкам разрешено движение?",
+      "questionOz": "Yo'naltirgichlar bilan ko'rsatilgan qaysi yo'nalishlarda xarakat ruxsat etilgan?",
+      "explanationUz": "Демак, кўрсатилган йўл белгиларида ўртада ажратувчи минтақа мавжуд бўлгани учун, агар белги тўғрига ҳаракатланишга рухсат берса, чапга бурилишга ҳам рухсат этилади. Демак, белги тўғрига ва ўнгга ҳаракатланишни кўрсатган бўлса, тўғрига ҳаракатланиш мумкин, ўнгга бурилиш мумкин, чапга бурилиш ҳам мумкин бўлади. Ўртада ажратувчи минтақа мавжуд бўлгани сабабли, тўғри жавоб — барча йўналишларда ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Таким образом, если на дороге имеется разделительная полоса, то при наличии знака, разрешающего движение прямо, допускается также поворот налево. Следовательно, если знак разрешает движение прямо и направо, то разрешается движение прямо, поворот направо и поворот налево. Поскольку посередине дороги имеется разделительная полоса, правильный ответ — движение разрешено во всех направлениях.",
+      "explanationOz": "Demak, ko‘rsatilgan yo‘l belgilarida o‘rtada ajratuvchi mintaqa mavjud bo‘lgani uchun, agar belgi to‘g‘riga harakatlanishga ruxsat bersa, chapga burilishga ham ruxsat etiladi. Demak, belgi to‘g‘riga va o‘ngga harakatlanishni ko‘rsatgan bo‘lsa, to‘g‘riga harakatlanish mumkin, o‘ngga burilish mumkin, chapga burilish ham mumkin bo‘ladi. O‘rtada ajratuvchi mintaqa mavjud bo‘lgani sababli, to‘g‘ri javob — barcha yo‘nalishlarda harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5135,
+          "textUz": "Факат тугрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 5136,
+          "textUz": "Факат унгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5137,
+          "textUz": "Факат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5138,
+          "textUz": "Факат тугрига ва унгга",
+          "textRu": "Только прямо и направо",
+          "textOz": "Faqat to'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5139,
+          "textUz": "Барча иуналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5139
+      ]
+    },
+    {
+      "id": 227,
+      "questionUz": "Курсатилган холатда кайрилиб олишга рухсат этиладими?",
+      "questionRu": "Разрешен ли разворот в указанной",
+      "questionOz": "Ko'rsatilgan holatda qayrilib olishga ruxsat etiladimi?",
+      "explanationUz": "Демак, бу жойда қайрилиб олиш тақиқланади. Ҳайдовчи ушбу жойда бевосита қайрилиб олиши мумкин эмас. У айланма ҳаракатдан (кругдан) ёки чорраҳани айланиб ўтиш орқали керакли йўналишда ҳаракатланиши лозим.",
+      "explanationRu": "Таким образом, в данном месте разворот запрещён. Водитель не может выполнить разворот непосредственно здесь. Для изменения направления движения ему необходимо воспользоваться круговым движением или объехать перекрёсток.",
+      "explanationOz": "Demak, bu joyda qayrilib olish taqiqlanadi. Haydovchi ushbu joyda bevosita qayrilib olishi mumkin emas. U aylanma harakatdan (krugdan) yoki chorrahani aylanib oʻtish orqali kerakli yoʻnalishda harakatlanishi lozim.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/54.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5140,
+          "textUz": "Такикланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5141,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5140
+      ]
+    },
+    {
+      "id": 228,
+      "questionUz": "Ушбу вазиятда қайси йўналишда ҳаракатланишингиз мумкин?",
+      "questionRu": "В каком из направлений Вам разрешено движение в изображенной ситуации?",
+      "questionOz": "Ushbu vaziyatda qaysi yo‘nalishda harakatlanishingiz mumkin?",
+      "explanationUz": "Демак, ушбу вазиятда «Енгил автомобиллар ҳаракати» деб номланган йўл белгиси ўрнатилган. Ушбу белги ҳайдовчига йўналиш бўйича ҳеч қандай қўшимча чеклов юкламайди. Шунинг учун тўғрига ҳаракатланиш, ўнгга бурилиш, чапга бурилиш ҳамда қайрилиб олишга рухсат этилади. Демак, барча йўналишларда ҳаракатланиш мумкин.",
+      "explanationRu": "Таким образом, в данной ситуации установлен знак «Движение легковых автомобилей». Этот знак не вводит дополнительных ограничений по направлениям движения. Поэтому разрешается движение прямо, поворот направо, поворот налево и разворот. Следовательно, движение разрешено во всех направлениях.",
+      "explanationOz": "Demak, ushbu vaziyatda “Yengil avtomobillar harakati” deb nomlangan yoʻl belgisi oʻrnatilgan. Ushbu belgi haydovchiga yoʻnalish boʻyicha hech qanday qoʻshimcha cheklov yuklamaydi. Shuning uchun toʻgʻriga harakatlanish, oʻngga burilish, chapga burilish hamda qayrilib olishga ruxsat etiladi. Demak, barcha yoʻnalishlarda harakatlanish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5142,
+          "textUz": "1, 3 ва 4 йўналишларда",
+          "textRu": "В направлении 1, 3 или 4",
+          "textOz": "1, 3 va 4 yo‘nalishlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 5143,
+          "textUz": "1, 2 ва 3 йўналишларда",
+          "textRu": "В направлении 1, 2 или 3",
+          "textOz": "1, 2 va 3 yo‘nalishlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 5144,
+          "textUz": "1 ва 4 йўналишларда",
+          "textRu": "В направлении 1 или 4",
+          "textOz": "1 va 4 yo‘nalishlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 5145,
+          "textUz": "Барча йўналишларда",
+          "textRu": "В любом направлении",
+          "textOz": "Barcha yo‘nalishlarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5145
+      ]
+    },
+    {
+      "id": 229,
+      "questionUz": "Ушбу чорраҳада чапга бурилишга рухсат этиладими?",
+      "questionRu": "Разрешен ли поворот налево на этом перекрестке?",
+      "questionOz": "Ushbu chorrahada chapga burilishga ruxsat etiladimi?",
+      "explanationUz": "Демак, саволда чапга бурилишга рухсат этиладими деб сўралаётган бўлса, тўғри жавоб — ҳа бўлади. Чунки кўриб турганингиздек, йўлнинг ўртасида, кичик бўлса ҳам, ажратувчи минтақа мавжуд.\r\n4.1.1. «Фақат тўғрига ҳаракатланиш» белгиси ажратувчи минтақа билан ажратилган биринчи қатнов қисмига нисбатан амал қилади. Биринчи қатнов қисмидан ўтилгандан сўнг ушбу белгининг таъсири кейинги қатнов қисмига татбиқ этилмайди.\r\nШунинг учун, иккинчи қатнов қисмига киришда чапга бурилишга рухсат этилади. Демак, ушбу вазиятда чапга бурилиш мумкин.\r\n",
+      "explanationRu": "Если в вопросе спрашивается, разрешён ли поворот налево, то правильный ответ — да. Как видно на изображении, посередине дороги имеется разделительная полоса, пусть даже небольшая.\r\nЗнак 4.1.1 «Движение прямо» действует в отношении первой проезжей части, отделённой разделительной полосой. После пересечения первой проезжей части действие данного знака на следующую проезжую часть не распространяется.\r\nСледовательно, при въезде на вторую проезжую часть поворот налево разрешается. Поэтому в данной ситуации поворот налево допускается.",
+      "explanationOz": "Demak, savolda chapga burilishga ruxsat etiladimi deb soʻralayotgan boʻlsa, toʻgʻri javob — ha bo‘ladi. Chunki ko‘rib turganingizdek, yo‘lning o‘rtasida, kichik bo‘lsa ham, ajratuvchi mintaqa mavjud.\r\n4.1.1. “Faqat toʻgʻriga harakatlanish” belgisi ajratuvchi mintaqa bilan ajratilgan birinchi qatnov qismiga nisbatan amal qiladi. Birinchi qatnov qismidan o‘tilgandan so‘ng ushbu belgining taʼsiri keyingi qatnov qismiga tatbiq etilmaydi.\r\nShuning uchun, ikkinchi qatnov qismiga kirishda chapga burilishga ruxsat etiladi. Demak, ushbu vaziyatda chapga burilish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.13.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5146,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 5147,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5146
+      ]
+    },
+    {
+      "id": 230,
+      "questionUz": "Қайси автомобил ҳайдовчиси қоидани бузиб ҳовлига бурилди?",
+      "questionRu": "Водителю какого автомобиля нарушил правило повернув во двор?",
+      "questionOz": "Qaysi avtomobil haydovchisi qoidani buzib hovliga burildi?",
+      "explanationUz": "Демак, саволда кўрсатилган расмда қайси ҳайдовчи қоидани бузиб ҳовлига бурилгани сўралмоқда. Кўриб турганингиздек, бу ерда 4.1.1. «Фақат тўғрига ҳаракатланиш» йўл белгиси ўрнатилган. Ушбу белги чорраҳада фақат тўғрига ҳаракатланишни буюради.\r\nБироқ, бу белги ўнг томондаги ёндош ҳудудга (ҳовлига) бурилишни тақиқламайди. Шунинг учун ўнг томондаги ҳовлига кириш қоидабузарлик ҳисобланмайди.\r\nКўриб турганингиздек, чап томонга бурилаётган сариқ автомобил ҳайдовчиси ушбу белги талабини бузмоқда. Демак, қоидани бузган ҳайдовчи — сариқ автомобил ҳайдовчиси.",
+      "explanationRu": "Итак, в вопросе спрашивается, какой водитель нарушил правила, повернув во двор. Как видно на рисунке, здесь установлен знак 4.1.1 «Движение прямо». Этот знак предписывает движение прямо на перекрёстке.\r\nОднако данный знак не запрещает поворот направо на прилегающую территорию (во двор). Поэтому въезд во двор справа не является нарушением.\r\nКак видно на изображении, водитель жёлтого автомобиля, поворачивающий налево, нарушает требования данного знака. Следовательно, нарушителем является водитель жёлтого автомобиля.",
+      "explanationOz": "Demak, savolda koʻrsatilgan rasmda qaysi haydovchi qoidani buzib hovliga burilgani soʻralmoqda. Koʻrib turganingizdek, bu yerda 4.1.1. “Faqat toʻgʻriga harakatlanish” yoʻl belgisi oʻrnatilgan. Ushbu belgi chorrahada faqat toʻgʻriga harakatlanishni buyuradi.\r\nBiroq, bu belgi oʻng tomondagi yondosh hududga (hovliga) burilishni taqiqlamaydi. Shuning uchun o‘ng tomondagi hovliga kirish qoidabuzarlik hisoblanmaydi.\r\nKoʻrib turganingizdek, chap tomonga burilayotgan sariq avtomobil haydovchisi ushbu belgi talabini buzmoqda. Demak, qoidani buzgan haydovchi — sariq avtomobil haydovchisi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5148,
+          "textUz": "Фақат оқ автомобил ҳайдовчиси",
+          "textRu": "Только водитель белого автомобиля",
+          "textOz": "Faqat oq avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 5149,
+          "textUz": "Фақат сариқ автомобил ҳайдовчиси",
+          "textRu": "Только водитель жёлтого автомобиля",
+          "textOz": "Faqat sariq avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 5150,
+          "textUz": "Ҳеч қайси бузмади",
+          "textRu": "Никто не нарушил",
+          "textOz": "Hech qaysi buzmad",
+          "isCorrect": false
+        },
+        {
+          "id": 5151,
+          "textUz": "Иккиси ҳам бузди",
+          "textRu": "Оба нарушили",
+          "textOz": "Ikkisi ham buzdi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5149
+      ]
+    },
+    {
+      "id": 231,
+      "questionUz": "Йўналтиргичлар билан кўрсатилган қайси йўналишларда ҳаракат рухсат этилган?",
+      "questionRu": "В каких направлениях разрешено движение согласно указателям (знакам)?",
+      "questionOz": "Yo‘naltirgichlar bilan ko‘rsatilgan qaysi yo‘nalishlarda harakat ruxsat etilgan?",
+      "explanationUz": "Демак, бу ерда 4.1.1. «Фақат тўғрига ҳаракатланиш» йўл белгиси ўрнатилган. Шунингдек, йўлнинг ўртасида ажратувчи минтақа мавжуд.\r\nШунинг учун ушбу белги биринчи қатнов қисмига нисбатан амал қилади. Биринчи қатнов қисми кесиб ўтилгандан сўнг, белги иккинчи қатнов қисмига нисбатан ўз таъсирини йўқотади.\r\nНатижада, ҳайдовчига тўғрига ҳаракатланиш ҳамда чапга бурилиш рухсат этилади. Демак, тўғри жавоб — тўғрига ва чапга.",
+      "explanationRu": "Таким образом, в данной ситуации установлен знак 4.1.1 «Движение прямо». Кроме того, посередине дороги имеется разделительная полоса.\r\nПоэтому действие данного знака распространяется на первую проезжую часть. После пересечения первой проезжей части знак теряет своё действие в отношении второй проезжей части.\r\nСледовательно, водителю разрешается движение прямо и поворот налево. Таким образом, правильный ответ — прямо и налево.",
+      "explanationOz": "Demak, bu yerda 4.1.1. “Faqat toʻgʻriga harakatlanish” yoʻl belgisi oʻrnatilgan. Shuningdek, yoʻlning oʻrtasida ajratuvchi mintaqa mavjud.\r\nShuning uchun ushbu belgi birinchi qatnov qismiga nisbatan amal qiladi. Birinchi qatnov qismi kesib oʻtilgandan soʻng, belgi ikkinchi qatnov qismiga nisbatan oʻz taʼsirini yoʻqotadi.\r\nNatijada, haydovchiga toʻgʻriga harakatlanish hamda chapga burilish ruxsat etiladi. Demak, toʻgʻri javob — toʻgʻriga va chapga.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5152,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": false
+        },
+        {
+          "id": 5153,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o‘ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5154,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5155,
+          "textUz": "Фақат тўғрига ва чапга",
+          "textRu": "Только прямо и налево",
+          "textOz": "Faqat to‘g‘riga va chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 5156,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5155
+      ]
+    },
+    {
+      "id": 232,
+      "questionUz": "Автомобил ҳайдовчиси қайси йўналишларда ҳаракатланишга рухсат беради?",
+      "questionRu": "По каким направлениям водителю автомобиля разрешено движение?",
+      "questionOz": "Avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat beradi?",
+      "explanationUz": "Демак, кўриб турганингиздек, ҳайдовчи иккинчи ҳаракатланиш тасмасида ҳаракатланмоқда. Йўл белгиси тўғрига ва ўнгга ҳаракатланишга рухсат бермоқда, бироқ ҳар бир тасманинг йўналиши ҳам инобатга олиниши керак.\r\nҲайдовчи иккинчи тасмада бўлгани сабабли, А йўналишига (ўнгга) ҳаракатлана олмайди. Чунки ушбу йўналиш бошқа тасма учун мўлжалланган.\r\nБ йўналишига, яъни тўғрига ҳаракатланишга рухсат этилади.\r\nС йўналишига (чапга) эса ҳаракатланиш мумкин эмас, чунки йўл белгиси чапга бурилишга рухсат бермайди.\r\nДемак, тўғри жавоб — фақат Б йўналиши, яъни тўғрига ҳаракатланиш мумкин.",
+      "explanationRu": "Как видно, водитель движется по второй полосе движения. Дорожный знак разрешает движение прямо и направо, однако необходимо учитывать направление движения по каждой полосе.\r\nПоскольку водитель находится во второй полосе, он не может двигаться в направлении А (направо), так как это направление предназначено для другой полосы.\r\nДвижение в направлении Б, то есть прямо, разрешено.\r\nДвижение в направлении С (налево) запрещено, поскольку дорожный знак не разрешает поворот налево.\r\nСледовательно, правильный ответ — только направление Б, то есть движение прямо.",
+      "explanationOz": "Demak, ko‘rib turganingizdek, haydovchi ikkinchi harakatlanish tasmasida harakatlanmoqda. Yo‘l belgisi to‘g‘riga va o‘ngga harakatlanishga ruxsat bermoqda, biroq har bir tasmaning yo‘nalishi ham inobatga olinishi kerak.\r\nHaydovchi ikkinchi tasmada bo‘lgani sababli, A yo‘nalishiga (o‘ngga) harakatlana olmaydi. Chunki ushbu yo‘nalish boshqa tasma uchun mo‘ljallangan.\r\nB yo‘nalishiga, ya’ni to‘g‘riga harakatlanishga ruxsat etiladi.\r\nC yo‘nalishiga (chapga) esa harakatlanish mumkin emas, chunki yo‘l belgisi chapga burilishga ruxsat bermaydi.\r\nDemak, to‘g‘ri javob — faqat B yo‘nalishi, ya’ni to‘g‘riga harakatlanish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5157,
+          "textUz": "Фақат А ва B",
+          "textRu": "Только A и B",
+          "textOz": "Faqat A va B",
+          "isCorrect": false
+        },
+        {
+          "id": 5158,
+          "textUz": "Фақат B",
+          "textRu": "Только B",
+          "textOz": "Faqat B",
+          "isCorrect": true
+        },
+        {
+          "id": 5159,
+          "textUz": "Только A",
+          "textRu": "Только A",
+          "textOz": "Faqat A",
+          "isCorrect": false
+        },
+        {
+          "id": 5160,
+          "textUz": "Барчаси",
+          "textRu": "По всем",
+          "textOz": "Barchasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5158
+      ]
+    },
+    {
+      "id": 233,
+      "questionUz": "Қайси йўналишда қайрилиб олишга рухсат беради?",
+      "questionRu": "В каком направлении разрешён разворот?",
+      "questionOz": "Qaysi yo‘nalishda qayrilib olishga ruxsat beradi?",
+      "explanationUz": "Демак, саволда қайси йўналишда қайрилиб олишга рухсат этилиши сўралмоқда.\r\nА йўналишига қайрилиб олиш тақиқланади.\r\nБ йўналишига ҳам қайрилиб олиш мумкин эмас. Чунки, аввал айтилганидек, айланма ҳаракатдан чиқишда ҳайдовчи фақат ўнг ҳаракатланиш тасмасидан чиқиши керак.\r\nС йўналишига эса қайрилиб олиш мумкин, чунки ушбу йўналишда транспорт воситаси айланма ҳаракатдан ўнг томондаги тасма орқали чиқиб кетади.\r\nШуни ёдда тутиш керакки, айланма ҳаракатга киришда ҳайдовчи исталган ҳаракатланиш тасмасини эгаллаши мумкин, бироқ айланма ҳаракатдан чиқишда фақат ўнг четки тасмани эгаллаши лозим.\r\nДемак, тўғри жавоб — С йўналиши.",
+      "explanationRu": "Итак, в вопросе спрашивается, в каком направлении разрешён разворот.\r\nРазворот в направлении А запрещён.\r\nРазворот в направлении Б также запрещён, поскольку, как уже отмечалось, при выезде с кругового движения водитель должен занимать крайнюю правую полосу.\r\nРазворот в направлении С разрешён, так как в этом случае транспортное средство покидает круговое движение с правой полосы.\r\nСледует помнить, что при въезде на круговое движение водитель может занять любую полосу, однако выезжать с него необходимо только с крайней правой полосы.\r\nСледовательно, правильный ответ — направление С.",
+      "explanationOz": "Demak, savolda qaysi yoʻnalishda qayrilib olishga ruxsat etilishi soʻralmoqda.\r\nA yoʻnalishiga qayrilib olish taqiqlanadi.\r\nB yoʻnalishiga ham qayrilib olish mumkin emas. Chunki, avval aytilganidek, aylanma harakatdan chiqishda haydovchi faqat oʻng harakatlanish tasmasidan chiqishi kerak.\r\nC yoʻnalishiga esa qayrilib olish mumkin, chunki ushbu yoʻnalishda transport vositasi aylanma harakatdan oʻng tomondagi tasma orqali chiqib ketadi.\r\nShuni yodda tutish kerakki, aylanma harakatga kirishda haydovchi istalgan harakatlanish tasmasini egallashi mumkin, biroq aylanma harakatdan chiqishda faqat oʻng chekka tasmani egallashi lozim.\r\nDemak, toʻgʻri javob — C yoʻnalishi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5161,
+          "textUz": "Фақат А ва C",
+          "textRu": "Только A и C",
+          "textOz": "Faqat A va C",
+          "isCorrect": false
+        },
+        {
+          "id": 5162,
+          "textUz": "Фақат C",
+          "textRu": "Только C",
+          "textOz": "Faqat C",
+          "isCorrect": true
+        },
+        {
+          "id": 5163,
+          "textUz": "Фақат B",
+          "textRu": "Только B",
+          "textOz": "Faqat B",
+          "isCorrect": false
+        },
+        {
+          "id": 5164,
+          "textUz": "Барчаси",
+          "textRu": "Все направления",
+          "textOz": "Barchasi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5162
+      ]
+    },
+    {
+      "id": 234,
+      "questionUz": "Қайси Жавобда белгининг номи тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указано имя персонажа?",
+      "questionOz": "Qaysi Javobda belgining nomi to'g'ri ko'rsatilgan?",
+      "explanationUz": "Бу белги отда юриш йўлини билдиради. У от минувчилар ҳаракатланиши учун мўлжалланган йўлни англатади.",
+      "explanationRu": "Этот знак обозначает дорогу для верховой езды. Он указывает путь, предназначенный для движения всадников.",
+      "explanationOz": "Bu belgi otda yurish yoʻlini bildiradi. U ot minuvchilar harakatlanishi uchun moʻljallangan yoʻlni anglatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5165,
+          "textUz": "Отда юриш йўли",
+          "textRu": "Конная тропа",
+          "textOz": "Otda yurish yo'li",
+          "isCorrect": true
+        },
+        {
+          "id": 5166,
+          "textUz": "Отда ҳаракатланиш",
+          "textRu": "Езда на лошади",
+          "textOz": "Otda harakatlanish",
+          "isCorrect": false
+        },
+        {
+          "id": 5167,
+          "textUz": "Отда юриш тақиқланади",
+          "textRu": "Верховая езда запрещена",
+          "textOz": "Otda yurish taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5165
+      ]
+    },
+    {
+      "id": 235,
+      "questionUz": "Қайси транспорт воситаси ўнгга тўғри бурилмоқда?",
+      "questionRu": "Какое транспортное средство поворачивает направо правильно?",
+      "questionOz": "Qaysi transport vositasi o‘ngga to‘g‘ri burilmoqda?",
+      "explanationUz": "Кўриб турганингиздек, ушбу саволда фақат оқ автомобил ҳайдовчиси ўнгга тўғри бурилмоқда.\r\nСариқ автомобил ҳайдовчиси иккинчи ҳаракатланиш тасмасидан ўнгга бурилмоқда, бу эса қоидаларга зид ҳисобланади.\r\nМотоцикл ҳайдовчиси ҳаракатланаётган тасмада фақат тўғрига ҳаракатланиш йўналиши кўрсатилган бўлса-да, у ўнгга бурилмоқда, шунинг учун унга ҳам рухсат этилмайди.\r\nЯшил автомобил ҳайдовчиси ҳам иккинчи тасмадан ўнгга бурилмоқда, бу ҳам қоидабузарлик ҳисобланади.\r\nҚоидаларга кўра, ўнгга бурилиш фақат четки ўнг ҳаракатланиш тасмасидан ва имкони қадар йўлнинг ўнг четки ҳолатини эгаллаган ҳолда амалга оширилиши керак.\r\nДемак, тўғри жавоб — фақат оқ автомобил ҳайдовчиси ўнгга тўғри бурилмоқда.",
+      "explanationRu": "Как видно, в данной ситуации только водитель белого автомобиля правильно выполняет поворот направо.\r\nВодитель жёлтого автомобиля поворачивает направо со второй полосы движения, что является нарушением правил.\r\nВодитель мотоцикла движется по полосе, предназначенной только для движения прямо, однако выполняет поворот направо, что также недопустимо.\r\nВодитель зелёного автомобиля тоже поворачивает направо со второй полосы, что является нарушением.\r\nСогласно правилам, поворот направо должен выполняться только с крайней правой полосы и при максимально возможном приближении к правому краю проезжей части.\r\nСледовательно, правильный ответ — только водитель белого автомобиля выполняет поворот направо правильно.",
+      "explanationOz": "Koʻrib turganingizdek, ushbu savolda faqat oq avtomobil haydovchisi oʻngga toʻgʻri burilmoqda.\r\nSariq avtomobil haydovchisi ikkinchi harakatlanish tasmasidan oʻngga burilmoqda, bu esa qoidalarga zid hisoblanadi.\r\nMototsikl haydovchisi harakatlanayotgan tasmada faqat toʻgʻriga harakatlanish yoʻnalishi koʻrsatilgan boʻlsa-da, u oʻngga burilmoqda, shuning uchun unga ham ruxsat etilmaydi.\r\nYashil avtomobil haydovchisi ham ikkinchi tasmadan oʻngga burilmoqda, bu ham qoidabuzarlik hisoblanadi.\r\nQoidalarga koʻra, oʻngga burilish faqat chetki oʻng harakatlanish tasmasidan va imkon qadar yoʻlning oʻng chetki holatini egallagan holda amalga oshirilishi kerak.\r\nDemak, toʻgʻri javob — faqat oq avtomobil haydovchisi oʻngga toʻgʻri burilmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.19.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5168,
+          "textUz": "Мотоцикл",
+          "textRu": "Мотоцикл",
+          "textOz": "Mototsikl",
+          "isCorrect": false
+        },
+        {
+          "id": 5169,
+          "textUz": "Сариқ ва яшил автомобил",
+          "textRu": "Жёлтый и зелёный автомобиль",
+          "textOz": "Sariq va yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 5170,
+          "textUz": "Оқ автомобил",
+          "textRu": "Белый автомобиль",
+          "textOz": "Oq avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 5171,
+          "textUz": "Барчаси тўғри бурилмоқда",
+          "textRu": "Все поворачивают правильно",
+          "textOz": "Barchasi to‘g‘ri burilmoqda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5170
+      ]
+    },
+    {
+      "id": 236,
+      "questionUz": "Қайси йўналиш бўйича ҳаракатланишга рухсат берилган?",
+      "questionRu": "По какому направлению разрешено движение?",
+      "questionOz": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat berilgan?",
+      "explanationUz": "Демак, 4.1.1. «Фақат тўғрига ҳаракатланиш» йўл белгиси ҳайдовчига фақат тўғрига ҳаракатланишни буюради ва у биринчи чорраҳагача амал қилади.\r\nШунинг учун А йўналишида чапга бурилишга рухсат этилмайди, чунки ушбу манёвр белги талабига зид ҳисобланади.\r\nБ йўналишида эса, ҳайдовчи чорраҳадан ўтиб, йўл белгисининг таъсир доираси тугагандан кейин қайрилиб олиши ва Б йўналиши бўйича ушбу кўчага кириши мумкин.\r\nДемак, тўғри жавоб — Б йўналиши.",
+      "explanationRu": "Таким образом, дорожный знак 4.1.1 «Движение прямо» предписывает водителю двигаться только прямо и действует до первого перекрёстка.\r\nПоэтому в направлении А поворот налево запрещён, так как такой манёвр противоречит требованиям знака.\r\nВ направлении Б, после проезда перекрёстка и окончания зоны действия знака, водитель может выполнить разворот и въехать на данную улицу по направлению Б.\r\nСледовательно, правильный ответ — направление Б.",
+      "explanationOz": "Demak, 4.1.1. “Faqat toʻgʻriga harakatlanish” yoʻl belgisi haydovchiga faqat toʻgʻriga harakatlanishni buyuradi va u birinchi chorrahagacha amal qiladi.\r\nShuning uchun A yoʻnalishida chapga burilishga ruxsat etilmaydi, chunki ushbu manevr belgi talabiga zid hisoblanadi.\r\nB yoʻnalishida esa, haydovchi chorrahadan oʻtib, yoʻl belgisining taʼsir doirasi tugagandan keyin qayrilib olishi va B yoʻnalishi boʻyicha ushbu koʻchaga kirishi mumkin.\r\nDemak, toʻgʻri javob — B yoʻnalishi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.8.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5172,
+          "textUz": "Фақат «А»",
+          "textRu": "Только «А»",
+          "textOz": "Faqat \"A\"",
+          "isCorrect": false
+        },
+        {
+          "id": 5173,
+          "textUz": "Фақат «B»",
+          "textRu": "Только «B»",
+          "textOz": "Faqat \"B\"",
+          "isCorrect": true
+        },
+        {
+          "id": 5174,
+          "textUz": "Ҳар икки йўналишда мумкин",
+          "textRu": "Возможно в обоих направлениях",
+          "textOz": "Har ikki yo‘nalishda mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 5175,
+          "textUz": "Ҳар икки йўналишда тақиқланади",
+          "textRu": "Запрещено в обоих направлениях",
+          "textOz": "Har ikki yo‘nalishda taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5173
+      ]
+    },
+    {
+      "id": 237,
+      "questionUz": "Ушбу вазиятда охирги бўлиб ким ўтади?",
+      "questionRu": "В данной ситуации кто проедет последним?",
+      "questionOz": "Ushbu vaziyatda oxirgi bo‘lib kim o‘tadi?",
+      "explanationUz": "Ушбу вазиятда саволда ушбу йўлда охирги бўлиб ким ўтиши сўралмоқда. Демак, ёндош ҳудуддан йўлга чиқаётган қизил автомобил ҳайдовчиси бошқа ҳаракат иштирокчиларига йўл бериши керак. Шунинг учун у охирги бўлиб ўтади.\r\nДемак, тўғри жавоб — қизил автомобил ҳайдовчиси охирги бўлиб ўтади.",
+      "explanationRu": "В данной ситуации в вопросе спрашивается, кто проедет последним. Поскольку водитель красного автомобиля выезжает с прилегающей территории, он обязан уступить дорогу другим участникам движения. Поэтому именно он проедет последним.\r\nСледовательно, правильный ответ — водитель красного автомобиля проедет последним.",
+      "explanationOz": "Ushbu vaziyatda savolda ushbu yoʻlda oxirgi boʻlib kim oʻtishi soʻralmoqda. Demak, yondosh hududdan yoʻlga chiqayotgan qizil avtomobil haydovchisi boshqa harakat ishtirokchilariga yoʻl berishi kerak. Shuning uchun u oxirgi boʻlib oʻtadi.\r\nDemak, toʻgʻri javob — qizil avtomobil haydovchisi oxirgi boʻlib oʻtadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5176,
+          "textUz": "Қизил автомобил",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 5177,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko‘k avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 5178,
+          "textUz": "Ўзаро келишиб ўтадилар",
+          "textRu": "Проедут по взаимной договорённости",
+          "textOz": "O‘zaro kelishib o‘tadilar",
+          "isCorrect": false
+        },
+        {
+          "id": 5179,
+          "textUz": "Оқ автомобил",
+          "textRu": "Белый автомобиль",
+          "textOz": "Oq avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5176
+      ]
+    },
+    {
+      "id": 238,
+      "questionUz": "Кўк автомобил қайси йўналишлар бўйича ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каких направлениях разрешено движение синий автомобилю?",
+      "questionOz": "Ko'k avtomobil qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Кўк автомобил қайси йўналишлар бўйича ҳаракатланишга рухсат этилиши сўралмоқда. Кўриб турганингиздек, бу ерда 4.1.1. «Фақат тўғрига ҳаракатланиш» йўл белгиси ўрнатилган.\r\nУшбу белги талабига кўра, кўк автомобил фақат тўғрига ҳаракатланиши мумкин. Чапга бурилиш ва қайрилиб олиш тақиқланади.\r\nДемак, тўғри жавоб — фақат тўғрига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Вопрос заключается в том, в каких направлениях разрешено движение синему автомобилю. Как видно, здесь установлен дорожный знак 4.1.1 «Движение прямо».\r\nСогласно требованиям данного знака, синий автомобиль может двигаться только прямо. Поворот налево и разворот запрещены.\r\nСледовательно, правильный ответ — разрешено движение только прямо.",
+      "explanationOz": "Koʻk avtomobil qaysi yoʻnalishlar boʻyicha harakatlanishga ruxsat etilishi soʻralmoqda. Koʻrib turganingizdek, bu yerda 4.1.1. “Faqat toʻgʻriga harakatlanish” yoʻl belgisi oʻrnatilgan.\r\nUshbu belgi talabiga ko‘ra, koʻk avtomobil faqat toʻgʻriga harakatlanishi mumkin. Chapga burilish va qayrilib olish taqiqlanadi.\r\nDemak, toʻgʻri javob — faqat toʻgʻriga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/61.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5180,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": true
+        },
+        {
+          "id": 5181,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5182,
+          "textUz": "Тўғрига ва қайрилишга",
+          "textRu": "Прямо и с разворотом",
+          "textOz": "To‘g‘riga va qayrilishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5183,
+          "textUz": "Барча йўналишларга",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5180
+      ]
+    },
+    {
+      "id": 239,
+      "questionUz": "Қайси белги Қоидаларнинг аҳоли пунктларида ҳаракатланиш тартибини белгилайдиган талабларнинг бекор килинишини кўрсатади?",
+      "questionRu": "Какой знак указывает место; с которого на данной дороге утрачивают силу требования правил; устанав­ливающие порядок движения в населенных пунктах?",
+      "questionOz": "Qaysi belgi Qoidalarning aholi punktlarida harakatlanish tartibini belgilaydigan talablarning bekor kilinishini ko'rsatadi?",
+      "explanationUz": "Қайси белги қоидаларнинг аҳоли пунктларида ҳаракатланиш тартибини белгилайдиган талабларини бекор қилишини кўрсатиши сўралаётган экан. Демак, аҳоли пунктларида ҳаракатланиш тартибига оид талабларнинг амал қилиши тугаганини билдирувчи белги — тўртинчи белги ҳисобланади.",
+      "explanationRu": "Если в вопросе спрашивается, какой знак указывает на прекращение действия требований Правил дорожного движения, действующих в населённых пунктах, то правильным ответом является четвёртый знак. Этот знак обозначает конец населённого пункта и отменяет требования, связанные с режимом движения в населённых пунктах.",
+      "explanationOz": "Qaysi belgi qoidalarning aholi punktlarida harakatlanish tartibini belgilaydigan talablarini bekor qilishini ko‘rsatishi so‘ralayotgan ekan. Demak, aholi punktlarida harakatlanish tartibiga oid talablarning amal qilishi tugaganini bildiruvchi belgi — toʻrtinchi belgi hisoblanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5184,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 5185,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 5186,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 5187,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        },
+        {
+          "id": 5188,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5187
+      ]
+    },
+    {
+      "id": 240,
+      "questionUz": "Қайси жавобда pyxcат берилган ҳаракат йўналиши тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указано разрешенное направление движения?",
+      "questionOz": "Qaysi javobda ruxsat berilgan harakat yo'nalishi to'g'ri ko'rsatilgan?",
+      "explanationUz": "Демак, бу ерда доимий йўл белгиси ҳам, вақтинчалик йўл белгиси ҳам ўрнатилган. Доимий белги бошқа талабни билдираётган бўлса, вақтинчалик белги эса **«Фақат тўғрига ҳаракатланиш»**ни буюрмоқда.\r\nАгар вақтинчалик ва доимий йўл белгилари бир-бирига зид келса, ҳайдовчилар вақтинчалик йўл белгиси талабларига амал қилишлари керак.\r\nШунинг учун ушбу вазиятда фақат тўғрига ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации установлены как постоянный дорожный знак, так и временный дорожный знак. Постоянный знак устанавливает одно требование, а временный знак предписывает движение только прямо.\r\nЕсли требования временных и постоянных дорожных знаков противоречат друг другу, водители обязаны руководствоваться требованиями временных дорожных знаков.\r\nСледовательно, в данной ситуации разрешается движение только прямо.",
+      "explanationOz": "Demak, bu yerda doimiy yoʻl belgisi ham, vaqtinchalik yoʻl belgisi ham oʻrnatilgan. Doimiy belgi boshqa talabni bildirayotgan boʻlsa, vaqtinchalik belgi esa **“Faqat toʻgʻriga harakatlanish”**ni buyurmoqda.\r\nAgar vaqtinchalik va doimiy yoʻl belgilari bir-biriga zid kelsa, haydovchilar vaqtinchalik yoʻl belgisi talablariga amal qilishlari kerak.\r\nShuning uchun ushbu vaziyatda faqat toʻgʻriga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/8.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5189,
+          "textUz": "Фақат орқага бурилиш",
+          "textRu": "Только разворот",
+          "textOz": "Faqat orqaga burilish",
+          "isCorrect": false
+        },
+        {
+          "id": 5190,
+          "textUz": "Тўғрига ва орқага бурилиш",
+          "textRu": "Тўғрига ва орқага бурилиш",
+          "textOz": "To'g'riga va orqaga burilish",
+          "isCorrect": false
+        },
+        {
+          "id": 5191,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5191
+      ]
+    },
+    {
+      "id": 241,
+      "questionUz": "Қайси белги йўл қисмида автоматлаштирилган фото ва видео қайд этиш техника воситалари ўрнатилганлиги ҳақида ахборот беради?",
+      "questionRu": "Какой из указанных знаков информирует участников движения что; на данном участке дороги установлены специальные технические средства автоматизированные фото и видео фиксации?",
+      "questionOz": "Qaysi belgi yo'l qismida avtomatlashtirilgan foto va video qayd etish texnika vositalari o'rnatilganligi haqida axborot beradi?",
+      "explanationUz": "Қайси йўл белгиси автоматлаштирилган фото ва видео қайд этиш техника воситалари ўрнатилгани ҳақида ахборот беришини сўралаётган экан. Демак, тўғри жавоб — учинчи белги бўлади. Ушбу белги ҳайдовчиларни йўлнинг мазкур қисмида автоматлаштирилган фото ва видео қайд этиш воситалари ўрнатилгани ҳақида огоҳлантиради.",
+      "explanationRu": "Если в вопросе спрашивается, какой дорожный знак информирует об установке автоматических средств фото- и видеофиксации, то правильным ответом будет третий знак. Этот знак предупреждает водителей о том, что на данном участке дороги установлены автоматические средства фото- и видеофиксации нарушений.",
+      "explanationOz": "Qaysi yoʻl belgisi avtomatlashtirilgan foto va video qayd etish texnika vositalari oʻrnatilgani haqida axborot berishini soʻralayotgan ekan. Demak, toʻgʻri javob — uchinchi belgi bo‘ladi. Ushbu belgi haydovchilarni yoʻlning mazkur qismida avtomatlashtirilgan foto va video qayd etish vositalari oʻrnatilgani haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/9.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5196,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 5197,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 5198,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 5199,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5198
+      ]
+    }
+  ]
+}

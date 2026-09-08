@@ -1,0 +1,36 @@
+{
+  "category": "ДТП",
+  "count": 3,
+  "fines": [
+    {
+      "article": 133,
+      "subArticle": null,
+      "violation": "Нарушение, повлёкшее лёгкие телесные повреждения",
+      "fineBhm": "7.00",
+      "fineUzs": "2884000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "или лишение водительского удостоверения до 3 лет",
+      "repeatOffense": false
+    },
+    {
+      "article": 134,
+      "subArticle": null,
+      "violation": "Причинение материального ущерба",
+      "fineBhm": "4.00",
+      "fineUzs": "1648000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": "или лишение водительского удостоверения на 1 год",
+      "repeatOffense": false
+    },
+    {
+      "article": 134,
+      "subArticle": null,
+      "violation": "Оставление места ДТП",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": "или административный арест до 15 суток, лишение прав на 1-2 года",
+      "repeatOffense": false
+    }
+  ]
+}

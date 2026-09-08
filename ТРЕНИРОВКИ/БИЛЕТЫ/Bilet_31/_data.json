@@ -1,0 +1,830 @@
+{
+  "title": "Bilet 31",
+  "count": 20,
+  "questions": [
+    {
+      "id": 603,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчисига белгида кўрсатилган тезлик билан ҳаракатланишга рухсат берилган?",
+      "questionRu": "Водителю какого транспортного средства разрешено движение со скоростью; указанной на знаке?",
+      "questionOz": "Qaysi transport vositasining haydovchisiga belgida ko'rsatilgan tezlik bilan harakatlanishga ruxsat berilgan?",
+      "explanationUz": "Кўриб турганингиздек, бу ерда микроавтобус ва юк автомобили тасвирланган. Юк автомобили одам ташаётгани учун унинг рухсат этилган энг юқори тезлиги ҳар қандай йўлда 60 км/соатни ташкил этади.\r\n\r\nМикроавтобус учун эса аҳоли пунктларидан ташқарида 90 км/соатгача ҳаракатланишга рухсат этилади. Ушбу йўлда 80 км/соат тезлик чеклови ўрнатилган.\r\n\r\nШунинг учун 80 км/соат тезликда фақат микроавтобус ҳаракатланиши мумкин. Юк автомобили эса одам ташаётгани сабабли 60 км/соатдан юқори тезликда ҳаракатлана олмайди.",
+      "explanationRu": "Как видно на изображении, здесь показаны микроавтобус и грузовой автомобиль. Поскольку грузовой автомобиль перевозит людей, его максимально разрешённая скорость на любых дорогах составляет 60 км/ч.\r\n\r\nДля микроавтобуса вне населённых пунктов разрешена скорость до 90 км/ч. На данном участке дороги установлено ограничение 80 км/ч.\r\n\r\nСледовательно, двигаться со скоростью 80 км/ч разрешается только водителю микроавтобуса. Водителю грузового автомобиля, перевозящего людей, это не разрешается, так как его скорость не должна превышать 60 км/ч независимо от типа дороги.",
+      "explanationOz": "Ko‘rib turganingizdek, bu yerda mikroavtobus va yuk avtomobili tasvirlangan. Yuk avtomobili odamlarni tashiyotgani uchun uning maksimal ruxsat etilgan tezligi har qanday yo‘lda 60 km/soatni tashkil etadi.\r\n\r\nMikroavtobus uchun esa aholi punktlaridan tashqarida 90 km/soatgacha harakatlanishga ruxsat etiladi. Ushbu yo‘lda 80 km/soat tezlik cheklovi o‘rnatilgan.\r\n\r\nShuning uchun 80 km/soat tezlikda faqat mikroavtobus harakatlanishi mumkin. Yuk avtomobili esa odam tashiyotgani sababli 60 km/soatdan yuqori tezlikda harakatlana olmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6320,
+          "textUz": "Ҳар икки ҳайдовчига",
+          "textRu": "Обоим водителям",
+          "textOz": "Har ikki haydovchiga",
+          "isCorrect": false
+        },
+        {
+          "id": 6321,
+          "textUz": "Фақат микроавтобус ҳайдовчисига",
+          "textRu": "Только водителю микроавтобуса",
+          "textOz": "Faqat mikroavtobus haydovchisiga",
+          "isCorrect": true
+        },
+        {
+          "id": 6322,
+          "textUz": "Ҳар иккисига тақиқланган",
+          "textRu": "Обоим запрещено",
+          "textOz": "Har ikkisiga taqiqlangan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6321
+      ]
+    },
+    {
+      "id": 604,
+      "questionUz": "Агар барча транспорт воситалари 80 км/соат тезлик билан ҳаракат қилса, ҳайдовчилардан қай бири қоидаларнинг талабларини бузади?",
+      "questionRu": "Кто из водителей нарушает требования Правил; если все транспортные средства движутся со скоростью 80 км/ч?",
+      "questionOz": "Agar barcha transport vositalari 80 km/soat tezlik bilan harakat qilsa, haydovchilardan qay biri qoidalarning talablarini buzadi?",
+      "explanationUz": "Бу ерда 80 км/соат тезлик чеклови ўрнатилган. Шунинг учун ушбу йўлда ҳаракатланаётган барча транспорт воситалари 80 км/соатдан ошмаслиги керак.\r\n\r\nЕнгил автомобилнинг аҳоли пунктларидан ташқаридаги максимал рухсат этилган тезлиги 100 км/соат бўлса ҳам, бу йўлда ўрнатилган 80 км/соат чекловига амал қилиши шарт.\r\n\r\nДемак, барча транспорт воситалари белгиланган тезликка риоя қилаётган бўлса, ҳеч бири Йўл ҳаракати қоидаларини бузмаяпти.\r\n\r\nШунинг учун тўғри жавоб — ҳеч ким қоидани бузмаяпти.",
+      "explanationRu": "На данном участке дороги установлено ограничение скорости 80 км/ч. Поэтому все транспортные средства обязаны двигаться не быстрее 80 км/ч.\r\n\r\nХотя для легкового автомобиля вне населённых пунктов максимально разрешённая скорость составляет 100 км/ч, на этом участке он обязан соблюдать ограничение 80 км/ч.\r\n\r\nСледовательно, если все транспортные средства движутся в пределах установленного ограничения, никто не нарушает Правила дорожного движения.\r\n\r\nПравильный ответ — никто не нарушает.",
+      "explanationOz": "Bu yerda 80 km/soat tezlik cheklovi o‘rnatilgan. Shuning uchun ushbu yo‘lda harakatlanayotgan barcha transport vositalari 80 km/soatdan oshmasligi kerak.\r\n\r\nYengil avtomobilning aholi punktlaridan tashqaridagi maksimal ruxsat etilgan tezligi 100 km/soat bo‘lsa ham, bu yo‘lda o‘rnatilgan 80 km/soat chekloviga amal qilishi shart.\r\n\r\nDemak, barcha transport vositalari belgilangan tezlikka rioya qilayotgan bo‘lsa, hech biri Yo‘l harakati qoidalarini buzmayapti.\r\n\r\nShuning uchun to‘g‘ri javob — hech kim qoidani buzmayapti.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6323,
+          "textUz": "Мотоцикл ва юк автомобилининг ҳайдовчилари",
+          "textRu": "Водители мотоцикла и грузового автомобиля",
+          "textOz": "Motosikl va yuk avtomobilining haydovchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 6324,
+          "textUz": "Мотоцикл ва енгил автомобилнинг ҳайдовчилари",
+          "textRu": "Водители мотоцикла и легкового автомобиля",
+          "textOz": "Motosikl va engil avtomobilning haydovchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 6325,
+          "textUz": "Ҳамма ҳайдовчилар",
+          "textRu": "Все водители",
+          "textOz": "Hamma haydovchilar",
+          "isCorrect": false
+        },
+        {
+          "id": 6326,
+          "textUz": "Мотоцикл ҳайдовчиси",
+          "textRu": "Водитель мотоцикла",
+          "textOz": "Motosikl haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 6327,
+          "textUz": "Ҳеч ким бузмайди",
+          "textRu": "Никто не нарушает",
+          "textOz": "Hech kim buzmaydi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6327
+      ]
+    },
+    {
+      "id": 605,
+      "questionUz": "Тормоз йўли деганда нимани тушунасиз?",
+      "questionRu": "Что называется тормозным путем?",
+      "questionOz": "Tormoz yo'li deganda nimani tushunasiz?",
+      "explanationUz": "Ҳайдовчи тормоз педалини босган вақтдан бошлаб автомобиль тўлиқ тўхтагунча босиб ўтилган масофа тормоз йўли дейилади.",
+      "explanationRu": "Тормозной путь — это расстояние, которое автомобиль проходит с момента нажатия водителем на педаль тормоза до полной остановки автомобиля.",
+      "explanationOz": "Haydovchi tormoz pedalini bosgan vaqtdan boshlab avtomobil to‘liq to‘xtaguncha bosib o‘tilgan masofa tormoz yo‘li deyiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6328,
+          "textUz": "Ҳайдовчига хавф маълум бўлган вақтдан бошлаб автомобилнинг тўлиқ тўхтагунгача босиб ўтган масофаси",
+          "textRu": "Расстояние; пройденное автомобилем с момента обнаружения водителем опасности до полной остановки",
+          "textOz": "Haydovchiga xavf malum bo'lgan vaqtdan boshlab avtomobilning to'liq to'xtagungacha bosib o'tgan masofasi",
+          "isCorrect": false
+        },
+        {
+          "id": 6329,
+          "textUz": "Тормоз тепкисини босилган вақтидан бошлаб автомобилнинг тўлиқ тўхтагунгача босиб ўтган йўли",
+          "textRu": "Расстояние; пройденное автомобилем с момента нажатия на педаль тормоза до полной остановки",
+          "textOz": "Tormoz tepkisini bosilgan vaqtidan boshlab avtomobilning to'liq to'xtagungacha bosib o'tgan yo'li",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6329
+      ]
+    },
+    {
+      "id": 606,
+      "questionUz": "Автомобилнинг таниқлик белгиси бўлганда, йўлнинг мазкур қисмида қандай юқори тезлик билан ҳаракатланишига рухсат этилади?",
+      "questionRu": "С какой максимальной скоростью разрешается движение на данном участке дороги при наличии на автомобиле опознавательного знака?",
+      "questionOz": "Avtomobilning taniqlik belgisi bo'lganda, yo'lning mazkur qismida qanday yuqori tezlik bilan harakatlanishiga ruxsat etiladi?",
+      "explanationUz": "Кўриб турганингиздек, йўлда 90 км/соат тезлик чеклови белгиси ўрнатилган. Бироқ автомобилнинг орқа қисмида 70 км/соат тезликни билдирувчи таниш белгиси мавжуд.\r\n\r\nБундай ҳолатда ҳайдовчи автомобилга ўрнатилган таниш белгисида кўрсатилган тезликдан ошмаслиги керак. Бу талаб ҳар қандай йўлда амал қилади.\r\n\r\nШунинг учун ушбу вазиятда максимал рухсат этилган тезлик — 70 км/соат.",
+      "explanationRu": "Как видно, на дороге установлен знак ограничения скорости 90 км/ч. Однако на автомобиле установлен опознавательный знак «70».\r\n\r\nВ такой ситуации водитель не имеет права превышать скорость, указанную на опознавательном знаке автомобиля. Это требование действует на любых дорогах.\r\n\r\nСледовательно, в данной ситуации максимально разрешённая скорость составляет 70 км/ч.",
+      "explanationOz": "Ko‘rib turganingizdek, yo‘lda 90 km/soat tezlik cheklovi belgisi o‘rnatilgan. Biroq avtomobilning orqa qismida 70 km/soat tezlikni bildiruvchi taniqlik belgisi mavjud.\r\n\r\nBunday holatda haydovchi avtomobilga o‘rnatilgan taniqlik belgisida ko‘rsatilgan tezlikdan oshmasligi kerak. Bu talab har qanday yo‘lda amal qiladi.\r\n\r\nShuning uchun ushbu vaziyatda maksimal ruxsat etilgan tezlik — 70 km/soat.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/18.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6330,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6331,
+          "textUz": "90 км/с",
+          "textRu": "90 км/ч",
+          "textOz": "90 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6332,
+          "textUz": "100 км/с",
+          "textRu": "100 км/ч",
+          "textOz": "100 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6330
+      ]
+    },
+    {
+      "id": 607,
+      "questionUz": "Бундай йўл белгиси ўрнатилган йўл қисмларида мотоциклларга қандай юқори тезлик билан ҳаракатланишга рухсат этилади?",
+      "questionRu": "С какой максимальной скоростью разрешается движение мотоциклам на участках дорог обозначенных таким дорожным знаком?",
+      "questionOz": "Bunday yo'l belgisi o'rnatilgan yo'l qismlarida motosikllarga qanday yuqori tezlik bilan harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Ушбу йўл белгиси аҳоли пунктидан ташқаридаги йўлни билдиради. Бундай йўлларда мотоцикллар учун рухсат этилган энг юқори тезлик 80 км/соатни ташкил этади.\r\n\r\nШунинг учун тўғри жавоб — 80 км/соат.",
+      "explanationRu": "Этот дорожный знак обозначает дорогу вне населённого пункта. На таких дорогах максимально разрешённая скорость для мотоциклов составляет 80 км/ч.\r\n\r\nПоэтому правильный ответ — 80 км/ч.",
+      "explanationOz": "Ushbu yo‘l belgisi aholi punktidan tashqaridagi yo‘lni bildiradi. Bunday yo‘llarda mototsikllar uchun ruxsat etilgan eng yuqori tezlik 80 km/soatni tashkil etadi.\r\n\r\nShuning uchun to‘g‘ri javob — 80 km/soat.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6333,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6334,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6335,
+          "textUz": "80 км/с",
+          "textRu": "80 км/ч",
+          "textOz": "80 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6336,
+          "textUz": "90 км/с",
+          "textRu": "90 км/ч",
+          "textOz": "90 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6337,
+          "textUz": "100 км/с",
+          "textRu": "100 км/ч",
+          "textOz": "100 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6335
+      ]
+    },
+    {
+      "id": 608,
+      "questionUz": "Шундай йўл белгиси билан белгиланган йўл қисмларида шаҳарлараро бўлмаган автобусларнинг қандай юқори тезлик билан ҳаракатланишига рухсат этилади?",
+      "questionRu": "С какой максимальной скоростью разрешается движение не междугородним автобусам на участках дорог обозначенных таким дорожным знаком?",
+      "questionOz": "Shunday yo'l belgisi bilan belgilangan yo'l qismlarida shaharlararo bo'lmagan avtobuslarning qanday yuqori tezlik bilan harakatlanishiga ruxsat etiladi?",
+      "explanationUz": "Ушбу йўл белгиси аҳоли пунктидан ташқаридаги йўлни билдиради. Бундай йўлларда шаҳарлараро бўлмаган автобуслар учун рухсат этилган энг юқори тезлик 80 км/соатни ташкил этади.\r\n\r\nАгар шаҳарлараро автобус бўлса, унда рухсат этилган энг юқори тезлик 90 км/соат бўлади.\r\n\r\nШунинг учун тўғри жавоб — 80 км/соат.",
+      "explanationRu": "Этот дорожный знак обозначает дорогу вне населённого пункта. На таких дорогах для негородских (не междугородних) автобусов максимально разрешённая скорость составляет 80 км/ч.\r\n\r\nЕсли это междугородний автобус, то максимально разрешённая скорость составляет 90 км/ч.\r\n\r\nПоэтому правильный ответ — 80 км/ч.",
+      "explanationOz": "Ushbu yo‘l belgisi aholi punktidan tashqaridagi yo‘lni bildiradi. Bunday yo‘llarda shaharlararo bo‘lmagan avtobuslar uchun ruxsat etilgan eng yuqori tezlik 80 km/soatni tashkil etadi.\r\n\r\nAgar shaharlararo avtobus bo‘lsa, u holda ruxsat etilgan eng yuqori tezlik 90 km/soat bo‘ladi.\r\n\r\nShuning uchun to‘g‘ri javob — 80 km/soat.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/19.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6338,
+          "textUz": "50 км/с",
+          "textRu": "50 км/ч",
+          "textOz": "50 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6339,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6340,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6341,
+          "textUz": "80 км/с",
+          "textRu": "80 км/ч",
+          "textOz": "80 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6342,
+          "textUz": "90 км/с",
+          "textRu": "90 км/ч",
+          "textOz": "90 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6341
+      ]
+    },
+    {
+      "id": 609,
+      "questionUz": "Аҳоли пунктларидан ташқарида юк автомобил юкхонасида одамларни ташишда қандай энг юқори тезликда ҳаракатланишга рухсат этилади?",
+      "questionRu": "С какой максимальной скоростью разрешается движение в кузове грузового автомобиля при перевозке людей вне населённого пункта?",
+      "questionOz": "Aholi punktlaridan tashqarida yuk avtomobil yukxonasida odamlarni tashishda qanday eng yuqori tezlikda harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Аҳоли пунктларидан ташқарида юк автомобилининг юкхонасида одамлар ташилаётган бўлса, рухсат этилган энг юқори тезлик 60 км/соатни ташкил этади.\r\n\r\nБу қоида ҳар қандай йўлда амал қилади. Яъни юк автомобили одам ташаётган бўлса, унинг тезлиги 60 км/соатдан ошмаслиги керак.\r\n\r\nШунинг учун тўғри жавоб — 60 км/соат.",
+      "explanationRu": "Вне населённых пунктов, если грузовой автомобиль перевозит людей в кузове, максимально разрешённая скорость составляет 60 км/ч.\r\n\r\nЭто правило действует на любых дорогах. То есть грузовой автомобиль, перевозящий людей, не должен превышать скорость 60 км/ч.\r\n\r\nПоэтому правильный ответ — 60 км/ч.",
+      "explanationOz": "Aholi punktlaridan tashqarida yuk avtomobilining yukxonasida odamlar tashilayotgan bo‘lsa, ruxsat etilgan eng yuqori tezlik 60 km/soatni tashkil etadi.\r\n\r\nBu qoida har qanday yo‘lda amal qiladi. Ya'ni yuk avtomobili odam tashiyotgan bo‘lsa, uning tezligi 60 km/soatdan oshmasligi kerak.\r\n\r\nShuning uchun to‘g‘ri javob — 60 km/soat.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6343,
+          "textUz": "40 км/с",
+          "textRu": "40 км/ч",
+          "textOz": "40 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6344,
+          "textUz": "50 км/с",
+          "textRu": "50 км/ч",
+          "textOz": "50 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6345,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6346,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6347,
+          "textUz": "80 км/с",
+          "textRu": "80 км/ч",
+          "textOz": "80 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6345
+      ]
+    },
+    {
+      "id": 610,
+      "questionUz": "Йўлнинг чапга бурилишига яқинлашганингизда, у ўйлаганингиздан кўра анча кескинроқ бўлиб чиқса, Сиз",
+      "questionRu": "Вы приближаетесь к повороту дороги налево, он оказался более крутым, чем предполагалось. Вы должны:",
+      "questionOz": "Yo'lning chapga burilishiga yaqinlashganingizda, u o'ylaganingizdan ko'ra ancha keskinroq bo'lib chiqsa, Siz",
+      "explanationUz": "Бурилишга яқинлашганингизда, у сиз ўйлагандан кўра анча кескинроқ бўлиб чиқиши мумкин. Бу бурилишнинг қийароқ ва хавфлироқ эканлигини англатади.\r\n\r\nБундай вазиятда транспорт воситасини хавфсиз бошқариш учун тезликни камайтириш керак. Бу автомобилнинг сирпаниб кетиши ёки бирор тўсиққа урилиб кетишининг олдини олади.\r\n\r\nШунинг учун тўғри жавоб — тезликни камайтириш.",
+      "explanationRu": "При приближении к повороту может оказаться, что он намного более крутой, чем вы предполагали. Это означает, что поворот более опасный и требует повышенного внимания.\r\n\r\nВ такой ситуации необходимо снизить скорость, чтобы избежать заноса или столкновения с препятствием.\r\n\r\nПоэтому правильный ответ — уменьшить скорость.",
+      "explanationOz": "Burilishga yaqinlashganingizda, u siz o‘ylagandan ko‘ra ancha keskinroq bo‘lib chiqishi mumkin. Bu burilishning qiyaroq va xavfliroq ekanligini anglatadi.\r\n\r\nBunday vaziyatda transport vositasini xavfsiz boshqarish uchun tezlikni kamaytirish kerak. Bu avtomobilning sirpanib ketishi yoki biror to‘siqqa urilib ketishining oldini oladi.\r\n\r\nShuning uchun to‘g‘ri javob — tezlikni kamaytirish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6348,
+          "textUz": "Тезликни ўзгартирмай ва йўл қатнов қисмининг чап ёқасидан ҳаракатни давом эттиришингиз керак",
+          "textRu": "Продолжаете движение не изменяя скорости и придерживаясь левого края проезжей части дороги",
+          "textOz": "Tezlikni o'zgartirmay va yo'l qatnov qismining chap yoqasidan harakatni davom ettirishingiz kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 6349,
+          "textUz": "Ҳаракат тезлигини камайтиришингиз керак",
+          "textRu": "Снизите скорость движения",
+          "textOz": "Harakat tezligini kamaytirishingiz kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 6350,
+          "textUz": "Бурилишдан тезроқ ўтиш учун тезликни оширишингиз керак",
+          "textRu": "Увеличите скорость чтобы быстрее пройти поворот",
+          "textOz": "Burilishdan tezroq o'tish uchun tezlikni oshirishingiz kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6349
+      ]
+    },
+    {
+      "id": 611,
+      "questionUz": "Бундай йўл белгиси билан белгиланган йўл қисмларида рухсат этилган тўла вазни 3,5 т дан ортиқ бўлган юк автомобилларининг қандай юқори тезлик билан ҳаракатланишига рухсат этилади?",
+      "questionRu": "С какой максимальной скоростью разрешается движение грузовых автомобилей с разрешенной максимальной массой более 3,5 т на участках дорог обозначенных таким дорожным знаком?",
+      "questionOz": "Bunday yo'l belgisi bilan belgilangan yo'l qismlarida ruxsat etilgan to'la vazni 3,5 t dan ortiq bo'lgan yuk avtomobillarining qanday yuqori tezlik bilan harakatlanishiga ruxsat etiladi?",
+      "explanationUz": "Ушбу йўл белгиси аҳоли пунктидан ташқаридаги йўлни билдиради.\r\n\r\nСаволда рухсат этилган тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобили ҳақида сўралган. Бундай юк автомобиллари учун аҳоли пунктларидан ташқарида рухсат этилган энг юқори тезлик 80 км/соатни ташкил этади.\r\n\r\n3,5 тоннагача бўлган юк автомобиллари учун эса рухсат этилган энг юқори тезлик 100 км/соат.\r\n\r\nШунинг учун тўғри жавоб — 80 км/соат.",
+      "explanationRu": "Этот дорожный знак обозначает дорогу вне населённого пункта.\r\n\r\nВ вопросе речь идёт о грузовом автомобиле с разрешённой максимальной массой более 3,5 тонны. Для таких грузовых автомобилей вне населённых пунктов максимально разрешённая скорость составляет 80 км/ч.\r\n\r\nДля грузовых автомобилей с разрешённой максимальной массой до 3,5 тонны максимально разрешённая скорость составляет 100 км/ч.\r\n\r\nПоэтому правильный ответ — 80 км/ч.",
+      "explanationOz": "Ushbu yo‘l belgisi aholi punktidan tashqaridagi yo‘lni bildiradi.\r\n\r\nSavolda ruxsat etilgan to‘liq vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobili haqida so‘ralgan. Bunday yuk avtomobillari uchun aholi punktlaridan tashqarida ruxsat etilgan eng yuqori tezlik 80 km/soatni tashkil etadi.\r\n\r\n3,5 tonnagacha bo‘lgan yuk avtomobillari uchun esa ruxsat etilgan eng yuqori tezlik 100 km/soat.\r\n\r\nShuning uchun to‘g‘ri javob — 80 km/soat.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6351,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6352,
+          "textUz": "90 км/с",
+          "textRu": "90 км/ч",
+          "textOz": "90 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6353,
+          "textUz": "80 км/с",
+          "textRu": "80 км/ч",
+          "textOz": "80 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6354,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6355,
+          "textUz": "100 км/с",
+          "textRu": "100 км/ч",
+          "textOz": "100 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6353
+      ]
+    },
+    {
+      "id": 612,
+      "questionUz": "Шаҳарлараро қатнайдиган автобуснинг ҳайдовчисига аҳоли пунктларидан ташқарида тезликни 80 км/с дан оширишга рухсат этиладими?",
+      "questionRu": "Разрешается ли водителю междугородного автобуса вне населенных пунктов превышать скорость 80 км/ч?",
+      "questionOz": "Shaharlararo qatnaydigan avtobusning haydovchisiga aholi punktlaridan tashqarida tezlikni 80 km/s dan oshirishga ruxsat etiladimi?",
+      "explanationUz": "Қатновчи автобус ҳайдовчисига аҳоли пунктларидан ташқарида 80 км/соатдан юқори тезликда ҳаракатланишга рухсат этилади. Чунки бундай автобуслар учун рухсат этилган энг юқори тезлик 90 км/соатни ташкил этади.\r\n\r\nШунинг учун 80 км/соатдан оширишга рухсат этилади. Тўғри жавоб — Ҳа, рухсат этилади.",
+      "explanationRu": "Водителю маршрутного автобуса вне населённых пунктов разрешается двигаться со скоростью более 80 км/ч, поскольку для такого автобуса максимально разрешённая скорость составляет 90 км/ч.\r\n\r\nСледовательно, превышать скорость 80 км/ч разрешается. Правильный ответ — Да, разрешается.",
+      "explanationOz": "Qatnovchi avtobus haydovchisiga aholi punktlaridan tashqarida 80 km/soatdan yuqori tezlikda harakatlanishga ruxsat etiladi. Chunki bunday avtobuslar uchun ruxsat etilgan eng yuqori tezlik 90 km/soatni tashkil etadi.\r\n\r\nShuning uchun 80 km/soatdan oshirishga ruxsat etiladi. To‘g‘ri javob — Ha, ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6356,
+          "textUz": "Фақат шу йўналишда ҳаракатланиш учун икки ёки ундан ортиқ бўлак бўлган йўл бўйича ҳаракатланганда рухсат этилади",
+          "textRu": "Разрешается только при движении по дороге имеющей две и более полосы для движения в данном направлении",
+          "textOz": "Faqat shu yo'nalishda harakatlanish uchun ikki yoki undan ortiq bo'lak bo'lgan yo'l bo'yicha harakatlanganda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6357,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6358,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6357
+      ]
+    },
+    {
+      "id": 613,
+      "questionUz": "Бундай йўл белгиси билан белгиланган йўл қисмларида шаҳарлараро қатнайдиган автобусларнинг қандай энг юқори тезликда ҳаракатланишига рухсат этилади?",
+      "questionRu": "С какой максимальной скоростью разрешается движение междугородным автобусам на участках дорог обозначенных таким дорожным знаком?",
+      "questionOz": "Bunday yo'l belgisi bilan belgilangan yo'l qismlarida shaharlararo qatnaydigan avtobuslarning qanday eng yuqori tezlikda harakatlanishiga ruxsat etiladi?",
+      "explanationUz": "Ушбу йўл белгиси аҳоли пунктидан ташқаридаги йўлни билдиради. Бундай йўлларда шаҳарлараро автобуслар учун рухсат этилган энг юқори тезлик 90 км/соатни ташкил этади.\r\n\r\nШунинг учун тўғри жавоб — 90 км/соат.",
+      "explanationRu": "Этот дорожный знак обозначает дорогу вне населённого пункта. На таких дорогах для междугородних автобусов максимально разрешённая скорость составляет 90 км/ч.\r\n\r\nПоэтому правильный ответ — 90 км/ч.",
+      "explanationOz": "Ushbu yo‘l belgisi aholi punktidan tashqaridagi yo‘lni bildiradi. Bunday yo‘llarda shaharlararo avtobuslar uchun ruxsat etilgan eng yuqori tezlik 90 km/soatni tashkil etadi.\r\n\r\nShuning uchun to‘g‘ri javob — 90 km/soat.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/29.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6359,
+          "textUz": "50 км/с",
+          "textRu": "50 км/ч",
+          "textOz": "50 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6360,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6361,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6362,
+          "textUz": "80 км/с",
+          "textRu": "80 км/ч",
+          "textOz": "80 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6363,
+          "textUz": "90 км/с",
+          "textRu": "90 км/ч",
+          "textOz": "90 km/s",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6363
+      ]
+    },
+    {
+      "id": 614,
+      "questionUz": "Оғир вазнли ва катта ўлчамли юкларни ташиётган транспорт воситаларининг аҳоли яшайдиган жойлардан ташқарида қандай тезлик билан ҳаракатланишига рухсат этилади",
+      "questionRu": "С какой скоростью вне населенных пунктов разрешается движение транспортных средств, осуществляющих перевозки тяжеловесных или габаритных грузов?",
+      "questionOz": "Og'ir vaznli va katta o'lchamli yuklarni tashiyotgan transport vositalarining aholi yashaydigan joylardan tashqarida qanday tezlik bilan harakatlanishiga ruxsat etiladi",
+      "explanationUz": "Катта ўлчамли ёки оғир вазнли юкларни ташаётган транспорт воситалари аҳоли пунктларидан ташқарида ҳам, аҳоли пунктларида ҳам Давлат йўл ҳаракати хавфсизлиги хизмати томонидан ташиш шартларида белгиланган тезликдан ошмаслиги керак.\r\n\r\nШунинг учун бундай транспорт воситалари фақат рухсатнома ёки ташиш шартларида белгиланган тезликда ҳаракатланиши мумкин.",
+      "explanationRu": "Транспортные средства, перевозящие крупногабаритные или тяжеловесные грузы, как вне населённых пунктов, так и в населённых пунктах, не должны превышать скорость, установленную условиями перевозки и согласованную с Государственной службой безопасности дорожного движения.\r\n\r\nСледовательно, такие транспортные средства могут двигаться только со скоростью, указанной в разрешении или условиях перевозки.",
+      "explanationOz": "Katta o‘lchamli yoki og‘ir vaznli yuklarni tashayotgan transport vositalari aholi punktlaridan tashqarida ham, aholi punktlarida ham Davlat yo‘l harakati xavfsizligi xizmati tomonidan tashish shartlarida belgilangan tezlikdan oshmasligi kerak.\r\n\r\nShuning uchun bunday transport vositalari faqat ruxsatnomada yoki tashish shartlarida belgilangan tezlikda harakatlanishi mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6364,
+          "textUz": "40 км/соатдан оширмасдан",
+          "textRu": "Не более 40 км/час",
+          "textOz": "40 km/soatdan oshirmasdan",
+          "isCorrect": false
+        },
+        {
+          "id": 6365,
+          "textUz": "60 км/соатдан оширмасдан",
+          "textRu": "Не более 60 км/час",
+          "textOz": "60 km/soatdan oshirmasdan",
+          "isCorrect": false
+        },
+        {
+          "id": 6366,
+          "textUz": "Ташиш шартлари билан келишилганда Давлат ЙҲХ хизмати рухсат этганидан оширмасдан",
+          "textRu": "Не более предписанной ГСБДД при согласовании условий перевозки",
+          "textOz": "Tashish shartlari bilan kelishilganda Davlat YHX xizmati ruxsat etganidan oshirmasdan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6366
+      ]
+    },
+    {
+      "id": 615,
+      "questionUz": "Агар транспорт воситасида «Тезлик чекланган» таниқли белгиси ўрнатилган бўлса, бу транспорт воситасининг ҳайдовчисига:",
+      "questionRu": "Если на транспортном средстве установлен опознавательный знак «ограничения скорости», водитель транспортного средства обязан:",
+      "questionOz": "Agar transport vositasida «Tezlik cheklangan» taniqli belgisi o‘rnatilgan bo‘lsa, bu transport vositasining haydovchisiga:",
+      "explanationUz": "Агар транспорт воситасига тезлик чекловини билдирувчи таниш белгиси ўрнатилган бўлса, ҳайдовчига ушбу белгида кўрсатилган тезликдан ошиш тақиқланади.\r\n\r\nБу ерда белги деганда айнан транспорт воситасига ўрнатилган тезликни чекловчи таниш белгиси назарда тутилади.",
+      "explanationRu": "Если на транспортном средстве установлен опознавательный знак, ограничивающий максимальную скорость, водителю запрещается превышать скорость, указанную на этом знаке.\r\n\r\nВ данном случае под знаком подразумевается именно опознавательный знак ограничения максимальной скорости, установленный на транспортном средстве.",
+      "explanationOz": "Agar transport vositasiga tezlik cheklovini bildiruvchi taniqlik belgisi o‘rnatilgan bo‘lsa, haydovchiga ushbu belgida ko‘rsatilgan tezlikdan oshish taqiqlanadi.\r\n\r\nBu yerda belgi deganda aynan transport vositasiga o‘rnatilgan tezlikni cheklovchi taniqlik belgisi nazarda tutiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6367,
+          "textUz": "Белгида кўрсатилган тезликдан оширишга фақат тезлик тегишли йўл белгиси ўрнатилиб оширилган йўл қисмларида рухсат берилади",
+          "textRu": "Разрешается превышать указанную на знаке скорость только на участках дорог где скорость движения повышена установкой соответствующего дорожного знака",
+          "textOz": "Belgida ko'rsatilgan tezlikdan oshirishga faqat tezlik tegishli yo'l belgisi o'rnatilib oshirilgan yo'l qismlarida ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6368,
+          "textUz": "Белгида кўрсатилган тезликдан ошириш тақиқланади",
+          "textRu": "Запрещается превышать указанную на знаке скорость",
+          "textOz": "Belgida ko'rsatilgan tezlikdan oshirish taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6368
+      ]
+    },
+    {
+      "id": 616,
+      "questionUz": "Транспорт воситаси техник тавсифномасида кўрсатилган юқори тезликдан оширилиши мумкинми?",
+      "questionRu": "Может ли быть повышена максимальная скорость движения; определенная технической характеристикой транспортного средства?",
+      "questionOz": "Transport vositasi texnik tavsifnomasida ko'rsatilgan yuqori tezlikdan oshirilishi mumkinmi?",
+      "explanationUz": "Транспорт воситасининг техник тавсифномасида кўрсатилган максимал тезликдан ошириш мумкин эмас. Ҳайдовчи транспорт воситаси учун ишлаб чиқарувчи томонидан белгиланган максимал тезликка риоя қилиши шарт.\r\n\r\nШунинг учун тўғри жавоб — оширилиши мумкин эмас.",
+      "explanationRu": "Превышать максимальную скорость, указанную в технической характеристике транспортного средства, запрещено. Водитель обязан соблюдать максимальную скорость, установленную производителем транспортного средства.\r\n\r\nПоэтому правильный ответ — нет, превышать нельзя.",
+      "explanationOz": "Transport vositasining texnik tavsifnomasida ko‘rsatilgan maksimal tezlikdan oshirish mumkin emas. Haydovchi transport vositasi uchun ishlab chiqaruvchi tomonidan belgilangan maksimal tezlikka rioya qilishi shart.\r\n\r\nShuning uchun to‘g‘ri javob — oshirilishi mumkin emas.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6369,
+          "textUz": "Йўллардан фойдаланиш учун масъул бўлган идоралар томонидан оширилиши мумкин",
+          "textRu": "Может быть повышена органами; ответственными за эксплуатацию дорог",
+          "textOz": "Yo'llardan foydalanish uchun masul bo'lgan idoralar tomonidan oshirilishi mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 6370,
+          "textUz": "Аҳоли яшайдиган жойлардан ташқаридаги йўлларда оширилиши мумкин. Бундай йўл қисмларида «юқори тезлик чекланган» белгиси ўрнатилади",
+          "textRu": "Может быть повышена на дорогах вне населенных пунктов. На таких участках устанавливаются знаки \"Ограничение максимальной скорости\"",
+          "textOz": "Aholi yashaydigan joylardan tashqaridagi yo'llarda oshirilishi mumkin. Bunday yo'l qismlarida «юқори тезлик чекланган» belgisi o'rnatiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6371,
+          "textUz": "Оширилиши мумкин эмас",
+          "textRu": "Не может быть превышена",
+          "textOz": "Oshirilishi mumkin emas",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6371
+      ]
+    },
+    {
+      "id": 617,
+      "questionUz": "«Реакция вақти» тушунчаси нимани билдиради?",
+      "questionRu": "Что понимается под временем реакции?",
+      "questionOz": "«Reaksiya vaqti» tushunchasi nimani bildiradi?",
+      "explanationUz": "Реакция вақти — бу ҳайдовчи хавфни кўрган пайтдан бошлаб, бирор аниқ ҳаракатни амалга оширгунча ўтадиган вақт.\r\n\r\nЯъни ҳайдовчи хавфни кўргач, вазиятни баҳолайди ва қарор қабул қилади. Шундан сўнг у тормоз педалини босиши ёки рулни буриб тўсиқни айланиб ўтиши мумкин. Ана шу қарор қабул қилиш учун кетган вақт реакция вақти дейилади.\r\n\r\nЎртача реакция вақти 1 сония деб қабул қилинади. Шу вақт ичида ҳайдовчи вазиятни баҳолаб, қандай ҳаракат қилиш кераклигини танлайди.",
+      "explanationRu": "Время реакции — это время, которое проходит с момента обнаружения водителем опасности до начала выполнения конкретного действия.\r\n\r\nПосле того как водитель замечает опасность, он оценивает ситуацию и принимает решение. Затем он либо нажимает на педаль тормоза, либо поворачивает рулевое колесо, чтобы объехать препятствие, если это безопаснее. Время, затраченное на принятие этого решения, называется временем реакции.\r\n\r\nСреднее время реакции принимается равным 1 секунде. За это время водитель оценивает дорожную ситуацию и принимает решение о необходимых действиях.",
+      "explanationOz": "Reaksiya vaqti — bu haydovchi xavfni ko‘rgan paytdan boshlab, biror aniq harakatni amalga oshirguncha o‘tadigan vaqt.\r\n\r\nYa'ni haydovchi xavfni ko‘rgach, vaziyatni baholaydi va qaror qabul qiladi. Shundan so‘ng u tormoz pedalini bosishi yoki rulni burib to‘siqni aylanib o‘tishi mumkin. Ana shu qaror qabul qilish uchun ketgan vaqt reaksiya vaqti deyiladi.\r\n\r\nO‘rtacha reaksiya vaqti 1 soniya deb qabul qilinadi. Shu vaqt ichida haydovchi vaziyatni baholab, qanday harakat qilish kerakligini tanlaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6372,
+          "textUz": "Ҳайдовчи хавфни кўрган пайтдан аниқ ҳаракатларни бўлгунча ўтилган вақт",
+          "textRu": "Время с момента обнаружения водителем опасности, до начала ответных действий",
+          "textOz": "Haydovchi xavfni ko'rgan paytdan aniq harakatlarni bo'lguncha o'tilgan vaqt",
+          "isCorrect": true
+        },
+        {
+          "id": 6373,
+          "textUz": "Ҳайдовчининг тормоз беришни бошлаган пайтдан транспорт воситасининг тўла тўхтагунича вақтни",
+          "textRu": "Время с момента; когда водитель начал тормозить; до полной остановки транспортного средства",
+          "textOz": "Haydovchining tormoz berishni boshlagan paytdan transport vositasining to'la to'xtagunicha vaqtni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6372
+      ]
+    },
+    {
+      "id": 618,
+      "questionUz": "Ҳаракат тезлигини танлашда ҳайдовчига тақиқланади?",
+      "questionRu": "При выборе скорости движения водителю запрещается:",
+      "questionOz": "Harakat tezligini tanlashda haydovchiga taqiqlanadi?",
+      "explanationUz": "Демак, иккала ҳолат ҳам тақиқланади. Ҳайдовчи транспорт воситасига ўрнатилган тезликни чекловчи таниш белгисида кўрсатилган тезликдан ошмаслиги керак. Шунингдек, орқадан келаётган транспорт воситаларига хавф туғдирадиган ёки халақит берадиган тарзда кескин тормоз бериш ҳам тақиқланади, агар бунга зарурат бўлмаса.\r\n\r\nШунинг учун тўғри жавоб — иккала ҳолат ҳам тақиқланади.",
+      "explanationRu": "Следовательно, оба действия запрещены. Водитель не должен превышать скорость, указанную на опознавательном знаке ограничения скорости, установленном на транспортном средстве. Кроме того, запрещается резко тормозить, если это не связано с предотвращением дорожно-транспортного происшествия и может создать помеху или опасность для других участников движения.\r\n\r\nПоэтому правильный ответ — оба действия запрещены.",
+      "explanationOz": "Demak, ikkala holat ham taqiqlanadi. Haydovchi transport vositasiga o‘rnatilgan tezlikni cheklovchi taniqlik belgisida ko‘rsatilgan tezlikdan oshmasligi kerak. Shuningdek, orqadan kelayotgan transport vositalariga xavf tug‘diradigan yoki xalaqit beradigan tarzda keskin tormoz berish ham taqiqlanadi, agar bunga zarurat bo‘lmasa.\r\n\r\nShuning uchun to‘g‘ri javob — ikkala holat ham taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6374,
+          "textUz": "Ушбу қоидаларга мувофиқ равишда транспорт воситасига ўрнатилган таниқли белгида кўрсатилган тезликдан ошириш",
+          "textRu": "Превышать скорость, указанную на опознавательном знаке, установленном на транспортном средстве в соответствии с настоящими Правилами",
+          "textOz": "Ushbu qoidalarga muvofiq ravishda transport vositasiga o'rnatilgan taniqli belgida ko'rsatilgan tezlikdan oshirish",
+          "isCorrect": false
+        },
+        {
+          "id": 6375,
+          "textUz": "Кескин тормоз бериш, агар бу ҳаракатланиш хавфсизлигини таъминлаш учун талаб қилинмаса",
+          "textRu": "Резко тормозить, если это не требуется для обеспечения безопасности движения",
+          "textOz": "Keskin tormoz berish, agar bu harakatlanish xavfsizligini taminlash uchun talab qilinmasa",
+          "isCorrect": false
+        },
+        {
+          "id": 6376,
+          "textUz": "Иккала санаб ўтилган ҳаракат тақиқланади",
+          "textRu": "Запрещаются оба перечисленных действия",
+          "textOz": "Ikkala sanab o'tilgan harakat taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6376
+      ]
+    },
+    {
+      "id": 619,
+      "questionUz": "Эгилувчан улагичда шатакка олинганда қандай юқори тезлик билан ҳаракатланишга рухсат этилган?",
+      "questionRu": "С какой максимальной скоростью разрешено движение при буксировке на гибкой сцепке?",
+      "questionOz": "Egiluvchan ulagichda shatakka olinganda qanday yuqori tezlik bilan harakatlanishga ruxsat etilgan?",
+      "explanationUz": "Шатакка олиш вақтида рухсат этилган энг юқори тезлик 50 км/соатни ташкил этади. Бу қоида шатакловчи ҳам, шатакка олинаётган транспорт воситаси учун ҳам амал қилади.\r\n\r\nШунинг учун тўғри жавоб — 50 км/соат.",
+      "explanationRu": "При буксировке транспортного средства максимально разрешённая скорость составляет 50 км/ч. Это правило распространяется как на буксирующее, так и на буксируемое транспортное средство.\r\n\r\nПоэтому правильный ответ — 50 км/ч.",
+      "explanationOz": "Shatakka olish vaqtida ruxsat etilgan eng yuqori tezlik 50 km/soatni tashkil etadi. Bu qoida shataklovchi ham, shatakka olinayotgan transport vositasi uchun ham amal qiladi.\r\n\r\nShuning uchun to‘g‘ri javob — 50 km/soat.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6377,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6378,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6379,
+          "textUz": "50 км/с",
+          "textRu": "50 км/ч",
+          "textOz": "50 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6380,
+          "textUz": "40 км/с",
+          "textRu": "40 км/ч",
+          "textOz": "40 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6381,
+          "textUz": "30 км/с",
+          "textRu": "30 км/ч",
+          "textOz": "30 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6379
+      ]
+    },
+    {
+      "id": 620,
+      "questionUz": "108 км/с тезликда ҳаракатланаётган транспорт воситаси 1 секундда қанча масофани босиб ўтади?",
+      "questionRu": "Какое расстояние проедет транспортное средство за одну секунду при скорости движения 108 км/ч?",
+      "questionOz": "108 km/s tezlikda harakatlanayotgan transport vositasi 1 sekundda qancha masofani bosib o'tadi?",
+      "explanationUz": "108 км/соат тезликда ҳаракатланаётган транспорт воситаси 1 сонияда 30 метр масофани босиб ўтади.\r\n\r\nБунинг осон ҳисоблаш усули — тезликни 3,6 га бўлиш. Натижада транспорт воситасининг 1 сонияда босиб ўтадиган масофаси (метрда) аниқланади.\r\n\r\nМасалан: 108 ÷ 3,6 = 30 метр.\r\n\r\nШунинг учун тўғри жавоб — 30 метр.",
+      "explanationRu": "Транспортное средство, движущееся со скоростью 108 км/ч, проходит 30 метров за 1 секунду.\r\n\r\nЧтобы быстро определить расстояние, пройденное за одну секунду, скорость в км/ч нужно разделить на 3,6.\r\n\r\nНапример: 108 ÷ 3,6 = 30 метров.\r\n\r\nСледовательно, правильный ответ — 30 метров.",
+      "explanationOz": "108 km/soat tezlikda harakatlanayotgan transport vositasi 1 soniyada 30 metr masofani bosib o‘tadi.\r\n\r\nBuni oson hisoblash usuli: tezlikni 3,6 ga bo‘lish kerak. Natijada transport vositasining 1 soniyada bosib o‘tadigan masofasi (metrda) aniqlanadi.\r\n\r\nMasalan: 108 ÷ 3,6 = 30 metr.\r\n\r\nShuning uchun to‘g‘ri javob — 30 metr.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6385,
+          "textUz": "15 м",
+          "textRu": "15 м",
+          "textOz": "15 m",
+          "isCorrect": false
+        },
+        {
+          "id": 6386,
+          "textUz": "25 м",
+          "textRu": "25 м",
+          "textOz": "25 m",
+          "isCorrect": false
+        },
+        {
+          "id": 6387,
+          "textUz": "30 м",
+          "textRu": "30 м",
+          "textOz": "30 m",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6387
+      ]
+    },
+    {
+      "id": 621,
+      "questionUz": "72 км/соат тезликда ҳаракатланаётган транспорт воситаси 1 секундда қанча масофани босиб ўтади?",
+      "questionRu": "Какое расстояние проедет транспортное средство за одну секунду при скорости движения 72 км/ч?",
+      "questionOz": "72 km/soat tezlikda harakatlanayotgan transport vositasi 1 sekundda qancha masofani bosib o'tadi?",
+      "explanationUz": "72 км/соат тезликда ҳаракатланаётган транспорт воситаси 1 сонияда 20 метр масофани босиб ўтади.\r\n\r\nБунинг учун тезликни 3,6 га бўлиш керак:\r\n\r\n72 ÷ 3,6 = 20 метр.\r\n\r\nШунинг учун тўғри жавоб — 20 метр.",
+      "explanationRu": "Транспортное средство, движущееся со скоростью 72 км/ч, проходит 20 метров за 1 секунду.\r\n\r\nДля расчёта необходимо разделить скорость на 3,6:\r\n\r\n72 ÷ 3,6 = 20 метров.\r\n\r\nПоэтому правильный ответ — 20 метров.",
+      "explanationOz": "72 km/soat tezlikda harakatlanayotgan transport vositasi 1 soniyada 20 metr masofani bosib o‘tadi.\r\n\r\nBuni hisoblash uchun tezlikni 3,6 ga bo‘lish kifoya:\r\n\r\n72 ÷ 3,6 = 20 metr.\r\n\r\nShuning uchun to‘g‘ri javob — 20 metr.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6388,
+          "textUz": "15 м",
+          "textRu": "15 м",
+          "textOz": "15 m",
+          "isCorrect": false
+        },
+        {
+          "id": 6389,
+          "textUz": "20 м",
+          "textRu": "20 м",
+          "textOz": "20 m",
+          "isCorrect": true
+        },
+        {
+          "id": 6390,
+          "textUz": "25 м",
+          "textRu": "25 м",
+          "textOz": "25 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6389
+      ]
+    },
+    {
+      "id": 622,
+      "questionUz": "Аҳоли пунктларидан ташқарида тиркамали юк автомобиллари қандай юқори тезлик билан ҳаракатланиши мумкин?",
+      "questionRu": "С какой скоростью могут двигаться грузовые автомобили с прицепом вне населённых пунктов?",
+      "questionOz": "Aholi punktlaridan tashqarida tirkamali yuk avtomobillari qanday yuqori tezlik bilan harakatlanishi mumkin?",
+      "explanationUz": "Тиркамали юк автомобиллари учун рухсат этилган энг юқори тезлик 70 км/соатни ташкил этади.\r\n\r\nШунинг учун тўғри жавоб — 70 км/соат.",
+      "explanationRu": "Для грузовых автомобилей с прицепом максимально разрешённая скорость составляет 70 км/ч.\r\n\r\nПоэтому правильный ответ — 70 км/ч.",
+      "explanationOz": "Tirkamali yuk avtomobillari uchun ruxsat etilgan eng yuqori tezlik 70 km/soatni tashkil etadi.\r\n\r\nShuning uchun to‘g‘ri javob — 70 km/soat.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6530,
+          "textUz": "80 км/с",
+          "textRu": "80 км/ч",
+          "textOz": "80 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6531,
+          "textUz": "70 км/с",
+          "textRu": "70 км/ч",
+          "textOz": "70 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 6532,
+          "textUz": "90 км/с",
+          "textRu": "90 км/ч",
+          "textOz": "90 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 6533,
+          "textUz": "60 км/с",
+          "textRu": "60 км/ч",
+          "textOz": "60 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6531
+      ]
+    }
+  ]
+}

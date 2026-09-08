@@ -1,0 +1,788 @@
+{
+  "title": "Bilet 25",
+  "count": 20,
+  "questions": [
+    {
+      "id": 483,
+      "questionUz": "Қўл билан бериладиган огоҳлантирувчи ишора қоидаларга мувофиқ қачон тугалланиши мумкин?",
+      "questionRu": "Когда в соответствии с Правилами может быть закончена подача предупредительного сигнала рукой?",
+      "questionOz": "Qo'l bilan beriladigan ogohlantiruvchi ishora qoidalarga muvofiq qachon tugallanishi mumkin?",
+      "explanationUz": "Қўл билан бериладиган огоҳлантирувчи ишора манёврни бажаришдан олдин берилиши керак.\r\n\r\nМотоцикл ҳайдовчиси ишорани бир қўли билан беради, сўнгра рулни икки қўллаб ушлаб манёврни бажаради.\r\n\r\nШунинг учун қўл ишораси:\r\n- манёврни бажаришдан олдин берилади;\r\n- манёврни бажариш вақтида берилмайди;\r\n- манёвр тугагандан кейин ҳам берилмайди.\r\n\r\nБурилиш кўрсаткич чироқлари эса бошқача қўлланилади. Улар манёвр тугагач дарҳол ўчириб қўйилади.\r\n\r\nДемак, қўл билан бериладиган огоҳлантирувчи ишора манёврни бошлашдан олдин тугалланиши керак.",
+      "explanationRu": "Предупредительный сигнал рукой должен подаваться до начала выполнения манёвра.\r\n\r\nВодитель мотоцикла подаёт сигнал одной рукой, после чего берётся за руль обеими руками и выполняет манёвр.\r\n\r\nПоэтому сигнал рукой:\r\n- подаётся до начала манёвра;\r\n- не подаётся во время выполнения манёвра;\r\n- не подаётся после завершения манёвра.\r\n\r\nУказатели поворота используются иначе: их выключают сразу после завершения манёвра.\r\n\r\nСледовательно, предупреждающий сигнал рукой должен быть завершён до начала выполнения манёвра.",
+      "explanationOz": "Qoʻl bilan beriladigan ogohlantiruvchi ishora manyovrni bajarishdan oldin berilishi kerak.\r\n\r\nMototsikl haydovchisi ishorani bir qoʻli bilan beradi, soʻngra rulni ikki qoʻllab ushlab manyovrni bajaradi.\r\n\r\nShuning uchun qoʻl ishorasi:\r\n- manyovrni bajarishdan oldin beriladi;\r\n- manyovrni bajarish vaqtida berilmaydi;\r\n- manyovr tugagandan keyin ham berilmaydi.\r\n\r\nBurilish ko‘rsatkich chiroqlari esa boshqacha qoʻllaniladi. Ular manyovr tugagach darhol o‘chirib qoʻyiladi.\r\n\r\nDemak, qoʻl bilan beriladigan ogohlantiruvchi ishora manyovrni boshlashdan oldin tugallanishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5889,
+          "textUz": "Манёврни бевосита бажаришдан олдин",
+          "textRu": "Непосредственно перед выполнением маневра",
+          "textOz": "Manyovrni bevosita bajarishdan oldin",
+          "isCorrect": true
+        },
+        {
+          "id": 5890,
+          "textUz": "Манёвр тугагандан сўнг зудлик билан",
+          "textRu": "Немедленно после завершения маневра",
+          "textOz": "Manyovr tugagandan so'ng zudlik bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 5891,
+          "textUz": "Манёвр бажараётган вақтда",
+          "textRu": "Во время выполнения маневра",
+          "textOz": "Manyovr bajarayotgan vaqtda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5889
+      ]
+    },
+    {
+      "id": 484,
+      "questionUz": "Манёвр вақтида ҳайдовчи хар доим огохлантирувчи ишораси бериши керакми?",
+      "questionRu": "Должен ли водитель всегда включать и выключать фары в качестве предупредительного сигнала во время маневра?",
+      "questionOz": "Manyovr vaqtida haydovchi xar doim ogoxlantiruvchi ishorasi berishi kerakmi?",
+      "explanationUz": "Бурилиш кўрсаткичларини олдиндан ёқиш бошқа ҳаракат иштирокчиларини чалғитмаслиги керак.\r\n\r\nМасалан, ҳайдовчи чорраҳада ўнгга бурилмоқчи бўлса, лекин чорраҳадан олдин ёнилғи қуйиш шохобчаси ёки ёндош ҳудуд мавжуд бўлса, бурилиш кўрсаткичини жуда эрта ёқиб қўйиш бошқа ҳайдовчиларни чалғитиши мумкин.\r\n\r\nУлар ҳайдовчи ёнилғи қуйиш шохобчасига ёки ёндош ҳудудга кирмоқчи деб ўйлаб, ҳаракатни бошлашлари мумкин. Бу эса хавфли вазиятни юзага келтиради.\r\n\r\nШунинг учун бурилиш кўрсаткичлари бошқа ҳаракат иштирокчиларини чалғитмайдиган вақтда ёқилиши керак.\r\n\r\nДемак, ҳайдовчи ҳар доим эмас, балки бошқа иштирокчиларни чалғитмайдиган ҳолатларда огоҳлантирувчи ишорани бериши керак.",
+      "explanationRu": "Сигнал поворота не должен вводить в заблуждение других участников дорожного движения.\r\n\r\nНапример, если водитель собирается повернуть направо на перекрёстке, но перед перекрёстком находится автозаправочная станция или прилегающая территория, слишком раннее включение указателя поворота может ввести других водителей в заблуждение.\r\n\r\nОни могут подумать, что водитель собирается заехать на заправку или на прилегающую территорию, и начать движение, создав опасную ситуацию.\r\n\r\nПоэтому указатель поворота необходимо включать так, чтобы не вводить в заблуждение других участников дорожного движения.\r\n\r\nСледовательно, предупреждающий сигнал подаётся не всегда заранее, а только в том случае, если он не вводит других участников движения в заблуждение.",
+      "explanationOz": "Burilish ko‘rsatkichlarini oldindan yoqish boshqa harakat ishtirokchilarini chalg‘itmasligi kerak.\r\n\r\nMasalan, haydovchi chorrahada o‘ngga burilmoqchi bo‘lsa, lekin chorrahadan oldin yonilg‘i quyish shoxobchasi yoki yondosh hudud mavjud bo‘lsa, burilish ko‘rsatkichini juda erta yoqib qo‘yish boshqa haydovchilarni chalg‘itishi mumkin.\r\n\r\nUlar haydovchi yonilg‘i quyish shoxobchasiga yoki yondosh hududga kirmoqchi deb o‘ylab, harakatni boshlashlari mumkin. Bu esa xavfli vaziyatni yuzaga keltiradi.\r\n\r\nShuning uchun burilish ko‘rsatkichlari boshqa harakat ishtirokchilarini chalg‘itmaydigan vaqtda yoqilishi kerak.\r\n\r\nDemak, haydovchi har doim emas, balki boshqa ishtirokchilarni chalg‘itmaydigan holatlarda ogohlantiruvchi ishorani berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5892,
+          "textUz": "Фақат агар унинг орқасида бошқа транспорт воситаси ҳаракатланаётган ҳолда",
+          "textRu": "Только в случае если за ним движется другое транспортное средство",
+          "textOz": "Faqat agar uning orqasida boshqa transport vositasi harakatlanayotgan holda",
+          "isCorrect": false
+        },
+        {
+          "id": 5893,
+          "textUz": "Фақат агар унинг транспорт воситаси бурилишини кўрсатувчи чироқлар билан жиҳозланган ҳолда",
+          "textRu": "Только в случае если его транспортное средство имеет указатели поворотов",
+          "textOz": "Faqat agar uning transport vositasi burilishini ko'rsatuvchi chiroqlar bilan jihozlangan holda",
+          "isCorrect": false
+        },
+        {
+          "id": 5894,
+          "textUz": "Фақат серқатнов ҳаракатли йўлда",
+          "textRu": "Только на дороге с интенсивным движением",
+          "textOz": "Faqat serqatnov harakatli yo'lda",
+          "isCorrect": false
+        },
+        {
+          "id": 5895,
+          "textUz": "Фақат у ҳаракатнинг бошқа иштирокчиларини чалғитмаган ҳолларда",
+          "textRu": "Сигнал не подается в случаях когда он может ввести в заблуждение других участников движения",
+          "textOz": "Faqat u harakatning boshqa ishtirokchilarini chalg'itmagan hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5895
+      ]
+    },
+    {
+      "id": 485,
+      "questionUz": "Ҳайдовчи тўхташ олдидан огоҳлатирувчи ишора беришга қачон мажбур?",
+      "questionRu": "В каких случаях водитель обязан включать предупредительный сигнал перед остановкой?",
+      "questionOz": "Haydovchi to'xtash oldidan ogohlatiruvchi ishora berishga qachon majbur?",
+      "explanationUz": "Огоҳлантирувчи ишора бошқа йўл ҳаракати иштирокчиларини чалғитмаслиги керак.\r\n\r\nМасалан, ҳайдовчи чорраҳада ўнгга бурилмоқчи бўлса, лекин чорраҳадан олдин ёндош ҳудуд ёки ёнилғи қуйиш шохобчаси бўлса, бурилиш чироғини жуда эрта ёқиб қўйиш бошқа ҳайдовчиларни чалғитиши мумкин.\r\n\r\nБошқа ҳайдовчилар: «Бу автомобил ёнилғи қуйиш шохобчасига ёки ёндош ҳудудга кирмоқчи экан», деб ўйлаб, ҳаракатни бошлашлари мумкин. Натижада хавфли вазият юзага келади.\r\n\r\nШунинг учун бурилиш кўрсаткичини ҳар доим ҳам олдиндан ёқиш шарт эмас. У бошқа ҳаракат иштирокчиларини чалғитмайдиган вақтда берилиши керак.\r\n\r\nДемак, тўғри жавоб — огоҳлантирувчи ишора бошқа иштирокчиларни чалғитмайдиган ҳолатда берилиши керак (F4).",
+      "explanationRu": "Предупредительный сигнал не должен вводить в заблуждение других участников дорожного движения.\r\n\r\nНапример, если водитель собирается повернуть направо на перекрёстке, но перед перекрёстком находится прилегающая территория или автозаправочная станция, слишком раннее включение указателя поворота может ввести других водителей в заблуждение.\r\n\r\nДругие водители могут подумать, что автомобиль собирается заехать на заправку или на прилегающую территорию, и начать движение, создав опасную ситуацию.\r\n\r\nПоэтому указатель поворота не всегда нужно включать заранее. Его следует подавать только тогда, когда он не вводит в заблуждение других участников дорожного движения.\r\n\r\nСледовательно, правильный ответ — предупреждающий сигнал должен подаваться так, чтобы не вводить других участников движения в заблуждение (F4).",
+      "explanationOz": "Ogohlantiruvchi ishora boshqa yoʻl harakati ishtirokchilarini chalgʻitmasligi kerak.\r\n\r\nMasalan, haydovchi chorrahada oʻngga burilmoqchi boʻlsa, lekin chorrahadan oldin yondosh hudud yoki yonilgʻi quyish shoxobchasi boʻlsa, burilish chirogʻini juda erta yoqib qoʻyish boshqa haydovchilarni chalgʻitishi mumkin.\r\n\r\nBoshqa haydovchilar: «Bu avtomobil yonilgʻi quyish shoxobchasiga yoki yondosh hududga kirmoqchi ekan», deb oʻylab, harakatni boshlashlari mumkin. Natijada xavfli vaziyat yuzaga keladi.\r\n\r\nShuning uchun burilish ko‘rsatkichini har doim ham oldindan yoqish shart emas. U boshqa harakat ishtirokchilarini chalgʻitmaydigan vaqtda berilishi kerak.\r\n\r\nDemak, toʻgʻri javob — ogohlantiruvchi ishora boshqa ishtirokchilarni chalgʻitmaydigan holatda berilishi kerak (F4).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5899,
+          "textUz": "Фақат шу ҳолдаки, агар унинг орқасидан бошқа транспорт воситаси ҳаракат қилса",
+          "textRu": "Только в случае, если сзади него движется другое транспортное средство",
+          "textOz": "Faqat shu holdaki, agar uning orqasidan boshqa transport vositasi harakat qilsa",
+          "isCorrect": false
+        },
+        {
+          "id": 5900,
+          "textUz": "Фақат аҳоли пунктларида",
+          "textRu": "Только в населенных пунктах",
+          "textOz": "Faqat aholi punktlarida",
+          "isCorrect": false
+        },
+        {
+          "id": 5901,
+          "textUz": "Барча ҳолларда",
+          "textRu": "Во всех случаях",
+          "textOz": "Barcha hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5901
+      ]
+    },
+    {
+      "id": 486,
+      "questionUz": "Қайта тизилиш олдидан огоҳлантирувчи ишора қачон берилиши керак?",
+      "questionRu": "Когда должен быть подан предупредительный сигнал перед перестроением?",
+      "questionOz": "Qayta tizilish oldidan ogohlantiruvchi ishora qachon berilishi kerak?",
+      "explanationUz": "Қайта тизилишдан олдин огоҳлантирувчи ишора бериш мажбурий ҳисобланади.\r\n\r\nҲайдовчи манёврни бошлашдан олдинроқ бурилиш кўрсаткичини ёқиши керак.\r\n\r\nМанёвр тугагандан сўнг эса огоҳлантирувчи ишора дарҳол ўчириб қўйилиши лозим.\r\n\r\nДемак, тўғри қоида — ишора манёврни бошлашдан олдин берилади ва манёвр тугагач дарҳол ўчирилади.",
+      "explanationRu": "Перед перестроением подача предупредительного сигнала является обязательной.\r\n\r\nВодитель должен включить указатель поворота заранее, до начала выполнения манёвра.\r\n\r\nПосле завершения манёвра сигнал необходимо немедленно выключить.\r\n\r\nСледовательно, правильное правило — сигнал подаётся до начала манёвра и выключается сразу после его завершения.",
+      "explanationOz": "Qayta tizilishdan oldin ogohlantiruvchi ishora berish majburiy hisoblanadi.\r\n\r\nHaydovchi manyovrni boshlashdan oldinroq burilish ko‘rsatkichini yoqishi kerak.\r\n\r\nManyovr tugagandan so‘ng esa ogohlantiruvchi ishora darhol o‘chirib qo‘yilishi lozim.\r\n\r\nDemak, to‘g‘ri qoida — ishora manyovrni boshlashdan oldin beriladi va manyovr tugagach darhol o‘chiriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5902,
+          "textUz": "Бевосита манёврни бажаришни бошлаш олдидан",
+          "textRu": "Непосредственно перед началом выполнения маневра",
+          "textOz": "Bevosita manyovrni bajarishni boshlash oldidan",
+          "isCorrect": false
+        },
+        {
+          "id": 5903,
+          "textUz": "Манёврни бажаришни бошлагандан сўнг зудлик билан",
+          "textRu": "Сразу после начала выполнения маневра",
+          "textOz": "Manyovrni bajarishni boshlagandan so'ng zudlik bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 5904,
+          "textUz": "Манёврни бажаришни бошламасидан олдинроқ",
+          "textRu": "Заблаговременно до н��чала выполнения маневра",
+          "textOz": "Manyovrni bajarishni boshlamasidan oldinroq",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5904
+      ]
+    },
+    {
+      "id": 487,
+      "questionUz": "Аҳоли пунктларида «Фалокат» тўхташ белгиси ёки милтилловчи қизил чироқ механик транспорт воситасидан камида қандай масофада қўйилиши керак?",
+      "questionRu": "Каким должен быть знак остановки «авария» или мигающий красный свет в жилом районе; по крайней мере; на расстоянии от автомобиля (кроме мотоцикла без бокового прицепа)?",
+      "questionOz": "Aholi punktlarida «Falokat» to'xtash belgisi yoki miltillovchi qizil chiroq mexanik transport vositasidan kamida qanday masofada qo'yilishi kerak?",
+      "explanationUz": "Ҳалокат тўхташ белгиси аҳоли пунктларида транспорт воситасидан камида 15 метр масофада ўрнатилиши керак.\r\n\r\nДемак, аҳоли пунктларида ҳалокат тўхташ белгиси 15 метр узоқликда қўйилади.",
+      "explanationRu": "Знак аварийной остановки в населённых пунктах должен быть установлен на расстоянии не менее 15 метров от транспортного средства.\r\n\r\nСледовательно, в населённых пунктах знак аварийной остановки устанавливается на расстоянии 15 метров.",
+      "explanationOz": "Halokat to‘xtash belgisi aholi punktlarida transport vositasidan kamida 15 metr masofada o‘rnatilishi kerak.\r\n\r\nDemak, aholi punktlarida halokat to‘xtash belgisi 15 metr uzoqlikda qo‘yiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5905,
+          "textUz": "10 м",
+          "textRu": "10 м",
+          "textOz": "10 m",
+          "isCorrect": false
+        },
+        {
+          "id": 5906,
+          "textUz": "15 м",
+          "textRu": "15 м",
+          "textOz": "15 m",
+          "isCorrect": true
+        },
+        {
+          "id": 5907,
+          "textUz": "30 м",
+          "textRu": "30 м",
+          "textOz": "30 m",
+          "isCorrect": false
+        },
+        {
+          "id": 5908,
+          "textUz": "40 м",
+          "textRu": "40 м",
+          "textOz": "40 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5906
+      ]
+    },
+    {
+      "id": 488,
+      "questionUz": "«Фалокат» ёруғлик ишоралари ёқилиши керак:",
+      "questionRu": "Аварийная световая сигнализация должна быть включена:",
+      "questionOz": "«Falokat» yorug'lik ishoralari yoqilishi kerak:",
+      "explanationUz": "Авария ёруғлик ишоралари (видеороликда кўрсатилган ҳолатлар) барча санаб ўтилган ҳолларда ёқилиши керак.\r\n\r\nАгар жавоб вариантларида бир нечта ҳолатлар келтирилган бўлса ва уларнинг барчасида авария ишорасини ёқиш талаб этилса, тўғри жавоб — «барча санаб ўтилган ҳолларда» бўлади.",
+      "explanationRu": "Аварийная световая сигнализация должна включаться во всех перечисленных случаях.\r\n\r\nЕсли в вариантах ответа перечислены несколько ситуаций, и во всех них требуется включение аварийной сигнализации, правильный ответ — «во всех перечисленных случаях».",
+      "explanationOz": "Avariya yorugʻlik ishoralari (videorolikda ko‘rsatilgan holatlar) barcha sanab o‘tilgan hollarda yoqilishi kerak.\r\n\r\nAgar javob variantlarida bir nechta holatlar keltirilgan bo‘lsa va ularning barchasida avariya ishorasini yoqish talab etilsa, to‘g‘ri javob — «barcha sanab o‘tilgan hollarda» bo‘ladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5909,
+          "textUz": "Тўхташ тақиқланган жойларда мажбурий тўхтаганда",
+          "textRu": "При вынужденной остановке в местах; где остановка запрещена",
+          "textOz": "To'xtash taqiqlangan joylarda majburiy to'xtaganda",
+          "isCorrect": false
+        },
+        {
+          "id": 5910,
+          "textUz": "Йўл-транcпорт ҳодисаси рўй берганда",
+          "textRu": "При дорожно-транспортном происшествии",
+          "textOz": "Yo'l-trancport hodisasi ro'y berganda",
+          "isCorrect": false
+        },
+        {
+          "id": 5911,
+          "textUz": "Йўлнинг ёритилмаган қисмларида тўхтаганда ва тўхтаб турганда ёки кўриниш етарли бўлмаган шароитда габарит ёки тўхтаб туриш чироқлари носоз бўлганда",
+          "textRu": "При остановке и стоянке на неосвещенных участках дорог или в условиях недостаточной видимости при неисправных габаритных или стояночных огнях",
+          "textOz": "Yo'lning yoritilmagan qismlarida to'xtaganda va to'xtab turganda yoki ko'rinish etarli bo'lmagan sharoitda gabarit yoki to'xtab turish chiroqlari nosoz bo'lganda",
+          "isCorrect": false
+        },
+        {
+          "id": 5912,
+          "textUz": "Санаб ўтилган барча ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Sanab o'tilgan barcha hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5912
+      ]
+    },
+    {
+      "id": 489,
+      "questionUz": "Қайси расмда ҳайдовчи чапга бурилиш ҳақида огоҳлантириш ишорасини бермоқда?",
+      "questionRu": "На каком рисунке водитель подает сигнал предупреждения о повороте налево?",
+      "questionOz": "Qaysi rasmda haydovchi chapga burilish haqida ogohlantirish ishorasini bermoqda?",
+      "explanationUz": "Чапга бурилиш ишораси чап қўлни ён томонга узатиш орқали берилади.\r\n\r\nШунинг учун биринчи расмда чапга бурилиш ишораси тўғри кўрсатилган.\r\n\r\nДемак, тўғри жавоб — биринчи расм.",
+      "explanationRu": "Сигнал поворота налево подаётся вытянутой в сторону левой рукой.\r\n\r\nПоэтому на первом рисунке сигнал поворота налево показан правильно.\r\n\r\nСледовательно, правильный ответ — первый рисунок.",
+      "explanationOz": "Chapga burilish ishorasi chap qoʻlni yon tomonga uzatish orqali beriladi.\r\n\r\nShuning uchun birinchi rasmda chapga burilish ishorasi toʻgʻri koʻrsatilgan.\r\n\r\nDemak, toʻgʻri javob — birinchi rasm.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/35.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5913,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": true
+        },
+        {
+          "id": 5914,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 5915,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5913
+      ]
+    },
+    {
+      "id": 490,
+      "questionUz": "Қандай ҳолларда аҳоли пунктларида товуш мосламаларидан фойдаланишга рухсат этилади?",
+      "questionRu": "В каких случаях разрешено применять звуковые сигналы в населённых пунктах?",
+      "questionOz": "Qanday hollarda aholi punktlarida tovush moslamalaridan foydalanishga ruxsat etiladi?",
+      "explanationUz": "Аҳоли пунктларида товуш мосламаларидан (сигналидан) фақат йўл-транспорт ҳодисасининг олдини олиш мақсадида фойдаланишга рухсат этилади.\r\n\r\nДемак, аҳоли пунктларида товуш ишораси фақат хавфнинг олдини олиш учун берилади.",
+      "explanationRu": "В населённых пунктах звуковой сигнал разрешается подавать только для предотвращения дорожно-транспортного происшествия.\r\n\r\nСледовательно, в населённых пунктах звуковой сигнал подаётся только для предотвращения опасности.",
+      "explanationOz": "Aholi punktlarida tovush moslamalaridan (signalidan) faqat yoʻl-transport hodisasining oldini olish maqsadida foydalanishga ruxsat etiladi.\r\n\r\nDemak, aholi punktlarida tovush ishorasi faqat xavfning oldini olish uchun beriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5916,
+          "textUz": "Қувиб ўтишда огоҳлантириш учун",
+          "textRu": "Только для предупреждения о намерение произвести обгон",
+          "textOz": "Quvib o'tishda ogohlantirish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 5917,
+          "textUz": "Йўл-транспорт ҳодисасининг олдини олиш учун",
+          "textRu": "Только для предотвращения дорожно-транспортного происшествия",
+          "textOz": "Yo'l-transport hodisasining oldini olish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 5918,
+          "textUz": "Ҳар иккала санаб ўтилган ҳолларда",
+          "textRu": "В обоих перечисленных случаях",
+          "textOz": "Har ikkala sanab o'tilgan hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5917
+      ]
+    },
+    {
+      "id": 491,
+      "questionUz": "Кўрсатилган белгилардан қайси бири йўлнинг кўриниш масофаси чекланган жойларда мажбуран тўхтаган транспорт воситаларини белгилаш учун қўлланилади?",
+      "questionRu": "Какой знак используется для обозначения транспортного средства при вынужденной остановке в местах, где с учетом условий видимости оно не может быть  своевременно замечено другими водителями?",
+      "questionOz": "Ko'rsatilgan belgilardan qaysi biri yo'lning ko'rinish masofasi cheklangan joylarda majburan to'xtagan transport vositalarini belgilash uchun qo'llaniladi?",
+      "explanationUz": "Савол: Йўлнинг кўриниш масофаси чекланган жойларда мажбурий тўхтаган транспорт воситасини белгилаш учун қайси белги қўлланилади?\r\n\r\nТўғри жавоб — ҳалокат тўхташ белгиси.\r\n\r\nУшбу белги мажбурий тўхтаб қолган транспорт воситасини бошқа ҳайдовчиларга олдиндан огоҳлантириш учун қўлланилади.\r\n\r\nДемак, тўғри жавоб — авария (ҳалокат) тўхташ белгиси.",
+      "explanationRu": "Вопрос: Какой знак применяется для обозначения транспортного средства, вынужденно остановившегося в месте с ограниченной видимостью?\r\n\r\nПравильный ответ — знак аварийной остановки.\r\n\r\nЭтот знак используется для предупреждения других водителей о вынужденной остановке транспортного средства.\r\n\r\nСледовательно, правильный ответ — знак аварийной остановки.",
+      "explanationOz": "Savol: Yoʻlning koʻrinish masofasi cheklangan joylarda majburiy toʻxtagan transport vositasini belgilash uchun qaysi belgi qoʻllaniladi?\r\n\r\nToʻgʻri javob — halokat toʻxtash belgisi.\r\n\r\nUshbu belgi majburiy toʻxtab qolgan transport vositasini boshqa haydovchilarga oldindan ogohlantirish uchun qoʻllaniladi.\r\n\r\nDemak, toʻgʻri javob — avariya (halokat) toʻxtash belgisi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5919,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": true
+        },
+        {
+          "id": 5920,
+          "textUz": "«Б»",
+          "textRu": "«Б»",
+          "textOz": "«Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 5921,
+          "textUz": "«В»",
+          "textRu": "«В»",
+          "textOz": "«В»",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5919
+      ]
+    },
+    {
+      "id": 492,
+      "questionUz": "Куннинг ёруғ вақтида аҳоли пунктларида қувиб ўтилаётган транспорт воситаси ҳайдовчисининг эътиборини жалб қилиш учун мумкин:",
+      "questionRu": "Привлечь внимание водителя обгоняемого автомобиля при движении в населенном пункте в светлое время суток можно:",
+      "questionOz": "Kunning yorug' vaqtida aholi punktlarida quvib o'tilayotgan transport vositasi haydovchisining etiborini jalb qilish uchun mumkin:",
+      "explanationUz": "Куннинг ёруғ вақтида аҳоли пунктларида қувиб ўтилаётган транспорт воситаси ҳайдовчисининг эътиборини жалб қилиш учун товуш сигналидан фойдаланилмайди.\r\n\r\nБундай ҳолатда ҳайдовчи фақат фаралар билан ишора беради, яъни:\r\n- яқин ёритувчи чироқларни;\r\n- ёки узоқни ёритувчи чироқларни қисқа муддатга ёқиб-ўчириш орқали сигнал беради.\r\n\r\nДемак, тўғри жавоб — яқин ёки узоқни ёритувчи чироқларни қисқа муддатга ёқиб-ўчириш билан ишора берилади (F2).",
+      "explanationRu": "В светлое время суток в населённых пунктах для привлечения внимания водителя обгоняемого транспортного средства звуковой сигнал не применяется.\r\n\r\nВ такой ситуации водитель подаёт сигнал только светом фар:\r\n- кратковременным переключением ближнего света;\r\n- или кратковременным переключением дальнего света.\r\n\r\nСледовательно, правильный ответ — подача сигнала кратковременным переключением ближнего или дальнего света фар (F2).",
+      "explanationOz": "Kunning yorugʻ vaqtida aholi punktlarida quvib oʻtilayotgan transport vositasi haydovchisining eʼtiborini jalb qilish uchun tovush signalidan foydalanilmaydi.\r\n\r\nBunday holatda haydovchi faqat faralar bilan ishora beradi, yaʼni:\r\n- yaqin yorituvchi chiroqlarni;\r\n- yoki uzoqni yorituvchi chiroqlarni qisqa muddatga yoqib-oʻchirish orqali signal beradi.\r\n\r\nDemak, toʻgʻri javob — yaqin yoki uzoqni yorituvchi chiroqlarni qisqa muddatga yoqib-oʻchirish bilan ishora beriladi (F2).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5922,
+          "textUz": "Товуш сигналидан фойдаланиш",
+          "textRu": "Только звуковым сигналом",
+          "textOz": "Tovush signalidan foydalanish",
+          "isCorrect": false
+        },
+        {
+          "id": 5923,
+          "textUz": "Фақат яқинни ёритувчи чироқни узоқни ёритувчи чироққа қисқа муддат орасида ўтказиш билан ишора бериш",
+          "textRu": "Только кратковременным переключением фар ближнего света на дальний",
+          "textOz": "Faqat yaqinni yorituvchi chiroqni uzoqni yorituvchi chiroqqa qisqa muddat orasida o'tkazish bilan ishora berish",
+          "isCorrect": true
+        },
+        {
+          "id": 5924,
+          "textUz": "Фақат биргаликда ёруғлик ишоралари билан бирга товуш сигналларини қўллаш",
+          "textRu": "Только совместной подачей звукового и светового сигнала",
+          "textOz": "Faqat birgalikda yorug'lik ishoralari bilan birga tovush signallarini qo'llash",
+          "isCorrect": false
+        },
+        {
+          "id": 5925,
+          "textUz": "Санаб ўтилганларнинг барчасидан фойдаланиш",
+          "textRu": "Любые из перечисленных способов",
+          "textOz": "Sanab o'tilganlarning barchasidan foydalanish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5923
+      ]
+    },
+    {
+      "id": 493,
+      "questionUz": "Қайси  ҳолатда сиз мажбурий тўхташни амалга оширасиз?",
+      "questionRu": "В каком случае Вы совершите вынужденную остановку?",
+      "questionOz": "Qaysi  holatda siz majburiy to'xtashni amalga oshirasiz?",
+      "explanationUz": "Мажбурий тўхташ — транспорт воситаси техник носозлик, хавф ёки бошқа сабаб туфайли ҳайдовчининг хоҳишидан ташқари йўлнинг қатнов қисмида тўхтаб қолишидир.\r\n\r\nМасалан, автомобил техник носозлик сабабли йўлнинг қатнов қисмида тўхтаб қолса, бу мажбурий тўхташ ҳисобланади.\r\n\r\nДемак, транспорт воситаси техник носозлик туфайли йўлда тўхтаб қолса, ҳайдовчи мажбурий тўхташни амалга оширган ҳисобланади.",
+      "explanationRu": "Вынужденная остановка — это прекращение движения транспортного средства из-за технической неисправности, опасности или других причин, не зависящих от воли водителя.\r\n\r\nНапример, если автомобиль остановился на проезжей части из-за технической неисправности, это считается вынужденной остановкой.\r\n\r\nСледовательно, если транспортное средство остановилось из-за технической неисправности, водитель совершил вынужденную остановку.",
+      "explanationOz": "Majburiy toʻxtash — transport vositasi texnik nosozlik, xavf yoki boshqa sabab tufayli haydovchining xohishidan tashqari yoʻlning qatnov qismida toʻxtab qolishidir.\r\n\r\nMasalan, avtomobil texnik nosozlik sababli yoʻlning qatnov qismida toʻxtab qolsa, bu majburiy toʻxtash hisoblanadi.\r\n\r\nDemak, transport vositasi texnik nosozlik tufayli yoʻlda toʻxtab qolsa, haydovchi majburiy toʻxtashni amalga oshirgan hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5926,
+          "textUz": "Пиёдалар ўтиш жойи  олдида  пиёдаларга  йўл бериш учун тўхтаб",
+          "textRu": "Остановившись непосредственно перед пешеходным переходом, чтобы уступить дорогу пешеходу.",
+          "textOz": "Piyodalar o'tish joyi  oldida  piyodalarga  yo'l berish uchun to'xtab",
+          "isCorrect": false
+        },
+        {
+          "id": 5927,
+          "textUz": "Техник носозлик  туфайли йўлнинг ҳаракат қисмида.",
+          "textRu": "Остановившись на проезжей части из-за технической неисправности автомобиля",
+          "textOz": "Texnik nosozlik  tufayli yo'lning harakat qismida.",
+          "isCorrect": true
+        },
+        {
+          "id": 5928,
+          "textUz": "Ҳар икки  санаб ўтилган  ҳолда",
+          "textRu": "В обоих перечисленных случаях",
+          "textOz": "Har ikki  sanab o'tilgan  holda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5927
+      ]
+    },
+    {
+      "id": 494,
+      "questionUz": "Куннинг ёруғ вақтида  аҳоли пунктларидан ташқарида  Сиз қувиб ўтаётган  транспорт воситаси  ҳайдовчисининг  эътиборини қандай жалб қиласиз?",
+      "questionRu": "Как Вы можете в светлое время суток привлечь внимание водителя обгоняемого автомобиля при движении вне населенного пункта?",
+      "questionOz": "Kunning yorug' vaqtida  aholi punktlaridan tashqarida  Siz quvib o'tayotgan  transport vositasi  haydovchisining  etiborini qanday jalb qilasiz?",
+      "explanationUz": "Аҳоли пунктларидан ташқарида қувиб ўтаётган транспорт воситаси ҳайдовчисининг эътиборини жалб қилиш учун:\r\n\r\n- товуш ишорасини бериш;\r\n- ёки фараларни қисқа муддатга ёқиб-ўчириш орқали сигнал бериш мумкин.\r\n\r\nДемак, ҳайдовчи кўрсатилган иккала усулдан ҳам фойдаланиши мумкин.\r\n\r\nТўғри жавоб — кўрсатилган иккала ҳолатда ҳам ишора беришга рухсат этилади.",
+      "explanationRu": "Вне населённых пунктов для привлечения внимания водителя обгоняемого транспортного средства можно:\r\n\r\n- подать звуковой сигнал;\r\n- или подать сигнал кратковременным переключением света фар.\r\n\r\nСледовательно, водитель может использовать оба способа.\r\n\r\nПравильный ответ — разрешается использовать оба указанных способа.",
+      "explanationOz": "Aholi punktlaridan tashqarida quvib oʻtayotgan transport vositasi haydovchisining eʼtiborini jalb qilish uchun:\r\n\r\n- tovush ishorasini berish;\r\n- yoki faralarni qisqa muddatga yoqib-oʻchirish orqali signal berish mumkin.\r\n\r\nDemak, haydovchi ko‘rsatilgan ikkala usuldan ham foydalanishi mumkin.\r\n\r\nToʻgʻri javob — ko‘rsatilgan ikkala holatda ham ishora berishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5929,
+          "textUz": "Фақат  товуш ишораси билан",
+          "textRu": "Только звуковым сигналом",
+          "textOz": "Faqat  tovush ishorasi bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 5930,
+          "textUz": "Фақат ёруғлик фараларини қисқа-қисқа ёқиб ўчириш билан",
+          "textRu": "Только кратковременным переключением фар с ближнего света на дальний",
+          "textOz": "Faqat yorug'lik faralarini qisqa-qisqa yoqib o'chirish bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 5931,
+          "textUz": "Санаб ўтилган барча усул  билан ва уларни бирга қўллаш билан",
+          "textRu": "Любым из перечисленных способов, включая совместную подачу этих сигналов",
+          "textOz": "Sanab o'tilgan barcha usul  bilan va ularni birga qo'llash bilan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5931
+      ]
+    },
+    {
+      "id": 495,
+      "questionUz": "Куннинг ёруғ вақтида аҳоли пунктларидан ташқарида Сиз қувиб ўтаётган  транспорт воситаси  ҳайдовчисининг  эътиборини қандай жалб қиласиз?",
+      "questionRu": "Как Вы можете в светлое время суток привлечь внимание водителя обгоняемого автомобиля при движении вне населенного пункта?",
+      "questionOz": "Kunning yorug' vaqtida aholi punktlaridan tashqarida Siz quvib o'tayotgan  transport vositasi  haydovchisining  etiborini qanday jalb qilasiz?",
+      "explanationUz": "Аҳоли пунктларидан ташқарида қувиб ўтаётган транспорт воситаси ҳайдовчисининг эътиборини жалб қилиш учун:\r\n\r\n- товуш ишорасини бериш;\r\n- ёки фараларни қисқа муддатга ёқиб-ўчириш орқали сигнал бериш мумкин.\r\n\r\nДемак, ҳайдовчи кўрсатилган иккала усулдан ҳам фойдаланиши мумкин.\r\n\r\nТўғри жавоб — кўрсатилган иккала ҳолатда ҳам ишора беришга рухсат этилади.",
+      "explanationRu": "Вне населённых пунктов для привлечения внимания водителя обгоняемого транспортного средства можно:\r\n\r\n- подать звуковой сигнал;\r\n- или подать сигнал кратковременным переключением света фар.\r\n\r\nСледовательно, водитель может использовать оба способа.\r\n\r\nПравильный ответ — разрешается использовать оба указанных способа.",
+      "explanationOz": "Aholi punktlaridan tashqarida quvib oʻtayotgan transport vositasi haydovchisining eʼtiborini jalb qilish uchun:\r\n\r\n- tovush ishorasini berish;\r\n- yoki faralarni qisqa muddatga yoqib-oʻchirish orqali signal berish mumkin.\r\n\r\nDemak, haydovchi ko‘rsatilgan ikkala usuldan ham foydalanishi mumkin.\r\n\r\nToʻgʻri javob — ko‘rsatilgan ikkala holatda ham ishora berishga ruxsat etiladi.Haydovchi harakat tezligini uning ko'rish maydoniga tushgan narsalarning harakat tezligi bilan aniqlaydi. Uzoq vaqt mobaynida monoton harakatlanganda tezlik haqiqiysidan pastroq seziladi. Bunday holatlarda tezlikni nazorat qilish uchun odatdagidan ko'proq tezlikni o'lchash moslamasi (spidometr)dan foydalaning.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5932,
+          "textUz": "Фақат товушли ишораларни қўллаб",
+          "textRu": "Только звуковым сигналом",
+          "textOz": "Faqat tovushli ishoralarni qo'llab",
+          "isCorrect": false
+        },
+        {
+          "id": 5933,
+          "textUz": "Фақат чироқларни ёқиб-ўчириш билан",
+          "textRu": "Только кратковременным переключением фар с ближнего света на дальний",
+          "textOz": "Faqat chiroqlarni yoqib-o'chirish bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 5934,
+          "textUz": "Санаб ўтилган барча усул  билан ва уларни биргаликда қўллаш билан",
+          "textRu": "Любым из перечисленных способов, включая совместную подачу этих сигналов",
+          "textOz": "Sanab o'tilgan barcha usul  bilan va ularni birgalikda qo'llash bilan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5934
+      ]
+    },
+    {
+      "id": 496,
+      "questionUz": "Бурилиш кўрсаткичи билан берилаётган огоҳлантирувчи ишора  қачон тўхтатилиши керак?",
+      "questionRu": "Когда должна быть прекращена подача сигнала указателями поворота?",
+      "questionOz": "Burilish ko'rsatkichi bilan berilayotgan ogohlantiruvchi ishora  qachon to'xtatilishi kerak?",
+      "explanationUz": "Огоҳлантирувчи ишора (бурилиш кўрсаткичлари) манёвр тугагандан сўнг дарҳол ўчирилиши керак.\r\n\r\nЧунки бурилишни ёки бошқа манёврни бажариб бўлгач, сигнални ёқиб қолдириш бошқа йўл ҳаракати иштирокчиларини чалғитиши мумкин.\r\n\r\nДемак, тўғри қоида — огоҳлантирувчи ишора манёвр тугагандан сўнг дарҳол ўчирилади.",
+      "explanationRu": "Предупредительный сигнал (указатель поворота) должен быть выключен сразу после завершения манёвра.\r\n\r\nПоскольку оставленный включённым сигнал может ввести в заблуждение других участников дорожного движения.\r\n\r\nСледовательно, правильное правило — указатель поворота выключается сразу после завершения манёвра.",
+      "explanationOz": "Ogohlantiruvchi ishora (burilish ko‘rsatkichlari) manyovr tugagandan so‘ng darhol o‘chirilishi kerak.\r\n\r\nChunki burilishni yoki boshqa manyovrni bajarib bo‘lgach, signalni yoqib qoldirish boshqa yo‘l harakati ishtirokchilarini chalg‘itishi mumkin.\r\n\r\nDemak, to‘g‘ri qoida — ogohlantiruvchi ishora manyovr tugagandan so‘ng darhol o‘chiriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5935,
+          "textUz": "Маневр бажаришдан олдин",
+          "textRu": "Непосредственно перед началом маневра",
+          "textOz": "Manevr bajarishdan oldin",
+          "isCorrect": false
+        },
+        {
+          "id": 5936,
+          "textUz": "Маневр бажаргандан сўнг дарҳол",
+          "textRu": "Сразу же после завершения маневра",
+          "textOz": "Manevr bajargandan so'ng darhol",
+          "isCorrect": true
+        },
+        {
+          "id": 5937,
+          "textUz": "Маневр бажараётганда",
+          "textRu": "В процессе выполнения маневра",
+          "textOz": "Manevr bajarayotganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5936
+      ]
+    },
+    {
+      "id": 497,
+      "questionUz": "Чап қўлни ёнга чўзиш ёки ўнг қўлни тирсакдан тўғри бурчак остида букиб, юқорига кўтариш ишораси нимани билдиради?",
+      "questionRu": "Что означает жест вытяг��вания левой руки в сторону или поднятия правой руки вверх, согнутой в локте под прямым углом?",
+      "questionOz": "Chap qo'lni yonga cho'zish yoki o'ng qo'lni tirsakdan to'g'ri burchak ostida bukib, yuqoriga ko'tarish ishorasi nimani bildiradi?",
+      "explanationUz": "Чап қўлни ён томонга чўзиш чапга бурилиш ёки чапга қайрилиб олиш ишорасини билдиради.\r\n\r\nДемак, чап қўлни ёнга чўзиш — чапга бурилиш ишораси ҳисобланади.",
+      "explanationRu": "Вытянутая в сторону левая рука обозначает сигнал поворота налево или разворота.\r\n\r\nСледовательно, вытянутая левая рука — это сигнал поворота налево.",
+      "explanationOz": "Chap qoʻlni yon tomonga choʻzish chapga burilish yoki chapga qayrilib olish ishorasini bildiradi.\r\n\r\nDemak, chap qoʻlni yonga choʻzish — chapga burilish ishorasi hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5938,
+          "textUz": "Чапга бурилишни ёки қайрилиб олишни",
+          "textRu": "Повернуть налево или развернуться.",
+          "textOz": "Chapga burilishni yoki qayrilib olishni",
+          "isCorrect": true
+        },
+        {
+          "id": 5939,
+          "textUz": "Ўнгга бурилиш ёки қайрилиб олишни",
+          "textRu": "Повернуть направо или развернуться.",
+          "textOz": "O'ngga burilish yoki qayrilib olishni",
+          "isCorrect": false
+        },
+        {
+          "id": 5940,
+          "textUz": "Тўхташни",
+          "textRu": "Остановиться.",
+          "textOz": "To'xtashni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5938
+      ]
+    },
+    {
+      "id": 498,
+      "questionUz": "Мотоцикл ҳайдовчиси қўлини юқорига кўтариб нима ҳақида ахборот бераяпти?",
+      "questionRu": "Поднятая вверх рука водителя мотоцикла является сигналом, информирующим Вас о его намерении:",
+      "questionOz": "Motosikl haydovchisi qo'lini yuqoriga ko'tarib nima haqida axborot berayapti?",
+      "explanationUz": "Қўлни юқорига кўтариш тўхташ ишорасини билдиради.\r\n\r\nБу ишора ҳайдовчининг тезликни камайтириши ва тўхташ ниятида эканлиги ҳақида бошқа йўл ҳаракати иштирокчиларини огоҳлантиради.\r\n\r\nДемак, қўлни юқорига кўтариш — тўхташ ҳақида ахборот беради.",
+      "explanationRu": "Поднятая вверх рука обозначает сигнал остановки.\r\n\r\nЭтот сигнал предупреждает других участников дорожного движения о намерении водителя снизить скорость и остановиться.\r\n\r\nСледовательно, поднятая вверх рука информирует об остановке.",
+      "explanationOz": "Qoʻlni yuqoriga koʻtarish toʻxtash ishorasini bildiradi.\r\n\r\nBu ishora haydovchining tezlikni kamaytirishi va toʻxtash niyatida ekanligi haqida boshqa yoʻl harakati ishtirokchilarini ogohlantiradi.\r\n\r\nDemak, qoʻlni yuqoriga koʻtarish — toʻxtash haqida axborot beradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5941,
+          "textUz": "Ҳаракатни давом эттириш ҳақида",
+          "textRu": "Продолжить движение прямо",
+          "textOz": "Harakatni davom ettirish haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 5942,
+          "textUz": "Ўнга бурилмоқчи эканлиги ҳақида",
+          "textRu": "Повернуть направо",
+          "textOz": "O'nga burilmoqchi ekanligi haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 5943,
+          "textUz": "Тўхташ ҳақида",
+          "textRu": "Об остановке",
+          "textOz": "To'xtash haqida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5943
+      ]
+    },
+    {
+      "id": 499,
+      "questionUz": "Қайси ҳолатларда аҳоли пунктларида товушли ишоралардан фойдаланиш мумкин?",
+      "questionRu": "В каких случаях разрешено применять звуковые сигналы в населенных пунктах?",
+      "questionOz": "Qaysi holatlarda aholi punktlarida tovushli ishoralardan foydalanish mumkin?",
+      "explanationUz": "Аҳоли пунктларида товушли ишора фақат йўл-транспорт ҳодисасининг олдини олиш мақсадида берилиши мумкин.\r\n\r\nБошқа ҳолларда товуш сигналидан фойдаланишга рухсат этилмайди.\r\n\r\nДемак, аҳоли пунктларида товушли ишора фақат хавфнинг олдини олиш учун қўлланилади.",
+      "explanationRu": "В населённых пунктах звуковой сигнал разрешается подавать только для предотвращения дорожно-транспортного происшествия.\r\n\r\nВ других случаях использование звукового сигнала не допускается.\r\n\r\nСледовательно, в населённых пунктах звуковой сигнал применяется только для предотвращения опасности.",
+      "explanationOz": "Aholi punktlarida tovushli ishora faqat yoʻl-transport hodisasining oldini olish maqsadida berilishi mumkin.\r\n\r\nBoshqa hollarda tovush signalidan foydalanishga ruxsat etilmaydi.\r\n\r\nDemak, aholi punktlarida tovushli ishora faqat xavfning oldini olish uchun qoʻllaniladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5944,
+          "textUz": "Фақат зарур бўлган ҳолларда йўл-транспорт ҳодисасининг олдини олиш учун",
+          "textRu": "Только для предотвращения дорожно-транспортного происшествия",
+          "textOz": "Faqat zarur bo'lgan hollarda yo'l-transport hodisasining oldini olish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 5945,
+          "textUz": "Фақат бошқа ҳайдовчиларни қувиб ўтиш ҳақида огоҳлантириш учун",
+          "textRu": "Только для предупреждения о намерении произвести обгон",
+          "textOz": "Faqat boshqa haydovchilarni quvib o'tish haqida ogohlantirish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 5946,
+          "textUz": "Барча жавобларда кўрсатилган ҳолатларда",
+          "textRu": "В обоих перечисленных случаях",
+          "textOz": "Barcha javoblarda ko'rsatilgan holatlarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5944
+      ]
+    },
+    {
+      "id": 500,
+      "questionUz": "Ҳайдовчи ҳаракатланишни бошлашидан олдин қандай амалларни бажариши керак?",
+      "questionRu": "Что обязан выполнить водитель перед началом движения?",
+      "questionOz": "Haydovchi harakatlanishni boshlashidan oldin qanday amallarni bajarishi kerak?",
+      "explanationUz": "Ҳаракатланишни бошлашдан олдин ҳайдовчи ҳаракат хавфсиз эканлигига ва бошқа йўл ҳаракати иштирокчиларига халақит бермаслигига ишонч ҳосил қилиши керак.\r\n\r\nБу саволда кўпчилик «санаб ўтилган барчаси» деб хато жавоб беради.\r\n\r\nЭслаб қолинг: «ҳаракатланишни бошлаш» — бу тўхтаб турган транспорт воситасининг ҳаракатни бошлаши дегани. Ҳайдовчи бир кун давомида бир неча марта ҳаракатни бошлаши мумкин.\r\n\r\nҲар сафар ҳаракатни бошлашдан олдин транспорт воситасининг техник ҳолатини тўлиқ текшириш шарт эмас.\r\n\r\nБиринчи навбатда ҳайдовчи:\r\n- ҳаракат хавфсиз эканлигига;\r\n- бошқа иштирокчиларга халақит бермаслигига ишонч ҳосил қилиши керак.\r\n\r\nШундан кейингина огоҳлантирувчи ишорани бериб, ҳаракатни бошлайди.\r\n\r\nДемак, тўғри жавоб — ҳаракатни бошлаш хавфсиз эканлигига ва бошқа иштирокчиларга халақит бермаслигига ишонч ҳосил қилиш керак (F2).",
+      "explanationRu": "Перед началом движения водитель должен убедиться в безопасности манёвра и в том, что он не создаст помех другим участникам дорожного движения.\r\n\r\nВ этом вопросе многие ошибочно выбирают ответ «всё перечисленное».\r\n\r\nЗапомните: «начало движения» — это начало движения транспортного средства, которое до этого стояло.\r\n\r\nКаждый раз перед началом движения водитель не обязан полностью проверять техническое состояние автомобиля.\r\n\r\nПрежде всего водитель должен:\r\n- убедиться в безопасности начала движения;\r\n- убедиться, что не создаст помех другим участникам дорожного движения.\r\n\r\nТолько после этого он подаёт предупредительный сигнал и начинает движение.\r\n\r\nСледовательно, правильный ответ — убедиться в безопасности начала движения и отсутствии помех для других участников дорожного движения (F2).",
+      "explanationOz": "Harakatlanishni boshlashdan oldin haydovchi harakat xavfsiz ekanligiga va boshqa yoʻl harakati ishtirokchilariga xalaqit bermasligiga ishonch hosil qilishi kerak.\r\n\r\nBu savolda ko‘pchilik «sanab o‘tilgan barchasi» deb xato javob beradi.\r\n\r\nEslab qoling: «harakatlanishni boshlash» — bu to‘xtab turgan transport vositasining harakatni boshlashi degani. Haydovchi bir kun davomida bir necha marta harakatni boshlashi mumkin.\r\n\r\nHar safar harakatni boshlashdan oldin transport vositasining texnik holatini to‘liq tekshirish shart emas.\r\n\r\nBirinchi navbatda haydovchi:\r\n- harakat xavfsiz ekanligiga;\r\n- boshqa ishtirokchilarga xalaqit bermasligiga ishonch hosil qilishi kerak.\r\n\r\nShundan keyingina ogohlantiruvchi ishorani berib, harakatni boshlaydi.\r\n\r\nDemak, toʻgʻri javob — harakatni boshlash xavfsiz ekanligiga va boshqa ishtirokchilarga xalaqit bermasligiga ishonch hosil qilish kerak (F2).",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5947,
+          "textUz": "Транспорт воситасининг созлигини ва тўла жихозланганлигини текшириши",
+          "textRu": "Проверить исправность и комплектность транспортного средства",
+          "textOz": "Transport vositasining sozligini va to'la jixozlanganligini tekshirishi",
+          "isCorrect": false
+        },
+        {
+          "id": 5948,
+          "textUz": "Ҳаракатланиш бошланиши ҳавфсиз бўлишига ва ҳаракатнинг бошқа иштирокчиларига ҳалақит бермаслигига ишонч ҳосил қилиши керак",
+          "textRu": "Убедиться, что начало движения будет безопасным и он не создаст помех другим участникам движения",
+          "textOz": "Harakatlanish boshlanishi havfsiz bo'lishiga va harakatning boshqa ishtirokchilariga halaqit bermasligiga ishonch hosil qilishi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 5949,
+          "textUz": "Тегишли йўналишдаги бурилишнинг ёруғлик кўрсаткичи билан ишора бериши",
+          "textRu": "Подать сигнал световым указателем поворота соответствующего направления",
+          "textOz": "Tegishli yo'nalishdagi burilishning yorug'lik ko'rsatkichi bilan ishora berishi",
+          "isCorrect": false
+        },
+        {
+          "id": 5950,
+          "textUz": "Санаб ўтилган ҳамма ҳаракатларни бажариши",
+          "textRu": "Выполнить все перечисленные действия",
+          "textOz": "Sanab o'tilgan hamma harakatlarni bajarishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5948
+      ]
+    },
+    {
+      "id": 501,
+      "questionUz": "Транспорт воситасини орқага ҳаракатлантириш пайтида ҳайдовчи қандай талабларни бажариши керак?",
+      "questionRu": "Что должен выполнять водитель при движении транспортного средства задним ходом?",
+      "questionOz": "Transport vositasini orqaga harakatlantirish paytida haydovchi qanday talablarni bajarishi kerak?",
+      "explanationUz": "Ҳаракатни бошлаш пайтида ҳайдовчи қуйидаги талабларни бажариши керак:\r\n\r\n- бошқа йўл ҳаракати иштирокчиларига халақит бермаслиги;\r\n- ҳаракатнинг хавфсизлигини таъминлаши;\r\n- зарур бўлса, ҳаракат хавфсизлигини таъминлаш учун бошқа шахсларнинг ёрдамидан фойдаланиши керак.\r\n\r\nДемак, ҳаракатни бошлашда асосий талаб — бошқа иштирокчиларга халақит бермаслик ва ҳаракат хавфсизлигини таъминлашдир.",
+      "explanationRu": "При начале движения водитель ��олжен выполнять следующие требования:\r\n\r\n- не создавать помех другим участникам дорожного движения;\r\n- обеспечить безопасность движения;\r\n- при необходимости воспользоваться помощью других лиц для обеспечения безопасности движения.\r\n\r\nСледовательно, основное требование при начале движения — не создавать помех другим участникам и обеспечить безопасность движения.",
+      "explanationOz": "Harakatni boshlash paytida haydovchi quyidagi talablarni bajarishi kerak:\r\n\r\n- boshqa yoʻl harakati ishtirokchilariga xalaqit bermasligi;\r\n- harakatning xavfsizligini taʼminlashi;\r\n- zarur boʻlsa, harakat xavfsizligini taʼminlash uchun boshqa shaxslarning yordamidan foydalanishi kerak.\r\n\r\nDemak, harakatni boshlashda asosiy talab — boshqa ishtirokchilarga xalaqit bermaslik va harakat xavfsizligini taʼminlashdir.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5951,
+          "textUz": "Ҳаракатнинг бошқа иштирокчиларига ҳалақит бермаслик. Ҳаракат ҳавфсизлигини таъминлаш учун зарур бўлса, бошқа шахслар ёрдамидан фойдаланиш",
+          "textRu": "Не создавать помех другим участникам движения. Для обеспечения безопасности движения он, при необходимости, должен прибегнуть к помощи других лиц",
+          "textOz": "Harakatning boshqa ishtirokchilariga halaqit bermaslik. Harakat havfsizligini taminlash uchun zarur bo'lsa, boshqa shaxslar yordamidan foydalanish",
+          "isCorrect": true
+        },
+        {
+          "id": 5952,
+          "textUz": "Бошқа шахслар ёрдамидан фойдаланиш",
+          "textRu": "Использовать с помощью других лиц",
+          "textOz": "Boshqa shaxslar yordamidan foydalanish",
+          "isCorrect": false
+        },
+        {
+          "id": 5953,
+          "textUz": "Транспорт воситасида туманга қарши чироқлар бўлса, уларни ёқиш",
+          "textRu": "Включить задние противотуманные фонари, если они имеются на транспортном средстве",
+          "textOz": "Transport vositasida tumanga qarshi chiroqlar bo'lsa, ularni yoqish",
+          "isCorrect": false
+        },
+        {
+          "id": 5954,
+          "textUz": "Габарит чироқларини ёқиш",
+          "textRu": "Включить габаритные огни",
+          "textOz": "Gabarit chiroqlarini yoqish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5951
+      ]
+    },
+    {
+      "id": 502,
+      "questionUz": "Чорраҳада айланма ҳаракатланиш ташқил қилинган. Сиз яқинлашиб келаётган чорраҳанинг қатнов қисми иккита ҳаракат бўлагига эга. Чорраҳага киришда бурилиш учун сиз қайси бўлакни эгаллашингиз лозим?",
+      "questionRu": "На перекрестке организовано круговое движение. Проезжая часть, по которой вы подъезжаете к перекрестку, имеет две полосы для движения. Какую полосу Вы обязаны занять для поворота при въезде на перекресток?",
+      "questionOz": "Chorrahada aylanma harakatlanish tashqil qilingan. Siz yaqinlashib kelayotgan chorrahaning qatnov qismi ikkita harakat bo'lagiga ega. Chorrahaga kirishda burilish uchun Siz qaysi bo'lakni egallashingiz lozim?",
+      "explanationUz": "Айланма чорраҳага киришда ҳайдовчи йўл ҳолатига қараб ўнг ёки чап бўлакни эгаллаши мумкин.\r\n\r\nЛекин айланма чорраҳадан чиқишда ҳайдовчи фақат ўнг бўлакни эгаллаган ҳолда чиқиши керак.\r\n\r\nДемак:\r\n- айланма чорраҳага киришда — ўнг ёки чап бўлакни эгаллаш мумкин;\r\n- айланма чорраҳадан чиқишда — фақат ўнг бўлакдан чиқилади.",
+      "explanationRu": "При въезде на перекрёсток с круговым движением водитель может занять правую или левую полосу в зависимости от дорожной ситуации.\r\n\r\nОднако при выезде с перекрёстка с круговым движением водитель должен выезжать только с правой полосы.\r\n\r\nСледовательно:\r\n- при въезде на круг можно занять правую или левую полосу;\r\n- выезд с круга осуществляется только с правой полосы.",
+      "explanationOz": "Aylanma chorrahaga kirishda haydovchi yoʻl holatiga qarab oʻng yoki chap bo‘lakni egallashi mumkin.\r\n\r\nLekin aylanma chorrahadan chiqishda haydovchi faqat oʻng bo‘lakni egallagan holda chiqishi kerak.\r\n\r\nDemak:\r\n- aylanma chorrahaga kirishda — oʻng yoki chap bo‘lakni egallash mumkin;\r\n- aylanma chorrahadan chiqishda — faqat oʻng bo‘lakdan chiqiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5955,
+          "textUz": "Ўнг бўлакни",
+          "textRu": "Правую полосу",
+          "textOz": "O'ng bo'lakni",
+          "isCorrect": false
+        },
+        {
+          "id": 5956,
+          "textUz": "Чап бўлакни",
+          "textRu": "Левую полосу",
+          "textOz": "Chap bo'lakni",
+          "isCorrect": false
+        },
+        {
+          "id": 5957,
+          "textUz": "Ўнг ёки чап бўлакни",
+          "textRu": "Правую или левую полосу",
+          "textOz": "O'ng yoki chap bo'lakni",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5957
+      ]
+    }
+  ]
+}

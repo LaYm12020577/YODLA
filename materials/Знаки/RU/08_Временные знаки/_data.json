@@ -1,0 +1,156 @@
+{
+  "category": "Временные знаки",
+  "count": 25,
+  "signs": [
+    {
+      "number": "1.8",
+      "description": "«Светофорное регулирование»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.8-min.png",
+      "imageFile": "1.8.png"
+    },
+    {
+      "number": "1.15",
+      "description": "«Скользкая дорога»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.15-min.png",
+      "imageFile": "1.15.png"
+    },
+    {
+      "number": "1.16",
+      "description": "«Неровная дорога»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.16-min.png",
+      "imageFile": "1.16.png"
+    },
+    {
+      "number": "1.17",
+      "description": "«Выброс гравия»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.17-min.png",
+      "imageFile": "1.17.png"
+    },
+    {
+      "number": "1.18.1",
+      "description": "«Сужение дороги»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.1-min.png",
+      "imageFile": "1.18.1.png"
+    },
+    {
+      "number": "1.18.2",
+      "description": "«Сужение дороги»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.2-min.png",
+      "imageFile": "1.18.2.png"
+    },
+    {
+      "number": "1.18.3",
+      "description": "«Сужение дороги»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.3-min.png",
+      "imageFile": "1.18.3.png"
+    },
+    {
+      "number": "1.23",
+      "description": "«Дорожные работы»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.23-min.png",
+      "imageFile": "1.23.png"
+    },
+    {
+      "number": "1.30",
+      "description": "«Прочие опасности»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.30-min.png",
+      "imageFile": "1.30.png"
+    },
+    {
+      "number": "2.6",
+      "description": "«Преимущество встречного движения»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/2.6-min.png",
+      "imageFile": "2.6.png"
+    },
+    {
+      "number": "2.7",
+      "description": "«Преимущество перед встречным движением»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/5874.jpg.webp",
+      "imageFile": "2.7.webp"
+    },
+    {
+      "number": "3.1",
+      "description": "«Въезд запрещен»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/2356.png.webp",
+      "imageFile": "3.1.webp"
+    },
+    {
+      "number": "3.2",
+      "description": "«Движение запрещено»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/7547.png.webp",
+      "imageFile": "3.2.webp"
+    },
+    {
+      "number": "3.11",
+      "description": "«Ограничение массы»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.11-min.png",
+      "imageFile": "3.11.png"
+    },
+    {
+      "number": "3.12",
+      "description": "«Ограничение нагрузки на ось»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.12-min.png",
+      "imageFile": "3.12.png"
+    },
+    {
+      "number": "3.13",
+      "description": "«Ограничение высоты»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.13-min.png",
+      "imageFile": "3.13.png"
+    },
+    {
+      "number": "3.14",
+      "description": "«Ограничение ширины»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.14-min.png",
+      "imageFile": "3.14.png"
+    },
+    {
+      "number": "3.15",
+      "description": "«Ограничение длины»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.15-min.png",
+      "imageFile": "3.15.png"
+    },
+    {
+      "number": "3.16",
+      "description": "«Ограничение минимальной дистанции»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.16-min.png",
+      "imageFile": "3.16.png"
+    },
+    {
+      "number": "3.18.1",
+      "description": "«Поворот направо запрещен»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.18.1-min.png",
+      "imageFile": "3.18.1.png"
+    },
+    {
+      "number": "3.18.2",
+      "description": "«Поворот налево запрещен»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.18.2-min.png",
+      "imageFile": "3.18.2.png"
+    },
+    {
+      "number": "3.19",
+      "description": "«Разворот запрещен»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.19-min.png",
+      "imageFile": "3.19.png"
+    },
+    {
+      "number": "3.20",
+      "description": "«Обгон запрещен»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.20-min.png",
+      "imageFile": "3.20.png"
+    },
+    {
+      "number": "3.22",
+      "description": "«Обгон грузовым автомобилям запрещен»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.22-min.png",
+      "imageFile": "3.22.png"
+    },
+    {
+      "number": "3.24",
+      "description": "«Ограничение максимальной скорости»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.24-min.png",
+      "imageFile": "3.24.png"
+    }
+  ]
+}

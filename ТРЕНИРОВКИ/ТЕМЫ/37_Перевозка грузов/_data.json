@@ -1,0 +1,705 @@
+{
+  "title": "37. Перевозка грузов (боб 27)",
+  "count": 17,
+  "questions": [
+    {
+      "id": 1017,
+      "questionUz": "Юк транспорт воситасига шундай жойлаштирилиши керакки, у:",
+      "questionRu": "Груз должен быть размещен на транспортном средстве таким образом, чтобы он:",
+      "questionOz": "Yuk transport vositasiga shunday joylashtirilishi kerakki, u:",
+      "explanationUz": "Қуйидаги шартларга амал қилинганда юк ташишга йўл қўйилади: шовқин солмаса, чанг кўтармаса, йўлни ва атроф-муҳитни ифлос қилмаса, юк мажбурий тартибда брезент ёки бошқа қалин материал билан ёпилган бўлса.",
+      "explanationRu": "Перевозка груза допускается при условии, что груз: не создает шум, не пылит, не загрязняет дорогу и окружающую среду, в обязательном порядке накрыт брезентом или другим плотным материалом.",
+      "explanationOz": "Quyidagi shartlarga amal qilinganda yuk tashishga yo'l qo'yiladi: shovqin solmasa, chang ko'tarmasa, yo'lni va atrof-muhitni iflos qilmasa, yuk majburiy tartibda brezent yoki boshqa qalin material bilan yopilgan bo'lsa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3336,
+          "textUz": "Юкхона деворларидан баланд чиқмаслиги керак",
+          "textRu": "Не располагался выше уровня бортов",
+          "textOz": "Yukxona devorlaridan baland chiqmasligi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 3337,
+          "textUz": "Шовқин ҳосил қилмаслиги, чанг кўтармаслиги ва атроф-мухитни ифлос қилмаслиги керак",
+          "textRu": "Не производил шума, не поднимал пыль и не засорял окружающую среду",
+          "textOz": "Shovqin hosil qilmasligi, chang ko'tarmasligi va atrof-muxitni iflos qilmasligi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 3338,
+          "textUz": "Транспорт воситасининг орқа ўлчамидан 0,8 м. дан ортиқ чиқиб турмаслиги керак",
+          "textRu": "Не выступал за габариты транспортного средства сзади более, чем на 0,8 м от крайнего заднего размера транспортного средства",
+          "textOz": "Transport vositasining orqa o'lchamidan 0,8 m. dan ortiq chiqib turmasligi kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3337
+      ]
+    },
+    {
+      "id": 1018,
+      "questionUz": "Бир тиркамали автопоезднинг қандай энг катта узунлигида ДЙҲХХ  рухсатисиз ҳаракатланишга йўл қўйилади?",
+      "questionRu": "При какой наибольшей длине автопоезда с одним прицепом допускается движение без разрешения ГСБДД?",
+      "questionOz": "Bir tirkamali avtopoezdning qanday eng katta uzunligida DYHXX  ruxsatisiz harakatlanishga yo'l qo'yiladi?",
+      "explanationUz": "Габарит ўлчамлари юкли ёки юксиз ҳолда, узунлиги бўйича – 20 метрдан ортиқ бўлган тиркамали автопоездларнинг ҳаракатланиши белгиланган тартибда ДЙҲХХ билан келишилган бўлиши керак.",
+      "explanationRu": "Для движения автопоездов с прицепом габаритные параметры которых с грузом или без груза по длине превышают – 20 метров, требуется согласование с ГСБДД в установленном порядке.",
+      "explanationOz": "Gabarit o'lchamlari yukli yoki yuksiz holda, uzunligi bo'yicha – 20 metrdan ortiq bo'lgan tirkamali avtopoezdlarning harakatlanishi belgilangan tartibda DYHXX bilan kelishilgan bo'lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3339,
+          "textUz": "16 м",
+          "textRu": "16 м",
+          "textOz": "16 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3340,
+          "textUz": "18 м",
+          "textRu": "18 м",
+          "textOz": "18 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3341,
+          "textUz": "20 м",
+          "textRu": "20 м",
+          "textOz": "20 m",
+          "isCorrect": true
+        },
+        {
+          "id": 3342,
+          "textUz": "22 м",
+          "textRu": "22 м",
+          "textOz": "22 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3343,
+          "textUz": "24 м",
+          "textRu": "24 м",
+          "textOz": "24 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3341
+      ]
+    },
+    {
+      "id": 1019,
+      "questionUz": "Юк ташиш тақиқланади, агар:",
+      "questionRu": "Перевозка грузов запрещается, если:",
+      "questionOz": "Yuk tashish taqiqlanadi, agar:",
+      "explanationUz": "ЙҲҚ 27-боби 160-бандига асосан: Ташилаётган юкнинг вазни ва ўқларга тушадиган оғирлик миқдорининг тақсимланиши ишлаб чиқарган корхона томонидан ушбу транспорт воситаси учун белгиланган миқдордан ошмаслиги керак.",
+      "explanationRu": "Пункта 160 главы 27 ПДД, гласит: Масса перевозимого груза и распределение нагрузки по осям не должны превышать величин, установленных предприятием – изготовителем для данного транспортного средства.",
+      "explanationOz": "YHQ 27-bobi 160-bandiga asosan: Tashilayotgan yukning vazni va o‘qlarga tushadigan og‘irlik miqdorining taqsimlanishi ishlab chiqargan korxona tomonidan ushbu transport vositasi uchun belgilangan miqdordan oshmasligi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3344,
+          "textUz": "Юк энининг чекка нуқтаси олдинги ёки орқа габарит чироқнинг ташқи чеккасидан 0,4 м. дан ортиқ чиқиб турса",
+          "textRu": "Крайняя точка груза по ширине находится на расстоянии (выступает) более 0,4м от внешнего края переднего или заднего габаритного огня",
+          "textOz": "Yuk enining chekka nuqtasi oldingi yoki orqa gabarit chiroqning tashqi chekkasidan 0,4 m. dan ortiq chiqib tursa",
+          "isCorrect": false
+        },
+        {
+          "id": 3345,
+          "textUz": "Юк транспорт воситасининг габаритларидан 1 м. ортиқ чиқиб турса",
+          "textRu": "Груз выступает за габариты автомобиля более чем на 1 м",
+          "textOz": "Yuk transport vositasining gabaritlaridan 1 m. ortiq chiqib tursa",
+          "isCorrect": false
+        },
+        {
+          "id": 3346,
+          "textUz": "Ташилаётган юк вазни шу транспорт воситаси учун ишлаб чиқарган корхона белгилаган катталикдан ортиқ бўлса",
+          "textRu": "Если вес груза больше; чем установленная норма для данного грузового автомобиля",
+          "textOz": "Tashilayotgan yuk vazni shu transport vositasi uchun ishlab chiqargan korxona belgilagan kattalikdan ortiq bo'lsa",
+          "isCorrect": true
+        },
+        {
+          "id": 3347,
+          "textUz": "Барча айтилган ҳолларда",
+          "textRu": "Все перечисленные случаи",
+          "textOz": "Barcha aytilgan hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3346
+      ]
+    },
+    {
+      "id": 1020,
+      "questionUz": "Кундузги вақтда транспортнинг олд ёки орқа томонига 1 метрдан ортиқ чиқиб турган юк қандай белгиланади?",
+      "questionRu": "Как обозначается груз; выступающий за габариты транспортного средства спереди или сзади более чем на 1 м. в дневное время?",
+      "questionOz": "Kunduzgi vaqtda transportning old yoki orqa tomoniga 1 metrdan ortiq chiqib turgan yuk qanday belgilanadi?",
+      "explanationUz": "ЙҲҚ 27-боби 163-бандига асосан: Транспорт воситасининг габаритларидан олди ёки орқа томонга 1 метрдан, ён томонга габаритнинг четки қисмидан 0,4 метрдан ортиқ чиқиб турган юк “Катта ўлчамли юк” таниқлик белгиси билан белгиланиши, сутканинг қоронғи вақтида ва етарлича кўринмайдиган шароитда эса бунга қўшимча равишда олди оқ рангли чироқ ёки ёруғлик қайтаргич, орқаси эса қизил рангли чироқ ёки ёруғлик қайтаргич билан белгиланиши керак.",
+      "explanationRu": "Пункта 163 главы 27 ПДД гласит: Груз, выступающий за габариты транспортного средства спереди и сзади более чем на 1 м или сбоку более чем на 0,4 м от внешнего края габаритного огня, должен быть обозначен опознавательными знаками “Крупногабаритный груз”, а в темное время суток и в условиях недостаточной видимости, кроме того, спереди — фонарем или световозвращателем белого цвета, сзади — фонарем или световозвращателем красного цвета.",
+      "explanationOz": "YHQ 27-bobi 163-bandiga asosan: Transport vositasining gabaritlaridan oldi yoki orqa tomonga 1 metrdan, yon tomonga gabaritning chetki qismidan 0,4 metrdan ortiq chiqib turgan yuk “Katta o‘lchamli yuk” taniqlik belgisi bilan belgilanishi, sutkaning qorong‘i vaqtida va yetarlicha ko‘rinmaydigan sharoitda esa bunga qo‘shimcha ravishda oldi oq rangli chiroq yoki yorug‘lik qaytargich, orqasi esa qizil rangli chiroq yoki yorug‘lik qaytargich bilan belgilanishi kerak.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3348,
+          "textUz": "«Катта ўлчамли юк» диагонали бўйича қизил ва оқ чизиқлари бўлган тахтача ёки байроқчалар билан",
+          "textRu": "Флажками или щитками с красно-белыми линиями по диагонали",
+          "textOz": "«Катта ўлчамли юк» diagonali bo'yicha qizil va oq chiziqlari bo'lgan taxtacha yoki bayroqchalar bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 3349,
+          "textUz": "Қизил байроқчалар билан",
+          "textRu": "Красными флажками",
+          "textOz": "Qizil bayroqchalar bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3350,
+          "textUz": "Оқ байроқчалар билан",
+          "textRu": "Белыми флажками",
+          "textOz": "Oq bayroqchalar bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3348
+      ]
+    },
+    {
+      "id": 1021,
+      "questionUz": "Ташилаётган юк ДЙҲХ хизматининг pухсатисиз транспорт воситаси ўлчамларининг орқа нуқтасидан энг катта миқдорда қандай чиқиб туриши мумкин?",
+      "questionRu": "На какую наибольшую величину может выступать груз за заднюю точку габарита транспортного средства при его перевозке без разрешения ГСБДД?",
+      "questionOz": "Tashilayotgan yuk DYHX xizmatining puxsatisiz transport vositasi o'lchamlarining orqa nuqtasidan eng katta miqdorda qanday chiqib turishi mumkin?",
+      "explanationUz": "Юки транспорт воситасининг олди ва орқа нуқтасидан 2 метрдан ортиқ чиқиб турган транспорт воситаларининг ҳаракатланиши белгиланган тартибда ДЙҲХХ билан келишилган бўлиши керак.",
+      "explanationRu": "Для движения транспортных средств с грузом, выступающим за переднюю или заднюю точку габарита транспортного средства более чем на 2 метра, требуется согласование с ГСБДД в установленном порядке.",
+      "explanationOz": "Yuki transport vositasining oldi va orqa nuqtasidan 2 metrdan ortiq chiqib turgan transport vositalarining harakatlanishi belgilangan tartibda DYHXX bilan kelishilgan bo'lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3351,
+          "textUz": "1,0 м",
+          "textRu": "1,0 м",
+          "textOz": "1,0 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3352,
+          "textUz": "1,5 м",
+          "textRu": "1,5 м",
+          "textOz": "1,5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3353,
+          "textUz": "2,0 м",
+          "textRu": "2,0 м",
+          "textOz": "2,0 m",
+          "isCorrect": true
+        },
+        {
+          "id": 3354,
+          "textUz": "2,5 м",
+          "textRu": "2,5 м",
+          "textOz": "2,5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3355,
+          "textUz": "4,0 м",
+          "textRu": "4,0 м",
+          "textOz": "4,0 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3353
+      ]
+    },
+    {
+      "id": 1022,
+      "questionUz": "Давлат ЙҲХ хизматининг рухсатисиз транспорт воситасининг юк билан ёки юксиз қандай юқори ўлчамдаги баландлик билан ҳаракатланишига йўл қўйилади?",
+      "questionRu": "При какой максимальной габаритной высоте транспортного средства с грузом или без груза допускается движение без разрешения ГСБДД",
+      "questionOz": "Davlat YHX xizmatining ruxsatisiz transport vositasining yuk bilan yoki yuksiz qanday yuqori o'lchamdagi balandlik bilan harakatlanishiga yo'l qo'yiladi?",
+      "explanationUz": "Габарит ўлчамлари юкли ёки юксиз ҳолда баландлиги бўйича йўл сатҳидан 4 метрдан ортиқ чиқиб турган транспорт воситаларининг ҳаракатланиши белгиланган тартибда ДЙҲХХ билан келишилган бўлиши керак.",
+      "explanationRu": "Для движения транспортных средств, габаритные параметры которых с грузом или без груза превышают по высоте 4 метра от поверхности проезжей части, требуется согласование с ГСБДД в установленном порядке.",
+      "explanationOz": "Gabarit o'lchamlari yukli yoki yuksiz holda balandligi bo'yicha yo'l sathidan 4 metrdan ortiq chiqib turgan transport vositalarining harakatlinishi belgilangan tartibda DYHXX bilan kelishilgan holda bo'lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3356,
+          "textUz": "5,0 м",
+          "textRu": "5,0 м",
+          "textOz": "5,0 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3357,
+          "textUz": "4,5 м",
+          "textRu": "4,5 м",
+          "textOz": "4,5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3358,
+          "textUz": "4,0 м",
+          "textRu": "4,0 м",
+          "textOz": "4,0 m",
+          "isCorrect": true
+        },
+        {
+          "id": 3359,
+          "textUz": "2,5 м",
+          "textRu": "2,5 м",
+          "textOz": "2,5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3360,
+          "textUz": "3,8 м",
+          "textRu": "3,8 м",
+          "textOz": "3,8 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3358
+      ]
+    },
+    {
+      "id": 1023,
+      "questionUz": "Қандай ҳолатларда ташилаётган юк ишора тахтачалари ёки байроқчалар билан, куннинг қоронғи вақтида, етарли кўринмайдиган шароитларда эса ёруғлик қайтаргич ёки чироқлар билан белгиланади?",
+      "questionRu": "В каких случаях перевозимый груз должен быть обозначен сигнальными щитками или флажками, а в темное время суток и в условиях недостаточной видимости светоотражающими приспособлениями или фонарями?",
+      "questionOz": "Qanday holatlarda tashilayotgan yuk ishora taxtachalari yoki bayroqchalar bilan, kunning qorong'i vaqtida, etarli ko'rinmaydigan sharoitlarda esa yorug'lik qaytargich yoki chiroqlar bilan belgilanadi?",
+      "explanationUz": "ЙҲҚ 27-боби 163-бандига асосан: Транспорт воситасининг габаритларидан олд ёки орқа томонга бир метрдан, ён томонга габарит чироқларининг четки қисмидан 0,4 метрдан ортиқ чиқиб турган юк “Катта ўлчамли юк” таниқлик белгиси билан белгиланиши, қоронғи вақтда ва етарлича кўринмайдиган шароитда эса бунга қўшимча равишда олд оқ чироқ ёки ёруғлик қайтаргич, орқаси эса қизил чироқ ёки ёруғлик қайтаргич билан белгиланиши керак.",
+      "explanationRu": "Пункту 163 главы 27 ПДД, гласит: Груз, выступающий за габариты транспортного средства спереди или сзади более чем на 1 м, сбоку более чем на 0,4 м от внешнего края габаритного огня, должен быть обозначен опознавательными знаками \"Крупногабаритный груз\", в соответствии с Пункту 176 главы 29 ПДД, Правил, а в темное время суток и в условиях недостаточной видимости, кроме того, спереди фонарем или световозвращателем белого цвета, сзади фонарем или световозвращателем красного цвета.",
+      "explanationOz": "YHQ 27-bobi 163-bandiga asosan: Transport vositasining gabaritlaridan old yoki orqa tomonga bir metrdan, yon tomonga gabarit chiroqlarining chetki qismidan 0,4 metrdan ortiq chiqib turgan yuk “Katta o‘lchamli yuk” taniqlik belgisi bilan belgilanishi, qorong‘i vaqtda va yetarlicha ko‘rinmaydigan sharoitda esa bunga qo‘shimcha ravishda old oq chiroq yoki yorug‘lik qaytargich, orqasi esa qizil chiroq yoki yorug‘lik qaytargich bilan belgilanishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3361,
+          "textUz": "Юк транспорт воситасининг ўлчамидан олдинда ёки орқада 1 м дан кўп чиқиб қолганда",
+          "textRu": "Если груз выступает за габариты транспортного средства спереди или сзади более чем на 1 м",
+          "textOz": "Yuk transport vositasining o'lchamidan oldinda yoki orqada 1 m dan ko'p chiqib qolganda",
+          "isCorrect": true
+        },
+        {
+          "id": 3362,
+          "textUz": "Юк транспорт воситасининг ўлчамидан орқада 0,8 м чиқиб қолганда",
+          "textRu": "Если груз выступает за габариты транспортного средства сзади на 0,8 м",
+          "textOz": "Yuk transport vositasining o'lchamidan orqada 0,8 m chiqib qolganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3361
+      ]
+    },
+    {
+      "id": 1024,
+      "questionUz": "Давлат ЙҲХ хизмати рухсатисиз транспорт воситасининг юк билан ёки юксиз ҳаракатланишига қандай юқори максимал кенгликда йўл қўйилади?",
+      "questionRu": "При какой максимальной ширине транспортного средства с грузом или без груза допускается движение без разрешения ГСБДД?",
+      "questionOz": "Davlat YHX xizmati ruxsatisiz transport vositasining yuk bilan yoki yuksiz harakatlanishiga qanday yuqori maksimal kenglikda yo'l qo'yiladi?",
+      "explanationUz": "Катта ҳажмли ва оғир вазнли ҳамда хавфли юкларни ташишда габарит ўлчамлари юкли ёки юксиз ҳолда эни бўйича 2,55 (рефрижераторлар ва изотермик кузовлар учун — 2,6) метрдан ортиқ чиқиб турган транспорт воситаларининг ҳаракатланиши ДЙҲХХ билан келишилиши шарт.",
+      "explanationRu": "Для перевозки тяжеловесных, крупногабаритных и опасных грузов, движения транспортных средств, габаритные параметры которых с грузом или без груза превышают по ширине 2,55 метра (для рефрижераторов и изотермических кузовов — 2,6 м), требуется согласование с ГСБДД в установленном порядке.",
+      "explanationOz": "Katta hajmli va og'ir vaznli hamda xavfli yuklarni tashishda gabarit o'lchamlari yukli yoki yuksiz holda eni bo'yicha 2,55 (refrijeratorlar va izotermik kuzovlar uchun — 2,6) metrdan ortiq chiqib turgan transport vositalarining harakatlanishi DYHXX bilan kelishilishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3363,
+          "textUz": "2,0 м",
+          "textRu": "2,0 м",
+          "textOz": "2,0 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3364,
+          "textUz": "2,55 м",
+          "textRu": "2,55 м",
+          "textOz": "2,55 m",
+          "isCorrect": true
+        },
+        {
+          "id": 3365,
+          "textUz": "3,8 м",
+          "textRu": "3,8 м",
+          "textOz": "3,8 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3366,
+          "textUz": "4,0 м",
+          "textRu": "4,0 м",
+          "textOz": "4,0 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3367,
+          "textUz": "5,0 м",
+          "textRu": "5,0 м",
+          "textOz": "5,0 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3364
+      ]
+    },
+    {
+      "id": 1025,
+      "questionUz": "Ташиладиган юк вазнини ва ўқлар бўйича тушадиган оғирликни тақсимлашни ким тартибга солиб туради?",
+      "questionRu": "Кто регламентирует массу перевозимого груза и распределения нагрузки по осям?",
+      "questionOz": "Tashiladigan yuk vaznini va o'qlar bo'yicha tushadigan og'irlikni taqsimlashni kim tartibga solib turadi?",
+      "explanationUz": "ЙҲҚ 27-боби 160-бандига асосан: Ташилаётган юкнинг вазни ва ўқларга тушадиган оғирлик миқдорининг тақсимланиши ишлаб чиқарган корхона томонидан ушбу транспорт воситаси учун белгиланган миқдордан ошмаслиги керак.",
+      "explanationRu": "Пункту 160 главы 27 ПДД, гласит: Масса перевозимого груза и распределение нагрузки по осям не должны превышать величин, установленных предприятием-изготовителем для данного транспортного средства.",
+      "explanationOz": "YHQ 27-bobi 160-bandiga asosan: Tashilayotgan yukning vazni va o‘qlarga tushadigan og‘irlik miqdorining taqsimlanishi ishlab chiqargan korxona tomonidan ushbu transport vositasi uchun belgilangan miqdordan oshmasligi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3368,
+          "textUz": "Давлат ЙҲХХ",
+          "textRu": "ГСБДД",
+          "textOz": "Davlat YHXX",
+          "isCorrect": false
+        },
+        {
+          "id": 3369,
+          "textUz": "Автохўжалик маъмурияти",
+          "textRu": "Администрация автохозяйства",
+          "textOz": "Avtoxo'jalik mamuriyati",
+          "isCorrect": false
+        },
+        {
+          "id": 3370,
+          "textUz": "Мазкур транспорт воситасини тайёрловчи-корхона",
+          "textRu": "Предприятие- изготовитель данного транспортного средства",
+          "textOz": "Mazkur transport vositasini tayyorlovchi-korxona",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3370
+      ]
+    },
+    {
+      "id": 1026,
+      "questionUz": "«Газель» юк автомобилининг юк билан баландлиги йўл устидан 3,8 м бўлса, уни ташиш мумкинми?",
+      "questionRu": "Разрешается ли перевозка груза на грузовом автомобиле «Газель» без соблюдения специальных правил, если высота автомобиля с грузом составляет 3,8 м от поверхности дороги?",
+      "questionOz": "«Gazel» yuk avtomobilining yuk bilan balandligi yo'l ustidan 3,8 m bo'lsa, uni tashish mumkinmi?",
+      "explanationUz": "ЙҲҚ 27-боби 164-бандининг биринчи хатбошисига асосан: Ўта оғир, катта ўлчамли ва хавфли юкларни ташишда габарит ўлчамлари юкли ёки юксиз ҳолда эни бўйича 2,55 (рефрижераторлар ва изотермик кузовлар учун - 2,6) метрдан ва баландлиги бўйича йўл сатҳидан 4 метрдан, узунлиги бўйича якка автотранспорт воситаси учун - 12 метрдан, тиркама учун - 12 метрдан, яримтиркамали автопоезд учун - 20 метрдан, тиркамали автопоезд учун - 20 метрдан ортиқ бўлган ёки юки транспорт воситасининг олди ва орқа нуқтасидан 2 метрдан ортиқ чиқиб турган транспорт воситаларининг ҳаракатланиши белгиланган тартибда ДЙҲХХ билан келишилган бўлиши керак.",
+      "explanationRu": "Пункту 164 главы 27 ПДД, гласит: Для перевозки тяжеловесных, крупногабаритных и опасных грузов, движения транспортных средств, габаритные параметры которых с грузом или без груза превышают по ширине 2,5 м, по высоте 4 м от поверхности проезжей части, по длине (включая один прицеп) 20 м, либо с грузом, выступающим за заднюю точку габарита транспортного средства более чем на 2 м, движения автопоездов с двумя и более прицепами требуется разрешение органов ГСБДД. В данном случае высота грузового автомобиля от поверхности проезжей части составляет 3,8 м, специальное разрешение требуется, если высота составляет более 4 м. Соответственно, перевозка груза на грузовом автомобиле без соблюдения специальных правил, если высота груза составляет 3,8 м от поверхности дороги, разрешена.",
+      "explanationOz": "YHQ 27-bobi 164-bandining birinchi xatboshisiga asosan: O‘ta og‘ir, katta o‘lchamli va xavfli yuklarni tashishda gabarit oʻlchamlari yukli yoki yuksiz holda eni bo‘yicha 2,55 (refrijeratorlar va izotermik kuzovlar uchun - 2,6) metrdan va balandligi bo‘yicha yo‘l sathidan 4 metrdan, uzunligi bo‘yicha yakka avtotransport vositasi uchun - 12 metrdan, tirkama uchun - 12 metrdan, yarimtirkamali avtopoyezd uchun - 20 metrdan, tirkamali avtopoyezd uchun - 20 metrdan ortiq bo‘lgan yoki yuki transport vositasining oldi va orqa nuqtasidan 2 metrdan ortiq chiqib turgan transport vositalarining harakatlanishi belgilangan tartibda DYHXX bilan kelishilgan bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3371,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3372,
+          "textUz": "Рухсат берилмайди",
+          "textRu": "Запрещается",
+          "textOz": "Ruxsat berilmaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3373,
+          "textUz": "Рухсат берилади, фақат йўналишларда осма кўприклар, осма йўл (эстакада) бўлмаса",
+          "textRu": "Только по дорогам, на которых отсутствует необходимость двигаться под мостами или путепроводами",
+          "textOz": "Ruxsat beriladi, faqat yo'nalishlarda osma ko'priklar, osma yo'l (estakada) bo'lmasa",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3371
+      ]
+    },
+    {
+      "id": 1027,
+      "questionUz": "Юк транспорт воситасининг ўлчамларидан чиқиб турса, куннинг қоронғи вақтида ва етарли кўринмайдиган шароитда қандай белгиланади?",
+      "questionRu": "Как обозначается груз, выступающий за габариты транспортного средства в темное время суток и в условиях недостаточной видимости?",
+      "questionOz": "Yuk transport vositasining o'lchamlaridan chiqib tursa, kunning qorong'i vaqtida va yetarli ko'rinmaydigan sharoitda qanday belgilanadi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6738,
+          "textUz": "Ишора тахтачалари ёки байроқчалар (диагонал бўйича навбатма-навбат тортилган қизил ва оқ йўлли) билан",
+          "textRu": "Сигнальными щитками или флажками (с нанесенными по диагонали красными и белыми чередующими полосами)",
+          "textOz": "Ishora taxtachalari yoki bayroqchalar (diagonal bo'yicha navbatma-navbat tortilgan qizil va oq yo'lli) bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 6739,
+          "textUz": "«Катта ўлчамли юк» таниқлик белгиси билан белгиланиши, қўшимча равишда олдига оқ, орқасига эса қизил чироқлар ёки ёруғлик қайтаргич билан",
+          "textRu": "«Негабаритного груза» опознавательным знаком, кроме того Светоотражающими приспособлениями или фонарями спереди белого, сзади красного",
+          "textOz": "«Katta o'lchamli yuk» taniqlik belgisi bilan belgilanishi, qo'shimcha ravishda oldiga oq, orqasiga esa qizil chiroqlar yoki yorug'lik qaytargich bilan",
+          "isCorrect": true
+        },
+        {
+          "id": 6740,
+          "textUz": "Орқасига қизил, олдига оқ байроқчалар билан",
+          "textRu": "Флажками – сзади красными, спереди белыми",
+          "textOz": "Orqasiga qizil, oldiga oq bayroqchalar bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6739
+      ]
+    },
+    {
+      "id": 1028,
+      "questionUz": "Қайси расмдаги автомобил ҳайдовчиси юк ташиш қоидасини бузаяпти?",
+      "questionRu": "На каком рисунке изображен автомобиль, водитель которого нарушает правила перевозки грузов?",
+      "questionOz": "Qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
+      "explanationUz": "Ғилдиракларни шундай буриб қўйиш керакки, бунда автомобиллар тасодифан юриб кетганда қатнов қисмига чиқиб кетмасдан тротуар бордюрига қадалиб қолсин. Белгига кўра пастдан юқорига қараб йўлнинг кўтарилиши кўрсатилган. A автомобилининг олдинги ғилдираклари бордюрга қадалади. C автомобили ҳам олдинги ғилдираклари билан бордюрга қадалиб, юриб кета олмайди. B автомобили тўғридан-тўғри қатнов қисмига чиқиб кетади. Орқа ғилдираклари бордюрга қадалгунгача D Aвтомобили ҳам йўлга чиқиб кетади, натижада автомобиль йўлга кўндаланг бўлиб қолиб, ҳаракатланиш бўлагининг бир қисмини ёпиб қўяди. Олд ғилдиракларни А ва C автомобилларининг ҳайдовчилари тўғри буриб қўйганлар.",
+      "explanationRu": "Колеса должны быть повернуты так, чтобы автомобиль при произвольном скатывании выехал не на проезжую часть, а уперся колесами в бордюр тротуара. Подъем дороги согласно знаку снизу вверх. Автомобиль А упирается передними колесами в бордюр. Автомобиль C также упирается передними колесами в бордюр и не может скатиться. Автомобиль B выкатывается прямо на проезжую часть. Автомобиль D также выкатится на дорогу, пока задние колеса не упрутся в бордюр, в результате чего автомобиль встанет боком, перекрыв часть полосы движения. Правильное положение колес обеспечили водители автомобилей А и C.",
+      "explanationOz": "G'ildiraklarni shunday burib qo'yish kerakki, bunda avtomobillar tasodifan yurib ketganda qatnov qismiga chiqib ketmasdan trotuar bordyuriga qadalib qolsin. Belgiga ko'ra pastdan yuqoriga qarab yo'lning ko'tarilishi ko'rsatilgan. A avtomobilining oldingi g'ildiraklari bordyurga qadaladi. C avtomobili ham oldingi g'ildiraklari bilan bordyurga qadalib, yurib keta olmaydi. B avtomobili to'g'ridan-to'g'ri qatnov qismiga chiqib ketadi. Orqa g'ildiraklari bordyurga qadalgungacha D avtomobili ham yo'lga chiqib ketadi, natijada avtomobil yo'lga ko'ndalang bo'lib qolib, harakatlanish bo'lagining bir qismini yopib qo'yadi. Old g'ildiraklarni A va C avtomobillarining haydovchilari to'g'ri burib qo'yganlar.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/48.19.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3377,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": true
+        },
+        {
+          "id": 3378,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 3379,
+          "textUz": "А ва б",
+          "textRu": "А и Б",
+          "textOz": "A va b",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3377
+      ]
+    },
+    {
+      "id": 1029,
+      "questionUz": "Куннинг ёруғ вақтида ҳаракатланаётган қайси расмдаги автомобил ҳайдовчиси юк ташиш қоидасини бузаяпти?",
+      "questionRu": "На каком рисунке изображен автомобиль, водитель которого нарушает правила перевозки грузов при движении в светлое время суток?",
+      "questionOz": "Kunning yorug' vaqtida harakatlanayotgan qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
+      "explanationUz": "Йўл ҳаракати қоидалари 163 бандига асосан, транспорт воситасининг габаритларидан олди ёки орқа томонга 1 метрдан, ён томонга габаритнинг четки қисмидан 0,4 метрдан ортиқ чиқиб турган юк «Катта ўлчамли юк» таниқлик белгиси билан белгиланиши керак.",
+      "explanationRu": "Согласно статьи 163 Правил дорожного движения,  Груз, выступающий за габариты транспортного средства спереди и сзади более чем на 1 м или сбоку более чем на 0,4 м от внешнего края габарита, должен быть обозначен опознавательными знаками «Крупногабаритный груз».",
+      "explanationOz": "Yo‘l harakati qoidalari 163 bandiga asosan, transport vositasining gabaritlaridan oldi yoki orqa tomonga 1 metrdan, yon tomonga gabaritning chetki qismidan 0,4 metrdan ortiq chiqib turgan yuk «Katta o‘lchamli yuk» taniqlik belgisi bilan belgilanishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/49.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3380,
+          "textUz": "А",
+          "textRu": "А",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 3381,
+          "textUz": "Хар икки расмда",
+          "textRu": "На обоих рисунках",
+          "textOz": "Xar ikki rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 3382,
+          "textUz": "Хеч ким бузмаяпти",
+          "textRu": "Никто не нарушает",
+          "textOz": "Xech kim buzmayapti",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3382
+      ]
+    },
+    {
+      "id": 1030,
+      "questionUz": "Қайси расмдаги автомобил ҳайдовчиси юк ташиш қоидасини бузаяпти?",
+      "questionRu": "На каком рисунке изображен автомобиль, водитель которого нарушает правила перевозки грузов?",
+      "questionOz": "Qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
+      "explanationUz": "ЙҲҚ 20-боби 123-банди: Турар жой даҳалари (кириш ва чиқиш 5.38 ва 5.39 йўл белгилари билан белгиланган ҳудудлар) да пиёдаларга тротуарлар ҳамда қатнов қисмида ҳаракатланишга рухсат этилади. Бунда пиёдалар имтиёзга эга бўладилар, бироқ улар транспорт воситаларининг ҳаракатланишига асоссиз халақит бермасликлари керак.",
+      "explanationRu": "Пункта 123 главы 20 ПДД, гласит: В жилой зоне (территории, въезды и выезды с которых обозначены дорожными знаками 5.38 и 5.39) движение пешеходов разрешается по тротуарам и по проезжей части. При этом пешеходы имеют приоритет, однако, они не должны создавать необоснованные помехи для движения транспортных средств.",
+      "explanationOz": "YHQ 20-bobi 123-bandi: Turar joy dahalari (kirish va chiqish 5.38 va 5.39 yo‘l belgilari bilan belgilangan hududlar) da piyodalarga trotuarlar hamda qatnov qismida harakatlanishga ruxsat etiladi. Bunda piyodalar imtiyozga ega bo‘ladilar, biroq ular transport vositalarining harakatlanishiga asossiz xalaqit bermasliklari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/50.9.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3383,
+          "textUz": "A",
+          "textRu": "A",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 3384,
+          "textUz": "B",
+          "textRu": "B",
+          "textOz": "B",
+          "isCorrect": false
+        },
+        {
+          "id": 3385,
+          "textUz": "A ва В",
+          "textRu": "А и В",
+          "textOz": "A va V",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3385
+      ]
+    },
+    {
+      "id": 1031,
+      "questionUz": "Енгил автомобилнинг том қисмига ўрнатилганюкҳонасида юкнинг баландлиги(махсусмосламалар билан мустаҳкамланган ҳолдавелосипедларни ташиш бундан мустасно) нечаметрдан ошмаслиги керак ?",
+      "questionRu": "Не более какой высоты может располагатьсягруз на багажнике, установленном накрыше легкового автомобиля (кромеперевозки велосипедов со специальнымиприспособлениями)?",
+      "questionOz": "Engil avtomobilning tom qismiga o'rnatilganyukhonasida yukning balandligi(maxsusmoslamalar bilan mustahkamlangan holdavelosipedlarni tashish bundan mustasno) nechametrdan oshmasligi kerak ?",
+      "explanationUz": "ЙҲҚ 27 – боби 162 – банди, саккизинчи хатбошига асосан: Қуйидаги шартларга амал қилинганда юк ташишга йўл қўйилади: енгил автомобилнинг том қисмига ўрнатилган юкхонасидаги юкнинг баландлиги 1 метрдан (махсус мосламалар билан мустаҳкамланган ҳолда велосипедлар ва индивидуал ҳаракатланиш воситаларини ташиш бундан мустасно) ва узунлиги автомобилнинг габаритидан 0,5 метрдан ошмаса.",
+      "explanationRu": "В соответствии с восьмым абзацем пункта 162 главы 27 ПДД: Перевозка груза допускается при условии, что груз: габариты груза, размещенного в багажнике, установленном на крыше легкового автомобиля не превышает 1 метра по высоте и 0,5 метра по длине (кроме случаев перевозки велосипедов, закрепленных специальными приспособлениями).",
+      "explanationOz": "YHQ 27 – bobi 162 – bandi, sakkizinchi xatboshiga asosan: Quyidagi shartlarga amal qilinganda yuk tashishga yo‘l qo‘yiladi: yengil avtomobilning tom qismiga o‘rnatilgan yukxonasidagi yukning balandligi 1 metrdan (maxsus moslamalar bilan mustahkamlangan holda velosipedlar va individual harakatlanish vositalarini tashish bundan mustasno) va uzunligi avtomobilning gabaritidan 0,5 metrdan oshmasa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3386,
+          "textUz": "0.5 метр",
+          "textRu": "0.5 метр",
+          "textOz": "0.5 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 3387,
+          "textUz": "1.0  метр",
+          "textRu": "1.0  метр",
+          "textOz": "1.0  metr",
+          "isCorrect": true
+        },
+        {
+          "id": 3388,
+          "textUz": "1.2 метр",
+          "textRu": "1.2 метр",
+          "textOz": "1.2 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 3389,
+          "textUz": "1.5 метр",
+          "textRu": "1.5 метр",
+          "textOz": "1.5 metr",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3387
+      ]
+    },
+    {
+      "id": 1032,
+      "questionUz": "Енгил автомобилнинг том қисмига ўрнатилган юкхонасида юк ташишдан, юкнинг узунлиги автомобилнинг габаритидан неча метрдан ошмаса ташишга йўл қўйилади?",
+      "questionRu": "Не более скольких метров разрешается превышать длину габарита легкового автомобиля при перевозке груза, закрепленногона крыше?",
+      "questionOz": "Engil avtomobilning tom qismiga o'rnatilgan yukxonasida yuk tashishdan, yukning uzunligi avtomobilning gabaritidan necha metrdan oshmasa tashishga yo'l qo'yiladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3390,
+          "textUz": "2 метр",
+          "textRu": "2 метр",
+          "textOz": "2 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 3391,
+          "textUz": "1 метр",
+          "textRu": "1 метр",
+          "textOz": "1 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 3392,
+          "textUz": "1.2 метр",
+          "textRu": "1.2 метр",
+          "textOz": "1.2 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 3393,
+          "textUz": "0.5 метр",
+          "textRu": "0.5 метр",
+          "textOz": "0.5 metr",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3393
+      ]
+    },
+    {
+      "id": 1033,
+      "questionUz": "Ушбу белги қайси моддаларга киради?",
+      "questionRu": "К каким веществам относится этот символ?",
+      "questionOz": "Ushbu belgi qaysi moddalarga kiradi?",
+      "explanationUz": "ЙҲҚга 1-ИЛОВА 3.19 банди, 5.8.1 банди ва 5. Ахборот-кўрсатгич белгиларининг 11-хатбоши ҳамда 3.18.2 банди ва 3.Тақиқловчи белгиларнинг 47-хатбошига асосан: 3.19. «Қайрилиш тақиқланган». \r\n5.8.1. «Тасмалар бўйича ҳаракат йўналиши». Тасмалар сони ва ҳар бири бўйича рухсат этилган ҳаракатланиш йўналишлари. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади. \r\nЙўлнинг четки чап бўлагидан чапга бурилишга рухсат берувчи 5.8.1 ва 5.8.2 белгилари шу тасмадан қайрилишга ҳам рухсат беради.  \r\n3.18.2. «Чапга бурилиш тақиқланади». 3.18.1 ва 3.18.2 белгилари қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади.",
+      "explanationRu": "На основании пункта 3.19,  пункта 5.8.1 Приложения 1 к ПДД и абзаца 11 раздела 5 «Информационно-указательные знаки» а также пункта 3.18.2 Приложения 1 к ПДД и абзаца 47 раздела 3 «Запрещающие знаки»: 3.19. «Разворот запрещен». \r\n5.8.1. «Направления движения по полосам». Число полос и разрешенные направления движения на каждой из них. Движение по другим направлениям запрещается.\r\nЗнаки 5.8.1 и 5.8.2, разрешающие поворот налево из крайней левой полосы, разрешают и разворот с этой полосы.\r\n3.18.2. «Поворот налево запрещен». Действие знаков 3.18.1 и 3.18.2 распространяется на пересечение проезжих частей, перед которыми установлен знак.",
+      "explanationOz": "YHQga 1-ILOVA 3.19 bandi, 5.8.1 bandi va 5. Axborot-ko‘rsatgich belgilarining 11-xatboshi hamda 3.18.2 bandi va 3.Taqiqlovchi belgilarning 47-xatboshiga asosan: 3.19. «Qayrilish taqiqlangan». \r\n5.8.1. «Tasmalar bo‘yicha harakat yo‘nalishi». Tasmalar soni va har biri bo‘yicha ruxsat etilgan harakatlanish yo‘nalishlari. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi. \r\nYo‘lning chetki chap bo‘lagidan chapga burilishga ruxsat beruvchi 5.8.1 va 5.8.2 belgilari shu tasmadan qayrilishga ham ruxsat beradi.  \r\n3.18.2. «Chapga burilish taqiqlanadi». 3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4630,
+          "textUz": "Токсик моддалар",
+          "textRu": "Токсичные вещества",
+          "textOz": "Toksik moddalar",
+          "isCorrect": false
+        },
+        {
+          "id": 4631,
+          "textUz": "Органик пероксидлар",
+          "textRu": "Органические пероксиды",
+          "textOz": "Organik peroksidlar",
+          "isCorrect": false
+        },
+        {
+          "id": 4632,
+          "textUz": "Оксидловчи моддалар",
+          "textRu": "Окислители",
+          "textOz": "Oksidlovchi moddalar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4632
+      ]
+    }
+  ]
+}

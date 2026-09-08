@@ -1,0 +1,781 @@
+{
+  "title": "Bilet 23",
+  "count": 20,
+  "questions": [
+    {
+      "id": 443,
+      "questionUz": "Қайси йўналишларда ҳаракат қилиш мумкин?",
+      "questionRu": "По каким направлениям разрешается движение?",
+      "questionOz": "Qaysi yo‘nalishlarda harakat qilish mumkin?",
+      "explanationUz": "Кўриб турганингиздек, светофорнинг қизил ишораси ёниб турибди, лекин қўшимча тармоқ фақат чапга ҳаракатланишга рухсат бермоқда.\r\n\r\nАвтомобилнинг жойлашуви ва йўл белгилари сабабли қайрилиб олиш тақиқланган. Шунинг учун ҳайдовчи қайрилиб ола олмайди.\r\n\r\nДемак, ушбу ҳолатда фақат чапга бурилишга рухсат этилади.\r\n\r\nТўғри жавоб — фақат чапга ҳаракатланиш мумкин.",
+      "explanationRu": "Как видно на рисунке, горит красный сигнал светофора, но дополнительная секция разрешает движение только налево.\r\n\r\nИз-за расположения автомобиля и требований дорожных знаков разворот запрещён. Поэтому водитель не может выполнить разворот.\r\n\r\nСледовательно, в данной ситуации разрешён только поворот налево.\r\n\r\nПравильный ответ — можно двигаться только налево.",
+      "explanationOz": "Koʻrib turganingizdek, svetoforning qizil ishorasi yonib turibdi, lekin qoʻshimcha tarmoq faqat chapga harakatlanishga ruxsat bermoqda.\r\n\r\nAvtomobilning joylashuvi va yoʻl belgilari sababli qayrilib olish taqiqlangan. Shuning uchun haydovchi qayrilib ola olmaydi.\r\n\r\nDemak, ushbu holatda faqat chapga burilishga ruxsat etiladi.\r\n\r\nToʻgʻri javob — faqat chapga harakatlanish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5822,
+          "textUz": "Барча йўналишларда ҳаракатланишга рухсат этилади",
+          "textRu": "Разрешается движение во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarda harakatlanishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5823,
+          "textUz": "Чапга ва орқага қайтиш (қайрилиб олиш)",
+          "textRu": "Налево и разворот",
+          "textOz": "Chapga va orqaga qaytish (qayrilib olish)",
+          "isCorrect": false
+        },
+        {
+          "id": 5824,
+          "textUz": "Чапга",
+          "textRu": "Налево",
+          "textOz": "Chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 5825,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5826,
+          "textUz": "Барча йўналишларда ҳаракатланиш тақиқланади",
+          "textRu": "Движение во всех направлениях запрещается",
+          "textOz": "Barcha yo‘nalishlarda harakatlanish taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5824
+      ]
+    },
+    {
+      "id": 444,
+      "questionUz": "Ушбу автомобилга кўрсатилган йўналишлардан қайси бирига ҳаракатланишга рухсат этилади?",
+      "questionRu": "Этому автомобилю разрешено двигаться в каком направлении?",
+      "questionOz": "Ushbu avtomobilga ko‘rsatilgan yo‘nalishlardan qaysi biriga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Бу ерда йўлда ажратувчи минтақа мавжуд.\r\n\r\nШунинг учун \"Чапга бурилиш мумкин эмас\" йўл белгиси фақат биринчи қатнов қисми кесишмасигача амал қилади ва иккинчи қатнов қисми кесишмасига таъсир қилмайди.\r\n\r\nНатижада, иккинчи кесишмада чапга бурилиш мумкин бўлади.\r\n\r\nБундан ташқари, \"Чапга бурилиш мумкин эмас\" белгиси қайрилиб олишни тақиқламайди. Демак, ушбу вазиятда ҳайдовчи ҳам чапга бурилиши, ҳам қайрилиб олиши мумкин.\r\n\r\nШунинг учун тўғри жавоб — иккала йўналишга ҳам ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации на дороге имеется разделительная полоса.\r\n\r\nПоэтому знак «Поворот налево запрещён» действует только до первого пересечения проезжих частей и не распространяется на второе пересечение.\r\n\r\nСледовательно, на втором пересечении поворот налево разрешён.\r\n\r\nКроме того, знак «Поворот налево запрещён» не запрещает разворот. Поэтому водитель может как повернуть налево, так и выполнить разворот.\r\n\r\nПравильный ответ — движение разрешено в обоих направлениях.",
+      "explanationOz": "Bu yerda yoʻlda ajratuvchi mintaqa mavjud.\r\n\r\nShuning uchun \"Chapga burilish mumkin emas\" yoʻl belgisi faqat birinchi qatnov qismi kesishmasigacha amal qiladi va ikkinchi qatnov qismi kesishmasiga taʼsir qilmaydi.\r\n\r\nNatijada, ikkinchi kesishmada chapga burilish mumkin bo‘ladi.\r\n\r\nBundan tashqari, \"Chapga burilish mumkin emas\" belgisi qayrilib olishni taqiqlamaydi. Demak, ushbu vaziyatda haydovchi ham chapga burilishi, ham qayrilib olishi mumkin.\r\n\r\nShuning uchun toʻgʻri javob — ikkala yoʻnalishga ham harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5827,
+          "textUz": "Фақат қайрилиб олишга",
+          "textRu": "Только для разворота",
+          "textOz": "Faqat qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 5828,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5829,
+          "textUz": "Иккала йўналишга ҳам ҳаракатланиш тақиқланади",
+          "textRu": "Движение в обоих направлениях запрещено",
+          "textOz": "Ikkala yo‘nalishga ham harakatlanish taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5830,
+          "textUz": "Иккала йўналишга ҳам ҳаракатланишга рухсат этилади",
+          "textRu": "Движение в обоих направлениях разрешено",
+          "textOz": "Ikkala yo‘nalishga ham harakatlanishga ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5830
+      ]
+    },
+    {
+      "id": 445,
+      "questionUz": "Қайси транспорт воситалари ўнгга ҳаракатланишга рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешено движение направо?",
+      "questionOz": "Qaysi transport vositalari o'ngga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Ушбу вазиятда трамвай светофори трамвайга фақат тўғрига ҳаракатланишга рухсат бермоқда. Трамвай бошқа йўналишларда ҳаракатлана олмайди.\r\n\r\nҚизил автомобил учун эса асосий яшил сигнал ёниб турибди. Асосий яшил сигнал енгил автомобилга йўл белгилари ва чизиқлар билан чекланмаган барча рухсат этилган йўналишларда ҳаракатланиш имконини беради.\r\n\r\nШунинг учун саволда қайси транспорт воситасига ҳаракатланишга рухсат берилгани сўралган бўлса, тўғри жавоб — енгил автомобил.\r\n\r\nДемак, тўғри жавоб — енгил автомобилга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации трамвайный светофор разрешает трамваю движение только прямо. Движение в других направлениях для трамвая не разрешено.\r\n\r\nДля красного легкового автомобиля горит основной зелёный сигнал светофора. Основной зелёный сигнал разрешает движение во всех направлениях, которые не запрещены дорожными знаками или разметкой.\r\n\r\nПоэтому, если вопрос заключается в том, какому транспортному средству разрешено движение, правильный ответ — легковому автомобилю.\r\n\r\nСледовательно, движение разрешено только легковому автомобилю.",
+      "explanationOz": "Ushbu vaziyatda tramvay svetofori tramvayga faqat toʻgʻriga harakatlanishga ruxsat bermoqda. Tramvay boshqa yoʻnalishlarda harakatlana olmaydi.\r\n\r\nQizil avtomobil uchun esa asosiy yashil signal yonib turibdi. Asosiy yashil signal yengil avtomobilga yoʻl belgilari va chiziqlar bilan cheklanmagan barcha ruxsat etilgan yoʻnalishlarda harakatlanish imkonini beradi.\r\n\r\nShuning uchun savolda qaysi transport vositasiga harakatlanishga ruxsat berilgani soʻralgan boʻlsa, toʻgʻri javob — yengil avtomobil.\r\n\r\nDemak, toʻgʻri javob — yengil avtomobilga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5831,
+          "textUz": "Ҳар иккалага",
+          "textRu": "Обоим",
+          "textOz": "Har ikkisiga",
+          "isCorrect": false
+        },
+        {
+          "id": 5832,
+          "textUz": "Трамвайга",
+          "textRu": "Трамваю",
+          "textOz": "Tramvayga",
+          "isCorrect": false
+        },
+        {
+          "id": 5833,
+          "textUz": "Енгил автомобилга",
+          "textRu": "Легковому автомобилю",
+          "textOz": "Yengil avtomobilga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5833
+      ]
+    },
+    {
+      "id": 446,
+      "questionUz": "Милтилловчи қизил ишора?",
+      "questionRu": "Мигающий красный сигнал?",
+      "questionOz": "Miltillovchi qizil ishora?",
+      "explanationUz": "Милтилловчи қизил ишора ҳаракатланишни тақиқлайди.\r\n\r\nБундай сигнал ҳайдовчига тўхташ ва эҳтиёткорлик билан ҳаракат қилиш зарурлигини билдиради. Айниқса, темир йўл кесишмаларида милтилловчи қизил чироқ транспорт воситаларининг ҳаракатланишини тақиқлайди.\r\n\r\nДемак, милтилловчи қизил ишора — ҳаракатланишни тақиқловчи сигнал ҳисобланади.",
+      "explanationRu": "Мигающий красный сигнал запрещает движение.\r\n\r\nТакой сигнал указывает водителю на необходимость остановиться и действовать с повышенной осторожностью. Особенно на железнодорожных переездах мигающий красный сигнал запрещает дальнейшее движение транспортных средств.\r\n\r\nСледовательно, мигающий красный сигнал является запрещающим сигналом.",
+      "explanationOz": "Miltillovchi qizil ishora harakatlanishni taqiqlaydi.\r\n\r\nBunday signal haydovchiga toʻxtash va ehtiyotkorlik bilan harakat qilish zarurligini bildiradi. Ayniqsa, temir yoʻl kesishmalarida miltillovchi qizil chiroq transport vositalarining harakatlanishini taqiqlaydi.\r\n\r\nDemak, miltillovchi qizil ishora — harakatlanishni taqiqlovchi signal hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5834,
+          "textUz": "Ҳаракатни тақиқлайди",
+          "textRu": "Запрещает движение",
+          "textOz": "Harakatni taqiqlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 5835,
+          "textUz": "Кэскин тормоз бэрмасдан тўхташга улгура олмайдиган ҳайдовчиларга ҳаракатланишни давом эттиришга рухсат этилади",
+          "textRu": "Разрешает продолжить движение водителям, которые без резкого торможения не успевают остановиться",
+          "textOz": "Keskin tormoz bermasdan to‘xtashga ulgura olmaydigan haydovchilarga harakatlanishni davom ettirishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5836,
+          "textUz": "Ҳаракатланишга рухсат бэради",
+          "textRu": "Разрешает движение",
+          "textOz": "Harakatlanishga ruxsat beradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5834
+      ]
+    },
+    {
+      "id": 447,
+      "questionUz": "Кўк ва Қора автомобиллар ҳайдовчиларига ўнгга бурилишни амалга оширишга рухсат этилганми?",
+      "questionRu": "Разрешен ли водителям синих и черных автомобилей совершать правый поворот?",
+      "questionOz": "Ko'k va Qora avtomobillar haydovchilariga o‘ngga burilishni amalga oshirishga ruxsat etilganmi?",
+      "explanationUz": "Бу ерда кўк ва қора автомобил ҳайдовчилари ўнгга бурилишни амалга оширмоқчи.\r\n\r\nЛекин чорраҳада «Фақат тўғрига ҳаракатланиш» (4.1.1) йўл белгиси ўрнатилган.\r\n\r\nУшбу белги транспорт воситаларига фақат тўғрига ҳаракатланишга рухсат беради ва ўнгга бурилишни тақиқлайди.\r\n\r\nДемак, тўғри жавоб — кўк ва қора автомобилларга ўнгга бурилиш тақиқланади.",
+      "explanationRu": "В данной ситуации водители синего и чёрного автомобилей хотят повернуть направо.\r\n\r\nОднако на перекрёстке установлен знак «Движение прямо» (4.1.1), который разрешает движение только прямо и запрещает поворот направо.\r\n\r\nСледовательно, правиль��ый ответ — поворот направо для синего и чёрного автомобилей запрещён.",
+      "explanationOz": "Bu yerda ko‘k va qora avtomobil haydovchilari o‘ngga burilishni amalga oshirmoqchi.\r\n\r\nLekin chorrahada 4.1.1 — :contentReference[oaicite:0]{index=0} yoʻl belgisi o‘rnatilgan.\r\n\r\nUshbu belgi transport vositalariga faqat to‘g‘riga harakatlanishga ruxsat beradi va o‘ngga burilishni taqiqlaydi.\r\n\r\nDemak, toʻgʻri javob — ko‘k va qora avtomobillarga o‘ngga burilish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/61.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5837,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешён",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5838,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещён",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5838
+      ]
+    },
+    {
+      "id": 448,
+      "questionUz": "Ҳаракатланиш таъқиқланади:",
+      "questionRu": "Движение запрещено:",
+      "questionOz": "Harakatlanish taqiqlanadi:",
+      "explanationUz": "Бу ерда тартибга солувчининг ишораларига эътибор берамиз.\r\n\r\nТартибга солувчининг ён томонида турган транспорт воситаларига тўғрига ва ўнгга ҳаракатланишга рухсат этилади.\r\n\r\nУшбу вазиятда ён томонда кўк, қизил ва сариқ автомобиллар жойлашган. Бироқ кўк автомобилнинг йўналиши рухсат этилган йўналишларга мос келмайди, шунинг учун у ҳаракатлана олмайди.\r\n\r\nТартибга солувчининг олди ва орқа томонида турган транспорт воситаларига эса барча йўналишларда ҳаракатланиш тақиқланади. Бу ерда оқ ва яшил автомобиллар айнан шу ҳолатда турибди.\r\n\r\nШунинг учун:\r\n- қизил ва сариқ автомобилларга ҳаракатланишга рухсат этилади;\r\n- кўк, оқ ва яшил автомобилларга ҳаракатланиш тақиқланади.\r\n\r\nДемак, тўғри жавоб — кўк, оқ ва яшил автомобилларга ҳаракатланиш тақиқланади (F2).",
+      "explanationRu": "Здесь необходимо обратить внимание на сигналы регулировщика.\r\n\r\nТранспортным средствам, находящимся сбоку от регулировщика, разрешается движение прямо и направо.\r\n\r\nВ данной ситуации сбоку находятся синий, красный и жёлтый автомобили. Однако направление движения синего автомобиля не соответствует разрешённым направлениям, поэтому ему движение запрещено.\r\n\r\nТранспортным средствам, находящимся перед грудью и за спиной регулировщика, движение запрещено во всех направлениях. В таком положении находятся белый и зелёный автомобили.\r\n\r\nСледовательно:\r\n- красному и жёлтому автомобилям движение разрешено;\r\n- синему, белому и зелёному автомобилям движение запрещено.\r\n\r\nПравильный ответ — движение запрещено синему, белому и зелёному автомобилям (F2).",
+      "explanationOz": "Bu yerda tartibga soluvchining ishoralariga eʼtibor beramiz.\r\n\r\nTartibga soluvchining yon tomonida turgan transport vositalariga toʻgʻriga va oʻngga harakatlanishga ruxsat etiladi.\r\n\r\nUshbu vaziyatda yon tomonda ko‘k, qizil va sariq avtomobillar joylashgan. Biroq ko‘k avtomobilning yo‘nalishi ruxsat etilgan yo‘nalishlarga mos kelmaydi, shuning uchun u harakatlana olmaydi.\r\n\r\nTartibga soluvchining oldi va orqa tomonida turgan transport vositalariga esa barcha yoʻnalishlarda harakatlanish taqiqlanadi. Bu yerda oq va yashil avtomobillar aynan shu holatda turibdi.\r\n\r\nShuning uchun:\r\n- qizil va sariq avtomobillarga harakatlanishga ruxsat etiladi;\r\n- ko‘k, oq va yashil avtomobillarga harakatlanish taqiqlanadi.\r\n\r\nDemak, toʻgʻri javob — ko‘k, oq va yashil avtomobillarga harakatlanish taqiqlanadi (F2).",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.5.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5839,
+          "textUz": "Қизил ва оқ автомобилларга",
+          "textRu": "Красному и белому автомобилям",
+          "textOz": "Qizil va oq avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5840,
+          "textUz": "Кўк, яшил ва оқ автомобилларга",
+          "textRu": "Синему, зеленому и белому автомобилям",
+          "textOz": "Ko'k, yashil va oq avtomobillarga",
+          "isCorrect": true
+        },
+        {
+          "id": 5841,
+          "textUz": "Оқ, кўк ва сариқ автомобилларга",
+          "textRu": "Белому, синему и желтому автомобилям",
+          "textOz": "Oq, ko'k va sariq avtomobillarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5840
+      ]
+    },
+    {
+      "id": 449,
+      "questionUz": "Қайси транспорт воситаси ҳайдовчиси тўғрига ҳаракатланиш ҳуқуқига эга?",
+      "questionRu": "Кто из водителей имеет право двигаться в прямом направлении?",
+      "questionOz": "Qaysi transport vositasi haydovchisi to'g'riga harakatlanish huquqiga ega?",
+      "explanationUz": "Саволда қайси транспорт воситаси ҳайдовчиси тўғрига ҳаракатланиш ҳуқуқига эга эканлиги сўралмоқда.\r\n\r\nБиринчи навбатда тартибга солувчининг ҳолатини аниқлаймиз. Тартибга солувчининг орқа томонида автобус турибди. Тартибга солувчининг орқа ва олд томонида турган транспорт воситаларига барча йўналишларда ҳаракатланиш тақиқланади. Шунинг учун автобусга ҳаракатланиш тақиқланади.\r\n\r\nШунингдек, кўк автомобил ҳам тақиқланган томонда жойлашган, демак унга ҳам ҳаракатланишга рухсат берилмайди.\r\n\r\nМотоциклга эса фақат ўнгга бурилишга рухсат берилган, шунинг учун у тўғрига ҳаракатлана олмайди.\r\n\r\nЕнгил автомобил эса тўғрига ҳаракатланиши мумкин. Шу сабабли саволда айнан «тўғрига ким ҳаракатлана олади?» деб сўралган бўлса, тўғри жавоб — енгил автомобил.\r\n\r\nДемак, тўғри жавоб — фақат енгил автомобил тўғрига ҳаракатланиш ҳуқуқига эга.",
+      "explanationRu": "Вопрос заключается в том, водитель какого транспортного средства имеет право двигаться прямо.\r\n\r\nСначала определяем положение регулировщика. За спиной регулировщика находится автобус. Транспортным средствам, находящимся перед грудью и за спиной регулировщика, движение запрещено во всех направлениях. Поэтому автобусу движение запрещено.\r\n\r\nСиний автомобиль также находится в запрещённом положении, поэтому ему движение не разрешается.\r\n\r\nМотоциклу разрешён только поворот направо, поэтому он не может двигаться прямо.\r\n\r\nЛегковой автомобиль имеет право двигаться прямо. Поэтому, если вопрос касается именно движения прямо, правильный ответ — легковой автомобиль.\r\n\r\nСледовательно, только водитель легкового автомобиля имеет право двигаться прямо.",
+      "explanationOz": "Savolda qaysi transport vositasi haydovchisi toʻgʻriga harakatlanish huquqiga ega ekanligi soʻralmoqda.\r\n\r\nBirinchi navbatda tartibga soluvchining holatini aniqlaymiz. Tartibga soluvchining orqa tomonida avtobus turibdi. Tartibga soluvchining orqa va old tomonida turgan transport vositalariga barcha yoʻnalishlarda harakatlanish taqiqlanadi. Shuning uchun avtobusga harakatlanish taqiqlanadi.\r\n\r\nShuningdek, ko‘k avtomobil ham taqiqlangan tomonda joylashgan, demak unga ham harakatlanishga ruxsat berilmaydi.\r\n\r\nMototsiklga esa faqat oʻngga burilishga ruxsat berilgan, shuning uchun u toʻgʻriga harakatlana olmaydi.\r\n\r\nYengil avtomobil esa toʻgʻriga harakatlanishi mumkin. Shu sababli savolda aynan \"toʻgʻriga kim harakatlana oladi?\" deb soʻralgan bo‘lsa, toʻgʻri javob — yengil avtomobil.\r\n\r\nDemak, toʻgʻri javob — faqat yengil avtomobil toʻgʻriga harakatlanish huquqiga ega.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5842,
+          "textUz": "Автобус ва мотоцикл ҳайдовчилари",
+          "textRu": "Водители автобуса и мотоцикла",
+          "textOz": "Avtobus va motosikl haydovchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 5843,
+          "textUz": "Енгил ва юк автомобиллари ҳайдовчилари",
+          "textRu": "Водители легкового и грузового автомобилей",
+          "textOz": "Engil va yuk avtomobillari haydovchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 5844,
+          "textUz": "Енгил автомобил ҳайдовчиси",
+          "textRu": "Водитель легкового автомобиля",
+          "textOz": "Engil avtomobil haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5844
+      ]
+    },
+    {
+      "id": 450,
+      "questionUz": "Қайси  транспорт воситасига ҳаракатланиш рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешено движение?",
+      "questionOz": "Qaysi  transport vositasiga harakatlanish ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 7-боби 38-бандига асосан, тартибга солувчининг қўллари ён томонга узатилганда ёки туширилганда: чап ва ўнг ён томонидан трамвайга тўғрига, рельссиз транспорт воситаларига тўғрига ва ўнгга ҳаракатланишга, пиёдаларга қатнов қисмини кесиб ўтишга рухсат берилади; олд ва орқа томонидан барча транспорт воситалари ва пиёдаларнинг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно пункту 38 главы 7 ПДД, руки регулировщика вытянуты в стороны или опущены означают что: со стороны левого и правого бока — разрешено движение трамваю прямо, безрельсовым транспортным средствам — прямо и направо, пешеходам разрешено переходить проезжую часть; со стороны груди и спины — движение всех транспортных средств и пешеходов запрещено.",
+      "explanationOz": "YHQ 7-bobi 38-bandiga asosan, tartibga soluvchining qo'llari yon tomonga uzatilganda yoki tushirilganda: chap va o'ng yon tomonidan tramvayga to'g'riga, relssiz transport vositalariga to'g'riga va o'ngga harakatlanishga, piyodalarga qatnov qismini kesib o'tishga ruxsat beriladi; old va orqa tomonidan barcha transport vositalari va piyodalarning harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 1519,
+          "textUz": "Мотоциклга",
+          "textRu": "Мотоциклу",
+          "textOz": "Motosiklga",
+          "isCorrect": false
+        },
+        {
+          "id": 1520,
+          "textUz": "Юк автомобилига",
+          "textRu": "Грузовому автомобилю",
+          "textOz": "Yuk avtomobiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 1521,
+          "textUz": "Автобусга",
+          "textRu": "Автобусу",
+          "textOz": "Avtobusga",
+          "isCorrect": false
+        },
+        {
+          "id": 1522,
+          "textUz": "Енгил автомобилга",
+          "textRu": "Легковому автомобилю",
+          "textOz": "Engil avtomobilga",
+          "isCorrect": true
+        },
+        {
+          "id": 1523,
+          "textUz": "Енгил ва юк автомобилларига",
+          "textRu": "Легковому и и грузовому автомобилям",
+          "textOz": "Engil va yuk avtomobillariga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1522
+      ]
+    },
+    {
+      "id": 451,
+      "questionUz": "Тартибга солувчининг мазкур ишораси  қyйидагини билдиради:",
+      "questionRu": "Этот сигнал регулировщика означает,что:",
+      "questionOz": "Tartibga soluvchining mazkur ishorasi  qo'yidagini bildiradi:",
+      "explanationUz": "Бу саволда тартибга солувчининг ишораси кимларга нимани билдириши сўралган.\r\n\r\nТартибга солувчининг орқа томонида оқ автомобил турибди. Тартибга солувчининг орқа томонида турган транспорт воситаларига барча йўналишларда ҳаракатланиш тақиқланади.\r\n\r\nЎнг томонда турган сариқ автомобил ҳам тақиқланган йўналишда жойлашган, шунинг учун унга ҳам ҳаракатланишга рухсат берилмайди.\r\n\r\nЯшил автомобилга эса фақат ўнгга ҳаракатланишга рухсат этилади.\r\n\r\nТартибга солувчининг ён томонида турган транспорт воситаларига эса барча рухсат этилган йўналишларда ҳаракатланиш мумкин.\r\n\r\nДемак, тўғри жавоб — оқ ва сариқ автомобилларга ҳаракатланиш тақиқланади, яшил автомобилга эса фақат ўнгга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В этом вопросе необходимо определить, что означает данный сигнал регулировщика для каждого транспортного средства.\r\n\r\nПозади регулировщика находится белый автомобиль. Транспортным средствам, находящимся за спиной регулировщика, движение запрещено во всех направлениях.\r\n\r\nЖёлтый автомобиль также находится в запрещённом направлении, поэтому ему движение не разрешается.\r\n\r\nЗелёному автомобилю разрешено движение только направо.\r\n\r\nТранспортным средствам, находящимся сбоку от регулировщика, разрешено движение во всех допустимых направлениях.\r\n\r\nСледовательно, правильный ответ — белому и жёлтому автомобилям движение запрещено, а зелёному автомобилю разрешено движение только направо.",
+      "explanationOz": "Bu savolda tartibga soluvchining ishorasi kimlarga nimani bildirishi soʻralgan.\r\n\r\nTartibga soluvchining orqa tomonida oq avtomobil turibdi. Tartibga soluvchining orqa tomonida turgan transport vositalariga barcha yoʻnalishlarda harakatlanish taqiqlanadi.\r\n\r\nOʻng tomonda turgan sariq avtomobil ham taqiqlangan yoʻnalishda joylashgan, shuning uchun unga ham harakatlanishga ruxsat berilmaydi.\r\n\r\nYashil avtomobilga esa faqat oʻngga harakatlanishga ruxsat etiladi.\r\n\r\nTartibga soluvchining yon tomonida turgan transport vositalariga esa barcha ruxsat etilgan yoʻnalishlarda harakatlanish mumkin.\r\n\r\nDemak, toʻgʻri javob — oq va sariq avtomobillarga harakatlanish taqiqlanadi, yashil avtomobilga esa faqat oʻngga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5848,
+          "textUz": "Кўк, яшил автомобилларга ҳаракатланишга рухсат этилади. Қизил, сариқ, оқ автомобилларга таъқиқланади",
+          "textRu": "Разрешено движение синемлоу, зеленому автомобилям. Запрещено красному, желтому, бему",
+          "textOz": "Ko'k, yashil avtomobillarga harakatlanishga ruxsat etiladi. Qizil, sariq, oq avtomobillarga taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 5849,
+          "textUz": "Кўк, қизил, яшил автомобилларга ҳаракатланишга рухсат этилади. Сариқ, оқ автомобилларга таъқиқланади",
+          "textRu": "Разрешено движение синему, красному, зеленому автомобилям. Запрещено желтому, белому",
+          "textOz": "Ko'k, qizil, yashil avtomobillarga harakatlanishga ruxsat etiladi. Sariq, oq avtomobillarga taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5849
+      ]
+    },
+    {
+      "id": 452,
+      "questionUz": "Қайси транспорт воситаларига ҳаракатланишга рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешено движение?",
+      "questionOz": "Qaysi transport vositalariga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Бу ҳолатда тартибга солувчининг ишораларини таҳлил қиламиз.\r\n\r\n- Орқа томонда турган транспорт воситаларига барча йўналишларда ҳаракатланиш тақиқланади. Шунинг учун оқ автомобилга ҳаракатланиш тақиқланади.\r\n- Ўнг томонда жойлашган сариқ автомобилга ҳам ҳаракатланишга рухсат берилмайди.\r\n- Яшил автомобилга фақат ўнгга ҳаракатланишга рухсат этилади.\r\n- Кўк ва қизил автомобиллар тартибга солувчининг ён томонида жойлашган. Уларга рухсат этилган йўналишлар бўйича ҳаракатланиш мумкин.\r\n\r\nДемак:\r\n- оқ ва сариқ автомобилларга ҳаракатланиш тақиқланади;\r\n- яшил, кўк ва қизил автомобилларга ҳаракатланишга рухсат этилади.\r\n\r\nТўғри жавоб — қизил, яшил ва кўк автомобиллар.",
+      "explanationRu": "В данной ситуации анализируем сигналы регулировщика.\r\n\r\n- Транспортным средствам, находящимся за спиной регулировщика, движение запрещено во всех направлениях. Поэтому белому автомобилю движение запрещено.\r\n- Жёлтому автомобилю также движение не разрешается.\r\n- Зелёному автомобилю разрешено движение только направо.\r\n- Синий и красный автомобили находятся сбоку от регулировщика, поэтому им разрешено движение в допустимых направлениях.\r\n\r\nСледовательно:\r\n- белому и жёлтому автомобилям движение запрещено;\r\n- зелёному, синему и красному автомобилям движение разрешено.\r\n\r\nПравильный ответ — красный, зелёный и синий автомобили.",
+      "explanationOz": "Bu holatda tartibga soluvchining ishoralarini tahlil qilamiz.\r\n\r\n- Orqa tomonda turgan transport vositalariga barcha yoʻnalishlarda harakatlanish taqiqlanadi. Shuning uchun oq avtomobilga harakatlanish taqiqlanadi.\r\n- Oʻng tomonda joylashgan sariq avtomobilga ham harakatlanishga ruxsat berilmaydi.\r\n- Yashil avtomobilga faqat oʻngga harakatlanishga ruxsat etiladi.\r\n- Koʻk va qizil avtomobillar tartibga soluvchining yon tomonida joylashgan. Ularga ruxsat etilgan yoʻnalishlar boʻyicha harakatlanish mumkin.\r\n\r\nDemak:\r\n- oq va sariq avtomobillarga harakatlanish taqiqlanadi;\r\n- yashil, koʻk va qizil avtomobillarga harakatlanishga ruxsat etiladi.\r\n\r\nToʻgʻri javob — qizil, yashil va koʻk avtomobillar.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5850,
+          "textUz": "Фақат қизил автомобилга.",
+          "textRu": "Только красному автомобилю",
+          "textOz": "Faqat qizil avtomobilga.",
+          "isCorrect": false
+        },
+        {
+          "id": 5851,
+          "textUz": "Барча транспорт воситаларига.",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga.",
+          "isCorrect": false
+        },
+        {
+          "id": 5852,
+          "textUz": "Қизил, кўк ва яшил автомобилларга.",
+          "textRu": "Красному, синему и зелёным автомобилям.",
+          "textOz": "Qizil, ko'k va yashil avtomobillarga.",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5852
+      ]
+    },
+    {
+      "id": 453,
+      "questionUz": "Ҳаракатланиш кимга рухсат этилган?",
+      "questionRu": "Движение разрешено:",
+      "questionOz": "Harakatlanish kimga ruxsat etilgan?",
+      "explanationUz": "Бу ҳолатда тартибга солувчи трамвай ва кўк автомобил томонга қараб турибди.\r\n\r\nТартибга солувчининг олди ёки орқа томонида турган транспорт воситаларига барча йўналишларда ҳаракатланиш тақиқланади.\r\n\r\nШунинг учун:\r\n- трамвайга ҳаракатланиш тақиқланади;\r\n- кўк автомобилга ҳам ҳаракатланиш тақиқланади.\r\n\r\nЁн томондан келаётган транспорт воситаларига эса тўғрига ва ўнгга ҳаракатланишга рухсат этилади.\r\n\r\nМотоцикл ҳеч қандай бурилиш ишорасини ёқмаган ва биринчи тасмадан тўғрига ҳаракатланмоқчи. Бу ҳаракат қоидаларга мос келади.\r\n\r\nДемак, ушбу вазиятда мотоциклга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации регулировщик обращён к трамваю и синему автомобилю.\r\n\r\nТранспортным средствам, находящимся перед грудью или за спиной регулировщика, движение запрещено во всех направлениях.\r\n\r\nПоэтому:\r\n- трамваю движение запрещено;\r\n- синему автомобилю также движение запрещено.\r\n\r\nТранспортным средствам, находящимся сбоку от регулировщика, разрешено движение прямо и направо.\r\n\r\nМотоцикл не подаёт сигнал поворота и собирается двигаться прямо из первой полосы, что соответствует правилам.\r\n\r\nСледовательно, движение мотоциклу разрешено.",
+      "explanationOz": "Bu holatda tartibga soluvchi tramvay va ko‘k avtomobil tomonga qarab turibdi.\r\n\r\nTartibga soluvchining oldi yoki orqa tomonida turgan transport vositalariga barcha yoʻnalishlarda harakatlanish taqiqlanadi.\r\n\r\nShuning uchun:\r\n- tramvayga harakatlanish taqiqlanadi;\r\n- ko‘k avtomobilga ham harakatlanish taqiqlanadi.\r\n\r\nYon tomondan kelayotgan transport vositalariga esa toʻgʻriga va oʻngga harakatlanishga ruxsat etiladi.\r\n\r\nMototsikl hech qanday burilish ishorasini yoqmagan va birinchi tasmadan toʻgʻriga harakatlanmoqchi. Bu harakat qoidalarga mos keladi.\r\n\r\nDemak, ushbu vaziyatda mototsiklga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.6.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5856,
+          "textUz": "Барча транспорт воситаларига",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 5857,
+          "textUz": "Мотоциклга",
+          "textRu": "Мотоциклу",
+          "textOz": "Motosiklga",
+          "isCorrect": true
+        },
+        {
+          "id": 5858,
+          "textUz": "Автомобил ва мотоциклга",
+          "textRu": "Автомобилю и мотоциклу",
+          "textOz": "Avtomobil va motosiklga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5857
+      ]
+    },
+    {
+      "id": 454,
+      "questionUz": "Қайси транспорт воситаларига ҳаракатланиш рухсат этилади?",
+      "questionRu": "Каким транспортным средствам движение разрешено?",
+      "questionOz": "Qaysi transport vositalariga harakatlanish ruxsat etiladi?",
+      "explanationUz": "Бу ҳолатда тартибга солувчининг ишораларини тўғри аниқлаш керак.\r\n\r\n- Тартибга солувчининг орқа томонида турган сариқ ва қора автомобилларга барча йўналишларда ҳаракатланиш тақиқланади.\r\n- Яшил автомобилга фақат ўнгга ҳаракатланишга рухсат этилади.\r\n- Қизил ва кўк автомобиллар тартибга солувчининг ён томонида жойлашганлиги сабабли, уларга рухсат этилган йўналишларда ҳаракатланиш мумкин.\r\n\r\nДемак:\r\n- сариқ ва қора автомобилларга ҳаракатланиш тақиқланади;\r\n- яшил, кўк ва қизил автомобилларга ҳаракатланишга рухсат этилади.\r\n\r\nТўғри жавоб — яшил, кўк ва қизил автомобилларга рухсат этилади.",
+      "explanationRu": "В данной ситуации необходимо правильно определить сигналы регулировщика.\r\n\r\n- Жёлтому и чёрному автомобилям, находящимся за спиной регулировщика, движение запрещено во всех направлениях.\r\n- Зелёному автомобилю разрешено движение только направо.\r\n- Красный и синий автомобили находятся сбоку от регулировщика, поэтому им разрешено движение в допустимых направлениях.\r\n\r\nСледовательно:\r\n- жёлтому и чёрному автомобилям движение запрещено;\r\n- зелёному, синему и красному автомобилям движение разрешено.\r\n\r\nПравильный ответ — движение разрешено зелёному, синему и красному автомобилям.",
+      "explanationOz": "Bu holatda tartibga soluvchining ishoralarini toʻgʻri aniqlash kerak.\r\n\r\n- Tartibga soluvchining orqa tomonida turgan sariq va qora avtomobillarga barcha yoʻnalishlarda harakatlanish taqiqlanadi.\r\n- Yashil avtomobilga faqat oʻngga harakatlanishga ruxsat etiladi.\r\n- Qizil va koʻk avtomobillar tartibga soluvchining yon tomonida joylashganligi sababli, ularga ruxsat etilgan yoʻnalishlarda harakatlanish mumkin.\r\n\r\nDemak:\r\n- sariq va qora avtomobillarga harakatlanish taqiqlanadi;\r\n- yashil, koʻk va qizil avtomobillarga harakatlanishga ruxsat etiladi.\r\n\r\nToʻgʻri javob — yashil, koʻk va qizil avtomobillarga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5859,
+          "textUz": "Яшил, кўк ва қора автомобилларга",
+          "textRu": "Зеленому, синему и черному автомобилям",
+          "textOz": "Yashil, ko'k va qora avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5860,
+          "textUz": "Қизил, сариқ ва яшил автомобилларга",
+          "textRu": "Красному, желтому и зеленому автомобилям",
+          "textOz": "Qizil, sariq va yashil avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 5861,
+          "textUz": "Яшил, кўк ва қизил",
+          "textRu": "Зеленому, синему и красному автомобилям",
+          "textOz": "Yashil, ko'k va qizil",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5861
+      ]
+    },
+    {
+      "id": 455,
+      "questionUz": "Автомобил қайси йўналишларда ҳаракатланиши мумкин?",
+      "questionRu": "В каких направлениях может двигаться автомобиль?",
+      "questionOz": "Avtomobil qaysi yo'nalishlarda harakatlanishi mumkin?",
+      "explanationUz": "Бу ҳолатда тартибга солувчининг ишоралари ва светофор сигналлари бир-бирига зид келмоқда.\r\n\r\nЙўл ҳаракати қоидаларига кўра, агар тартибга солувчининг ишоралари светофор ёки йўл белгиларининг талабларига зид келса, ҳайдовчилар тартибга солувчининг ишораларига амал қилишлари керак.\r\n\r\nШунинг учун бу вазиятда светофор ишоралари эмас, балки тартибга солувчининг ишоралари устун ҳисобланади.\r\n\r\nАгар тартибга солувчининг ҳолати барча йўналишларда ҳаракатланишга рухсат бераётган бўлса, демак транспорт воситалар�� барча рухсат этилган йўналишларда ҳаракатланишлари мумкин.\r\n\r\nДемак, тўғри жавоб — тартибга солувчининг ишораларига амал қилинади ва ушбу ҳолатда барча йўналишларга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации сигналы регулировщика и светофора противоречат друг другу.\r\n\r\nСогласно Правилам дорожного движения, если сигналы регулировщика противоречат сигналам светофора или требованиям дорожных знаков, водители обязаны руководствоваться сигналами регулировщика.\r\n\r\nПоэтому в данной ситуации приоритет имеют именно сигналы регулировщика, а не светофора.\r\n\r\nЕсли положение регулировщика разрешает движение во всех направлениях, то транспортные средства могут двигаться во всех разрешённых направлениях.\r\n\r\nСледовательно, правильный ответ — необходимо руководствоваться сигналами регулировщика, и в данной ситуации движение разрешено во всех направлениях.",
+      "explanationOz": "Bu holatda tartibga soluvchining ishoralari va svetofor signallari bir-biriga zid kelmoqda.\r\n\r\nYoʻl harakati qoidalariga koʻra, agar tartibga soluvchining ishoralari svetofor yoki yoʻl belgilarining talablariga zid kelsa, haydovchilar tartibga soluvchining ishoralariga amal qilishlari kerak.\r\n\r\nShuning uchun bu vaziyatda svetofor ishoralari emas, balki tartibga soluvchining ishoralari ustun hisoblanadi.\r\n\r\nAgar tartibga soluvchining holati barcha yoʻnalishlarda harakatlanishga ruxsat berayotgan boʻlsa, demak transport vositalari barcha ruxsat etilgan yoʻnalishlarda harakatlanishlari mumkin.\r\n\r\nDemak, toʻgʻri javob — tartibga soluvchining ishoralariga amal qilinadi va ushbu holatda barcha yoʻnalishlarga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/6.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5862,
+          "textUz": "Фақат ўнгга",
+          "textRu": "Только направо",
+          "textOz": "Faqat o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 5863,
+          "textUz": "Тўхташ ва светофорнинг яшил чироғини кутиш",
+          "textRu": "Остановиться и ждать зеленого сигнала светофора",
+          "textOz": "To'xtash va svetoforning yashil chirog'ini kutish",
+          "isCorrect": false
+        },
+        {
+          "id": 5864,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 5865,
+          "textUz": "Барча йўналишлар бўйича",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlar bo'yicha",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5865
+      ]
+    },
+    {
+      "id": 456,
+      "questionUz": "Қайси транспорт воситаларига ҳаракатланиш учун рухсат берилган?",
+      "questionRu": "Каким транспортным средствам разрешено движение?",
+      "questionOz": "Qaysi transport vositalariga harakatlanish uchun ruxsat berilgan?",
+      "explanationUz": "Саволда қайси транспорт воситаларига ҳаракатланишга рухсат берилгани сўралмоқда.\r\n\r\nТартибга солувчининг орқа томонида турган ҳар қандай транспорт воситасига барча йўналишларда ҳаракатланиш тақиқланади. Ушбу ҳолатда орқа томонда ҳеч қандай транспорт воситаси йўқ.\r\n\r\nЯшил автомобил ва мотоцикл эса тартибга солувчининг ён томонида жойлашган. Тартибга солувчининг ён томонида турган транспорт воситаларига рухсат этилган йўналишларда ҳаракатланишга рухсат берилади.\r\n\r\nШунинг учун ушбу вазиятда:\r\n- енгил автомобилга ҳаракатланишга рухсат этилади;\r\n- мотоциклга ҳам ҳаракатланишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — енгил автомобил ва мотоциклга ҳаракатланишга рухсат берилади.",
+      "explanationRu": "Вопрос заключается в том, каким транспортным средствам разрешено движение.\r\n\r\nЛюбому транспортному средству, находящемуся за спиной регулировщика, движение запрещено во всех направлениях. В данной ситуации за спиной регулировщика транспортных средств нет.\r\n\r\nЗелёный легковой автомобиль и мотоцикл находятся сбоку от регулировщика. Транспортным средствам, находящимся сбоку от регулировщика, разрешено движение в разрешённых направлениях.\r\n\r\nСледовательно:\r\n- легковому автомобилю движение разрешено;\r\n- мотоциклу также движение разрешено.\r\n\r\nПравильный ответ — движение разрешено легковому автомобилю и мотоциклу.",
+      "explanationOz": "Savolda qaysi transport vositalariga harakatlanishga ruxsat berilgani soʻralmoqda.\r\n\r\nTartibga soluvchining orqa tomonida turgan har qanday transport vositasiga barcha yoʻnalishlarda harakatlanish taqiqlanadi. Ushbu holatda orqa tomonda hech qanday transport vositasi yoʻq.\r\n\r\nYashil avtomobil va mototsikl esa tartibga soluvchining yon tomonida joylashgan. Tartibga soluvchining yon tomonida turgan transport vositalariga ruxsat etilgan yoʻnalishlarda harakatlanishga ruxsat beriladi.\r\n\r\nShuning uchun ushbu vaziyatda:\r\n- yengil avtomobilga harakatlanishga ruxsat etiladi;\r\n- mototsiklga ham harakatlanishga ruxsat etiladi.\r\n\r\nDemak, toʻgʻri javob — yengil avtomobil va mototsiklga harakatlanishga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5866,
+          "textUz": "Енгил ва юк автомобилларига",
+          "textRu": "Легковому и грузовому автомобилям",
+          "textOz": "Engil va yuk avtomobillariga",
+          "isCorrect": false
+        },
+        {
+          "id": 5867,
+          "textUz": "Мотоциклга, енгил ва юк автомобилларига\n",
+          "textRu": "Мотоциклу, легковому и грузовому автомобилям",
+          "textOz": "Motosiklga, engil va yuk avtomobillariga\n",
+          "isCorrect": false
+        },
+        {
+          "id": 5868,
+          "textUz": "Енгил автомобилга ва мотоциклга",
+          "textRu": "Легковому автомобилю и мотоциклу",
+          "textOz": "Engil avtomobilga va motosiklga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5868
+      ]
+    },
+    {
+      "id": 457,
+      "questionUz": "Ҳаракатланишга рухсат берилган:",
+      "questionRu": "Движение разрешено:",
+      "questionOz": "Harakatlanishga ruxsat berilgan:",
+      "explanationUz": "Агар тартибга солувчининг қўли сиз томонга қаратилган бўлса, шу томондан келаётган транспорт воситаларига фақат ўнгга ҳаракатланишга рухсат этилади.\r\n\r\nБошқа йўналишларда ҳаракатланиш тақиқланади.\r\n\r\nДемак, ушбу ҳолатда транспорт воситаларига фақат ўнгга, яъни биринчи йўналиш бўйича ҳаракатланишга рухсат берилади.",
+      "explanationRu": "Если рука регулировщика направлена в вашу сторону, то транспортным средствам, движущимся с этой стороны, разрешается движение только направо.\r\n\r\nДвижение в других направлениях запрещено.\r\n\r\nСледовательно, в данной ситуации разрешено движение только направо, то есть по первому направлению.",
+      "explanationOz": "Agar tartibga soluvchining qoʻli siz tomonga qaratilgan boʻlsa, shu tomondan kelayotgan transport vositalariga faqat oʻngga harakatlanishga ruxsat etiladi.\r\n\r\nBoshqa yoʻnalishlarda harakatlanish taqiqlanadi.\r\n\r\nDemak, ushbu holatda transport vositalariga faqat oʻngga, yaʼni birinchi yoʻnalish boʻyicha harakatlanishga ruxsat beriladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/8.4.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5869,
+          "textUz": "Тўғрига",
+          "textRu": "Прямо",
+          "textOz": "To'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 5870,
+          "textUz": "Ўнгга биринчи йўлга",
+          "textRu": "Направо в первый проезд",
+          "textOz": "O'ngga birinchi yo'lga",
+          "isCorrect": true
+        },
+        {
+          "id": 5871,
+          "textUz": "Ўнгга иккинчи йўлга",
+          "textRu": "Направо во второй проезд",
+          "textOz": "O'ngga ikkinchi yo'lga",
+          "isCorrect": false
+        },
+        {
+          "id": 5872,
+          "textUz": "Ўнгга биринчи ва иккинчи йўлларга",
+          "textRu": "Направо в первый и второй проезды",
+          "textOz": "O'ngga birinchi va ikkinchi yo'llarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5870
+      ]
+    },
+    {
+      "id": 458,
+      "questionUz": "Ҳаракатланиш кимга рухсат этилган?",
+      "questionRu": "Движение разрешено:",
+      "questionOz": "Harakatlanish kimga ruxsat etilgan?",
+      "explanationUz": "Бу ҳолатда тартибга солувчининг қўллари икки томонга ёзилган.\r\n\r\nТартибга солувчининг олди ва орқа томонида транспорт воситалари йўқ. Ён томондан келаётган транспорт воситаларига эса тўғрига ва ўнгга ҳаракатланишга рухсат этилади.\r\n\r\nШунинг учун:\r\n- чапга бурилиш тақиқланади;\r\n- трамвайга ўнгга бурилиш рухсат этилмайди, трамвай фақат тўғрига ҳаракатланиши мумкин;\r\n- кўк автомобил чапга бурилмоқчи бўлгани учун унга ҳаракатланиш тақиқланади.\r\n\r\nНатижада, фақат юк автомобили ва мотоцикл рухсат этилган йўналишда ҳаракатланмоқда.\r\n\r\nДемак, тўғри жавоб — юк автомобили ва мотоциклга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации руки регулировщика вытянуты в стороны.\r\n\r\nПеред регулировщиком и за его спиной транспортных средств нет. Транспортным средствам, приближающимся сбоку, разрешается движение прямо и направо.\r\n\r\nПоэтому:\r\n- поворот налево запрещён;\r\n- трамваю не разрешается поворот направо, для него разрешено только движение прямо;\r\n- синему автомобилю движение запрещено, так как он собирается повернуть налево.\r\n\r\nСледовательно, движение разрешено только грузовому автомобилю и мотоциклу.",
+      "explanationOz": "Bu holatda tartibga soluvchining qoʻllari ikki tomonga yozilgan.\r\n\r\nTartibga soluvchining oldi va orqa tomonida transport vositalari yoʻq. Yon tomondan kelayotgan transport vositalariga esa toʻgʻriga va oʻngga harakatlanishga ruxsat etiladi.\r\n\r\nShuning uchun:\r\n- chapga burilish taqiqlanadi;\r\n- tramvayga oʻngga burilish ruxsat etilmaydi, tramvay faqat toʻgʻriga harakatlanishi mumkin;\r\n- ko‘k avtomobil chapga burilmoqchi bo‘lgani uchun unga harakatlanish taqiqlanadi.\r\n\r\nNatijada, faqat yuk avtomobili va mototsikl ruxsat etilgan yoʻnalishda harakatlanmoqda.\r\n\r\nDemak, toʻgʻri javob — yuk avtomobili va mototsiklga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/21.15.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5873,
+          "textUz": "Юк автомобили ва мотоциклга",
+          "textRu": "Грузовому автомобилю и мотоциклу",
+          "textOz": "Yuk avtomobili va motosiklga",
+          "isCorrect": true
+        },
+        {
+          "id": 5874,
+          "textUz": "Барча транспорт воситаларига",
+          "textRu": "Всем транспортным средствам",
+          "textOz": "Barcha transport vositalariga",
+          "isCorrect": false
+        },
+        {
+          "id": 5875,
+          "textUz": "Трамвайга ва енгил автомобилга",
+          "textRu": "Трамваю и легковому автомобилю",
+          "textOz": "Tramvayga va engil avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 5876,
+          "textUz": "Енгил ва юк автомобилига, мотоциклга",
+          "textRu": "Легковому и грузовому автомобилям, мотоциклу",
+          "textOz": "Engil va yuk avtomobiliga, motosiklga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5873
+      ]
+    },
+    {
+      "id": 459,
+      "questionUz": "Мотоциклнинг ҳайдовчиси қандай ҳолда чапга тўғри бурилди?",
+      "questionRu": "В каком случае водитель мотоцикла повернул налево правильно?",
+      "questionOz": "Motosiklning haydovchisi qanday holda chapga to'g'ri burildi?",
+      "explanationUz": "Бу ҳолатда мотоциклнинг чапга бурилиши вақтинча тақиқланган.\r\n\r\nШунинг учун мотоцикл ҳайдовчиси чорраҳанинг ўртасига чиқмасдан тўхтаб кутиши керак.\r\n\r\nКейинчалик тартибга солувчининг ишораси чапга ҳаракатланишга рухсат берганда, ҳайдовчи тўхтамасдан чапга бурилиб кетиши мумкин.\r\n\r\nДемак, тўғри жавоб — мотоцикл ҳайдовчиси тўхтади ва тартибга солувчининг рухсат берувчи ишорасидан сўнг чапга бурилди.",
+      "explanationRu": "В данной ситуации поворот налево для мотоциклиста временно запрещён.\r\n\r\nПоэтому водитель мотоцикла должен остановиться, не выезжая на середину перекрёстка, и дождаться разрешающего сигнала регулировщика.\r\n\r\nПосле того как регулировщик разрешит движение налево, водитель может без дополнительной остановки выполнить поворот налево.\r\n\r\nСледовательно, правильный ответ — водитель мотоцикла остановился и после разрешающего сигнала регулировщика повернул налево.",
+      "explanationOz": "Bu holatda mototsiklning chapga burilishi vaqtincha taqiqlangan.\r\n\r\nShuning uchun mototsikl haydovchisi chorrahaning o‘rtasiga chiqmasdan to‘xtab kutishi kerak.\r\n\r\nKeyinchalik tartibga soluvchining ishorasi chapga harakatlanishga ruxsat berganda, haydovchi to‘xtamasdan chapga burilib ketishi mumkin.\r\n\r\nDemak, toʻgʻri javob — mototsikl haydovchisi toʻxtadi va tartibga soluvchining ruxsat beruvchi ishorasidan soʻng chapga burildi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/23.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5877,
+          "textUz": "Чорраҳага чиқди, юк автомобилини ўтказиб юборди, бурилишни тугаллади",
+          "textRu": "Выехал на перекресток, пропустил грузовой автомобиль, закончил поворот",
+          "textOz": "Chorrahaga chiqdi, yuk avtomobilini o'tkazib yubordi, burilishni tugalladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5878,
+          "textUz": "Чорраҳага чиқди ва тартибга солувчининг рухсат этувчи ишорасини кутиб, бурилишни тугаллади",
+          "textRu": "Выехал на перекресток и, дождавшись разрешающего жеста регулировщика, закончил поворот",
+          "textOz": "Chorrahaga chiqdi va tartibga soluvchining ruxsat etuvchi ishorasini kutib, burilishni tugalladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5879,
+          "textUz": "Тўхтади ва тартибга солувчининг рухсат этувчи ишорасида тўхтамай чапга бурилди",
+          "textRu": "Остановится и при разрешающем жесте регулировщика повернёт налево",
+          "textOz": "To'xtadi va tartibga soluvchining ruxsat etuvchi ishorasida to'xtamay chapga burildi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5879
+      ]
+    },
+    {
+      "id": 460,
+      "questionUz": "Ҳаракатланишга рухсат этилган барча транспорт воситалари қайси жавобда тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно названы все транспортные средства; которым разрешено движение?",
+      "questionOz": "Harakatlanishga ruxsat etilgan barcha transport vositalari qaysi javobda to'g'ri ko'rsatilgan?",
+      "explanationUz": "Бу ҳолатда тартибга солувчи қўлини чап томонга қаратган ҳолда турибди.\r\n\r\nШу томондан кўриниб турган релссиз транспорт воситаларига, яъни автомобиллар ва мотоциклга рухсат этилади.\r\n\r\nТрамвай учун эса ушбу ишора фақат чапга ҳаракатланишга рухсат беради. Бироқ трамвай тўғрига ҳаракатланмоқчи бўлгани сабабли, унга ҳаракатланишга рухсат берилмайди.\r\n\r\nДемак:\r\n- автомобиллар ва мотоциклга ҳаракатланишга рухсат этилади;\r\n- трамвайга ҳаракатланиш тақиқланади.\r\n\r\nТўғри жавоб — автомобиллар ва мотоцикл.",
+      "explanationRu": "В данной ситуации регулировщик держит руку, направленную влево.\r\n\r\nБезрельсовым транспортным средствам, находящимся с этой стороны, то есть автомобилям и мотоциклу, движение разрешено.\r\n\r\nДля трамвая данный сигнал разрешает движение только налево. Однако трамвай собирается двигаться прямо, поэтому движение для него запрещено.\r\n\r\nСледовательно:\r\n- автомобилям и мотоциклу движение разрешено;\r\n- трамваю движение запрещено.\r\n\r\nПравильный ответ — автомобили и мотоцикл.",
+      "explanationOz": "Bu holatda tartibga soluvchi qoʻlini chap tomonga qaratib turibdi.\r\n\r\nShu tomondan ko‘rinib turgan relssiz transport vositalariga, yaʼni avtomobillar va mototsiklga ruxsat etiladi.\r\n\r\nTramvay uchun esa ushbu ishora faqat chapga harakatlanishga ruxsat beradi. Biroq tramvay toʻgʻriga harakatlanmoqchi boʻlgani sababli, unga harakatlanishga ruxsat berilmaydi.\r\n\r\nDemak:\r\n- avtomobillar va mototsiklga harakatlanishga ruxsat etiladi;\r\n- tramvayga harakatlanish taqiqlanadi.\r\n\r\nToʻgʻri javob — avtomobillar va mototsikl.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5880,
+          "textUz": "Автомобиллар ва мотоцикл",
+          "textRu": "Автомобили и мотоцикл",
+          "textOz": "Avtomobillar va motosikl",
+          "isCorrect": true
+        },
+        {
+          "id": 5881,
+          "textUz": "Барча транспорт воситалари",
+          "textRu": "Все транспортные средства",
+          "textOz": "Barcha transport vositalari",
+          "isCorrect": false
+        },
+        {
+          "id": 5882,
+          "textUz": "Автомобиллар ва трамвай",
+          "textRu": "Автомобили и трамвай",
+          "textOz": "Avtomobillar va tramvay",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5880
+      ]
+    },
+    {
+      "id": 461,
+      "questionUz": "Қайси расмда ҳайдовчи тўғри бурилмоқда?",
+      "questionRu": "На каком рисунке водитель поворачивает правильно?",
+      "questionOz": "Qaysi rasmda haydovchi to'g'ri burilmoqda?",
+      "explanationUz": "Ушбу ҳолатда тартибга солувчининг қўли шлагбаум вазифасини бажаради.\r\n\r\nЕнгил автомобил ўнгга ҳаракатланмоқчи бўлгани учун унга ҳаракатланишга рухсат этилади.\r\n\r\nМотоцикл эса тақиқланган йўналишда ҳаракатланмоқчи, шунинг учун унга ҳаракатланиш тақиқланади.\r\n\r\nЭслаб қолинг:\r\n- агар тартибга солувчининг қўли сиз томондан қараганда чапга қаратилган бўлса, ҳаракатланишга рухсат берилади;\r\n- агар қўли сиз томондан қараганда ўнгга қаратилган бўлса, ҳаракатланиш тақиқланади.\r\n\r\nАгар саволда: «Қайси расмда ҳайдовчи тўғри бурилмоқда?» деб сўралган бўлса, тўғри жавоб — чапдаги расм.",
+      "explanationRu": "В данной ситуации рука регулировщика выполняет функцию шлагбаума.\r\n\r\nЛегковому автомобилю разрешено движение, поскольку он поворачивает направо.\r\n\r\nМотоциклу движение запрещено, так как он движется в запрещённом направлении.\r\n\r\nЗапомните:\r\n- если рука регулировщика, с вашей стороны, направлена влево — движение разрешено;\r\n- если рука направлена вправо — движение запрещено.\r\n\r\nЕсли в вопросе спрашивается: «На каком рисунке водитель правильно выполняет поворот?», правильный ответ — на левом рисунке.",
+      "explanationOz": "Ushbu holatda tartibga soluvchining qoʻli shlagbaum vazifasini bajaradi.\r\n\r\nYengil avtomobil oʻngga harakatlanmoqchi boʻlgani uchun unga harakatlanishga ruxsat etiladi.\r\n\r\nMototsikl esa taqiqlangan yoʻnalishda harakatlanmoqchi, shuning uchun unga harakatlanish taqiqlanadi.\r\n\r\nEslab qoling:\r\n- agar tartibga soluvchining qoʻli siz tomondan qaraganda chapga qaratilgan boʻlsa, harakatlanishga ruxsat beriladi;\r\n- agar qoʻli siz tomondan qaraganda oʻngga qaratilgan boʻlsa, harakatlanish taqiqlanadi.\r\n\r\nAgar savolda: «Qaysi rasmda haydovchi toʻgʻri burilmoqda?» deb soʻralgan boʻlsa, toʻgʻri javob — chapdagi rasm.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5883,
+          "textUz": "Чапдаги расмда",
+          "textRu": "На левом рисунке",
+          "textOz": "Chapdagi rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 5884,
+          "textUz": "Ўнгдаги расмда",
+          "textRu": "На правом рисунке",
+          "textOz": "O'ngdagi rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5883
+      ]
+    },
+    {
+      "id": 462,
+      "questionUz": "Ҳаракатланиш тақиқланган:",
+      "questionRu": "Движение запрещено:",
+      "questionOz": "Harakatlanish taqiqlangan:",
+      "explanationUz": "ЙҲҚ 7-боби 38-бандига асосан, тартибга солувчининг қўллари ён томонга узатилганда ёки туширилганда: чап ва ўнг ён томонидан трамвайга тўғрига, рельссиз транспорт воситаларига тўғрига ва ўнгга ҳаракатланишга, пиёдаларга қатнов қисмини кесиб ўтишга рухсат берилади; олд ва орқа томонидан барча транспорт воситалари ва пиёдаларнинг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно пункту 38 главы 7 ПДД, руки регулировщика вытянуты в стороны или опущены означают что: со стороны левого и правого бока — разрешено движение трамваю прямо, безрельсовым транспортным средствам — прямо и направо, пешеходам разрешено переходить проезжую часть; со стороны груди и спины — движение всех транспортных средств и пешеходов запрещено.",
+      "explanationOz": "YHQ 7-bobi 38-bandiga asosan, tartibga soluvchining qo'llari yon tomonga uzatilganda yoki tushirilganda: chap va o'ng yon tomonidan tramvayga to'g'riga, relssiz transport vositalariga to'g'riga va o'ngga harakatlanishga, piyodalarga qatnov qismini kesib o'tishga ruxsat beriladi; old va orqa tomonidan barcha transport vositalari va piyodalarning harakatlanishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4170,
+          "textUz": "Кўк-сариқ автомобилга чапга",
+          "textRu": "Сине-желтому автомобилю - налево",
+          "textOz": "Ko'k-sariq avtomobilga chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 4171,
+          "textUz": "Кўк-сариқ автомобилга тўғрига, қизил автомобилга тўғрига ва ўнгга",
+          "textRu": "Сине-желтому автомобилю - прямо, красному автомобилю — прямо и направо",
+          "textOz": "Ko'k-sariq avtomobilga to'g'riga, qizil avtomobilga to'g'riga va o'ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 4172,
+          "textUz": "Қизил автомобилга - тўғрига ва ўнгга",
+          "textRu": "Красному автомобилю — прямо и направо",
+          "textOz": "Qizil avtomobilga - to'g'riga va o'ngga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4170
+      ]
+    }
+  ]
+}

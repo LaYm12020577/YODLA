@@ -1,0 +1,781 @@
+{
+  "title": "Bilet 62 (PRO)",
+  "count": 20,
+  "questions": [
+    {
+      "id": 1225,
+      "questionUz": "Тартибга солувчининг чораҳаларда қўли юқорига кўтарилганда қандай маънони билдиради?",
+      "questionRu": "Что означает поднятая вверх рука регулировщика на перекрёстке?",
+      "questionOz": "Tartibga soluvchining chorrahalarda qo‘li yuqoriga ko‘tarilganda qanday ma’noni bildiradi?\r\n",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784377999904-26697545.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6604,
+          "textUz": "Светафор устунлиги",
+          "textRu": "Приоритет светофора",
+          "textOz": "Svetafor ustunligi",
+          "isCorrect": false
+        },
+        {
+          "id": 6605,
+          "textUz": "Йўналишни ўзгартириш",
+          "textRu": "Изменение направления движения",
+          "textOz": "Yo‘nalishni o‘zgartirish",
+          "isCorrect": false
+        },
+        {
+          "id": 6606,
+          "textUz": "Ҳаракатни бошлаш",
+          "textRu": "Начало движения",
+          "textOz": "Harakatni boshlash",
+          "isCorrect": false
+        },
+        {
+          "id": 6607,
+          "textUz": "Ҳаракатни тақиқлаш",
+          "textRu": "Запрещение движения",
+          "textOz": "Harakatni taqiqlash",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6607
+      ]
+    },
+    {
+      "id": 1226,
+      "questionUz": "Ушбу кўрсатилган жойда тўхташга рухсат этиладими?",
+      "questionRu": "Разрешена ли остановка в указанном месте?",
+      "questionOz": "Ushbu ko‘rsatilgan joyda to‘xtashga ruxsat etiladimi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378015676-208598454.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6608,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешена",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6609,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6608
+      ]
+    },
+    {
+      "id": 1227,
+      "questionUz": "Қайси жавобда чорраҳадан ўтиш навбати тўғри кўрсатилган?",
+      "questionRu": "В каком варианте правильно указан порядок проезда перекрёстка?\r\n",
+      "questionOz": "Qaysi javobda chorrahadan o‘tish navbati to‘g‘ri ko‘rsatilgan?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378035301-643243340.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6610,
+          "textUz": "Велосипед, оқ автомобиль, қизил автомобиль",
+          "textRu": "Велосипед, белый автомобиль, красный автомобиль",
+          "textOz": "Velosiped, oq avtomobil, qizil avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 6611,
+          "textUz": "Велосипед, қизил автомобиль, оқ автомобиль\n",
+          "textRu": "Велосипед, красный автомобиль, белый автомобиль",
+          "textOz": "Velosiped, qizil avtomobil, oq avtomobil\n",
+          "isCorrect": false
+        },
+        {
+          "id": 6612,
+          "textUz": "Қизил автомобиль, оқ автомобиль, велосипед\n",
+          "textRu": "Красный автомобиль, белый автомобиль, велосипед",
+          "textOz": "Qizil avtomobil, oq avtomobil, velosiped",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6610
+      ]
+    },
+    {
+      "id": 1228,
+      "questionUz": "Ушбу кўрсатилган йўл нечта қатнов қисмига эга?\r\n",
+      "questionRu": "Сколько проезжих частей имеет данная дорога?",
+      "questionOz": "Ushbu ko‘rsatilgan yo‘l nechta qatnov qismiga ega?",
+      "explanationUz": "ЙҲҚнинг 6-бандига асосан:\r\n\r\nАжратувчи минтақа — йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан кўтарилган ёки майсазор, ариқ, махсус тўсиқлар билан ажратилган баланд қисми.\r\n\r\nМазкур йўлда қатнов қисмлари ажратувчи минтақа билан ажратилганлиги сабабли йўл иккита қатнов қисмига эга.",
+      "explanationRu": "Согласно пункту 6 Правил дорожного движения:\r\n\r\nРазделительная полоса — это часть дороги, разделяющая расположенные рядом проезжие части, не предназначенная для движения или остановки транспортных средств и выделенная газоном, канавой, специальными ограждениями либо приподнятая над уровнем проезжей части.\r\n\r\nПоскольку на данной дороге проезжие части разделены разделительной полосой, дорога имеет две проезжие части.",
+      "explanationOz": "Ajratuvchi mintaqa — yo‘lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to‘xtashi uchun mo‘ljallanmagan, yo‘l sathidan ko‘tarilgan yoki maysazor, ariq, maxsus to‘siqlar bilan ajratilgan baland qismi.\r\n\r\nMazkur yo‘lda qatnov qismlari ajratuvchi mintaqa bilan ajratilganligi sababli yo‘l ikkita qatnov qismiga ega.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378058684-473290937.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6613,
+          "textUz": "Битта",
+          "textRu": "Одна",
+          "textOz": "Bitta",
+          "isCorrect": false
+        },
+        {
+          "id": 6614,
+          "textUz": "Иккита",
+          "textRu": "Две",
+          "textOz": "Ikkita",
+          "isCorrect": true
+        },
+        {
+          "id": 6615,
+          "textUz": "Саккизта",
+          "textRu": "Восемь",
+          "textOz": "Sakkizta",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6614
+      ]
+    },
+    {
+      "id": 1229,
+      "questionUz": "Ушбу белгилardan қайси бири «Сунъий йўл нотекислиги» деб аталади?",
+      "questionRu": "Какой из этих знаков называется «Искусственная неровность»?",
+      "questionOz": "Ushbu belgilardan qaysi biri “Sun’iy yo‘l notekisligi” deb ataladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378678187-129160089.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6656,
+          "textUz": "Иккинчи белги\n",
+          "textRu": "Второй знак",
+          "textOz": "Ikkinchi belgi",
+          "isCorrect": false
+        },
+        {
+          "id": 6657,
+          "textUz": "Ҳар иккала белги",
+          "textRu": "Оба знака",
+          "textOz": "Har ikkala belgi",
+          "isCorrect": false
+        },
+        {
+          "id": 6658,
+          "textUz": "Биринчи белги",
+          "textRu": "Первый знак",
+          "textOz": "Birinchi belgi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6658
+      ]
+    },
+    {
+      "id": 1230,
+      "questionUz": "Бу ҳолатда қайси ёруғлик ишорасини ёқишингиз шарт?",
+      "questionRu": "Какой световой сигнал вы обязаны включить в данной ситуации?",
+      "questionOz": "Bu holatda qaysi yorug'lik ishorasini yoqishingiz shart?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378076104-310986846.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6616,
+          "textUz": "Чапга бурилиш кўрсаткичини ёқинг",
+          "textRu": "Включите указатель левого поворота",
+          "textOz": "Chapga burilish ko'rsatkichini yoqing",
+          "isCorrect": true
+        },
+        {
+          "id": 6617,
+          "textUz": "Узоқ/яқин ёруғликка ўтказинг",
+          "textRu": "Переключите на дальний/ближний свет",
+          "textOz": "Uzoq/yaqin yorug'likka o'tkazing",
+          "isCorrect": false
+        },
+        {
+          "id": 6618,
+          "textUz": "Иккаласини бир вақтда қўлланг",
+          "textRu": "Используйте оба одновременно",
+          "textOz": "Ikkalasini bir vaqtta qo'llang",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6616
+      ]
+    },
+    {
+      "id": 1231,
+      "questionUz": "Кўрсатилган қайси йўналишга ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком из указанных направлений разрешено движение?",
+      "questionOz": "Ko'rsatilgan qaysi yo'nalishga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378093054-678410798.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6619,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to‘g‘riga",
+          "isCorrect": true
+        },
+        {
+          "id": 6620,
+          "textUz": "Фақат тўғрига ва чапга",
+          "textRu": "Только прямо и налево",
+          "textOz": "Faqat to‘g‘riga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6621,
+          "textUz": "Барча йўналишга рухсат этилади",
+          "textRu": "Разрешено движение во всех направлениях",
+          "textOz": "Barcha yo‘nalishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6622,
+          "textUz": "Фақат тўғрига, чапга ва қайрилиб олишга",
+          "textRu": "Только прямо, налево и на разворот",
+          "textOz": "Faqat to‘g‘riga, chapga va qayrilib olishga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6619
+      ]
+    },
+    {
+      "id": 1232,
+      "questionUz": "Ушбу ётиқ чизиқ қандай номланади?",
+      "questionRu": "Как называется данная горизонтальная дорожная разметка?",
+      "questionOz": "Ushbu yotiq chiziq qanday nomlanadi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784451533150-324043603.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6712,
+          "textUz": "Чорраҳа кенглиги",
+          "textRu": "Ширина перекрёстка",
+          "textOz": "Chorraha kengligi",
+          "isCorrect": false
+        },
+        {
+          "id": 6713,
+          "textUz": "Чорраҳа майдони",
+          "textRu": "Зона перекрёстка",
+          "textOz": "Chorraha maydoni",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6713
+      ]
+    },
+    {
+      "id": 1233,
+      "questionUz": "Сизга қувиб ўтишга рухсат бериладими?",
+      "questionRu": "Разрешён ли вам обгон?",
+      "questionOz": "Sizga quvib o‘tishga ruxsat beriladimi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378115549-635491394.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6623,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешён",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6624,
+          "textUz": "Агар чорраҳадан олдин қувиб ўтиш амалга оширилса, рухсат этилади",
+          "textRu": "Разрешён, если обгон будет завершён до перекрёстка",
+          "textOz": "Agar chorrahadan oldin quvib o‘tish amalga oshirilsa, ruxsat etiladi\n",
+          "isCorrect": false
+        },
+        {
+          "id": 6625,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещён",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6623
+      ]
+    },
+    {
+      "id": 1234,
+      "questionUz": "Қайси ҳайдовчилар чорраҳада бурилиш қоидаларини бузадилар?",
+      "questionRu": "Какие водители нарушают правила поворота на перекрестке?",
+      "questionOz": "Qaysi haydovchilar chorrahada burilish qoidalarini buzadilar?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784380555511-254187113.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6702,
+          "textUz": "Ҳеч ким қоидаларни бузмаяпти",
+          "textRu": "Никто не нарушает правила",
+          "textOz": "Hech kim qoidalarni buzmayapti",
+          "isCorrect": false
+        },
+        {
+          "id": 6703,
+          "textUz": "Фақат чапга бурилаётган мотосикл ҳайдовчиси",
+          "textRu": "Только водитель мотоцикла, поворачивающий налево",
+          "textOz": "Faqat chapga burilayotgan mototsikl haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 6704,
+          "textUz": "Иккиси ҳам",
+          "textRu": "Оба",
+          "textOz": "Ikkisi ham",
+          "isCorrect": true
+        },
+        {
+          "id": 6705,
+          "textUz": "Фақат машина ҳайдовчиси",
+          "textRu": "Только водитель автомобиля",
+          "textOz": "Faqat mashina haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6704
+      ]
+    },
+    {
+      "id": 1235,
+      "questionUz": "Ушбу белги ўрнатилган ҳудудда қайси тоифаларга эга автотранспорт воситалари ҳаракатланиши мумкин?",
+      "questionRu": "Транспортные средства каких категорий могут двигаться в зоне действия этого знака?",
+      "questionOz": "Ushbu belgi o'rnatilgan hududda qaysi toifalarga ega avtotransport vositalari harakatlanishi mumkin?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378988486-703149693.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6664,
+          "textUz": "Тоза",
+          "textRu": "Чистый",
+          "textOz": "Toza",
+          "isCorrect": true
+        },
+        {
+          "id": 6665,
+          "textUz": "Зарарли",
+          "textRu": "Вредный",
+          "textOz": "Zararli",
+          "isCorrect": false
+        },
+        {
+          "id": 6666,
+          "textUz": "Ўрта",
+          "textRu": "Средний",
+          "textOz": "O'rta",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6664
+      ]
+    },
+    {
+      "id": 1236,
+      "questionUz": "Икки томонлама йўлда ҳаракатсиз ҳолда бўлган жисм бор (бўчка, мешок, ...). Сиз бу нарсани қайси томонидан айланиб ўтасиз?",
+      "questionRu": "На двухсторонней дороге находится неподвижный предмет (бочка, мешок, ...). С какой стороны вы его объедете?",
+      "questionOz": "Ikki tomonlama yo'lda harakatsiz holda bo'lgan jism bor (bo'chka, meshok, ...). Siz bu narsani qaysi tomonidan aylanib o'tasiz?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4715,
+          "textUz": "Ўнг ва чап томонидан",
+          "textRu": "С правой и левой стороны",
+          "textOz": "O'ng va chap tomonidan",
+          "isCorrect": false
+        },
+        {
+          "id": 4716,
+          "textUz": "Ўнг томонидан",
+          "textRu": "С правой стороны",
+          "textOz": "O'ng tomonidan",
+          "isCorrect": true
+        },
+        {
+          "id": 4717,
+          "textUz": "Чап томонидан",
+          "textRu": "С левой стороны",
+          "textOz": "Chap tomonidan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4716
+      ]
+    },
+    {
+      "id": 1237,
+      "questionUz": "Қайси йўналишда ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешено движение?",
+      "questionOz": "Qaysi yo'nalishda harakatlanishga ruxsat etiladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378155863-283349955.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6629,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6630,
+          "textUz": "Барча йўналишга мумкин",
+          "textRu": "Можно во всех направлениях",
+          "textOz": "Barcha yo'nalishga mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 6631,
+          "textUz": "Тўғрига, чапга ва қайрилиб олишга",
+          "textRu": "Прямо, налево и на разворот",
+          "textOz": "To'g'riga, chapga va qayrilib olishga",
+          "isCorrect": true
+        },
+        {
+          "id": 6632,
+          "textUz": "Чапга ва ўнга",
+          "textRu": "Налево и направо",
+          "textOz": "Chapga va o'nga",
+          "isCorrect": false
+        },
+        {
+          "id": 6633,
+          "textUz": "Тўғрига ва чапга",
+          "textRu": "Прямо и налево",
+          "textOz": "To'g'riga va chapga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6631
+      ]
+    },
+    {
+      "id": 1238,
+      "questionUz": "Қайси йўналиш бўйича қайрилиб олишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешен разворот?",
+      "questionOz": "Qaysi yo'nalish bo'yicha qayrilib olishga ruxsat etiladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378171247-410607080.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6634,
+          "textUz": "2-йўналиш бўйича рухсат этилади",
+          "textRu": "Разрешено по направлению 2",
+          "textOz": "2-yo'nalish bo'yicha ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6635,
+          "textUz": "Ҳар иккисига тақиқланади",
+          "textRu": "В обоих запрещено",
+          "textOz": "Har ikkisiga taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 6636,
+          "textUz": "1-йўналиш бўйича рухсат этилади",
+          "textRu": "Разрешено по направлению 1",
+          "textOz": "1-yo'nalish bo'yicha ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6637,
+          "textUz": "Ҳар иккиси бўйича рухсат этилади",
+          "textRu": "Разрешено по обоим направлениям",
+          "textOz": "Har ikkisi bo'yicha ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6635
+      ]
+    },
+    {
+      "id": 1239,
+      "questionUz": "Қайси расмда 4 та тасма кўрсатилган?",
+      "questionRu": "На каком рисунке показано 4 полосы?",
+      "questionOz": "Qaysi rasmda 4 ta tasma ko'rsatilgan?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378190884-458001388.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6638,
+          "textUz": "2 ва 3",
+          "textRu": "2 и 3",
+          "textOz": "2 va 3",
+          "isCorrect": false
+        },
+        {
+          "id": 6639,
+          "textUz": "Фақат 2",
+          "textRu": "Только 2",
+          "textOz": "Faqat 2",
+          "isCorrect": false
+        },
+        {
+          "id": 6640,
+          "textUz": "Фақат 1",
+          "textRu": "Только 1",
+          "textOz": "Faqat 1",
+          "isCorrect": false
+        },
+        {
+          "id": 6641,
+          "textUz": "1, 2 ва 3",
+          "textRu": "1, 2 и 3",
+          "textOz": "1, 2 va 3",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6641
+      ]
+    },
+    {
+      "id": 1240,
+      "questionUz": "Ушбу транспорт воситасига қайси йўналишга ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешено движение этому транспортному средству?",
+      "questionOz": "Ushbu transport vositasiga qaysi yo'nalishga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378209396-42562334.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6642,
+          "textUz": "Тўғрига, ўнга ва орқага",
+          "textRu": "Прямо, направо и назад",
+          "textOz": "To'g'riga, o'nga va orqaga",
+          "isCorrect": false
+        },
+        {
+          "id": 6643,
+          "textUz": "Тўғрига, ўнга, чапга ва қайрилиб олишга",
+          "textRu": "Прямо, направо, налево и на разворот",
+          "textOz": "To'g'riga, o'nga, chapga va qayrilib olishga",
+          "isCorrect": false
+        },
+        {
+          "id": 6644,
+          "textUz": "Тўғрига ва пиёдага йўл бермасдан ўнга",
+          "textRu": "Прямо и направо, не уступая дорогу пешеходу",
+          "textOz": "To'g'riga va piyodaga yo'l bermasdan o'nga",
+          "isCorrect": false
+        },
+        {
+          "id": 6645,
+          "textUz": "Тўғрига ва пиёдага йўл бериб ўнга",
+          "textRu": "Прямо и направо, уступив дорогу пешеходу",
+          "textOz": "To'g'riga va piyodaga yo'l berib o'nga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6645
+      ]
+    },
+    {
+      "id": 1242,
+      "questionUz": "Қайси автомобиль ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого автомобиля должен уступить дорогу?",
+      "questionOz": "Qaysi avtomobil haydovchisi yo‘l berishi kerak?",
+      "explanationUz": "ЙҲҚнинг 16-боб, 105-банд 1-хатбошиси ва 106-бандига асосан:\r\n\r\n105. Тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак.\r\n\r\n106. Асосий йўлнинг йўналиши чорраҳада ўзгарганда, асосий йўлда ҳаракатланаётган ҳайдовчилар ўзаро тенг аҳамиятли йўллар чорраҳасидан ўтиш қоидасига амал қилишлари керак. Иккинчи даражали йўлларда ҳаракатланаётган ҳайдовчилар ҳам ўзаро шу қоидага амал қилишлари керак.",
+      "explanationRu": "Согласно главе 16, пункту 105 (абзац 1) и пункту 106 Правил дорожного движения:\r\n\r\n105. На перекрёстке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Это правило также распространяется на взаимное движение трамваев.\r\n\r\n106. Если направление главной дороги изменяется на перекрёстке, водители, движущиеся по главной дороге, должны руководствоваться правилами проезда перекрёстков равнозначных дорог. Водители, движущиеся по второстепенным дорогам также обязаны соблюдать это правило между собой.",
+      "explanationOz": "YHQning 16-bob, 105-band 1-xatboshisi va 106-bandiga asosan:\r\n\r\n105. Teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\r\n\r\n106. Asosiy yo‘lning yo‘nalishi chorrahada o‘zgarganda, asosiy yo‘lda harakatlanayotgan haydovchilar o‘zaro teng ahamiyatli yo‘llar chorrahasidan o‘tish qoidasiga amal qilishlari kerak. Ikkinchi darajali yo‘llarda harakatlanayotgan haydovchilar ham o‘zaro shu qoidaga amal qilishlari kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378922201-949211334.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6659,
+          "textUz": "Қора автомобиль ҳайдовчиси",
+          "textRu": "Водитель чёрного автомобиля",
+          "textOz": "Qora avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 6660,
+          "textUz": "Оқ автомобиль ҳайдовчиси",
+          "textRu": "Водитель белого автомобиля",
+          "textOz": "Oq avtomobil haydovchisi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6659
+      ]
+    },
+    {
+      "id": 1243,
+      "questionUz": "Автомагистралларда юк автомобилларига йўлнинг четки чап қаторида ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли грузовым автомобилям движение по крайней левой полосе на автомагистралях?",
+      "questionOz": "Avtomagistrallarda yuk avtomobillariga yo‘lning chetki chap qatorida harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 19-бўлими, 121-банд 2-хатбошисига асосан, автомагистралларда юк автомобилларига йўлнинг четки чап қаторида ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно главе 19, пункту 121 (абзац 2) Правил дорожного движения, движение грузовых автомобилей по крайней левой полосе автомагистрали запрещается.",
+      "explanationOz": "YHQ 19-bo‘limi, 121-band 2-xatboshisiga asosan, avtomagistrallarda yuk avtomobillariga yo‘lning chetki chap qatorida harakatlanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6528,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6529,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6529
+      ]
+    },
+    {
+      "id": 1244,
+      "questionUz": "Тартибга солувчининг ушбу ишорасида қайси транспорт воситаларига ҳаракатланишга рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешается движение при данном сигнале регулировщика?",
+      "questionOz": "Tartibga soluvchining ushbu ishorasida qaysi transport vositalariga harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 7-боб, 38-банди ва 6-боб, 25-банд 1-хатбошисига асосан:\r\n\r\n38. Тартибга солувчининг ишоралари қуйидаги маънони билдиради: қўлини юқорига кўтарганда, ушбу Қоидаларнинг 42-бандида кўрсатилганидан бошқа ҳолларда транспорт воситалари ва пиёдаларнинг барча йўналишларда ҳаракатланиши тақиқланади.\r\n\r\n25. Тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маяқчалари ёқилган транспорт воситаларининг ҳайдовчилари кечиктириб бўлмайдиган хизмат вазифаларини бажариб, ҳаракатланиш хавфсизлигини таъминлаш шарти билан ушбу Қоидаларнинг 7-боби (тартибга солувчининг ишораларидан ташқари), 9–16, 19–20 ва 22-боблари, 1 ва 2-иловалари талабларидан четга чиқишлари мумкин.",
+      "explanationRu": "Согласно главе 7, пункту 38 и главе 6, пункту 25 (абзац 1) Правил дорожного движения:\r\n\r\n38. Если регулировщик поднял руку вверх, движение транспортных средств и пешеходов во всех направлениях запрещается, за исключением случаев, предусмотренных пунктом 42 Правил.\r\n\r\n25. Водители транспортных средств оперативных и специальных служб с включёнными проблесковыми маячками синего, красного или одновременно синего и красного цвета при выполнении неотложных служебных обязанностей могут отступать от требований глав 7 (за исключением сигналов регулировщика), 9–16, 19–20 и 22, а также приложений 1 и 2 Правил при условии обеспечения безопасности дорожного движения.",
+      "explanationOz": "YHQning 7-bob, 38-bandi va 6-bob, 25-band 1-xatboshisiga asosan:\r\n\r\n38. Tartibga soluvchining ishoralari quyidagi ma’noni bildiradi: qo‘lini yuqoriga ko‘targanda, ushbu Qoidalarning 42-bandida ko‘rsatilganidan boshqa hollarda transport vositalari va piyodalarning barcha yo‘nalishlarda harakatlanishi taqiqlanadi.\r\n\r\n25. Tezkor va maxsus xizmatlarning ko‘k yoki qizil yoxud ko‘k va qizil rangli yalt-yalt etuvchi mayoqchalari yoqilgan transport vositalarining haydovchilari kechiktirib bo‘lmaydigan xizmat vazifalarini bajarib, harakatlanish xavfsizligini ta’minlash sharti bilan ushbu Qoidalarning 7-bobi (tartibga soluvchining ishoralaridan tashqari), 9–16, 19–20 va 22-boblari, 1 va 2-ilovalari talablaridan chetga chiqishlari mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784379144199-312338349.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6667,
+          "textUz": "Яшил ва оқ автомобилларга",
+          "textRu": "Зелёному и белому автомобилям",
+          "textOz": "Yashil va oq avtomobillarga",
+          "isCorrect": false
+        },
+        {
+          "id": 6668,
+          "textUz": "Кўк автомобиль ва ЙПХ автомобилига",
+          "textRu": "Синему автомобилю и автомобилю ДПС",
+          "textOz": "Ko‘k avtomobil va YPX avtomobiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 6669,
+          "textUz": "Фақат ЙПХ автомобилига",
+          "textRu": "Только автомобилю ДПС",
+          "textOz": "Faqat YPX avtomobiliga",
+          "isCorrect": false
+        },
+        {
+          "id": 6670,
+          "textUz": "Ҳеч бирига рухсат этилмайди",
+          "textRu": "Никому не разрешается",
+          "textOz": "Hech biriga ruxsat etilmaydi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6670
+      ]
+    },
+    {
+      "id": 1245,
+      "questionUz": "Тартибга солувчининг ушбу ишорасида транспорт воситаларига чорраҳада қайси йўналишларда ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каких направлениях разрешается движение транспортным средствам на перекрёстке при данном сигнале регулировщика?",
+      "questionOz": "Tartibga soluvchining ushbu ishorasida transport vositalariga chorrahada qaysi yo‘nalishlarda harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 7-боб, 38-бандига асосан:\r\n\r\n38. Агар тартибга солувчининг ўнг қўли олдинга узатилган бўлса, унинг чап томонидан трамвайларга чапга, рельссиз транспорт воситаларига эса барча йўналишларда ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно главе 7, пункту 38 Правил дорожного движения:\r\n\r\n38. Если правая рука регулировщика вытянута вперёд, то со стороны его левого бока трамваям разрешается движение налево, а безрельсовым транспортным средствам — во всех направлениях.",
+      "explanationOz": "YHQning 7-bob, 38-bandiga asosan:\r\n\r\n38. Agar tartibga soluvchining o‘ng qo‘li oldinga uzatilgan bo‘lsa, uning chap tomonidan tramvaylarga chapga, relssiz transport vositalariga esa barcha yo‘nalishlarda harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784379203081-596728861.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6671,
+          "textUz": "Трамвайларга — тўғрига, рельссиз транспорт воситаларига — тўғрига ва ўнгга",
+          "textRu": "Трамваям — прямо, безрельсовым транспортным средствам — прямо и направо",
+          "textOz": "Tramvaylarga — to‘g‘riga, relssiz transport vositalariga — to‘g‘riga va o‘ngga",
+          "isCorrect": false
+        },
+        {
+          "id": 6672,
+          "textUz": "Барча йўналишларда",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo‘nalishlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 6673,
+          "textUz": "Трамвайларга — чапга, рельссиз транспорт воситаларига — барча йўналишларда",
+          "textRu": "Трамваям — налево, безрельсовым транспортным средствам — во всех направлениях",
+          "textOz": "Tramvaylarga — chapga, relssiz transport vositalariga — barcha yo‘nalishlarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6673
+      ]
+    }
+  ]
+}

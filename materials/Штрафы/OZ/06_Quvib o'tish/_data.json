@@ -1,0 +1,26 @@
+{
+  "category": "Quvib o'tish",
+  "count": 2,
+  "fines": [
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Noto'g'ri quvib o'tish (birinchi marta)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Noto'g'ri quvib o'tish (takroriy)",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": true
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "title": "Bilet 45",
+  "count": 20,
+  "questions": [
+    {
+      "id": 883,
+      "questionUz": "Шлагбаумни ўзбошимчалик билан очиш ёки айланиб ўтишга рухсат бериладими?",
+      "questionRu": "Разрешается ли открывать шлагбаум или объезжать его?",
+      "questionOz": "Shlagbaumni o'zboshimchalik bilan ochish yoki aylanib o'tishga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 7-хатбошига асосан, шлагбаумни ўзбошимчалик билан очиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 7 пункта 118 главы 18 ПДД, запрещается самовольно открывать шлагбаум.",
+      "explanationOz": "YHQ 18-bobi 118-bandi 7-xatboshiga asosan, shlagbaumni o'zboshimchalik bilan ochish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2897,
+          "textUz": "Рухсат берилади, фақат светофор ўчган бўлса",
+          "textRu": "Разрешается если светофор выключен",
+          "textOz": "Ruxsat beriladi, faqat svetofor o'chgan bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 2898,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2898
+      ]
+    },
+    {
+      "id": 884,
+      "questionUz": "Темир йўл кесишмаси олдида тўхтагандан кейин ҳаракатни бошлашдан олдин ҳайдовчи:",
+      "questionRu": "Перед началом движения после остановки перед железнодорожным переездом водитель должен:",
+      "questionOz": "Temir yo'l kesishmasi oldida to'xtagandan keyin harakatni boshlashdan oldin haydovchi:",
+      "explanationUz": "ЙҲҚ 18-бобининг 117-бандига асосан, темир йўл кесишмасига яқинлашиб уни кесиб ўтмоқчи бўлган ҳайдовчи кесишма навбатчисининг кўрсатмаларига, светофорлар ишораларига, йўл белгиларига, йўл чизиқларига, шлагбаум ҳолатига амал қилиши ва яқинлашаётган поезд (локомотив, дрезина) йўқлигига ишонч ҳосил қилиш шарт.",
+      "explanationRu": "Согласно пункту 117 главы 18 ПДД, при приближении к железнодорожному переезду водитель обязан руководствоваться требованиями дорожных знаков и разметки, сигналами светофоров, положением шлагбаума, указаниями дежурного по переезду и убедиться в отсутствии приближающегося поезда (локомотива, дрезины).",
+      "explanationOz": "YHQ 18-bobining 117-bandiga asosan, temir yo'l kesishmasiga yaqinlashib uni kesib o'tmoqchi bo'lgan haydovchi kesishma navbatchisining ko'rsatmalariga, svetoforlar ishoralariga, yo'l belgilariga, yo'l chiziqlariga, shlagbaum holatiga amal qilishi va yaqinlashayotgan poyezd (lokomotiv, drezina) yo'qligiga ishonch hosil qilish shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2899,
+          "textUz": "Ҳаракат хавфсизлигини таъминловчи тезлик билан кесишма орқали ҳаракатни бошлаши керак",
+          "textRu": "Начать движение через переезд со скоростью обеспечивающей безопасность движения",
+          "textOz": "Harakat xavfsizligini taminlovchi tezlik bilan kesishma orqali harakatni boshlashi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2900,
+          "textUz": "Биринчи узатмада кесишмадан ўтиши керак",
+          "textRu": "Проехать переезд на первой передаче",
+          "textOz": "Birinchi uzatmada kesishmadan o'tishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2901,
+          "textUz": "Яқинлашиб келаётган поезднинг йўқлигига ишонч ҳосил қилиши керак",
+          "textRu": "Убедиться в отсутствии приближающегося поезда",
+          "textOz": "Yaqinlashib kelayotgan poezdning yo'qligiga ishonch hosil qilishi kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2901
+      ]
+    },
+    {
+      "id": 885,
+      "questionUz": "Навбатчининг ҳайдовчига қаратилган қайси ҳолати темир йўл кесишмаси орқали ҳаракатланишни тақиқловчи ишора ҳисобланади?",
+      "questionRu": "Сигналом запрещающим движение через железнодорожный переезд является положение дежурного обращенного к водителю:",
+      "questionOz": "Navbatchining haydovchiga qaratilgan qaysi holati temir yo'l kesishmasi orqali harakatlanishni taqiqlovchi ishora hisoblanadi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 3-хатбошига асосан, кесишма навбатчисининг тақиқловчи ишорасида (навбатчи ҳайдовчига олди ёки орқаси билан туриб жезлни, қизил чироқ ёки байроқчани юқорига кўтариб турса ёки қўлларини ёнга узатса) темир йўл кесишмасига кириш тақиқланади.",
+      "explanationRu": "Согласно абзацу 3 пункта 118 главы 18 ПДД, запрещается выезжать на железнодорожный переезд при запрещающем сигнале дежурного по переезду (дежурный обращён к водителю грудью или спиной с поднятым над головой жезлом, красным фонарём или флажком, либо с вытянутыми в сторону руками).",
+      "explanationOz": "YHQ 18-bobi 118-bandi 3-xatboshiga asosan, kesishma navbatchisining taqiqlovchi ishorasida (navbatchi haydovchiga oldi yoki orqasi bilan turib jezlni, qizil chiroq yoki bayroqchani yuqoriga ko'tarib tursa yoki qo'llarini yonga uzatsa) temir yo'l kesishmasiga kirish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2902,
+          "textUz": "Ҳайдовчига чап ёки ўнг элкасини ўгириб, таёқчани (қизил байроқни) бошидан юқори кўтариб туриш",
+          "textRu": "Левым или правым плечом с поднятым над головой жезлом (красным флагом)",
+          "textOz": "Haydovchiga chap yoki o'ng elkasini o'girib, tayoqchani (qizil bayroqni) boshidan yuqori ko'tarib turish",
+          "isCorrect": false
+        },
+        {
+          "id": 2903,
+          "textUz": "Кўкрагини ёки орқасини ўгириб, таёқчани (қизил байроқни) бошидан юқори кўтариб туриши ёки қўлларини ёнига узатиб туриши",
+          "textRu": "Грудью или спиной с поднятым над головой жезлом (красным флагом) или с вытянутыми в стороны руками",
+          "textOz": "Ko'kragini yoki orqasini o'girib, tayoqchani (qizil bayroqni) boshidan yuqori ko'tarib turishi yoki qo'llarini yoniga uzatib turishi",
+          "isCorrect": true
+        },
+        {
+          "id": 2904,
+          "textUz": "Исталган елкаси ёки кўкрагини ўгириб, таёқчани (қизил байроқни) бошидан юқори кўтариб туриши",
+          "textRu": "Любым плечом или грудью с поднятым над головой жезлом (красным флагом)",
+          "textOz": "Istalgan elkasi yoki ko'kragini o'girib, tayoqchani (qizil bayroqni) boshidan yuqori ko'tarib turishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2903
+      ]
+    },
+    {
+      "id": 886,
+      "questionUz": "Занжирли бўлган қишлоқ хўжалик, йўл қурилиши ва механик транспорт воситаларига темир йўл кесишмасидан ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли переезжать через железнодорожный переезд сельскохозяйственным, дорожным и строительным механическим транспортным средствам на гусеничном ходу?",
+      "questionOz": "Zanjirli bo'lgan qishloq xo'jalik, yo'l qurilishi va mexanik transport vositalariga temir yo'l kesishmasidan o'tishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 18-боби 118-банди 8-хатбошига асосан, транспорт ҳолатига келтирилмаган қишлоқ хўжалиги, йўл қурилиши, қурилиш ва бошқа машина ҳамда механизмларни кесишма орқали олиб ўтиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 8 пункта 118 главы 18 ПДД, запрещается провозить через переезд в нетранспортном положении сельскохозяйственные, дорожные, строительные и другие машины и механизмы.",
+      "explanationOz": "YHQ 18-bobi 118-bandi 8-xatboshiga asosan, transport holatiga keltirilmagan qishloq xo'jaligi, yo'l qurilishi, qurilish va boshqa mashina hamda mexanizmlarni kesishma orqali olib o'tish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2905,
+          "textUz": "Агар темир йўл бошлиғининг рухсати бўлса, рухсат этилади",
+          "textRu": "Разрешается, если получено разрешение начальника дистанции пути железной дороги",
+          "textOz": "Agar temir yo'l boshlig'ining ruxsati bo'lsa, ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2906,
+          "textUz": "Механик транспорт воситаларига юклаб олиб ўтишга рухсат этилади",
+          "textRu": "Разрешается загруженными на механические транспортные средства в транспортном положении",
+          "textOz": "Mexanik transport vositalariga yuklab olib o'tishga ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 2907,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2906
+      ]
+    },
+    {
+      "id": 887,
+      "questionUz": "Секинюрар транспорт воситаларининг темир йўл кесишмаси орқали ҳаракатланишига фақат темир йўл бошлиғининг рухсати билан ҳаракат тезлиги қуйидагидан кам бўлганда йўл қўйилади",
+      "questionRu": "Только с разрешения начальника дистанции пути железной дороги допускается движение через переезд транспортных средств скорость движения которых менее:",
+      "questionOz": "Sekinyurar transport vositalarining temir yo'l kesishmasi orqali harakatlanishiga faqat temir yo'l boshlig'ining ruxsati bilan harakat tezligi quyidagidan kam bo'lganda yo'l qo'yiladi",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 18-bobi 118-bandi 9-xatboshiga asosan, temir yo'l distantsiyasi boshlig'ining ruxsatisiz tezligi soatiga 8 kilometrdan kam bo'lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2908,
+          "textUz": "3 км/с",
+          "textRu": "3 км/ч",
+          "textOz": "3 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 2909,
+          "textUz": "5 км/с",
+          "textRu": "5 км/ч",
+          "textOz": "5 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 2910,
+          "textUz": "8 км/с",
+          "textRu": "8 км/ч",
+          "textOz": "8 km/s",
+          "isCorrect": true
+        },
+        {
+          "id": 2911,
+          "textUz": "10 км/с",
+          "textRu": "10 км/ч",
+          "textOz": "10 km/s",
+          "isCorrect": false
+        },
+        {
+          "id": 2912,
+          "textUz": "30 км/с",
+          "textRu": "30 км/ч",
+          "textOz": "30 km/s",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2910
+      ]
+    },
+    {
+      "id": 888,
+      "questionUz": "Темир йўл кесишмасидан ўтишда ҳайдовчи нимага амал қилиши керак?",
+      "questionRu": "Чем должен руководствоваться водитель при проезд железнодорожного переезда?",
+      "questionOz": "Temir yo'l kesishmasidan o'tishda haydovchi nimaga amal qilishi kerak?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 18-bobining 117-bandiga asosan, temir yo'l kesishmasiga yaqinlashib uni kesib o'tmoqchi bo'lgan haydovchi kesishma navbatchisining ko'rsatmalariga, svetoforlar ishoralariga, yo'l belgilariga, yo'l chiziqlariga, shlagbaum holatiga amal qilishi va yaqinlashayotgan poyezd (lokomotiv, drezina) yo'qligiga ishonch hosil qilish shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2913,
+          "textUz": "Шлагбаумнинг ҳолатига ва ёруғлик ишорасига",
+          "textRu": "Положением шлагбаума и световой сигнализацией",
+          "textOz": "Shlagbaumning holatiga va yorug'lik ishorasiga",
+          "isCorrect": false
+        },
+        {
+          "id": 2914,
+          "textUz": "Йўл белгилари ва чизиқларига",
+          "textRu": "Дорожными знаками и разметкой",
+          "textOz": "Yo'l belgilari va chiziqlariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2915,
+          "textUz": "Темир йўл кесишмаси навбатчисининг кўрсатмалари ва ишораларига",
+          "textRu": "Указаниями и сигналами дежурного по переезду",
+          "textOz": "Temir yo'l kesishmasi navbatchisining ko'rsatmalari va ishoralariga",
+          "isCorrect": false
+        },
+        {
+          "id": 2916,
+          "textUz": "Барча санаб ўтилган талабларга",
+          "textRu": "Всеми перечисленными требованиями",
+          "textOz": "Barcha sanab o'tilgan talablarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2916
+      ]
+    },
+    {
+      "id": 889,
+      "questionUz": "Кесишма орқали ҳаракатланиш ҳолларида ҳайдовчи тўхташ чизиғи 2.5 «Тўхтамасдан ҳаракатланиш тақиқланган» йўл белгиси ёки светофор бўлмаганда, ўтиб кетаётган поездни ўтказиб юборишга қоида бўйича шлагбаумгача камида қанча масофа қолганида тўхташ керак?",
+      "questionRu": "На каком наименьшем расстоянии до шлагбаума правила обязывают водителя остановиться у железнодорожного переезда для пропуска приближающегося поезда при отсутствии стоп-линии знака 2.5 «Движение без остановки запрещено» и светофора?",
+      "questionOz": "Kesishma orqali harakatlanish hollarida haydovchi to'xtash chizig'i 2.5 «To'xtamasdan harakatlanish taqiqlangan» yo'l belgisi yoki svetofor bo'lmaganda, o'tib ketayotgan poezdni o'tkazib yuborishga qoida bo'yicha shlagbaumgacha kamida qancha masofa qolganida to'xtash kerak?",
+      "explanationUz": "ЙҲҚ 18-боби 119-бандига асосан: Кесишма орқали ҳаракатланиш тақиқланган ҳолларда ҳайдовчи тўхташ чизиғи, 2.5 йўл белгиси ёки светофор олдида, улар бўлмаганда шлагбаумга камида 5 метр, шлагбаум бўлмаганда эса биринчи темир йўл изига камида 10 метр қолганда тўхташи керак.",
+      "explanationRu": "Пункту 119 главы 18 ПДД, гласит: В случаях, когда движение через переезд запрещено, водитель должен остановиться у стоп-линий, знака 2.5 или светофора, если их нет - не ближе 5 метр шлагбаума, а при отсутствии шлагбаума не ближе 10 м до первого рельса.",
+      "explanationOz": "YHQ 18-bobi 119-bandiga asosan: Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetofor oldida, ular bo‘lmaganda shlagbaumga kamida 5 metr, shlagbaum bo‘lmaganda esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2917,
+          "textUz": "1 м",
+          "textRu": "1 м",
+          "textOz": "1 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2918,
+          "textUz": "5 м",
+          "textRu": "5 м",
+          "textOz": "5 m",
+          "isCorrect": true
+        },
+        {
+          "id": 2919,
+          "textUz": "10 м",
+          "textRu": "10 м",
+          "textOz": "10 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2920,
+          "textUz": "15 м",
+          "textRu": "15 м",
+          "textOz": "15 m",
+          "isCorrect": false
+        },
+        {
+          "id": 2921,
+          "textUz": "20 м",
+          "textRu": "20 м",
+          "textOz": "20 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2918
+      ]
+    },
+    {
+      "id": 890,
+      "questionUz": "Ушбу ҳолатда  Сизга темир йўл кесишмасига чиқишга рухсат  этиладими?",
+      "questionRu": "Разрешено ли Вам въехать на железнодорожный переезд?",
+      "questionOz": "Ushbu holatda  Sizga temir yo'l kesishmasiga chiqishga ruxsat  etiladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 88 банди 2 хатбошига асосан, аҳоли пунктларида ўртада трамвай йўли бўлмаган, ҳар йўналишда биттадан тасмаси бўлган, шунингдек бир томонлама ҳаракат ташкил этилган йўлларда йўлнинг чап томонида тўхташ ва тўхтаб туришга рухсат этилади.\r\nЙўл ҳаракати қоидаларининг 91 бандига асосан, қуйидагиларда тўхташ тақиқланади: пиёдалар ўтиш жойларида ва улардан олдин 10 метрдан кам масофа қолганда.",
+      "explanationRu": "Согласно абзацу второго пункта 88 Правил дорожного движения, на левой стороне дороги остановка и стоянка разрешаются в населенных пунктах на дорогах без трамвайного пути посередине, с одной полосой движения в каждую сторону, а также с односторонним движением.\r\nСогласно пункту 91 Правил дорожного движения, остановка запрещается в следующих местах: на пешеходных переходах и ближе 10 м перед ними.",
+      "explanationOz": "Yo‘l harakati qoidalarining 88 bandi 2 xatboshiga asosan, aholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, shuningdek bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi.\r\nYo‘l harakati qoidalarining 91 bandiga asosan, quyidagilarda to‘xtash taqiqlanadi: piyodalar o‘tish joylarida va ulardan oldin 10 metrdan kam masofa qolganda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/39.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2922,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 2923,
+          "textUz": "Ҳа, яқинлашиб келаётган поезд йўқ  бўлса        ",
+          "textRu": "Да, если отсутствует приближающийся \u000bпоезд",
+          "textOz": "Ha, yaqinlashib kelayotgan poezd yo'q  bo'lsa        ",
+          "isCorrect": false
+        },
+        {
+          "id": 2924,
+          "textUz": "Йўқ ",
+          "textRu": "Нет",
+          "textOz": "Yo'q ",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2924
+      ]
+    },
+    {
+      "id": 891,
+      "questionUz": "Ҳайдовчи поездни ўтказиб юбориши учун тўғри тўхтаганми?",
+      "questionRu": "Правильно ли водитель остановился для предоставления преимущества поезду?",
+      "questionOz": "Haydovchi poyezdni o‘tkazib yuborishi uchun to‘g‘ri to‘xtaganmi?",
+      "explanationUz": "\"ЙҲҚга 1-ИЛОВА 3.18.1 ва 3.18.2 бандларига асосан: 3.18.1. «Ўнгга бурилиш тақиқланган».\r\n3.18.2. «Чапга бурилиш тақиқланади».\"",
+      "explanationRu": "\"На основании пунктов 3.18.1 и 3.18.2 Приложения 1 к ПДД: 3.18.1. «Поворот направо запрещен».\r\n3.18.2. «Поворот налево запрещен».\"",
+      "explanationOz": "\"YHQga 1-ILOVA 3.18.1 va 3.18.2 bandlariga asosan: 3.18.1. «O‘ngga burilish taqiqlangan».\r\n3.18.2. «Chapga burilish taqiqlanadi».\"",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/56.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2925,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 2926,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo‘q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2926
+      ]
+    },
+    {
+      "id": 892,
+      "questionUz": "Қизил автомобиль ҳайдовчиси яқинлашиб келаётган поездини ўтказиб юбориш учун тўғри тўхтадими?",
+      "questionRu": "Водитель красного автомобиля правильно ли остановился, чтобы пропустить приближающийся поезд?",
+      "questionOz": "Qizil avtomobil haydovchisi yaqinlashib kelayotgan poyezdni o‘tkazib yuborish uchun to‘g‘ri to‘xtadimi?",
+      "explanationUz": "ЙҲҚнинг 8-боб. 119-бандига асосан: 119. Кесишма орқали ҳаракатланиш тақиқланган ҳолларда ҳайдовчи тўхташ чизиғи, 2.5 йўл белгиси ёки светофор олдида, улар бўлмаганда шлагбаумга камида 5 метр, шлагбаум бўлмаганда эса биринчи темир йўл изига камида 10 метр қолганда тўхташи керак.",
+      "explanationRu": "На основании пункта 119 главы 18 ПДД: 119. В случаях, когда движение через переезд запрещено, водитель должен остановиться у стоп-линии, дорожного знака 2.5 или светофора, если их нет — не ближе 5 м от шлагбаума, а при отсутствии шлагбаума — не ближе 10 м до ближайшего рельса.",
+      "explanationOz": "YHQning 8-bob. 119-bandiga asosan: 119. Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetofor oldida, ular bo‘lmaganda shlagbaumga kamida 5 metr, shlagbaum bo‘lmaganda esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2927,
+          "textUz": "Тўғри тўхтади",
+          "textRu": "Остановился правильно",
+          "textOz": "To‘g‘ri to‘xtadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2928,
+          "textUz": "Нотўғри тўхтади",
+          "textRu": "Остановился неправильно",
+          "textOz": "Noto‘g‘ri to‘xtadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2928
+      ]
+    },
+    {
+      "id": 893,
+      "questionUz": "Автомагистралда қуйидагилар таъқиқланади:",
+      "questionRu": "На автомагистрале запрещено:",
+      "questionOz": "Avtomagistralda quyidagilar taqiqlanadi:",
+      "explanationUz": "ЙҲҚ 19 – боби 121 – банди: Автомагистралларда қуйдагилар тақиқланади:\r\n- пиёдалар, уй ҳайвонлари, от – аравалар, велосепедлар, индивидуал ҳаракатланиш воситалари, скутерлар, мопедлар, тракторлар ва ўзиюрар ускуналар, техник тавсифномасига ёки ҳолатига кўра тезлиги соатига 40 километрдан кам бўлган транспорт воситаларининг ҳаракатланиши;\r\n- юк автомобилларига йўлнинг четки чап қаторида ҳаракатланиши;\r\n- 5.15 ёки 6.11 йўл белгилари билан белгиланган махсус тўхтаб туриш майдончаларидан бошқа жойларда тўхташ;\r\n- ажратувчи минтақанинг технологик узулиш жойларига кириш ва уларда қайрилиб олиш орқага ҳаракатланиш;\r\n- транспорт воситасини ўрганиш учун бошқариш.\r\nКўриниб турибдики, автомагистральда барча санаб ўтилган ҳаракатлар тақиқланган.",
+      "explanationRu": "Пункта 121 главы 19 ПДД, гласит: На автомагистралях запрещается: движение пешеходов, домашних животных, гужевых повозок, велосипедов, индивидуальные транспортные средства, скутеры, мопедов, тракторов и самоходных машин, транспортных средств, скорость которых по технической характеристике или их состоянию менее 40 км/ч;\r\n- движение грузовых автомобилей с разрешенной максимальной массой более 3,5 т по другим полосам, кроме первой и второй;\r\n- остановка вне специальных площадок для\r\nстоянки, обозначенных знаками 5.15 \"Место\r\nстоянки\" или 6.11 \"Место отдыха\";\r\n- разворот и въезд в технологические разрывы\r\nразделительной полосы\r\n- движение задним ходом;\r\n- учебная езда. Как видно, на автомагистрали запрещены все перечисленные действия.",
+      "explanationOz": "YHQ 19 – bobi 121 – bandi: Avtomagistrallarda quydagilar taqiqlanadi:\r\n- piyodalar, uy hayvonlari, ot – aravalar, velosepedlar, individual harakatlanish vositalari, skuterlar, mopedlar, traktorlar va o‘ziyurar uskunalar, texnik tavsifnomasiga yoki holatiga ko‘ra tezligi soatiga 40 kilometrdan kam bo‘lgan transport vositalarining harakatlanishi;\r\n- yuk avtomobillariga yo‘lning chetki chap qatorida harakatlanishi;\r\n- 5.15 yoki 6.11 yo‘l belgilari bilan belgilangan maxsus to‘xtab turish maydonchalaridan boshqa joylarda to‘xtash;\r\n- ajratuvchi mintaqaning texnologik uzulish joylariga kirish va ularda qayrilib olish orqaga harakatlanish;\r\n- transport vositasini o‘rganish uchun boshqarish.\r\nKo‘rinib turibdiki, avtomagistralda barcha sanab o‘tilgan harakatlar taqiqlangan.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2929,
+          "textUz": "Қайрилиб олиш ва ажратувчи бўлакнинг технологик ўзилиш жойларига кириш",
+          "textRu": "Разворот и въезд в разрывы разделительной полосы",
+          "textOz": "Qayrilib olish va ajratuvchi bo'lakning texnologik o'zilish joylariga kirish",
+          "isCorrect": false
+        },
+        {
+          "id": 2930,
+          "textUz": "Орқага ҳаракатланиш",
+          "textRu": "Движение задним ходом",
+          "textOz": "Orqaga harakatlanish",
+          "isCorrect": false
+        },
+        {
+          "id": 2931,
+          "textUz": "«Тўхтаб туриш жойи» ёки «Дам олиш жойи» белгилари бўлган махсус майдончалардан ташқари жойда тўхташ",
+          "textRu": "Остановка вне специальных площадок для стоянки; обозначенных знаком \"Место стоянки\" или \"Место отдыха\"",
+          "textOz": "«Тўхтаб туриш жойи» yoki «Дам олиш жойи» belgilari bo'lgan maxsus maydonchalardan tashqari joyda to'xtash",
+          "isCorrect": false
+        },
+        {
+          "id": 2932,
+          "textUz": "Юқоридаги барча ҳолатлар",
+          "textRu": "Все перечисленные действия",
+          "textOz": "Yuqoridagi barcha holatlar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2932
+      ]
+    },
+    {
+      "id": 894,
+      "questionUz": "Автомагистралда шатакка олишга рухсат бериладими?",
+      "questionRu": "Разрешена ли буксировка на автомагистрали?",
+      "questionOz": "Avtomagistralda shatakka olishga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚ 24-боби 145-банди: Шатакка олиш қуйидаги ҳолатларда тақиқланади: рул бошқаруви ишламаётган транспорт воситаларини (қисман ортиш усули билан шатакка олиш бундан мустасно); икки ва ундан кўп транспорт воситаларини; шатакка олинган ва шатакка олган транспорт воситаларининг улагич билан бирга умумий узунлиги 20 метрдан ортиқ бўлса; ишчи тормоз тизими ишламаётган транспорт воситасининг ҳақиқий вазни шатакка олган транспорт воситасининг ҳақиқий вазнининг ярмидан ортиқ бўлса (ҳақиқий вазни кам бўлган бундай транспорт воситасини фақат қаттиқ улагич билан ёки қисман ортиш усули билан шатакка олишга йўл қўйилади); икки ғилдиракли мотоцикл, электромотоцикл, мопед, скутер ва индивидуал ҳаракатланиш воситалари билан, шунингдек, бундай мотоцикл, электромотоцикл, мопед, скутер ва индивидуал ҳаракатланиш воситаларини; йўл яхмалак, сирпанчиқ бўлган ҳолларда эгилувчан улагичда.\r\nЙўл ҳаракати қоидаларида автомагистралларда шатакка олишга чекловлар йўқ.",
+      "explanationRu": "Пункта 145 главы 24 ПДД, гласит: Буксировка запрещается в следующих случаях: транспортных средств, у которых не действует рулевое управление (кроме случаев буксировки методом частичной погрузки);\r\nдвух и более транспортных средств; при общей длине буксирующего и буксируемого транспортных средств вместе со связующим звеном, превышающей 20 м; транспортного средства с недействующей тормозной системой, если его фактическая масса превышает половину фактической массы буксирующего транспортного средства (кроме случаев буксировки при меньшей фактической массе таких транспортных средств только на жесткой сцепке или методом частичной погрузки.); с двухколесными мотоциклами, электромотоциклами, мопедами, скутерами и индивидуальные транспортных средствам, а также такими мотоциклами, электромотоциклами, мопедами, скутерами и индивидуальные транспортных средствам;\r\nв гололедицу, на скользкой дороге, на гибкой сцепке. В Правилах дорожного движения нет ограничений на буксировку на автомагистралях.",
+      "explanationOz": "YHQ 24-bobi 145-bandi: Shatakka olish quyidagi holatlarda taqiqlanadi: rul boshqaruvi ishlamayotgan transport vositalarini (qisman ortish usuli bilan shatakka olish bundan mustasno); ikki va undan ko'p transport vositalarini; shatakka olingan va shatakka olgan transport vositalarining ulagich bilan birga umumiy uzunligi 20 metrdan ortiq bo'lsa; ishchi tormoz tizimi ishlamayotgan transport vositasining haqiqiy vazni shatakka olgan transport vositasining haqiqiy vaznining yarmidan ortiq bo'lsa (haqiqiy vazni kam bo'lgan bunday transport vositasini faqat qattiq ulagich bilan yoki qisman ortish usuli bilan shatakka olishga yo'l qo'yiladi); ikki g'ildirakli mototsikl, elektromototsikl, moped, skuter va individual harakatlanish vositalari bilan, shuningdek, bunday mototsikl, elektromototsikl, moped, skuter va individual harakatlanish vositalarini; yo'l yaxmalak, sirpanchiq bo'lgan hollarda egiluvchan ulagichda.\r\nYo‘l harakati qoidalarida avtomagistrallarda shatakka olishga cheklovlar yo‘q.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2933,
+          "textUz": "50 км/с тезлик билан рухсат этилган.",
+          "textRu": "Разрешена со скоростью 50 км/ч",
+          "textOz": "50 km/s tezlik bilan ruxsat etilgan.",
+          "isCorrect": false
+        },
+        {
+          "id": 2934,
+          "textUz": "Таъқиқланади.",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi.",
+          "isCorrect": false
+        },
+        {
+          "id": 2935,
+          "textUz": "Фақат қисман ортиш усули билан ёки қаттиқ тиркагич билан рухсат берилади.",
+          "textRu": "Разрешена только путем частичной погрузки или на жесткой сцепке",
+          "textOz": "Faqat qisman ortish usuli bilan yoki qattiq tirkagich bilan ruxsat beriladi.",
+          "isCorrect": false
+        },
+        {
+          "id": 2936,
+          "textUz": "Эгилувчан тиркагич билан рухсат берилади.",
+          "textRu": "Разрешена на гибкой сцепке",
+          "textOz": "Egiluvchan tirkagich bilan ruxsat beriladi.",
+          "isCorrect": false
+        },
+        {
+          "id": 2937,
+          "textUz": "Исталган усулда рухсат этилган",
+          "textRu": "Разрешена любым способом",
+          "textOz": "Istalgan usulda ruxsat etilgan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2937
+      ]
+    },
+    {
+      "id": 895,
+      "questionUz": "Автомагистралларда тўхташга рухсат этилганми?",
+      "questionRu": "Разрешена ли остановка на автомагистрали?",
+      "questionOz": "Avtomagistrallarda to'xtashga ruxsat etilganmi?",
+      "explanationUz": "ЙҲҚ 18-боби 121-банди 3-хатбошига асосан, автомагистралларда 5.15 «Тўхташ жойи» ёки 6.11 «Дам олиш жойи» белгилар билан белгиланган махсус тўхтаб туриш майдончаларидан бошқа жойларда тўхташ тақиқланади.",
+      "explanationRu": "Согласно абзацу 3 пункта 121 главы 18 ПДД, на автомагистралях запрещается остановка вне специальных площадках для стоянки, обозначенных знаками 5.15 «Место стоянки» или 6.11 «Место отдыха».",
+      "explanationOz": "YHQ 18-bobi 121-bandi 3-xatboshiga asosan, avtomagistrallarda 5.15 \"To'xtash joyi\" yoki 6.11 \"Dam olish joyi\" belgilar bilan belgilangan maxsus to'xtab turish maydonchalaridan boshqa joylarda to'xtash taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2938,
+          "textUz": "Тақиқланган",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlangan",
+          "isCorrect": false
+        },
+        {
+          "id": 2939,
+          "textUz": "Автомагистрал яхши кўринадиган жойларда рухсат этилади",
+          "textRu": "Разрешается в местах; где автомагистраль хорошо просматривается",
+          "textOz": "Avtomagistral yaxshi ko'rinadigan joylarda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2940,
+          "textUz": "Агар бир йўналишда ҳаракатланиш учун учта бўлак бўлса, рухсат этилади",
+          "textRu": "Разрешается, если имеются три полосы для движения в одном направлении",
+          "textOz": "Agar bir yo'nalishda harakatlanish uchun uchta bo'lak bo'lsa, ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2941,
+          "textUz": "Тўхтаб туриш «Тўхтаб туриш жойи» ёки «Дам олиш жойи» белгиси қўйилган махсус майдончаларда рухсат этилади",
+          "textRu": "Разрешается на специальных площадках для стоянки; обозначенных знаком «Место стоянки» или «Место отдыха»",
+          "textOz": "To'xtab turish «To'xtab turish joyi» yoki «Dam olish joyi» belgisi qo'yilgan maxsus maydonchalarda ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2941
+      ]
+    },
+    {
+      "id": 896,
+      "questionUz": "Автомагистралда бошқаришни ўрганиш:",
+      "questionRu": "Учебная езда на автомагистрали:",
+      "questionOz": "Avtomagistralda boshqarishni o'rganish:",
+      "explanationUz": "ЙҲҚ 19-бўлими 121-банди 6-хатбошига асосан, автомагистралларда транспорт воситасини бошқаришни ўрганиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 6 пункта 121 главы 19 ПДД, на автомагистралях обучение вождению транспортного средства запрещается.",
+      "explanationOz": "YHQ 19-bo'limi 121-bandi 6-xatboshiga asosan, avtomagistrallarda transport vositasini boshqarishni o'rganish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2942,
+          "textUz": "70 км/с. дан ортмаган тезлик билан рухсат берилган",
+          "textRu": "Разрешена со скоростью не более 70 км/час",
+          "textOz": "70 km/s. dan ortmagan tezlik bilan ruxsat berilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 2943,
+          "textUz": "Бошқаришни ўргатувчи йўриқчи билан бўлган ўрганувчида етарли бошқариш малакаси бўлганда 60 км/соатдан ортиқ бўлмаган тезликка рухсат этилган",
+          "textRu": "Разрешена со скоростью не более 60 км/час при достаточных навыках управления у обучаемого с мастером обучения вождению",
+          "textOz": "Boshqarishni o'rgatuvchi yo'riqchi bilan bo'lgan o'rganuvchida etarli boshqarish malakasi bo'lganda 60 km/soatdan ortiq bo'lmagan tezlikka ruxsat etilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 2944,
+          "textUz": "Тақиқланган",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlangan",
+          "isCorrect": true
+        },
+        {
+          "id": 2945,
+          "textUz": "Агар ўрганилаётган механик транспорт воситасида таниқли белгилари қайд этилган бўлса, рухсат этилган",
+          "textRu": "Разрешена, если механическое транспортное средство, на котором производится обучение, обозначено опознавательным знаком",
+          "textOz": "Agar o'rganilayotgan mexanik transport vositasida taniqli belgilari qayd etilgan bo'lsa, ruxsat etilgan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2944
+      ]
+    },
+    {
+      "id": 897,
+      "questionUz": "Юк автомобиллари автомагистралда четки чап қаторида ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешено ли грузовикам двигаться по левой полосе на автомагистрали?",
+      "questionOz": "Yuk avtomobillari avtomagistralda chetki chap qatorida harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ умумий қоидалар: Қайта тизилиш - дастлабки ҳаракат йўналишини сақлаган ҳолда ўз ҳаракатланиш тасмасидан бошқа ҳаракатланиш қаторига ўтиш.",
+      "explanationRu": "ПДД Общие положения: Перестроение - выезд из занимаемой полосы или занимаемого ряда с сохранением первоначального направления движения.",
+      "explanationOz": "YHQ umumiy qoidalar: Qayta tizilish - dastlabki harakat yo‘nalishini saqlagan xolda o‘z harakatlanish tasmasidan boshqa harakatlanish qatoriga o‘tish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2946,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2947,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2947
+      ]
+    },
+    {
+      "id": 898,
+      "questionUz": "«Автомагистрал» белгиси билан белгиланган йўлда пиёдаларнинг ҳаракатланишига рухсат этиладими?",
+      "questionRu": "Разрешается ли движение пешеходов по дороге обозначенной знаком «Автомагистраль»?",
+      "questionOz": "«Avtomagistral» belgisi bilan belgilangan yo'lda piyodalarning harakatlanishiga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 18-бобининг 121-бандига мувофиқ, автомагистралларда пиёдалар, уй ҳайвонлари, от-аравалар, велосипедлар, мопедлар, тракторлар ва ўзи юрар машиналар, техник тавсифномасига ёки ҳолатига кўра тезлиги соатига 40 километрдан кам бўлган транспорт воситаларининг ҳаракатланиши тақиқланади.",
+      "explanationRu": "Согласно пункту 121 главы 18 ПДД, на автомагистралях запрещается движение пешеходов, домашних животных, гужевых повозок, велосипедов, мопедов, тракторов и самоходных машин, транспортных средств, скорость которых по технической характеристике или их состоянию менее 40 км/ч.",
+      "explanationOz": "YHQ 18-bobining 121-bandiga muvofiq, avtomagistrallarda piyodalar, uy hayvonlari, ot-aravalar, velosipedlar, mopedlar, traktorlar va o'zi yurar mashinalar, texnik tavsifnomasiga yoki holatiga ko'ra tezligi soatiga 40 kilometrdan kam bo'lgan transport vositalarining harakatlanishi taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2948,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2949,
+          "textUz": "Транспорт воситаларининг ҳаракатланишига қарама-қарши фақат аҳоли яшайдиган жойлардан ташқарида юришга рухсат этилади",
+          "textRu": "Разрешается идти только вне населенных пунктов навстречу движению транспортных средств",
+          "textOz": "Transport vositalarining harakatlanishiga qarama-qarshi faqat aholi yashaydigan joylardan tashqarida yurishga ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2950,
+          "textUz": "Транспорт воситаларининг ҳаракатланиши бўйлаб фақат аҳоли яшайдиган жойлардан ташқарида юришга рухсат этилади",
+          "textRu": "Разрешается идти вне населенных пунктов по ходу движения транспортных средств",
+          "textOz": "Transport vositalarining harakatlanishi bo'ylab faqat aholi yashaydigan joylardan tashqarida yurishga ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2948
+      ]
+    },
+    {
+      "id": 899,
+      "questionUz": "Рухсат этилган тўла вазни 3,5 т дан кам бўлган юк автомобилининг ҳайдовчисига автомагистралларда нима тақиқланган?",
+      "questionRu": "Что запрещено на автомагистрали водителям грузовых автомобилей, разрешенная максимальная масса которых менее 3,5 т?",
+      "questionOz": "Ruxsat etilgan to'la vazni 3,5 t dan kam bo'lgan yuk avtomobilining haydovchisiga avtomagistrallarda nima taqiqlangan?",
+      "explanationUz": "ЙҲҚ 19-боби 121-банди 5-хатбошига асосан, автомагистралларда орқага ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно абзацу 5 пункта 121 главы 19 ПДД, на автомагистралях запрещается движение задним ходом.",
+      "explanationOz": "YHQ 19-bobi 121-bandi 5-xatboshiga asosan, avtomagistrallarda orqaga harakatlanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4149,
+          "textUz": "Уч бўлакли йўлнинг иккинчи бўлагида ҳаракатланиш",
+          "textRu": "Движение во второй полосе трехполосной дороги",
+          "textOz": "Uch bo'lakli yo'lning ikkinchi bo'lagida harakatlanish",
+          "isCorrect": false
+        },
+        {
+          "id": 4150,
+          "textUz": "Орқа билан ҳаракатланиш",
+          "textRu": "Движение задним ходом",
+          "textOz": "Orqa bilan harakatlanish",
+          "isCorrect": true
+        },
+        {
+          "id": 4151,
+          "textUz": "Механик транспорт воситаларини шатакка олиш",
+          "textRu": "Буксировка механических транспортных средств",
+          "textOz": "Mexanik transport vositalarini shatakka olish",
+          "isCorrect": false
+        },
+        {
+          "id": 4152,
+          "textUz": "Барча санаб ўтилган ҳаракатлар",
+          "textRu": "Все перечисленные действия",
+          "textOz": "Barcha sanab o'tilgan harakatlar",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4150
+      ]
+    },
+    {
+      "id": 900,
+      "questionUz": "Автомагистралда ажратувчи бўлакнинг узилишларига киришга рухсат этиладими?",
+      "questionRu": "Разрешается ли въезд в разрывы разделительной полосы на автомагистрали?",
+      "questionOz": "Avtomagistralda ajratuvchi bo'lakning uzilishlariga kirishga ruxsat etiladimi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2955,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2956,
+          "textUz": "Фақат орқа бурилиш учун рухсат этилади, тўла вазни 3,5 т дан ортиқ бўлган юк автомобилларнинг ҳайдовчилари бундан мустасно",
+          "textRu": "Разрешается только для разворота, кроме водителей грузовых автомобилей полной массой более 3,5 т",
+          "textOz": "Faqat orqa burilish uchun ruxsat etiladi, to'la vazni 3,5 t dan ortiq bo'lgan yuk avtomobillarning haydovchilari bundan mustasno",
+          "isCorrect": false
+        },
+        {
+          "id": 2957,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2958,
+          "textUz": "Белгиланган йўналишдаги транспорт воситаларига рухсат этилади",
+          "textRu": "Разрешается маршрутным транспортным средствам",
+          "textOz": "Belgilangan yo'nalishdagi transport vositalariga ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2957
+      ]
+    },
+    {
+      "id": 901,
+      "questionUz": "Бу белги билан белгиланган йўл қисмларида ажратувчи бўлакнинг узилиш жойида қайрилишга рухсат этиладими?",
+      "questionRu": "Разрешается ли разворот в разрывах разделительной полосы на участках дорог обозначенных этим знаком?",
+      "questionOz": "Bu belgi bilan belgilangan yo'l qismlarida ajratuvchi bo'lakning uzilish joyida qayrilishga ruxsat etiladimi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "YHQ 19-bobi 121-bandi 4-xatboshiga muvofiq, avtomagistrallarda ajratuvchi mintaqaning texnologik uzilish joylariga kirish va ularda qayrilib olish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/29.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2959,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2960,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2961,
+          "textUz": "Фақат тўла вазни 3,5 тоннагача бўлган транспорт воситаларига рухсат этилади",
+          "textRu": "Разрешается только транспортным средствам с полной массой до 3,5 тонны",
+          "textOz": "Faqat to'la vazni 3,5 tonnagacha bo'lgan transport vositalariga ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2960
+      ]
+    },
+    {
+      "id": 902,
+      "questionUz": "Автомагистралларда транспорт воситаларининг атайин тўхташи қайси жойларда рухсат этилган?",
+      "questionRu": "В каких местах разрешена преднамеренная остановка транспортных средств на автомагистралях?",
+      "questionOz": "Avtomagistrallarda transport vositalarining atayin to'xtashi qaysi joylarda ruxsat etilgan?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 121 бандига асосан, автомагистралларда қуйидагилар тақиқланади: 5.15 ёки 6.11 йўл белгилари билан белгиланган махсус тўхтаб туриш майдончаларидан бошқа жойларда тўхташ.",
+      "explanationRu": "Согласно пункту 121 Правил дорожного движения, на автомагистралях запрещается: остановка вне специальных площадок для стоянки, обозначенных дорожными знаками 5.15 или 6.11.",
+      "explanationOz": "Yo‘l harakati qoidalarining 121 bandiga asosan, avtomagistrallarda quyidagilar taqiqlanadi: 5.15 yoki 6.11 yo‘l belgilari bilan belgilangan maxsus to‘xtab turish maydonchalaridan boshqa joylarda to‘xtash.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2962,
+          "textUz": "Йўлнинг қатнов қисмининг четки ўнг бўлагида",
+          "textRu": "На крайней правой полосе проезжей части дороги",
+          "textOz": "Yo'lning qatnov qismining chetki o'ng bo'lagida",
+          "isCorrect": false
+        },
+        {
+          "id": 2963,
+          "textUz": "Йўлнинг 100 м дан кўпроқ қисми кўринадиган ва ҳаракат бўлаклари сони тўрттадан ортиқ бўлган жойларда",
+          "textRu": "В местах; где видимость более 100 м и число полос движения более четырех",
+          "textOz": "Yo'lning 100 m dan ko'proq qismi ko'rinadigan va harakat bo'laklari soni to'rttadan ortiq bo'lgan joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 2964,
+          "textUz": "Тўхтаб туриш учун «Тўхтаб туриш жойи» ёки «Дам олиш жойи» белгилари билан белгиланган махсус майдончаларда",
+          "textRu": "На специальных площадках для стоянки; обозначенных знаками \"Место стоянки\" или \"Место отдыха\"",
+          "textOz": "To'xtab turish uchun «Тўхтаб туриш жойи» yoki «Дам олиш жойи» belgilari bilan belgilangan maxsus maydonchalarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2964
+      ]
+    }
+  ]
+}

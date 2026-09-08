@@ -1,0 +1,156 @@
+{
+  "category": "Vaqtinchalik belgilar",
+  "count": 25,
+  "signs": [
+    {
+      "number": "1.8",
+      "description": "«Svetofor bilan tartibga solish»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.8-min.png",
+      "imageFile": "1.8.png"
+    },
+    {
+      "number": "1.15",
+      "description": "«Sirpanchiq yo‘l»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.15-min.png",
+      "imageFile": "1.15.png"
+    },
+    {
+      "number": "1.16",
+      "description": "«Notekis yo‘l»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.16-min.png",
+      "imageFile": "1.16.png"
+    },
+    {
+      "number": "1.17",
+      "description": "«Tosh otilishi xavfi»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.17-min.png",
+      "imageFile": "1.17.png"
+    },
+    {
+      "number": "1.18.1",
+      "description": "«Yo‘lning torayishi»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.1-min.png",
+      "imageFile": "1.18.1.png"
+    },
+    {
+      "number": "1.18.2",
+      "description": "«Yo‘lning torayishi»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.2-min.png",
+      "imageFile": "1.18.2.png"
+    },
+    {
+      "number": "1.18.3",
+      "description": "«Yo‘lning torayishi»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.3-min.png",
+      "imageFile": "1.18.3.png"
+    },
+    {
+      "number": "1.23",
+      "description": "«Ta’mirlash ishlari»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.23-min.png",
+      "imageFile": "1.23.png"
+    },
+    {
+      "number": "1.30",
+      "description": "«Boshqa xavf-xatarlar»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.30-min.png",
+      "imageFile": "1.30.png"
+    },
+    {
+      "number": "2.6",
+      "description": "«Ro‘para harakatlanishning ustunligi»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/2.6-min.png",
+      "imageFile": "2.6.png"
+    },
+    {
+      "number": "2.7",
+      "description": "«Ro‘paradagi harakatlanishga nisbatan imtiyoz»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/5874.jpg.webp",
+      "imageFile": "2.7.webp"
+    },
+    {
+      "number": "3.1",
+      "description": "«Kirish taqiqlangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/2356.png.webp",
+      "imageFile": "3.1.webp"
+    },
+    {
+      "number": "3.2",
+      "description": "«Harakatlanish taqiqlangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/7547.png.webp",
+      "imageFile": "3.2.webp"
+    },
+    {
+      "number": "3.11",
+      "description": "«Vazn cheklangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.11-min.png",
+      "imageFile": "3.11.png"
+    },
+    {
+      "number": "3.12",
+      "description": "«O‘qqa tushadigan og‘irlik cheklangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.12-min.png",
+      "imageFile": "3.12.png"
+    },
+    {
+      "number": "3.13",
+      "description": "«Cheklangan balandlik»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.13-min.png",
+      "imageFile": "3.13.png"
+    },
+    {
+      "number": "3.14",
+      "description": "«Cheklangan kenglik»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.14-min.png",
+      "imageFile": "3.14.png"
+    },
+    {
+      "number": "3.15",
+      "description": "«Cheklangan uzunlik»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.15-min.png",
+      "imageFile": "3.15.png"
+    },
+    {
+      "number": "3.16",
+      "description": "«Eng kam oraliq»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.16-min.png",
+      "imageFile": "3.16.png"
+    },
+    {
+      "number": "3.18.1",
+      "description": "«O‘ngga burilish taqiqlangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.18.1-min.png",
+      "imageFile": "3.18.1.png"
+    },
+    {
+      "number": "3.18.2",
+      "description": "«Chapga burilish taqiqlanadi»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.18.2-min.png",
+      "imageFile": "3.18.2.png"
+    },
+    {
+      "number": "3.19",
+      "description": "«Qayrilish taqiqlangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.19-min.png",
+      "imageFile": "3.19.png"
+    },
+    {
+      "number": "3.20",
+      "description": "«Quvib o‘tish taqiqlangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.20-min.png",
+      "imageFile": "3.20.png"
+    },
+    {
+      "number": "3.22",
+      "description": "«Yuk avtomobillarida quvib o‘tish taqiqlangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.22-min.png",
+      "imageFile": "3.22.png"
+    },
+    {
+      "number": "3.24",
+      "description": "«Yuqori tezlik cheklangan»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.24-min.png",
+      "imageFile": "3.24.png"
+    }
+  ]
+}

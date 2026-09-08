@@ -1,0 +1,795 @@
+{
+  "title": "Bilet 24",
+  "count": 20,
+  "questions": [
+    {
+      "id": 463,
+      "questionUz": "Ҳаракатланиш рухсат этилган:",
+      "questionRu": "Движение разрешено:",
+      "questionOz": "Harakatlanish ruxsat etilgan:",
+      "explanationUz": "ЙҲҚ 7-боби 38-бандига асосан, тартибга солувчининг ўнг қўли олдинга узатилганда: чап ёнидан трамвайга чапга, рельссиз транспорт воситаларига барча йўналишларда; олди томонидан барча транспорт воситаларига фақат ўнгга ҳаракатланишга рухсат берилади; орқа томонидан ва ўнг ёнидан барча транспорт воситаларининг ҳаракатланиши тақиқланади; пиёдаларга тартибга солувчининг орқа томонида қатнов қисмини кесиб ўтишга рухсат этилади.",
+      "explanationRu": "Согласно пункту 38 главы 7 ПДД, правая рука регулировщика вытянута вперед: со стороны левого бока — разрешено движение трамваю налево, безрельсовым транспортным средствам — во всех направлениях; со стороны груди — всем транспортным средствам разрешено движение только направо; со стороны правого бока и спины — движение всех транспортных средств запрещено; пешеходам разрешено переходить проезжую часть за спиной регулировщика.",
+      "explanationOz": "YHQ 7-bobi 38-bandiga asosan, tartibga soluvchining o'ng qo'li oldinga uzatilganda: chap yonidan tramvayga chapga, relssiz transport vositalariga barcha yo'nalishlarda; oldi tomonidan barcha transport vositalariga faqat o'ngga harakatlanishga ruxsat beriladi; orqa tomonidan va o'ng yonidan barcha transport vositalarining harakatlanishi taqiqlanadi; piyodalarga tartibga soluvchining orqa tomonida qatnov qismini kesib o'tishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1561,
+          "textUz": "Қизил автомобилга",
+          "textRu": "Красному автомобилю",
+          "textOz": "Qizil avtomobilga",
+          "isCorrect": true
+        },
+        {
+          "id": 1562,
+          "textUz": "Мотоциклга",
+          "textRu": "Мотоциклу",
+          "textOz": "Motosiklga",
+          "isCorrect": false
+        },
+        {
+          "id": 1563,
+          "textUz": "Трамвайга ва қизил автомобилга",
+          "textRu": "Трамваю и красному автомобилю",
+          "textOz": "Tramvayga va qizil avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 1564,
+          "textUz": "Трамвайга",
+          "textRu": "Трамваю",
+          "textOz": "Tramvayga",
+          "isCorrect": false
+        },
+        {
+          "id": 1565,
+          "textUz": "Кўк автомобилга",
+          "textRu": "Синему автомобилю",
+          "textOz": "Ko'k avtomobilga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1561
+      ]
+    },
+    {
+      "id": 464,
+      "questionUz": "Қайси транспорт воситасига ҳаракатланиш рухсат этилади?",
+      "questionRu": "Каким транспортным средствам разрешено движение?",
+      "questionOz": "Qaysi transport vositasiga harakatlanish ruxsat etiladi?",
+      "explanationUz": "Бу вазиятда аввало тартибга солувчининг ҳолатини тўғри аниқлаш керак.\r\n\r\nАгар тартибга солувчи транспорт воситасига олди ёки орқа томони билан қараб турган бўлса, у томондаги транспорт воситаларига барча йўналишларда ҳаракатланиш тақиқланади.\r\n\r\nШунинг учун мотоцикл ва автобусга ҳаракатланиш тақиқланади.\r\n\r\nТартибга солувчининг ён томонида турган транспорт воситаларига эса тўғрига ва ўнгга ҳаракатланишга рухсат этилади.\r\n\r\nБу ҳолатда ён томонда оқ автомобил ва кўк автомобил турибди. Кўк автомобил чапга бурилмоқчи бўлгани учун унга ҳаракатланишга рухсат берилмайди.\r\n\r\nДемак, фақат оқ (енгил) автомобилга ҳаракатланишга рухсат этилади.",
+      "explanationRu": "В данной ситуации прежде всего необходимо правильно определить положение регулировщика.\r\n\r\nЕсли регулировщик обращён к транспортному средству грудью или спиной, движение для этого транспортного средства запрещено во всех направлениях.\r\n\r\nПоэтому движение мотоциклу и автобусу запрещено.\r\n\r\nТранспортным средствам, находящимся сбоку от регулировщика, разрешается движение прямо и направо.\r\n\r\nВ данной ситуации сбоку находятся белый и синий автомобили. Синий автомобиль собирается повернуть налево, поэтому движение для него запрещено.\r\n\r\nСледовательно, движение разрешено только белому легковому автомобилю.",
+      "explanationOz": "Bu vaziyatda avvalo tartibga soluvchining holatini toʻgʻri aniqlash kerak.\r\n\r\nAgar tartibga soluvchi transport vositasiga oldi yoki orqa tomoni bilan qarab turgan boʻlsa, u tomondagi transport vositalariga barcha yoʻnalishlarda harakatlanish taqiqlanadi.\r\n\r\nShuning uchun mototsikl va avtobusga harakatlanish taqiqlanadi.\r\n\r\nTartibga soluvchining yon tomonida turgan transport vositalariga esa toʻgʻriga va oʻngga harakatlanishga ruxsat etiladi.\r\n\r\nBu holatda yon tomonda oq avtomobil va ko‘k avtomobil turibdi. Koʻk avtomobil chapga burilmoqchi boʻlgani uchun unga harakatlanishga ruxsat berilmaydi.\r\n\r\nDemak, faqat oq (yengil) avtomobilga harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.5.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5845,
+          "textUz": "Сариқ ва қизил автомобилга",
+          "textRu": "Желтому и красному автомобилям",
+          "textOz": "Sariq va qizil avtomobilga",
+          "isCorrect": true
+        },
+        {
+          "id": 5846,
+          "textUz": "Яшил, қизил ва оқ автомобилгатоциклга",
+          "textRu": "Зеленому, красному и белому автомобилям",
+          "textOz": "Yashil, qizil va oq avtomobilgatosiklga",
+          "isCorrect": false
+        },
+        {
+          "id": 5847,
+          "textUz": "Оқ ва яшил автомобилга",
+          "textRu": "Белому и зеленому автомобилю",
+          "textOz": "Oq va yashil avtomobilga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5845
+      ]
+    },
+    {
+      "id": 465,
+      "questionUz": "Транспорт воситаларига қайси йўналиш бўйича ҳаракатланишга рухсат этилади?",
+      "questionRu": "По каким направлениям разрешено движение транспортных средств?",
+      "questionOz": "Transport vositalariga qaysi yo'nalish bo'yicha harakatlanishga ruxsat etiladi?",
+      "explanationUz": "ЙҲҚ 7-боби 38-бандига асосан, тартибга солувчининг ўнг қўли олдинга узатилганда: чап ёнидан трамвайга чапга, рельссиз транспорт воситаларига барча йўналишларда; олди томонидан барча транспорт воситаларига фақат ўнгга ҳаракатланишга рухсат берилади; орқа томонидан ва ўнг ёнидан барча транспорт воситаларининг ҳаракатланиши тақиқланади; пиёдаларга тартибга солувчининг орқа томонида қатнов қисмини кесиб ўтишга рухсат этилади.",
+      "explanationRu": "Согласно пункту 38 главы 7 ПДД, правая рука регулировщика вытянута вперед: со стороны левого бока — разрешено движение трамваю налево, безрельсовым транспортным средствам — во всех направлениях; со стороны груди — всем транспортным средствам разрешено движение только направо; со стороны правого бока и спины — движение всех транспортных средств запрещено; пешеходам разрешено переходить проезжую часть за спиной регулировщика.",
+      "explanationOz": "YHQ 7-bobi 38-bandiga asosan, tartibga soluvchining o'ng qo'li oldinga uzatilganda: chap yonidan tramvayga chapga, relssiz transport vositalariga barcha yo'nalishlarda; oldi tomonidan barcha transport vositalariga faqat o'ngga harakatlanishga ruxsat beriladi; orqa tomonidan va o'ng yonidan barcha transport vositalarining harakatlanishi taqiqlanadi; piyodalarga tartibga soluvchining orqa tomonida qatnov qismini kesib o'tishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1569,
+          "textUz": "Трамвайга чапга ёки тўғрига",
+          "textRu": "Трамваю налево или прямо",
+          "textOz": "Tramvayga chapga yoki to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 1570,
+          "textUz": "Фақат автомобилга чапга",
+          "textRu": "Только автомобилю налево",
+          "textOz": "Faqat avtomobilga chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 1571,
+          "textUz": "Трамвай ва автомобилга чапга",
+          "textRu": "Трамваю и автомобилю налево",
+          "textOz": "Tramvay va avtomobilga chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 1572,
+          "textUz": "Трамвайга чапга ёки тўғрига, автомобилга трамвайдан сўнг",
+          "textRu": "Трамваю налево или прямо, автомобилю после трамвая",
+          "textOz": "Tramvayga chapga yoki to'g'riga, avtomobilga tramvaydan so'ng",
+          "isCorrect": false
+        },
+        {
+          "id": 1573,
+          "textUz": "Трамвайга чапга, автомобилга чапга ва тескари йўналишга",
+          "textRu": "Трамваю налево, автомобилю налево и в обратном направлении",
+          "textOz": "Tramvayga chapga, avtomobilga chapga va teskari yo'nalishga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1573
+      ]
+    },
+    {
+      "id": 466,
+      "questionUz": "Йўлда ҳаракатланишни тартибга солиш учун ваколатли шахсда ўзи билан бўлиши керак:",
+      "questionRu": "Лица; уполномоченные регулировать дорожное движение; должны иметь при себе:",
+      "questionOz": "Yo'lda harakatlanishni tartibga solish uchun vakolatli shaxsda o'zi bilan bo'lishi kerak:",
+      "explanationUz": "ЙҲҚ 1-боби 6-банди 44-тушунчасига асосан, тартибга солувчи — Ўз.Р. ИИВ ДЙҲХХнинг, ҳарбий автомобиль назорати органлари ходими, ўз хизмат вазифаларини бажараётган, ушбу Қоидаларда кўзда тутилган ишоралар ёрдамида йўл ҳаракатини тартибга солиш ваколатига эга бўлган ва уни бевосита амалга ошираётган йўлдан фойдаланиш хизмати ходимлари, темир йўл кесишмаси ва сол кечувларидаги навбатчилар ҳамда жамоатчилик вакиллари. Тартибга солувчи махсус кийим ва (ёки) таниқлик белгиси (қўл боғичи, жезл, қизил ишорали ёруғлик қайтаргич, қизил чироқ ёки байроқча)га эга бўлиши шарт.",
+      "explanationRu": "Согласно определению 44 пункта 6 главы 1 ПДД, Регулировщик - сотрудник ГСБДД МВД РУ, военной автомобильной инспекции, работник дорожно-эксплуатационных служб, дежурный на железнодорожных переездах и паромных переправах при исполнении ими своих должностных обязанностей, наделенный в установленном порядке полномочиями по регулированию дорожного движения с помощью сигналов, установленных настоящими Правилами, и не посредственно осуществляющий указанное регулирование. Регулировщик должен быть в форменной одежде и (или) иметь отличительный знаки и экипировку (нарукавную повязку, жезл, диск с красным отражателем, красный фонарь или флажок).",
+      "explanationOz": "YHQ 1-bobi 6-bandi 44-tushunchasiga asosan, tartibga soluvchi — O'z.R. IIV DYHXXning, harbiy avtomobil nazorati organlari xodimi, o'z xizmat vazifalarini bajarayotgan, ushbu qoidalarda ko'zda tutilgan ishoralar yordamida yo'l harakatini tartibga solish vakolatiga ega bo'lgan va uni bevosita amalga oshirayotgan yo'ldan foydalanish xizmati xodimlari, temir yo'l kesishmasi va sol kechuvlaridagi navbatchilar hamda jamoatchilik vakillari. Tartibga soluvchi maxsus kiyim va (yoki) taniqlik belgisi (qo'l bog'ichi, jezl, qizil ishorali yorug'lik qaytargich, qizil chiroq yoki bayroqcha)ga ega bo'lishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1574,
+          "textUz": "Тегишли гувоҳнома ва таниқлик белгиси қўл боғичи",
+          "textRu": "Соответствующее удостоверение и отличительный знак- нарукавную повязку",
+          "textOz": "Tegishli guvohnoma va taniqlik belgisi qo'l bog'ichi",
+          "isCorrect": false
+        },
+        {
+          "id": 1575,
+          "textUz": "Жезл",
+          "textRu": "Жезл",
+          "textOz": "Jezl",
+          "isCorrect": false
+        },
+        {
+          "id": 1576,
+          "textUz": "Қизил чироқ (ёруғлик қайтаргич) гардиш ёки байроқча",
+          "textRu": "Диск с красным сигналом (светоотражателем) или флажок",
+          "textOz": "Qizil chiroq (yorug'lik qaytargich) gardish yoki bayroqcha",
+          "isCorrect": false
+        },
+        {
+          "id": 1577,
+          "textUz": "Барча санаб ўтилган белгилар",
+          "textRu": "Все перечисленные отличительные знаки",
+          "textOz": "Barcha sanab o'tilgan belgilar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1577
+      ]
+    },
+    {
+      "id": 467,
+      "questionUz": "Тартибга солувчининг хуштак ишораси хизмат қилади:",
+      "questionRu": "Сигнал регулировщика свистком служит:",
+      "questionOz": "Tartibga soluvchining xushtak ishorasi xizmat qiladi:",
+      "explanationUz": "ЙҲҚ 7-боби 40-бандига асосан, йўл ҳаракати қатнашчиларининг эътиборини жалб этиш учун ҳуштак билан қўшимча ишора берилади.",
+      "explanationRu": "Согласно пункту 40 главы 7 ПДД, для привлечения внимания участников движения может подаваться дополнительный сигнал при помощи свистка.",
+      "explanationOz": "YHQ 7-bobi 40-bandiga asosan, yo'l harakati qatnashchilarining e'tiborini jalb etish uchun hushtak bilan qo'shimcha ishora beriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1578,
+          "textUz": "Ҳаракат иштирокчиларининг эътиборини жалб этиш учун",
+          "textRu": "Для привлечения внимания участников движения",
+          "textOz": "Harakat ishtirokchilarining etiborini jalb etish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 1579,
+          "textUz": "Зарар ҳолларда «қўлни юқорига кўтариш» ишорасининг ўрнини босиш учун",
+          "textRu": "Для замены в необходимых случаях сигнала «рука поднята вверх»",
+          "textOz": "Zarar hollarda «қўлни юқорига кўтариш» ishorasining o'rnini bosish uchun",
+          "isCorrect": false
+        },
+        {
+          "id": 1580,
+          "textUz": "Пиёдалар учун рухсат этувчи ишора бўлиб",
+          "textRu": "Разрешающим сигналом для пешеходов",
+          "textOz": "Piyodalar uchun ruxsat etuvchi ishora bo'lib",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1578
+      ]
+    },
+    {
+      "id": 468,
+      "questionUz": "Чорраҳага кирганингизда тартибга солувчи қўлини юқорига кўтарди, сизга ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли Вам продолжить движение, если регулировщик поднял руку вверх после того, как Вы въехали на перекресток?",
+      "questionOz": "Chorrahaga kirganingizda tartibga soluvchi qo'lini yuqoriga ko'tardi, sizga harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 124 бандига асосан, турар жой даҳаларида қуйидагилар тақиқланади: механик транспорт воситаларини бошқаришни ўргатиш; двигатели ишлаб турган ҳолда тўхтаб туриш; рухсат этилган тўлиқ вазни 3,5 тоннадан ортиқ бўлган юк автомобилларининг махсус ажратилган, йўл белгилари ва (ёки) йўл чизиқлари билан белгиланган жойлардан ташқарида тўхтаб туриши.",
+      "explanationRu": "Согласно пункту 124 Правил дорожного движения, в жилой зоне запрещается: учебная езда на механических транспортных средствах; стоянка с работающим двигателем; стоянка грузовых автомобилей с разрешенной максимальной массой более 3,5 т вне специально выделенных и обозначенных дорожными знаками и (или) дорожной разметкой мест.",
+      "explanationOz": "Yo‘l harakati qoidalarining 124 bandiga asosan, turar joy dahalarida quyidagilar taqiqlanadi: mexanik transport vositalarini boshqarishni o‘rgatish; dvigateli ishlab turgan holda to‘xtab turish; ruxsat etilgan to‘liq vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillarining maxsus ajratilgan, yo‘l belgilari va (yoki) yo‘l chiziqlari bilan belgilangan joylardan tashqarida to‘xtab turishi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4490,
+          "textUz": "Рухсат этилмайди",
+          "textRu": "Не разрешается",
+          "textOz": "Ruxsat etilmaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 4491,
+          "textUz": "Рухсат этилади, агарда сиз ўнгга буриладиган бўлсангиз",
+          "textRu": "Разрешается, только если Вы поворачиваете направо",
+          "textOz": "Ruxsat etiladi, agarda siz o'ngga buriladigan bo'lsangiz",
+          "isCorrect": false
+        },
+        {
+          "id": 4492,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4492
+      ]
+    },
+    {
+      "id": 469,
+      "questionUz": "Ҳаракатланишга рухсат берилган:",
+      "questionRu": "Разрешается движение:",
+      "questionOz": "Harakatlanishga ruxsat berilgan:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, пиёдалар ўтиш жойи — қатнов қисмидаги 5.16.1, 5.16.2 йўл белгилари ва 1.14.1 — 1.14.4 йўл чизиқлари билан белгиланган ва пиёдалар йўлни кесиб ўтишда ҳаракатланишлари учун ажратилган жой.\r\nЙўл чизиқлари бўлмаса, пиёдалар ўтиш жойининг кенглиги 5.16.1 ва 5.16.2 йўл белгилари орасидаги масофа билан аниқланади.",
+      "explanationRu": ":  Согласно статьи 6 Правил дорожного движения, пешеходный переход — участок проезжей части дороги, предназначенный для пересечения пешеходами, обозначенный дорожными знаками 5.16.1, 5.16.2 и дорожной разметкой 1.14.1 — 1.14.4.\r\nПри отсутствии дорожной разметки ширина пешеходного перехода определяется расстоянием между дорожными знаками 5.16.1 и 5.16.2.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, piyodalar o‘tish joyi — qatnov qismidagi 5.16.1, 5.16.2 yo‘l belgilari va 1.14.1 — 1.14.4 yo‘l chiziqlari bilan belgilangan va piyodalar yo‘lni kesib o‘tishda harakatlanishlari uchun ajratilgan joy.\r\nYo‘l chiziqlari bo‘lmasa, piyodalar o‘tish joyining kengligi 5.16.1 va 5.16.2 yo‘l belgilari orasidagi masofa bilan aniqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/41.7.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 1584,
+          "textUz": "Қизил, кўк, яшил ва сариқ автомобилга",
+          "textRu": "Красному, синему, зеленому и желтому автомобилям",
+          "textOz": "Qizil, ko'k, yashil va sariq avtomobilga",
+          "isCorrect": false
+        },
+        {
+          "id": 1585,
+          "textUz": "Қизил ва сариқ автомобилга",
+          "textRu": "Красному и желтому автомобилям",
+          "textOz": "Qizil va sariq avtomobilga",
+          "isCorrect": true
+        },
+        {
+          "id": 1586,
+          "textUz": "Қизил, сариқ ва яшил автомобилга",
+          "textRu": "Красному, желтому и зеленому автомобилям",
+          "textOz": "Qizil, sariq va yashil avtomobilga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1585
+      ]
+    },
+    {
+      "id": 470,
+      "questionUz": "Қайси транспорт воситаларига ҳаракатланишга рухсат берилган?",
+      "questionRu": "Каким транспортным средством разрешено движение?",
+      "questionOz": "Qaysi transport vositalariga harakatlanishga ruxsat berilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 5-бўлимидаги 5.42 белгига асосан, «Қизил чироқда ўнгга ҳаракатланиш». Транспорт светофори қизил чироғининг ўнг ёнига 5.42 йўл белгиси ўрнатилган бўлса, транспорт воситаларининг ҳайдовчилари светофорнинг тақиқловчи ишораси ёниб турганда, барча хавфсизлик чораларини кўрган ҳолда ўнгга бурилишлари мумкин. Бунда улар ҳаракат йўналиши бўйича ва бурилаётган кўчани кесиб ўтаётган пиёдаларга ҳамда бошқа транспорт воситаларига йўл беришлари шарт.",
+      "explanationRu": "Знак 5.42 раздела 5 приложения № 1 к ПДД, «Движение направо при красном сигнале». Если с правой стороны красного сигнала транспортного светофора установлен знак 5.42, водители транспортных средств, находящиеся непосредственно перед перекрестком, при включённом запрещающем сигнале светофора могут поворачивать направо, соблюдая все меры безопасности. При этом они обязаны уступить дорогу всем транспортным средствам, а также пешеходам, переходящим проезжую часть дороги в направлении движения и дороги, на которую транспортные средства поворачивают.",
+      "explanationOz": "YHQ 1-ilovasining 5-bo‘limidagi 5.42 belgiga asosan, «Qizil chiroqda o‘ngga harakatlanish». Transport svetofori qizil chirog‘ining o‘ng yoniga 5.42 yo‘l belgisi o‘rnatilgan bo‘lsa, transport vositalarining haydovchilari svetoforning taqiqlovchi ishorasi yonib turganda, barcha xavfsizlik choralarini ko‘rgan holda o‘ngga burilishlari mumkin. Bunda ular harakat yo‘nalishi bo‘yicha va burilayotgan ko‘chani kesib o‘tayotgan piyodalarga hamda boshqa transport vositalariga yo‘l berishlari shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1587,
+          "textUz": "Мотоциклга ўнга ва енгил автомобилга барча йўналишларга",
+          "textRu": "Мотоциклу направо, легковому автомобилю на все направления",
+          "textOz": "Motosiklga o'nga va engil avtomobilga barcha yo'nalishlarga",
+          "isCorrect": false
+        },
+        {
+          "id": 1588,
+          "textUz": "Енгил автомобилга ўнга ва тўғрига",
+          "textRu": "Легковому автомобилю на право и прямо",
+          "textOz": "Engil avtomobilga o'nga va to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 1589,
+          "textUz": "Мотоциклга ўнга, енгил автомобилга тўғрига ва ўнга",
+          "textRu": "Мотоциклу направо, легковому автомобилю прямо и направо",
+          "textOz": "Motosiklga o'nga, engil avtomobilga to'g'riga va o'nga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1589
+      ]
+    },
+    {
+      "id": 471,
+      "questionUz": "Қайси транспорт воситасига ҳаракатланиш тақиқланган?",
+      "questionRu": "Какому транспортному средству движение запрещено?",
+      "questionOz": "Qaysi transport vositasiga harakatlanish taqiqlangan?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 38 бандига асосан, Тартибга солувчининг ишоралари қуйидаги маънони билдиради: Ўнг қўли олдинга узатилганда: чап ёнидан трамвайга чапга, рельссиз транспорт воситаларига барча йўналишларда;\r\nолди томонидан барча транспорт воситаларига фақат ўнгга ҳаракатланишга рухсат берилади; орқа томонидан ва ўнг ёнидан барча транспорт воситаларининг ҳаракатланиши тақиқланади; пиёдаларга тартибга солувчининг орқа томонида қатнов қисмини кесиб ўтишга рухсат этилади.\r\nУшбу вазиятда юк автомобилига ҳаракатланиш тақиқланган.",
+      "explanationRu": "Согласно пункту 38 Правил дорожного движения, Сигналы регулировщика имеют следующие значения: правая рука вытянута вперед: со стороны левого бока — разрешено движение трамваю налево, безрельсовым транспортным средствам — во всех направлениях; со стороны груди — всем транспортным средствам разрешено движение только направо; со стороны правого бока и спины — движение всех транспортных средств запрещено; пешеходам разрешено переходить проезжую часть за спиной регулировщика.\r\nВ этой ситуации движение запрещено грузовому автомобилю.",
+      "explanationOz": "Yo‘l harakati qoidalarining 38 bandiga asosan, Tartibga soluvchining ishoralari quyidagi ma’noni bildiradi: O‘ng qo‘li oldinga uzatilganda: chap yonidan tramvayga chapga, relssiz transport vositalariga barcha yo‘nalishlarda;\r\noldi tomonidan barcha transport vositalariga faqat o‘ngga harakatlanishga ruxsat beriladi; orqa tomonidan va o‘ng yonidan barcha transport vositalarining harakatlanishi taqiqlanadi; piyodalarga tartibga soluvchining orqa tomonida qatnov qismini kesib o‘tishga ruxsat etiladi.\r\nUshbu vaziyatda yuk avtomobiliga harakatlanish taqiqlangan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/48.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1590,
+          "textUz": "Мотоциклга",
+          "textRu": "Мотоциклу",
+          "textOz": "Motosiklga",
+          "isCorrect": false
+        },
+        {
+          "id": 1591,
+          "textUz": "Хеч кимга тақиқланмаган",
+          "textRu": "Никому незапрещено",
+          "textOz": "Xech kimga taqiqlanmagan",
+          "isCorrect": false
+        },
+        {
+          "id": 1592,
+          "textUz": "Юк автомобилига",
+          "textRu": "Грузовому автомобилю",
+          "textOz": "Yuk avtomobiliga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1592
+      ]
+    },
+    {
+      "id": 472,
+      "questionUz": "Автомобил ҳайдовчиси қайрилиб олмоқчи:",
+      "questionRu": "Водитель автомобиля намерен развернуться:",
+      "questionOz": "Avtomobil haydovchisi qayrilib olmoqchi:",
+      "explanationUz": "Бурилиш пайтида, транспорт воситасига марказдан қочма куч таъсир қилади, тезликни ошиши билан бу куч ҳам ошиб,  транспорт воситасини йўл эгрилигининг ташқи томонига йўналтиришга мойилдир. Бурилишдан ўтаётганда транспорт воситасининг сирпаниши ёки сурилиб кетиши юқори тезликдан, тормозлашдан ёки  ғилдиракларнинг ишқаланиш коэффициентининг камлигидан келиб чиқади. Ғилдиракларнинг сирпаниб тормозлашга қарши тизими тормозланганда ғилдиракларни бирданига тўхтаб, қотиб қолишини олдини олиш учун хизмат қилади, у сирпаниш ёки сурилиб кетиш эҳтимолини камайтириши мумкин, аммо уларнинг пайдо бўлиш эҳтимолини истисно қилмайди.",
+      "explanationRu": "При прохождении поворота на транспортное средство действует центробежная сила, которая возрастает с увеличением скорости и стремится сместить транспортное средство к внешней стороне закругления дороги. Занос или снос транспортного средства может возникнуть при проезде поворота из-за большой скорости движения, торможения или низкого коэффициента сцепления. Антиблокировочная тормозная система, предназначенная для предотвращения блокировки колес транспортного средства, может снизить вероятность возникновения заноса или сноса при торможении, но не может исключить возможность их возникновения.",
+      "explanationOz": "Burilish paytida, transport vositasiga markazdan qochma kuch ta'sir qiladi, tezlikni oshishi bilan bu kuch ham oshib, transport vositasini yo'l egriligining tashqi tomoniga yo'naltirishga moyildir. Burilishdan o'tayotganda transport vositasining sirpanishi yoki surilib ketishi yuqori tezlikdan, tormozlashdan yoki g'ildiraklarning ishqalanish koeffisientining kamligidan kelib chiqadi. G'ildiraklarning sirpanib tormozlashga qarshi tizimi tormozlanganda g'ildiraklarni birdaniga to'xtab, qotib qolishini oldini olish uchun xizmat qiladi, u sirpanish yoki surilib ketish ehtimolini kamaytirishi mumkin, ammo ularning paydo bo'lish ehtimolini istisno qilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1593,
+          "textUz": "Чорраҳадан биринчи бўлиб ўтади",
+          "textRu": "Проедет перекресток первым",
+          "textOz": "Chorrahadan birinchi bo'lib o'tadi",
+          "isCorrect": false
+        },
+        {
+          "id": 1594,
+          "textUz": "Трамвайга йўл бериб қайрилиб олади",
+          "textRu": "Выпольняет разворот, уступив дорогу трамваю",
+          "textOz": "Tramvayga yo'l berib qayrilib oladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1594
+      ]
+    },
+    {
+      "id": 473,
+      "questionUz": "Маёқчаси ёкиланган транспорт воситасига ҳаракатни тўғрига давом еттиришга рухсат бериладими?",
+      "questionRu": "Разрешается ли транспортному средству с включенным маячком двигаться прямо?",
+      "questionOz": "Mayoqchasi yokilangan transport vositasiga harakatni to'g'riga davom ettirishga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚ 9-боби 60- бандига мувофиқ, транспорт воситаларининг ҳаракат йўналишлари кесишадиган ва ўтиш навбати Қоидаларда назарда тутилмаган ҳолларда ҳайдовчи ўнг томондан яқинлашиб келаётган транспорт воситасига йўл бериши керак.",
+      "explanationRu": "Согласно пункту 60 главы 9 ПДД, в случаях, когда траектории движения транспортных средств пересекаются, а очерёдность проезда не оговорена настоящими Правилами, дорогу должен уступить водитель, к которому транспортное средство приближается справа.",
+      "explanationOz": "YHQ 9-bobi 60 - bandiga muvofiq, transport vositalarining harakat yo'nalishlari kesishadigan va o'tish navbati qoidalarda nazarda tutilmagan hollarda haydovchi o'ng tomondan yaqinlashib kelayotgan transport vositasiga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1595,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 1596,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1596
+      ]
+    },
+    {
+      "id": 474,
+      "questionUz": "Автомобилларга қайси йўналишларда ҳаракатланишга рухсат берилади?",
+      "questionRu": "В каких направлениях разрешено движение автомобилям?",
+      "questionOz": "Avtomobillarga qaysi yo‘nalishlarda harakatlanishga ruxsat beriladi?",
+      "explanationUz": "\"ЙҲҚга 1-ИЛОВА 5.8.2 банди ва 5. Ахборот-кўрсатгич белгиларининг 11-хатбоши ҳамда ЙҲҚга 1-ИЛОВА 3.18.2 банди ва 3.Тақиқловчи белгиларнинг 47-хатбошига асосан: 5.8.2. «Тасма бўйича ҳаракатланиш йўналиши». Тасма бўйича рухсат этилган ҳаракатланиш йўналиши. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади.\r\nЙўлнинг четки чап бўлагидан чапга бурилишга рухсат берувчи 5.8.1 ва 5.8.2 белгилари шу тасмадан қайрилишга ҳам рухсат беради. \r\n3.18.2. «Чапга бурилиш тақиқланади». 3.18.1 ва 3.18.2 белгилари қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади.\"",
+      "explanationRu": "\"На основании пункта 5.8.2 Приложения 1 к ПДД и абзаца 11 раздела 5 «Информационно-указательные знаки», а также пункта 3.18.2 Приложения 1 к ПДД и абзаца 47 раздела 3 «Запрещающие знаки»: 5.8.2. «Направления движения по полосе». Разрешенные направления движения по полосе. Движение по другим направлениям запрещается.\r\nЗнаки 5.8.1 и 5.8.2, разрешающие поворот налево из крайней левой полосы, разрешают и разворот с этой полосы. \r\n3.18.2. «Поворот налево запрещен». Действие знаков 3.18.1 и 3.18.2 распространяется на пересечение проезжих частей, перед которыми установлен знак.\"",
+      "explanationOz": "\"YHQga 1-ILOVA 5.8.2 bandi va 5. Axborot-ko‘rsatgich belgilarining 11-xatboshi hamda YHQga 1-ILOVA 3.18.2 bandi va 3.Taqiqlovchi belgilarning 47-xatboshiga asosan: 5.8.2. «Tasma bo‘yicha harakatlanish yo‘nalishi». Tasma bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi.\r\nYo‘lning chetki chap bo‘lagidan chapga burilishga ruxsat beruvchi 5.8.1 va 5.8.2 belgilari shu tasmadan qayrilishga ham ruxsat beradi. \r\n3.18.2. «Chapga burilish taqiqlanadi». 3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi.\"",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.15.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1597,
+          "textUz": "Қизилга чапга, кўкка тақиқлайди",
+          "textRu": "Красному — налево, синему — запрещено",
+          "textOz": "Qizilga chapga, ko‘kka taqiqlaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 1598,
+          "textUz": "Кўкка тўғрига, қизилга чапга",
+          "textRu": "Синему — прямо, красному — налево",
+          "textOz": "Ko‘kka to‘g‘riga, qizilga chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 1599,
+          "textUz": "Ҳар иккисига ҳам кўрсатилган йўналишларда рухсат берилади",
+          "textRu": "Обоим разрешено движение по указанным направлениям",
+          "textOz": "Har ikkisiga ham ko‘rsatilgan yo‘nalishlarda ruxsat beriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 1600,
+          "textUz": "Қизилга рухсат берилади, кўкка ўнга тақиқланган",
+          "textRu": "Красному разрешено, синему направо запрещено",
+          "textOz": "Qizilga ruxsat beriladi, ko‘kka o‘nga taqiqlangan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1599
+      ]
+    },
+    {
+      "id": 475,
+      "questionUz": "Қайси ҳолда қоидалар огоҳлантириш ишорасини беришни талаб килмайди?",
+      "questionRu": "В каком случае правила не требуют подачи предупре­дительного сигнала?",
+      "questionOz": "Qaysi holda qoidalar ogohlantirish ishorasini berishni talab kilmaydi?",
+      "explanationUz": "ЙҲҚ 26 – боби 153 – бандига асосан: Одам ташиш учун мўлжалланган юк автомобили юкхонасининг борти 1,3 метрдан кам бўлмаслиги шарт. Бунда юкхонанинг пастки қисмидан 0,3 — 0,5 метр баландликда маҳкамланган ўриндиқлар жиҳозланган бўлиши керак.",
+      "explanationRu": "В соответствии с пунктом 153 главы 26 ПДД: Высота борта кузова грузового автомобиля, используемого для перевозки людей должна быть не менее 1,3 м. При этом он должен быть оборудован сиденьями, закрепленными в кузове на расстоянии 0,3-0,5 м от пола кузова.",
+      "explanationOz": "YHQ 26 – bobi 153 – bandiga asosan: Odam tashish uchun mo‘ljallangan yuk avtomobili yukxonasining borti 1,3 metrdan kam bo‘lmasligi shart. Bunda yukxonaning pastki qismidan 0,3 — 0,5 metr balandlikda mahkamlangan o‘rindiqlar jihozlangan bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1601,
+          "textUz": "Қатнов қисмининг чеккасида тўхташ олдидан",
+          "textRu": "Перед остановкой у края проезжей части",
+          "textOz": "Qatnov qismining chekkasida to'xtash oldidan",
+          "isCorrect": false
+        },
+        {
+          "id": 1602,
+          "textUz": "«Ҳавфли бурилиш» белгиси билан белгиланган йўлнинг эгри бурилиш жойи олдидан.",
+          "textRu": "Перед закруглением дороги; обозначенным знаком \"Опасный поворот\"",
+          "textOz": "«Ҳавфли бурилиш» belgisi bilan belgilangan yo'lning egri burilish joyi oldidan.",
+          "isCorrect": true
+        },
+        {
+          "id": 1603,
+          "textUz": "Қўшни ҳаракат бўлагига ўтиш олдидан.",
+          "textRu": "Перед перестроением на соседнюю полосу движения",
+          "textOz": "Qo'shni harakat bo'lagiga o'tish oldidan.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1602
+      ]
+    },
+    {
+      "id": 476,
+      "questionUz": "Кундузги вақтда яқинни ёритувчи фара чироғини ёқиш огоҳлантириш ишораси бўладими?",
+      "questionRu": "Является ли включение ближнего света фар в дневное время предупредительным сигналом?",
+      "questionOz": "Kunduzgi vaqtda yaqinni yorituvchi fara chirog'ini yoqish ogohlantirish ishorasi bo'ladimi?",
+      "explanationUz": "ЙҲҚ 8-боби 44-бандига мувофиқ, кундуз куни яқинни ёритувчи фара чироғининг ёқилиши огоҳлантирувчи ишоралар ҳисобланади.",
+      "explanationRu": "Согласно пункту 44 главы 8 ПДД, включение ближнего света фар в дневное время являются предупредительными сигналами.",
+      "explanationOz": "YHQ 8-bobi 44-bandiga muvofiq, kunduz kuni yaqinni yorituvchi fara chirog'ining yoqilishi ogohlantiruvchi ishoralar hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1604,
+          "textUz": "Бўлади",
+          "textRu": "Является",
+          "textOz": "Bo'ladi",
+          "isCorrect": true
+        },
+        {
+          "id": 1605,
+          "textUz": "Бўлмайди",
+          "textRu": "Не является",
+          "textOz": "Bo'lmaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1604
+      ]
+    },
+    {
+      "id": 477,
+      "questionUz": "Қайси ишоралар огоҳлантирувчи ҳисобланади?",
+      "questionRu": "Какие сигналы считаются предупредительными?",
+      "questionOz": "Qaysi ishoralar ogohlantiruvchi hisoblanadi?",
+      "explanationUz": "ЙҲҚ 8-боби 44-бандига мувофиқ, қуйидагилар огоҳлантирувчи ишоралар ҳисобланади: бурилишни кўрсатадиган милтилловчи чироқ ёки қўл билан бериладиган ишоралар; товушли ишоралар; фара чироқларининг ёқиб-ўчирилиши; кундуз куни яқинни ёритувчи фара чироқларини ёқилиши.",
+      "explanationRu": "Согласно пункту 44 главы 8 ПДД, предупредительными сигналами являются: сигналы, подаваемые мигающими указателями поворотов или рукой; звуковые сигналы; переключение света фар; включение ближнего света фар в дневное время.",
+      "explanationOz": "YHQ 8-bobi 44-bandiga muvofiq, quyidagilar ogohlantiruvchi ishoralar hisoblanadi: burilishni ko'rsatadigan miltillovchi chiroq yoki qo'l bilan beriladigan ishoralar; tovushli ishoralar; fara chiroqlarining yoqib-o'chirilishi; kunduz kuni yaqinni yorituvchi fara chiroqlarini yoqilishi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1606,
+          "textUz": "Бурилишни кўрсатадиган милтилловчи чироқ ёки қўл билан бериладиган ишоралар",
+          "textRu": "Сигналы; подаваемые световыми указателями поворота или рукой",
+          "textOz": "Burilishni ko'rsatadigan miltillovchi chiroq yoki qo'l bilan beriladigan ishoralar",
+          "isCorrect": false
+        },
+        {
+          "id": 1607,
+          "textUz": "Товушли ишоралар",
+          "textRu": "Звуковые сигналы",
+          "textOz": "Tovushli ishoralar",
+          "isCorrect": false
+        },
+        {
+          "id": 1608,
+          "textUz": "Фара чироқларини ўчиб-ёқилиши ва кундузги вақтда яқинни ёритувчи фара чироғининг ёқилиши",
+          "textRu": "Переключение света фар и включение ближнего света фар дневное время",
+          "textOz": "Fara chiroqlarini o'chib-yoqilishi va kunduzgi vaqtda yaqinni yorituvchi fara chirog'ining yoqilishi",
+          "isCorrect": false
+        },
+        {
+          "id": 1609,
+          "textUz": "Санаб ўтилган барча ишоралар",
+          "textRu": "Все вышеперечисленные сигналы",
+          "textOz": "Sanab o'tilgan barcha ishoralar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1609
+      ]
+    },
+    {
+      "id": 478,
+      "questionUz": "Огоҳлантириш ишорасини бериш ҳайдовчига биринчи ҳаракатла��иш хуқуқини берадими?",
+      "questionRu": "Дает ли водителю преимущественное право проезда подача предупредительного сигнала?",
+      "questionOz": "Ogohlantirish ishorasini berish haydovchiga birinchi harakatlanish xuquqini beradimi?",
+      "explanationUz": "ЙҲҚ 8-боби 46-бандига мувофиқ, бурилиш кўрсатгичлари билан берилаётган огоҳлантирувчи ишора бериш ҳайдовчига олдин ўтиш ҳуқуқини бермайди ва уни зарурий эҳтиёт чораларини кўриш масъулиятидан озод этмайди.",
+      "explanationRu": "Согласно пункту 46 главы 8 ПДД, подача предупредительного сигнала указателями поворотов не дает водителю право на первоочередное движение и не освобождает его от принятия необходимых мер предосторожности.",
+      "explanationOz": "YHQ 8-bobi 46-bandiga muvofiq, burilish ko'rsatgichlari bilan berilayotgan ogohlantiruvchi ishora berish haydovchiga oldin o'tish huquqini bermaydi va uni zaruriy ehtiyot choralarini ko'rish mas'uliyatidan ozod etmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1610,
+          "textUz": "Бермайди",
+          "textRu": "Не дает",
+          "textOz": "Bermaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 1611,
+          "textUz": "Манёврни тугатиш вақтида беради",
+          "textRu": "Дает при завершении маневра",
+          "textOz": "Manyovrni tugatish vaqtida beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 1612,
+          "textUz": "Манёврни бошлаш вақтида беради",
+          "textRu": "Дает при начале маневра",
+          "textOz": "Manyovrni boshlash vaqtida beradi",
+          "isCorrect": false
+        },
+        {
+          "id": 1613,
+          "textUz": "Ҳамма ҳолларда беради",
+          "textRu": "Дает во всех случаях",
+          "textOz": "Hamma hollarda beradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1610
+      ]
+    },
+    {
+      "id": 479,
+      "questionUz": "Ҳайдовчи ахоли пунктларидан ташқаридаги йўлда қувиб ўтилаётган ҳайдовчининг эътиборини жалб этиш учун фаралар чироқларини ўчириб ёқиш ва товуш ишораси беришни қўллаб тўғри қилдими?",
+      "questionRu": "Правильно ли поступил водитель; применив переключение света фар и звуковой сигнал; для привлечения внимания обгоняемого водителя на дороге вне населенного пункта?",
+      "questionOz": "Haydovchi axoli punktlaridan tashqaridagi yo'lda quvib o'tilayotgan haydovchining etiborini jalb etish uchun faralar chiroqlarini o'chirib yoqish va tovush ishorasi berishni qo'llab to'g'ri qildimi?",
+      "explanationUz": "ЙҲҚ 8-боби 48- 49- бандларига мувофиқ, аҳоли пунктларидан ташқарида бошқа ҳайдовчиларни қувиб ўтиш ҳақида огоҳлантириш учун товушли ишоралар қўлланилиши мумкин. Қувиб ўтиш ҳақида товушли ишора ўрнига ёки у билан бирга чироқларни ёқиб-ўчириб, огоҳлантириш ишорасини ҳам бериш мумкин.",
+      "explanationRu": "Согласно пунктов 48 и 49 главы 8 ПДД, вне населенных пунктов при обгоне, для предупреждения других водителей могут применяться звуковые сигналы. Вместо звукового сигнала об обгоне или же вместе с ним может подаваться предупредительный сигнал переключением фар.",
+      "explanationOz": "YHQ 8-bobi 48 - 49 - bandlariga muvofiq, aholi punktlaridan tashqarida boshqa haydovchilarni quvib o'tish haqida ogohlantirish uchun tovushli ishoralar qo'llanilishi mumkin. Quvib o'tish haqida tovushli ishora o'rniga yoki u bilan birga chiroqlarni yoqib-o'chirib, ogohlantirish ishorasini ham berish mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1614,
+          "textUz": "Нотўғри",
+          "textRu": "Неправильно",
+          "textOz": "Noto'g'ri",
+          "isCorrect": false
+        },
+        {
+          "id": 1615,
+          "textUz": "Тўғри",
+          "textRu": "Правильно",
+          "textOz": "To'g'ri",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        1615
+      ]
+    },
+    {
+      "id": 480,
+      "questionUz": "Қувиб ўтишда фараларнинг узоқни ёритувчи чироқларидан огоҳлантирувчи ишора сифатида фойдаланиш мумкинми?",
+      "questionRu": "Можно ли пользоваться дальним светом фар в качестве предупредительного сигнала при обгоне?",
+      "questionOz": "Quvib o'tishda faralarning uzoqni yorituvchi chiroqlaridan ogohlantiruvchi ishora sifatida foydalanish mumkinmi?",
+      "explanationUz": "ЙҲҚ 8-боби 48- 49- бандларига мувофиқ, аҳоли пунктларидан ташқарида бошқа ҳайдовчиларни қувиб ўтиш ҳақида огоҳлантириш учун товушли ишоралар қўлланилиши мумкин. Қувиб ўтиш ҳақида товушли ишора ўрнига ёки у билан бирга чироқларни ёқиб-ўчириб, огоҳлантириш ишорасини ҳам бериш мумкин.",
+      "explanationRu": "Согласно пунктов 48 и 49 главы 8 ПДД, вне населенных пунктов при обгоне, для предупреждения других водителей могут применяться звуковые сигналы. Вместо звукового сигнала об обгоне или же вместе с ним может подаваться предупредительный сигнал переключением фар.",
+      "explanationOz": "YHQ 8-bobi 48 - 49 - bandlariga muvofiq, aholi punktlaridan tashqarida boshqa haydovchilarni quvib o'tish haqida ogohlantirish uchun tovushli ishoralar qo'llanilishi mumkin. Quvib o'tish haqida tovushli ishora o'rniga yoki u bilan birga chiroqlarni yoqib-o'chirib, ogohlantirish ishorasini ham berish mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1616,
+          "textUz": "Ҳамма ҳолда мумкин",
+          "textRu": "Можно в любом случае",
+          "textOz": "Hamma holda mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 1617,
+          "textUz": "Мумкин, агар бу бошқа ҳайдовчиларнинг кўзини қамаштирмаса, шу жумладан, орқани кўриш кўзгуси орқали ҳам",
+          "textRu": "Можно, когда это не может вызвать ослепление других водителей, в том числе и через зеркало заднего вида",
+          "textOz": "Mumkin, agar bu boshqa haydovchilarning ko'zini qamashtirmasa, shu jumladan, orqani ko'rish ko'zgusi orqali ham",
+          "isCorrect": true
+        },
+        {
+          "id": 1618,
+          "textUz": "Мумкин эмас",
+          "textRu": "Нельзя",
+          "textOz": "Mumkin emas",
+          "isCorrect": false
+        },
+        {
+          "id": 1619,
+          "textUz": "Аҳоли пунктларидан ташқаридаги йўлларда мумкин",
+          "textRu": "Можно на дорогах вне населенных пунктов",
+          "textOz": "Aholi punktlaridan tashqaridagi yo'llarda mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 1620,
+          "textUz": "Тўғри",
+          "textRu": "Правильно",
+          "textOz": "To'g'ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1617
+      ]
+    },
+    {
+      "id": 481,
+      "questionUz": "Ҳайдовчи манёврни бажаришда бурилиш кўрсаткичлари билан ёруғлик ишорасини ҳар доим бериши керакми?",
+      "questionRu": "Всегда ли водитель должен подавать световой сигнал; указателями поворота при выполнении маневра?",
+      "questionOz": "Haydovchi manyovrni bajarishda burilish ko'rsatkichlari bilan yorug'lik ishorasini har doim berishi kerakmi?",
+      "explanationUz": "ЙҲҚ 8- боби 46 – бандининг иккинчиси хатбошисига асосан: Бурилиш кўрсаткичи ёки қўл билан берилаётган ишора манёврни бажаришдан олдинроқ берилиши ва уни тугаллагач, дарҳол тўхтатилиши керак (қўл билан берилаётган ишорани манёврни бевосита бажаришдан олдин тугаллаш мумкин). Бериладиган ишоралар йўл ҳаракатининг бошқа қатнашчиларини чалғитмаслиги керак. Огоҳлантирувчи ишора бериш ҳайдовчига олдин ўтиш ҳуқуқини бермайди ва уни зарурий эҳтиёт чораларини кўриш масъулиятидан озод этмайди.",
+      "explanationRu": "Пункта 46 главы 8 ПДД гласит: Подача сигнала указателями поворотов или рукой должна производиться заблаговременно до начала выполнения маневра и прекращаться немедленно после его завершения (подача сигнала рукой может быть закончена непосредственно перед выполнением маневра). Подаваемый сигнал не должен вводить в заблуждение других участников дорожного движения. Подача предупредительного сигнала не дает водителю право на первоочередное движение и не освобождает его от принятия необходимых мер предосторожности.",
+      "explanationOz": "YHQ 8- bobi 46 – bandining ikkinchisi xatboshisiga asosan: Burilish ko‘rsatkichi yoki qo‘l bilan berilayotgan ishora manyovrni bajarishdan oldinroq berilishi va uni tugallagach, darhol to‘xtatilishi kerak (qo‘l bilan berilayotgan ishorani manyovrni bevosita bajarishdan oldin tugallash mumkin). Beriladigan ishoralar yo‘l harakatining boshqa qatnashchilarini chalg‘itmasligi kerak. Ogohlantiruvchi ishora berish haydovchiga oldin o‘tish huquqini bermaydi va uni zaruriy ehtiyot choralarini ko‘rish mas’uliyatidan ozod etmaydi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 1621,
+          "textUz": "Ҳар доим бериши керак",
+          "textRu": "Должен всегда",
+          "textOz": "Har doim berishi kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 1622,
+          "textUz": "Керак эмас, агар ҳаракатланишнинг бошқа қатнашчиларини чалғитиши мумкин бўлса",
+          "textRu": "Не должен, если он может ввести в заблуждение других участников движения",
+          "textOz": "Kerak emas, agar harakatlanishning boshqa qatnashchilarini chalg'itishi mumkin bo'lsa",
+          "isCorrect": true
+        },
+        {
+          "id": 1623,
+          "textUz": "Керак, зарурий эҳтиёт чораларини кўрган ҳолда",
+          "textRu": "Должен, приняв необходимые меры предосторожности",
+          "textOz": "Kerak, zaruriy ehtiyot choralarini ko'rgan holda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        1622
+      ]
+    },
+    {
+      "id": 482,
+      "questionUz": "Кўк автомобил чорраҳани кесиб ўтади:",
+      "questionRu": "Синий автомобиль проедет перекресток:",
+      "questionOz": "Ko'k avtomobil chorrahani kesib o'tadi:",
+      "explanationUz": "Кўк автомобил чорраҳани нечанчи бўлиб кесиб ўтади?\r\n\r\nБиринчи бўлиб имтиёзга эга бўлган махсус транспорт воситаси ўтади.\r\n\r\nИккинчи бўлиб асосий йўлда ҳаракатланаётган яшил автомобил ўтади.\r\n\r\nУчинчи бўлиб кўк автомобил чорраҳани кесиб ўтади.\r\n\r\nОхирги бўлиб эса сариқ автомобил ҳайдовчиси ҳаракатланади.\r\n\r\nДемак, тўғри жавоб — кўк автомобил чорраҳани учинчи бўлиб кесиб ўтади.",
+      "explanationRu": "Каким по счёту синий автомобиль проедет перекрёсток?\r\n\r\nПервым проезжает специальное транспортное средство, имеющее преимущество.\r\n\r\nВторым проезжает зелёный автомобиль, находящийся на главной дороге.\r\n\r\nТретьим перекрёсток проезжает синий автомобиль.\r\n\r\nПоследним движется водитель жёлтого автомобиля.\r\n\r\nСледовательно, правильный ответ — синий автомобиль проедет перекрёсток третьим.",
+      "explanationOz": "Koʻk avtomobil chorrahani nechinchi boʻlib kesib oʻtadi?\r\n\r\nBirinchi boʻlib imtiyozga ega boʻlgan maxsus transport vositasi oʻtadi.\r\n\r\nIkkinchi boʻlib asosiy yoʻlda harakatlanayotgan yashil avtomobil oʻtadi.\r\n\r\nUchinchi boʻlib ko‘k avtomobil chorrahani kesib o‘tadi.\r\n\r\nOxirgi boʻlib esa sariq avtomobil haydovchisi harakatlanadi.\r\n\r\nDemak, toʻgʻri javob — ko‘k avtomobil chorrahani uchinchi boʻlib kesib oʻtadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5885,
+          "textUz": "Биринчи бўлиб",
+          "textRu": "Первым",
+          "textOz": "Birinchi bo'lib",
+          "isCorrect": false
+        },
+        {
+          "id": 5886,
+          "textUz": "Иккинчи бўлиб\n",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi bo'lib\n",
+          "isCorrect": false
+        },
+        {
+          "id": 5887,
+          "textUz": "Учинчи бўлиб",
+          "textRu": "Третьим",
+          "textOz": "Uchinchi bo'lib",
+          "isCorrect": true
+        },
+        {
+          "id": 5888,
+          "textUz": "Охирги бўлиб",
+          "textRu": "Последним",
+          "textOz": "Oxirgi bo'lib",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5887
+      ]
+    }
+  ]
+}

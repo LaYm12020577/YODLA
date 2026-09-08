@@ -1,0 +1,36 @@
+{
+  "category": "Йўл қаторлари қоидалари",
+  "count": 3,
+  "fines": [
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Қарама-қарши ҳаракатланиш бўлагига чиқиш",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Автобус йўлагида ҳаракатланиш (биринчи марта)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Автобус йўлагида ҳаракатланиш (такрорий)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    }
+  ]
+}

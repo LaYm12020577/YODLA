@@ -1,0 +1,46 @@
+{
+  "category": "Spirtli ichimliklar va giyohvand moddalar",
+  "count": 4,
+  "fines": [
+    {
+      "article": 131,
+      "subArticle": null,
+      "violation": "Mast holatda takroriy transport boshqarish",
+      "fineBhm": "50.00",
+      "fineUzs": "20600000",
+      "penaltyPoints": "12.0",
+      "additionalPenalty": "3 yilga haydovchilik guvohnomasidan mahrum qilish yoki ma'muriy qamoq",
+      "repeatOffense": true
+    },
+    {
+      "article": 131,
+      "subArticle": 1,
+      "violation": "Mast holda transport vositasini boshqarish",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "10.0",
+      "additionalPenalty": "1,5-3 yilga haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": false
+    },
+    {
+      "article": 131,
+      "subArticle": 2,
+      "violation": "Mastlik holatida tibbiy ko'rikdan o'tishdan bosh tortish",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "8.0",
+      "additionalPenalty": "1,5-3 yilga haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": false
+    },
+    {
+      "article": 131,
+      "subArticle": 3,
+      "violation": "Mast haydovchiga transport vositasini boshqaruvini topshirish",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

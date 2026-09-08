@@ -1,0 +1,86 @@
+{
+  "category": "Тезлик",
+  "count": 8,
+  "fines": [
+    {
+      "article": 128,
+      "subArticle": null,
+      "violation": "Аҳоли яшайдиган ҳудудда белгиланган тезликдан ошириш",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 1,
+      "violation": "Тезликни 20 км/соатгача оширish",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 2,
+      "violation": "Тезликни 20-40 км/соат оширish",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 3,
+      "violation": "Тезликни 40 км/соатдан ортиқ оширish",
+      "fineBhm": "9.00",
+      "fineUzs": "3708000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 4,
+      "violation": "Қайтадан тезликни 20 км/соатгача ошириш (такрорий)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    },
+    {
+      "article": 128,
+      "subArticle": 5,
+      "violation": "Қайтадан тезликни 20-40 км/соат ошириш (такрорий)",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "ёки 1 йилга ҳайдовчилик гувоҳномасини бекор қилиш",
+      "repeatOffense": true
+    },
+    {
+      "article": 128,
+      "subArticle": 6,
+      "violation": "Қайтадан тезликни 40 км/соатдан ортиқ ошириш (такрорий)",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": "2 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": true
+    },
+    {
+      "article": 128,
+      "subArticle": 7,
+      "violation": "Учинчи марта тезликни 20 км/соатгача ошириш",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "1 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": true
+    }
+  ]
+}

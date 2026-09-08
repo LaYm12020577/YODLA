@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yodla — Вход</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="auth.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%23002262'/><text x='50' y='70' font-size='60' font-weight='900' text-anchor='middle' fill='%23BEFD00'>Y</text></svg>" />
+</head>
+<body class="auth-body">
+
+  <div class="auth-wrap fade-up">
+    <div class="auth-logo">
+      <div class="brand-mark">Y</div>
+    </div>
+    <h1 class="auth-title">Yodla</h1>
+    <p class="auth-sub">ПДД Узбекистана · Готовься к экзамену</p>
+
+    <!-- Переключатель Вход / Регистрация -->
+    <div class="auth-tabs">
+      <button class="auth-tab active" data-mode="login">Вход</button>
+      <button class="auth-tab" data-mode="register">Регистрация</button>
+    </div>
+
+    <form id="authForm" class="auth-form">
+      <!-- поле имени — только при регистрации -->
+      <div class="field" id="nameField" hidden>
+        <label for="name">Имя</label>
+        <input type="text" id="name" placeholder="Как вас зовут?" autocomplete="name" />
+      </div>
+
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="you@example.com" autocomplete="email" required />
+      </div>
+
+      <div class="field">
+        <label for="password">Пароль</label>
+        <input type="password" id="password" placeholder="Минимум 6 символов" autocomplete="current-password" required />
+      </div>
+
+      <div id="authError" class="auth-error" hidden></div>
+
+      <button type="submit" class="btn btn-primary auth-submit" id="submitBtn">
+        <span class="btn-label">Войти</span>
+      </button>
+    </form>
+
+    <p class="auth-hint" id="authHint">Нет аккаунта? <a id="switchLink" data-mode="register">Зарегистрироваться</a></p>
+  </div>
+
+  <script src="login.js"></script>
+</body>
+</html>

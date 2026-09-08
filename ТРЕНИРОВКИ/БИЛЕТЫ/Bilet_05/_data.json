@@ -1,0 +1,788 @@
+{
+  "title": "Bilet 5",
+  "count": 20,
+  "questions": [
+    {
+      "id": 81,
+      "questionUz": "Автомобилда ёқилган сарғиш рангли милтилловчи чироқ ёқилган ҳолатда ҳаракатланиш учун имтиёз берадими?",
+      "questionRu": "Даёт ли проблесковый маячок жёлтого цвета  право проезда, когда он включен?",
+      "questionOz": "Avtomobilda yoqilgan sarg'ish rangli miltillovchi chiroq yoqilgan holatda harakatlanish uchun imtiyoz beradimi?",
+      "explanationUz": "ЙҲҚ 6-боби 28-бандига асосан, ёқилган зарғалдоқ ва (ёки) сариқ рангли маёқча ҳаракатланишда имтиёз бермайди ва йўл ҳаракатининг бошқа қатнашчиларини фақат хавф ҳақида огоҳлантиради.",
+      "explanationRu": "Согласно пункту 28 главы 6 ПДД, проблесковый маячок жёлтого или оранжевого цвета не дает приоритета в движении и служит исключительно для предупреждения других участников движения об опасности.",
+      "explanationOz": "YHQ 6-bobi 28-bandiga asosan, yoqilgan zarg'aldoq va (yoki) sariq rangli mayoqcha harakatlanishda imtiyoz bermaydi va yo'l harakatining boshqa qatnashchilarini faqat xavf haqida ogohlantiradi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4307,
+          "textUz": "Ҳа",
+          "textRu": "Дает",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 4308,
+          "textUz": "Йўқ",
+          "textRu": "Не дает",
+          "textOz": "Yo'q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4308
+      ]
+    },
+    {
+      "id": 82,
+      "questionUz": "Қизил автомобилнинг ҳайдовчиси, ялт-ялт этувчи чироқ-маёқча ва махсус товушли ишора ёқилган транспорт воситасига яқинлашиб келаётганда нима қилиши керак?",
+      "questionRu": "Как должен поступить водитель красного автомобиля при приближении транспортного средства с включенными проблесковым маячком и специальным звуковым сигналом?",
+      "questionOz": "Qizil avtomobilning haydovchisi, yalt-yalt etuvchi chiroq-mayoqcha va maxsus tovushli ishora yoqilgan transport vositasiga yaqinlashib kelayotganda nima qilishi kerak?",
+      "explanationUz": "ЙҲҚ 6-боби 26-бандига асосан, ҳайдовчилар тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишораси ёқилган ҳолда яқинлашаётган транспорт воситаларига, шунингдек уларнинг кузатувидаги, яқинни ёритувчи фара чироқлари ёқилган транспорт воситаси (транспорт воситалари)га йўл беришлари шарт. Мазкур турдаги транспорт воситаларини қувиб ўтиш тақиқланади.",
+      "explanationRu": "Согласно термину 26 пункта главы 6 ПДД, при приближении транспортных средств с включенными проблесковым маячком синего цвета или синего и красного цветов и специальным звуковым сигналом, а также сопровождаемых ими транспортных средств с включенным ближним светом фар водители обязаны уступить им дорогу для обеспечения их беспрепятственного проезда. Запрещается выполнять обгон таких транспортных средств.",
+      "explanationOz": "YHQ 6-bobi 26-bandiga asosan, haydovchilar tezkor va maxsus xizmatlarning ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishorasi yoqilgan holda yaqinlashayotgan transport vositalariga, shuningdek ularning kuzatuvidagi, yaqinni yorituvchi fara chiroqlari yoqilgan transport vositasi (transport vositalari)ga yo'l berishlari shart. Mazkur turdagi transport vositalarini quvib o'tish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 254,
+          "textUz": "Ҳаракат бўлагини ўзгартирмасдан тўхташи ва мажбурий тўхташ чироқларини ёқиши",
+          "textRu": "Не изменяя направление движения; зажечь сигнал экстренной остановки и остановится на месте",
+          "textOz": "Harakat bo'lagini o'zgartirmasdan to'xtashi va majburiy to'xtash chiroqlarini yoqishi",
+          "isCorrect": false
+        },
+        {
+          "id": 255,
+          "textUz": "Тезликни пасайтириш ва бошқа қаторга ўтиш билан боғлиқ кескин манёврларга йўл қўймасдан ҳаракатни давом эттириш",
+          "textRu": "Снизить скорость и без резких маневров перейти на другой ряд; продолжить движение",
+          "textOz": "Tezlikni pasaytirish va boshqa qatorga o'tish bilan bog'liq keskin manyovrlarga yo'l qo'ymasdan harakatni davom ettirish",
+          "isCorrect": false
+        },
+        {
+          "id": 256,
+          "textUz": "Йўл бериши",
+          "textRu": "Уступить дорогу",
+          "textOz": "Yo'l berishi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        256
+      ]
+    },
+    {
+      "id": 83,
+      "questionUz": "Ялтировчи кўк маёқча ва унга қўшимча махсус товушли ишораси ёқилган транспорт воситаси сизга яқинлашиб келмоқда. Сиз шундай транспорт воситасига қарши ҳаракатланаётган бўлсангиз; нима қилишингиз лозим?",
+      "questionRu": "К Вам приближается транспортное средство; на котором включен проблесковый маячок синего цвета и специальный звуковой сигнал. Как Вы должны поступить; если движетесь навстречу такому транспортному средству?",
+      "questionOz": "Yaltirovchi ko'k mayoqcha va unga qo'shimcha maxsus tovushli ishorasi yoqilgan transport vositasi sizga yaqinlashib kelmoqda. Siz shunday transport vositasiga qarshi harakatlanayotgan bo'lsangiz; nima qilishingiz lozim?",
+      "explanationUz": "ЙҲҚ 6 – боби 26 – бандига асосан: Ҳайдовчилар кўк ёки кўк ва қизил рангли ялт-ялт этувчи чироқ-маёқча ва махсус товушли ишораларини ёққан ҳолда яқинлашиб келаётган транспорт воситаларига, шунингдек уларнинг кузатувидаги, яқинни ёритувчи чироқлари ёқилган транспорт воситаларига тўсиқсиз ўтиб кетишлари учун йўл беришлари шарт.",
+      "explanationRu": "Пункта 26 главы 6 ПДД гласит: При приближении транспортных средств оперативных и специальных служб с включенными проблесковым маячком синего или красного или синего и красного цветов и специальным звуковым сигналом, а также сопровождаемого ими транспортного средства (транспортных средств) с включенным ближним светом фар водители обязаны уступить им дорогу для обеспечения их беспрепятственного проезда.",
+      "explanationOz": "YHQ 6 – bobi 26 – bandiga asosan: Haydovchilar ko‘k yoki ko‘k va qizil rangli yalt-yalt etuvchi chiroq-mayoqcha va maxsus tovushli ishoralarini yoqqan holda yaqinlashib kelayotgan transport vositalariga, shuningdek ularning kuzatuvidagi, yaqinni yorituvchi chiroqlari yoqilgan transport vositalariga to‘siqsiz o‘tib ketishlari uchun yo‘l berishlari shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 257,
+          "textUz": "Йўл ёқасида ёки қатнов қисмининг четида тўхташ",
+          "textRu": "Остановиться на обочине или у тротуара",
+          "textOz": "Yo'l yoqasida yoki qatnov qismining chetida to'xtash",
+          "isCorrect": false
+        },
+        {
+          "id": 258,
+          "textUz": "Маёқча ишораси ёқилган транспорт воситасига халақит бермасдан йўл четидан ҳаракатланиш",
+          "textRu": "Продолжать движение; не создавая помех транспортному средству с включёнными специальными сигналами",
+          "textOz": "Mayoqcha ishorasi yoqilgan transport vositasiga xalaqit bermasdan yo'l chetidan harakatlanish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        258
+      ]
+    },
+    {
+      "id": 84,
+      "questionUz": "Қайси транспорт воситасининг ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 6-боби 26-бандига мувофиқ, ҳайдовчилар тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишораси ёқилган ҳолда яқинлашаётган транспорт воситаларига, шунингдек уларнинг кузатувидаги, яқинни ёритувчи фара чироқлари ёқилган транспорт воситаси (транспорт воситалари)га йўл беришлари шарт.",
+      "explanationRu": "Согласно термину 26 пункта главы 6 ПДД, при приближении транспортных средств с включенными проблесковым маячком синего цвета или синего и красного цветов и специальным звуковым сигналом, а также сопровождаемых ими транспортных средств с включенным ближним светом фар водители обязаны уступить им дорогу для обеспечения их беспрепятственного проезда.",
+      "explanationOz": "YHQ 6-bobi 26-bandiga muvofiq, haydovchilar tezkor va maxsus xizmatlarning ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishorasi yoqilgan holda yaqinlashayotgan transport vositalariga, shuningdek ularning kuzatuvidagi, yaqinni yorituvchi fara chiroqlari yoqilgan transport vositasi (transport vositalari)ga yo'l berishlari shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 259,
+          "textUz": "Тез ёрдам автомобилининг ҳайдовчиси",
+          "textRu": "Водитель автомобиля скорой помощи",
+          "textOz": "Tez yordam avtomobilining haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 260,
+          "textUz": "Енгил автомобилининг ҳайдовчиси",
+          "textRu": "Водитель легкового автомобиля",
+          "textOz": "Engil avtomobilining haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        260
+      ]
+    },
+    {
+      "id": 85,
+      "questionUz": "Пиёда ялт-ялт этувчи маёқча ва махсус товушли ишораларни ёқиб келаётган транспорт воситаси яқинлашиб қолганда қандай йўл тутиши керак?",
+      "questionRu": "Как должен поступить пешеход при приближении транспортного средства с включенным проблесковым маячком и специальным звуковым сигналом?",
+      "questionOz": "Piyoda yalt-yalt etuvchi mayoqcha va maxsus tovushli ishoralarni yoqib kelayotgan transport vositasi yaqinlashib qolganda qanday yo'l tutishi kerak?",
+      "explanationUz": "ЙҲҚ 4-бобининг 21-бандига асасан, тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишораси ёқилган транспорт воситалари яқинлашиб келаётган бўлса, пиёдалар қатнов қисмидан ўтмасликлари, унда ҳаракатланаётганлари эса, ушбу транспорт воситаларига йўл беришлари ва зудлик билан қатнов қисмини бўшатишлари керак.",
+      "explanationRu": "Согласно пункту 21 главы 4 ПДД, при приближении транспортных средств с включёнными синими или синими и красными проблесковыми маячками и специальным звуковым сигналом пешеходы обязаны воздержаться от перехода проезжей части, а находящиеся на ней — должны уступить дорогу этим транспортным средствам и незамедлительно освободить проезжую часть.",
+      "explanationOz": "YHQ 4-bobining 21-bandiga asasan, tezkor va maxsus xizmatlarning ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishorasi yoqilgan transport vositalari yaqinlashib kelayotgan bo'lsa, piyodalar qatnov qismidan o'tmasliklari, unda harakatlanayotganlari esa, ushbu transport vositalariga yo'l berishlari va zudlik bilan qatnov qismini bo'shatishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 261,
+          "textUz": "Мумкин қадар тезроқ қатнов қисмидан ўтиб олиши",
+          "textRu": "Как можно скорее перейти проезжую часть",
+          "textOz": "Mumkin qadar tezroq qatnov qismidan o'tib olishi",
+          "isCorrect": false
+        },
+        {
+          "id": 262,
+          "textUz": "Қатнов қисмидан ўтмаслиги",
+          "textRu": "Воздержаться от перехода проезжей части",
+          "textOz": "Qatnov qismidan o'tmasligi",
+          "isCorrect": true
+        },
+        {
+          "id": 263,
+          "textUz": "Агар пиёдалар ўтиш жойида бўлса, қатнов қисмидан ўтиши",
+          "textRu": "Перейти проезжую часть, если он находится на пешеходном переходе",
+          "textOz": "Agar piyodalar o'tish joyida bo'lsa, qatnov qismidan o'tishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        262
+      ]
+    },
+    {
+      "id": 86,
+      "questionUz": "Рўп��радан келаётган автомобил ҳайдовчиси қандай йўл тутиши керак?",
+      "questionRu": "Как должен поступить водитель встречного автомобиля в данной ситуации?",
+      "questionOz": "Ro'paradan kelayotgan avtomobil haydovchisi qanday yo'l tutishi kerak?",
+      "explanationUz": "ЙҲҚ 6-боби 26-бандига мувофиқ, ҳайдовчилар тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишораси ёқилган ҳолда яқинлашаётган транспорт воситаларига, шунингдек уларнинг кузатувидаги, яқинни ёритувчи фара чироқлари ёқилган транспорт воситаси (транспорт воситалари)га йўл бериш(тўсқинлик қилмаслик)лари шарт.",
+      "explanationRu": "Согласно термина 26 пункта главы 6 ПДД, при приближении транспортных средств с включенными проблесковым маячком синего цвета или синего и красного цветов и специальным звуковым сигналом, а также сопровождаемых ими транспортных средств с включенным ближним светом фар водители обязаны уступить им дорогу (не создавать помех) для обеспечения их беспрепятственного проезда.",
+      "explanationOz": "YHQ 6-bobi 26-bandiga muvofiq, haydovchilar tezkor va maxsus xizmatlarning ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishorasi yoqilgan holda yaqinlashayotgan transport vositalariga, shuningdek ularning kuzatuvidagi, yaqinni yorituvchi fara chiroqlari yoqilgan transport vositasi (transport vositalari)ga yo'l berish(to'sqinlik qilmaslik)lari shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/23.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 264,
+          "textUz": "Йўл ёқасида тўхташи",
+          "textRu": "Остановиться на обочине",
+          "textOz": "Yo'l yoqasida to'xtashi",
+          "isCorrect": false
+        },
+        {
+          "id": 265,
+          "textUz": "Ялт-ялт этувчи чироқ маёқчаси ёқилган автомобилига ҳалақит бермасдан ҳаракатни давом эттириши",
+          "textRu": "Продолжить движение; не создавая помех автомобилю с включенными проблесковыми маячками",
+          "textOz": "Yalt-yalt etuvchi chiroq mayoqchasi yoqilgan avtomobiliga halaqit bermasdan harakatni davom ettirishi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        265
+      ]
+    },
+    {
+      "id": 87,
+      "questionUz": "Қора автомобил чорраҳани нечанчи бўлиб кесиб ўтади?",
+      "questionRu": "Черный автомобиль проедет перекресток:",
+      "questionOz": "Qora avtomobil chorrahani nechanchi bo'lib kesib o'tadi?",
+      "explanationUz": "ЙҲҚ 6-бўлим 26-бандига асосан, ҳайдовчилар тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишораси ёқилган ҳолда яқинлашаётган транспорт воситаларига йўл беришлари шарт. 16-боби 107-бандига мувофиқ, чапга бурилишда ёки қайрилиб олишда рельссиз транспорт воситасининг ҳайдовчиси тенг аҳамиятли йўлдан қарама-қарши йўналишдан тўғрига ёки ўнгга ҳаракатланаётган транспорт воситаларига йўл бериши шарт.",
+      "explanationRu": "Согласно пункту 26 главы 6 ПДД, 26. При приближении транспортных средств с включенными проблесковым маячком синего цвета или синего и красного цветов и специальным звуковым сигналом, водители обязаны уступить дорогу для обеспечения беспрепятственного проезда. Согласно пункту 107 главы 16 ПДД, при повороте налево или развороте водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, движущимся по равнозначной дороге со встречного направления прямо или направо.",
+      "explanationOz": "YHQ 6-bo'lim 26-bandiga asosan, haydovchilar tezkor va maxsus xizmatlarning ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishorasi yoqilgan holda yaqinlashayotgan transport vositalariga yo'l berishlari shart. 16-bobi 107-bandiga muvofiq, chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo'ldan qarama-qarshi yo'nalishdan to'g'riga yoki o'ngga harakatlanayotgan transport vositalariga yo'l berishi shart.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/30.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 266,
+          "textUz": "Биринчи",
+          "textRu": "Первым",
+          "textOz": "Birinchi",
+          "isCorrect": false
+        },
+        {
+          "id": 267,
+          "textUz": "Иккинчи",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi",
+          "isCorrect": true
+        },
+        {
+          "id": 268,
+          "textUz": "Охирги",
+          "textRu": "Последним",
+          "textOz": "Oxirgi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        267
+      ]
+    },
+    {
+      "id": 88,
+      "questionUz": "Юк автомобили ҳайдовчиси расмда кўрсатилган ҳолатда махсус товуш ишорасини эшитиб ёки милтилловчи ишорани кўриб нима қилиши керак?",
+      "questionRu": "Что должен сделать водитель грузового автомобиля в случае; когда он слышит специальный звуковой сигнал и видит проблесковый маячок?",
+      "questionOz": "Yuk avtomobili haydovchisi rasmda ko'rsatilgan holatda maxsus tovush ishorasini eshitib yoki miltillovchi ishorani ko'rib nima qilishi kerak?",
+      "explanationUz": "ЙҲҚ 6-боби 26-бандига асосан, ҳайдовчилар тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишораси ёқилган ҳолда яқинлашаётган транспорт воситаларига, шунингдек уларнинг кузатувидаги, яқинни ёритувчи фара чироқлари ёқилган транспорт воситаси (транспорт воситалари)га йўл беришлари шарт. Мазкур турдаги транспорт воситаларини қувиб ўтиш тақиқланади.",
+      "explanationRu": "Согласно термину 26 пункта главы 6 ПДД, при приближении транспортных средств с включенными проблесковым маячком синего цвета или синего и красного цветов и специальным звуковым сигналом, а также сопровождаемых ими транспортных средств с включенным ближним светом фар водители обязаны уступить им дорогу для обеспечения их беспрепятственного проезда. Запрещается выполнять обгон таких транспортных средств.",
+      "explanationOz": "YHQ 6-bobi 26-bandiga asosan, haydovchilar tezkor va maxsus xizmatlarning ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishorasi yoqilgan holda yaqinlashayotgan transport vositalariga, shuningdek ularning kuzatuvidagi, yaqinni yorituvchi fara chiroqlari yoqilgan transport vositasi (transport vositalari)ga yo'l berishlari shart. Mazkur turdagi transport vositalarini quvib o'tish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/34.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 269,
+          "textUz": "Қатнов қисмидаги ўз бўлаги бўйлаб ҳаракатни давом эттириш",
+          "textRu": "Продолжать свое движение по полосе",
+          "textOz": "Qatnov qismidagi o'z bo'lagi bo'ylab harakatni davom ettirish",
+          "isCorrect": false
+        },
+        {
+          "id": 270,
+          "textUz": "Ҳайдовчи махсус товушли ишораларини ёққан ҳолда яқинлашиб келаётган транспорт воситаларига йўл беришлари, зарур бўлган ҳолларда уларнинг тўсиқсиз ўтиб кетишлари учун ўзларини йўлнинг ўнг томонига олиб тўхташлари шарт",
+          "textRu": "Водитель при приближении специального транспортного средства с включенными проблесковым маячком и специальным звуковым сигналом, обязан уступить им дорогу, при необходимости остановиться у правого края проезжей части",
+          "textOz": "Haydovchi maxsus tovushli ishoralarini yoqqan holda yaqinlashib kelayotgan transport vositalariga yo'l berishlari, zarur bo'lgan hollarda ularning to'siqsiz o'tib ketishlari uchun o'zlarini yo'lning o'ng tomoniga olib to'xtashlari shart",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        270
+      ]
+    },
+    {
+      "id": 89,
+      "questionUz": "Тезкор ва махсус хизматларнинг транспорт воситалари йўл харакатининг бошқа қатнашчиларига нисбатан имтиёзга эга бўлиши учун:",
+      "questionRu": "Для того чтобы транспортные средства оперативных и специальных служб имели преимущество перед другими участниками дорожного движения:",
+      "questionOz": "Tezkor va maxsus xizmatlarning transport vositalari yo'l xarakatining boshqa qatnashchilariga nisbatan imtiyozga ega bo'lishi uchun:",
+      "explanationUz": "Тез ёрдам ёки полиция транспорт воситалари имтиёзга эга бўлиши учун уларда кўк ёки қизил рангли ялт-ялт этувчи маяқча ҳамда махсус товушли сигнал бир вақтнинг ўзида ёқилган бўлиши керак. Фақат биттасининг ёқилган бўлиши етарли эмас, иккаласи ҳам ишлаётган бўлиши шарт.",
+      "explanationRu": "Для получения преимущества в движении у автомобилей скорой помощи или полиции одновременно должны быть включены синий или красный проблесковый маячок и специальный звуковой сигнал. Включения только одного из них недостаточно — оба сигнала должны быть включены одновременно.",
+      "explanationOz": "Tezkor yordam yoki politsiya mashinalari imtiyozga ega bo'lishi uchun ko'k yoki qizil mayoqchalar ham, maxsus tovushli signal ham yoqilgan bo'lishi kerak. Faqat bittasi yetarli emas, ikkalasi ham yongan bo'lishi shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6735,
+          "textUz": "Кўк ёки қизил ёҳуд кок ва визил рангли ялт-ялт этувчи маёқчалар ёқилган бўлиши шарт",
+          "textRu": "Должны быть включены проблесковые маячки синего или красного цвета, либо синего и красного цветов одновременно",
+          "textOz": "Ko'k yoki qizil yohud kok va wizil rangli yalt-yalt etuvchi mayoqchalar yoqilgan bo'lishi shart",
+          "isCorrect": false
+        },
+        {
+          "id": 6736,
+          "textUz": "Махсус товушли ишора ёқилган",
+          "textRu": "Должна быть включена специальная звуковая сигнализация",
+          "textOz": "Maxsus tovushli ishora yoqilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 6737,
+          "textUz": "Хар иккаласи ёқилган бўлиши шарт",
+          "textRu": "Должны быть включены оба (и проблесковые маячки, и звуковая сигнализация)",
+          "textOz": "Xar ikkalasi yoqilgan bo'lishi shart",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6737
+      ]
+    },
+    {
+      "id": 90,
+      "questionUz": "Кўк рангли ялт-ялт этувчи маёкчалари ва махсус товушли ишораси ёкилган махсус транспорт воситаси чоррахани нечанчи булиб кесиб утади?",
+      "questionRu": "Специальное транспортное средство с включенными синими проблесковыми маячками и специальным звуковым сигналом, проедет перекресток:",
+      "questionOz": "Ko'k rangli yalt-yalt etuvchi mayokchalari va maxsus tovushli ishorasi yokilgan maxsus transport vositasi chorraxani nechanchi bulib kesib utadi?",
+      "explanationUz": "Тез ёрдам машинаси махсус сигналлари ёқилган ҳолда ҳаракатланмоқда. Шунинг учун у фавқулодда вазифани бажараётган ҳисобланади ва бошқа барча транспорт воситалари унга йўл беришга мажбур.",
+      "explanationRu": "Автомобиль скорой помощи движется с включёнными специальными сигналами. Поэтому он считается выполняющим неотложное задание, и все остальные транспортные средства обязаны уступить ему дорогу.",
+      "explanationOz": "Tez yordam mashinasi maxsus signallari yongan holda harakat qilyapti, shuning uchun u favqulodda vaziyat holatida va boshqa barcha transport vositalari unga yo'l berishga majbur.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4943,
+          "textUz": "Охирги",
+          "textRu": "Последним",
+          "textOz": "Oxirgi",
+          "isCorrect": false
+        },
+        {
+          "id": 4944,
+          "textUz": "Биринчи",
+          "textRu": "Первым",
+          "textOz": "Birinchi",
+          "isCorrect": true
+        },
+        {
+          "id": 4945,
+          "textUz": "Иккинчи",
+          "textRu": "Вторым",
+          "textOz": "Ikkinchi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4944
+      ]
+    },
+    {
+      "id": 91,
+      "questionUz": "Мазкур йўл белгиси нимани билдиради?",
+      "questionRu": "Этот дорожный знак обозначает:",
+      "questionOz": "Mazkur yo'l belgisi nimani bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.20. «Пиёдалар ўтиш жойи» белгиси 5.16.1, 5.16.2 белгилари ва (ёки) 1.14.1 — 1.14.3 чизиқлари билан белгиланган пиёдалар ўтиш жойини билдиради.",
+      "explanationRu": "Знак 1.20 «Пешеходный переход» раздела 1 приложения № 1 к ПДД, пешеходный переход, обозначенный знаками 5.16.1, 5.16.2 и (или) разметкой 1.14.1-1. 14.3.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.20. \"Piyodalar o'tish joyi\" belgisi 5.16.1, 5.16.2 belgilari va (yoki) 1.14.1-1.14.3 chiziqlari bilan belgilangan piyodalar o'tish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 277,
+          "textUz": "Йўлнинг тротуар ёки пиёдалар йўлкаси бўлган қисмини",
+          "textRu": "Участок дороги, на котором имеется тротуар или пешеходная дорожка",
+          "textOz": "Yo'lning trotuar yoki piyodalar yo'lkasi bo'lgan qismini",
+          "isCorrect": false
+        },
+        {
+          "id": 278,
+          "textUz": "Йўлнинг пиёдалар ўтиш жойи бўлган қисмини",
+          "textRu": "Участок дороги, на котором имеется пешеходный переход",
+          "textOz": "Yo'lning piyodalar o'tish joyi bo'lgan qismini",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        278
+      ]
+    },
+    {
+      "id": 92,
+      "questionUz": "Ушбу йўл белгиси нима ҳақида огоҳлантиради?",
+      "questionRu": "Этот дорожный знак предупреждает:",
+      "questionOz": "Ushbu yo'l belgisi nima haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.3.1 белги «Бир изли темир йўл» – шлагбаум билан жиҳозланмаган бир изли темир йўл кесишмаси хақида огоҳлантиради.",
+      "explanationRu": "Согласно знаку 1.3.1 раздела 1 приложения № 1 к ПДД, «Однопутная железная дорога» обозначение необорудованного шлагбаумом переезда с одним путем.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.3.1 belgi \"Bir izli temir yo'l\" – shlagbaum bilan jihozlanmagan bir izli temir yo'l kesishmasi haqida ogohlantiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 279,
+          "textUz": "Бир изли темир йўл кесишмасигa яқинлашаётганлиги ҳақида",
+          "textRu": "О приближение к железнодорожному переезду с одним путем",
+          "textOz": "Bir izli temir yo'l kesishmasiga yaqinlashayotganligi haqida",
+          "isCorrect": false
+        },
+        {
+          "id": 280,
+          "textUz": "Шлагбаум билан жихозланмаган бир изли темир йўл кесишмаси борлигидан",
+          "textRu": "Необорудованный шлагбаумом железнодорожный переезд с одним путем",
+          "textOz": "Shlagbaum bilan jixozlanmagan bir izli temir yo'l kesishmasi borligidan",
+          "isCorrect": true
+        },
+        {
+          "id": 281,
+          "textUz": "Шлагбаум билан жихозланмаган икки изли темир йўл кесишмаси борлигидан",
+          "textRu": "Необорудованный шлагбаумом Железнодорожный переезд с двумя путями",
+          "textOz": "Shlagbaum bilan jixozlanmagan ikki izli temir yo'l kesishmasi borligidan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        280
+      ]
+    },
+    {
+      "id": 93,
+      "questionUz": "Бу белгилар аҳоли яшайдиган жойларда ҳавфли йўл қисми бошланишидан қанча масофада ўрнатилади?",
+      "questionRu": "На каком расстоянии до начала опасного участка устанавливаются эти знаки в населенных пунктах?",
+      "questionOz": "Bu belgilar aholi yashaydigan joylarda havfli yo'l qismi boshlanishidan qancha masofada o'rnatiladi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими изоҳининг 1-хатбошига асосан, 1.1, 1.2, 1.6, 1.8 и 1.30 огоҳлантирувчи белгилар аҳоли пунктларида хавфли жойдан 50-100 метр олдин ўрнатилади.",
+      "explanationRu": "Согласно абзацу 1 раздела 1 приложения № 1 к ПДД, перечисленные предупреждающие знаки 1.1, 1.2, 1.6, 1.8 и 1.30 устанавливаются в населенных пунктах – на расстоянии 50-100 метр до начала опасного участка.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi izohining 1-xatboshiga asosan, 1.1, 1.2, 1.6, 1.8 i 1.30 ogohlantiruvchi belgilar aholi punktlarida xavfli joydan 50-100 metr oldin o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 282,
+          "textUz": "15-25 м",
+          "textRu": "15-25 м",
+          "textOz": "15-25 m",
+          "isCorrect": false
+        },
+        {
+          "id": 283,
+          "textUz": "25-50 м",
+          "textRu": "25-50 м",
+          "textOz": "25-50 m",
+          "isCorrect": false
+        },
+        {
+          "id": 284,
+          "textUz": "50-100 м",
+          "textRu": "50-100 м",
+          "textOz": "50-100 m",
+          "isCorrect": true
+        },
+        {
+          "id": 285,
+          "textUz": "100-150 м",
+          "textRu": "100-150 м",
+          "textOz": "100-150 m",
+          "isCorrect": false
+        },
+        {
+          "id": 286,
+          "textUz": "150-300 м",
+          "textRu": "150-300 м",
+          "textOz": "150-300 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        284
+      ]
+    },
+    {
+      "id": 94,
+      "questionUz": "Қайси белги «Т» симон чорраҳада ҳаракатланиш йўналишини кўрсатади?",
+      "questionRu": "Какой знак указывает направление движения на Т-образном перекрестке?",
+      "questionOz": "Qaysi belgi «T» simon chorrahada harakatlanish yo'nalishini ko'rsatadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.31.3. «Бурилишнинг йўналиши» белгиси Т-симон чорраҳада ёки йўл айрилишларида ҳаракатланиш йўналишини, таъмирланаётган йўл қисмини айланиб ўтиш йўналишини билдиради.",
+      "explanationRu": "Знак 1.31.3 «Направление поворота»  раздела 1 приложения № 1 к ПДД, направление движения на Т–образном перекрестке или разветвлении дорог. Направление объезда ремонтируемого участка дороги.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.31.3. \"Burilishning yo'nalishi\" belgisi T-Simon chorrahada yoki yo'l ayrilishlarida harakatlanish yo'nalishini, ta'mirlanayotgan yo'l qismini aylanib o'tish yo'nalishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/4.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 287,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 288,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 289,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 290,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 291,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        288
+      ]
+    },
+    {
+      "id": 95,
+      "questionUz": "Қайси белги тенг аҳамиятли йўллар кесишиш чорраҳасига яқинлашиб келаётганлик ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает о приближении к перекрестку равнозначных дорог?",
+      "questionOz": "Qaysi belgi teng ahamiyatli yo'llar kesishish chorrahasiga yaqinlashib kelayotganlik haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.6 белгига асосан, «Тенг аҳамиятли йўллар кесишуви» ҳайдовчиларни тенг аҳамиятли йўллар чорраҳасига яқинлашаётганлиги ҳақида ахборот беради.",
+      "explanationRu": "Согласно знаку 1.6 раздела 1 приложения № 1 к ПДД, «Пересечение равнозначных дорог» информирует водителей о приближении к перекрестку равных по значению дорог.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo‘limidagi 1.6 belgiga asosan, “Teng ahamiyatli yo‘llar kesishuvi” haydovchilarni teng ahamiyatli yo‘llar chorrahasiga yaqinlashayotganligi haqida axborot beradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 292,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 293,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 294,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 295,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 296,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        296
+      ]
+    },
+    {
+      "id": 96,
+      "questionUz": "Қуйидаги қайси белгилар огоҳлантирувчи белгилар жумласига киради?",
+      "questionRu": "Какие из указанных знаков относятся к предупреждающим?",
+      "questionOz": "Quyidagi qaysi belgilar ogohlantiruvchi belgilar jumlasiga kiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.11.1 белгига асосан, «Хавфли бурилиш». 1.11.1 — ўнгга, йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради.",
+      "explanationRu": "Знак 1.11.1 раздела 1 приложения № 1 к ПДД, «Опасный поворот». Закругление дороги малого радиуса или с ограниченной видимостью: 1.11.1 — направо.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo‘limidagi 1.11.1 belgiga asosan, «Xavfli burilish». 1.11.1 — o‘ngga, yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 297,
+          "textUz": "Иккинчидан бошқа барчаси",
+          "textRu": "Все кроме второго",
+          "textOz": "Ikkinchidan boshqa barchasi",
+          "isCorrect": false
+        },
+        {
+          "id": 298,
+          "textUz": "Учинчидан бошқа барчаси",
+          "textRu": "Все кроме третьего",
+          "textOz": "Uchinchidan boshqa barchasi",
+          "isCorrect": false
+        },
+        {
+          "id": 299,
+          "textUz": "Ҳаммаси",
+          "textRu": "Все",
+          "textOz": "Hammasi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        299
+      ]
+    },
+    {
+      "id": 97,
+      "questionUz": "Аҳоли пунктларидан ташқарида қайси белги такрорланади?",
+      "questionRu": "Какие знаки обязательно повторяются при установке вне населенных пунктов?",
+      "questionOz": "Aholi punktlaridan tashqarida qaysi belgi takrorlanadi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.10 белги «Соҳилга чиқиш» белгиси аҳоли пунктларидан ташқарида такрорланади. Иккинчи белги йўлнинг хавфли қисми бошланишига камида 50 метр қолганда ўрнатилади.",
+      "explanationRu": "Знак 1.10 «Выезд на набережную»  раздела 1 приложения № 1 к ПДД, вне населенных пунктов повторяются. Второй знак устанавливается на расстоянии не менее 50 м до начала опасного участка.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.10 belgi \"Sohilga chiqish\" belgisi aholi punklaridan tashqari takrorlanadi. Ikkinchi belgi yo'lning xavfli qismi boshlanishiga kamida 50 metr qolganda o'rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/9.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 300,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 301,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 302,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 303,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 304,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        302
+      ]
+    },
+    {
+      "id": 98,
+      "questionUz": "Қайси белги «Велосипед йўлкаси билан кесишув»ни билдиради?",
+      "questionRu": "Какой знак называется “Пересечение с велосипедной дорожкой”?",
+      "questionOz": "Qaysi belgi «Velosiped yo'lkasi bilan kesishuv»ni bildiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.22 белги «Велосипед йўлкаси билан кесишув»ни билдиради.",
+      "explanationRu": "Согласно знаку 1.22 раздела 1 приложения № 1 к ПДД, «Пересечение с велосипедной дорожкой».",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.22 belgi \"Velosiped yo'lkasi bilan kesishuv\"ni bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/14.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 305,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 306,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 307,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 308,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 309,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        306
+      ]
+    },
+    {
+      "id": 99,
+      "questionUz": "Қайси белги йўлнинг хавфли бурилишига яқинлашаётгани ҳақида огоҳлантиради?",
+      "questionRu": "Какой знак предупреждает о приближении к опасному повороту дороги?",
+      "questionOz": "Qaysi belgi yo'lning xavfli burilishiga yaqinlashayotgani haqida ogohlantiradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлимидаги 1.11.2 «Хавфли бурилиш» белгиси йўлнинг кичик радиусли ёки кўриниш чекланган бурилиш жойи ҳақида огоҳлантиради, 1.11.2 – чапга.",
+      "explanationRu": "Знак 1.11.2 раздела 1 приложения № 1 к ПДД, «Опасный поворот» предупреждает о приближении к закруглению дороги малого радиуса или с ограниченной видимостью, 1.11.2 – налево.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limidagi 1.11.2 “Xavfli burilish” belgisi yo'lning kichik radiusli yoki ko'rinish cheklangan burilish joyi haqida ogohlantiradi, 1.11.2-chapga.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 310,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 311,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": true
+        },
+        {
+          "id": 312,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 313,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 314,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        311
+      ]
+    },
+    {
+      "id": 100,
+      "questionUz": "Қайси йўлдан ҳаракатланишга рухсат этилган?",
+      "questionRu": "По какому пути разрешено движение?",
+      "questionOz": "Qaysi yo'ldan harakatlanishga ruxsat etilgan?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 1-бўлими 1.11.2 белгиси «Хавфли бурилиш» – чапга, йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради ва 1.31.2 йўл белгиси «Бурилишнинг йўналиши», кичик радиусли, кўриниши чекланган йўлда ҳаракатланиш йўналишини ва йўлнинг таъмирланаётган қисмини айланиб ўтиш йўналишини билдиради. Тўғрига чапга ёки ўнга ҳаракатланиш тақиқланмаган.",
+      "explanationRu": "Знак 1.11.2 раздела 1 приложения № 1 к ПДД, «Опасный поворот», закругление дороги малого радиуса или с ограниченной видимостью – налево и знак 1.31.2. «Направление поворота», направление движения на закруглении дороги малого радиуса с ограниченной видимостью и направление объезда ремонтируемого участка дороги. Не запрещается движение прямо влево или вправо.",
+      "explanationOz": "YHQ 1-ilovasining 1-bo'limi 1.11.2 belgisi \"Xavfli burilish\" – chapga, yo'lning kichik radiusli yoki ko'rinishi cheklangan burilish joyini bildiradi va 1.31.2 yo'l belgisi \"Burilishning yo'nalishi\", kichik radiusli, ko'rinishi cheklangan yo'lda harakatlanish yo'nalishini va yo'lning ta'mirlanayotgan qismini aylanib o'tish yo'nalishini bildiradi. To'g'riga chapga yoki o'nga harakatlanish taqiqlanmagan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/16.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 315,
+          "textUz": "«А»",
+          "textRu": "«А»",
+          "textOz": "«А»",
+          "isCorrect": false
+        },
+        {
+          "id": 316,
+          "textUz": "«B»",
+          "textRu": "«B»",
+          "textOz": "«B»",
+          "isCorrect": false
+        },
+        {
+          "id": 317,
+          "textUz": "«А» ва «B»",
+          "textRu": "«А» и «B»",
+          "textOz": "«А» va «B»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        317
+      ]
+    }
+  ]
+}

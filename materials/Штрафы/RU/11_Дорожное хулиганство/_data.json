@@ -1,0 +1,26 @@
+{
+  "category": "Дорожное хулиганство",
+  "count": 2,
+  "fines": [
+    {
+      "article": 136,
+      "subArticle": null,
+      "violation": "Дорожное хулиганство (шашки, дрифт, опасные манёвры)",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "10.0",
+      "additionalPenalty": "лишение водительского удостоверения на 1-2 года",
+      "repeatOffense": false
+    },
+    {
+      "article": 136,
+      "subArticle": null,
+      "violation": "Дорожное хулиганство (без прав или лишённый)",
+      "fineBhm": "50.00",
+      "fineUzs": "18750000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": "или административный арест до 15 суток",
+      "repeatOffense": false
+    }
+  ]
+}

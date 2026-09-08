@@ -1,0 +1,36 @@
+{
+  "category": "Документы",
+  "count": 3,
+  "fines": [
+    {
+      "article": 135,
+      "subArticle": null,
+      "violation": "Управление ТС без страховки",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 135,
+      "subArticle": 1,
+      "violation": "Управление ТС без документов (права, техпаспорт)",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 135,
+      "subArticle": 2,
+      "violation": "Управление ТС без водительского удостоверения (вообще)",
+      "fineBhm": "50.00",
+      "fineUzs": "18750000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": "или административный арест до 15 суток",
+      "repeatOffense": false
+    }
+  ]
+}

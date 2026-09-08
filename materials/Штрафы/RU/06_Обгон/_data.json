@@ -1,0 +1,26 @@
+{
+  "category": "Обгон",
+  "count": 2,
+  "fines": [
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Неправильный обгон (впервые)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Неправильный обгон (повторно)",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "лишение водительского удостоверения",
+      "repeatOffense": true
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "title": "Bilet 29",
+  "count": 20,
+  "questions": [
+    {
+      "id": 563,
+      "questionUz": "Рельссиз транспорт воситаларининг ҳаракатланиши учун бўлаклар сони қандай аниқланади?",
+      "questionRu": "Как определяется количество полос для движения безрельсовых транспортных средств?",
+      "questionOz": "Relssiz transport vositalarining harakatlanishi uchun bo'laklar soni qanday aniqlanadi?",
+      "explanationUz": "Ҳаракатланиш бўлаклари сони йўл чизиқлари ёки йўл белгилари билан аниқланади. Агар улар мавжуд бўлмаса, ҳайдовчилар қатнов қисмининг кенглиги ҳамда транспорт воситаларининг хавфсиз ҳаракатланиши учун етарли масофани ҳисобга олиб, бўлаклар сонини мустақил равишда аниқлайдилар.\r\n\r\nДемак, тўғри жавоб — барча санаб ўтилган усуллар билан аниқланади.",
+      "explanationRu": "Количество полос движения определяется дорожной разметкой или дорожными знаками. При их отсутствии водители самостоятельно определяют количество полос, учитывая ширину проезжей части и необходимый боковой интервал для безопасного движения транспортных средств.\r\n\r\nСледовательно, правильный ответ — количество полос определяется всеми перечисленными способами.",
+      "explanationOz": "Harakatlanish bo‘laklari soni yo‘l chiziqlari yoki yo‘l belgilari bilan aniqlanadi. Agar ular mavjud bo‘lmasa, haydovchilar qatnov qismining kengligi hamda transport vositalarining xavfsiz harakatlanishi uchun yetarli masofani hisobga olib, bo‘laklar sonini mustaqil ravishda aniqlaydilar.\r\n\r\nDemak, to‘g‘ri javob — barcha sanab o‘tilgan usullar bilan aniqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6156,
+          "textUz": "Йўл ётиқ чизиғи билан",
+          "textRu": "Дорожной разметкой",
+          "textOz": "Yo'l yotiq chizig'i bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 6157,
+          "textUz": "Бўлаклар бўйича ҳаракатланиш йўналиши ёки «Бўлак бўйича ҳаракатланиш йўналиши» йўл белгилари билан",
+          "textRu": "Дорожными знаками «Направления движения по полосам» или «Направление движения по полосе»",
+          "textOz": "Bo'laklar bo'yicha harakatlanish yo'nalishi yoki «Бўлак бўйича ҳаракатланиш йўналиши» yo'l belgilari bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 6158,
+          "textUz": "Ҳайдовчининг ўзи томонидан қатнов қисмининг кенглигини, транспорт воситаларининг ўлчамларини ва улар ўртасидаги зарур ёнлама оралиқ масофани ҳисобга олиб",
+          "textRu": "Самим водителем с учетом ширины проезжей части, габаритов транспортных средств и необходимых интервалов между ними",
+          "textOz": "Haydovchining o'zi tomonidan qatnov qismining kengligini, transport vositalarining o'lchamlarini va ular o'rtasidagi zarur yonlama oraliq masofani hisobga olib",
+          "isCorrect": false
+        },
+        {
+          "id": 6159,
+          "textUz": "Барча санаб ўтилган усуллар билан",
+          "textRu": "Всеми перечисленными способами",
+          "textOz": "Barcha sanab o'tilgan usullar bilan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6159
+      ]
+    },
+    {
+      "id": 564,
+      "questionUz": "Икки томонлама ҳаракатли йўлда учта бўлак бор, сиз ўнгга бурилишингиз зарур. Сиз ушбу манёврни қайси бўлакдан амалга оширасиз?",
+      "questionRu": "На дороге с двухсторонним движением имеющих три полосы вы должны повернуть на право. С какой полосы произведете этот маневр?",
+      "questionOz": "Ikki tomonlama harakatli yo'lda uchta bo'lak bor, siz o'ngga burilishingiz zarur. Siz ushbu manyovrni qaysi bo'lakdan amalga oshirasiz?",
+      "explanationUz": "Икки томонлама уч бўлакли йўлда ўнгга бурилиш фақат энг четки ўнг бўлакдан амалга оширилади.\r\n\r\nДемак, тўғри жавоб — ўнгга бурилиш энг четки ўнг бўлакдан амалга оширилади.",
+      "explanationRu": "На трёхполосной дороге с двусторонним движением поворот направо выполняется только из крайней правой полосы.\r\n\r\nСледовательно, правильный ответ — поворот направо выполняется из крайней правой полосы.",
+      "explanationOz": "Ikki tomonlama uch bo‘lakli yo‘lda o‘ngga burilish faqat eng chetki o‘ng bo‘lakdan amalga oshiriladi.\r\n\r\nDemak, to‘g‘ri javob — o‘ngga burilish eng chetki o‘ng bo‘lakdan amalga oshiriladi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6160,
+          "textUz": "Ўнг бўлакдан",
+          "textRu": "С правой полосы",
+          "textOz": "O'ng bo'lakdan",
+          "isCorrect": true
+        },
+        {
+          "id": 6161,
+          "textUz": "Ўрта бўлакдан",
+          "textRu": "Со средней полосы",
+          "textOz": "O'rta bo'lakdan",
+          "isCorrect": false
+        },
+        {
+          "id": 6162,
+          "textUz": "Ўнг ёки ўрта бўлакдан",
+          "textRu": "С правой или средней полосы",
+          "textOz": "O'ng yoki o'rta bo'lakdan",
+          "isCorrect": false
+        },
+        {
+          "id": 6163,
+          "textUz": "Ўрта бўлакдан, лекин фақат ўнг бўлак банд бўлган вақтда",
+          "textRu": "Со средней, только в том случае когда правая сторона занята",
+          "textOz": "O'rta bo'lakdan, lekin faqat o'ng bo'lak band bo'lgan vaqtda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6160
+      ]
+    },
+    {
+      "id": 565,
+      "questionUz": "Уч бўлакли бўлган икки томонлама ҳаракатланадиган йўлларда рўпарадаги ҳаракат учун мўлжалланган четки чап бўлакка ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли выезжать на крайнюю левую полосу предназначенную для встречного движения на дорогах с двухсторонним движением имеющих три полосы?",
+      "questionOz": "Uch bo'lakli bo'lgan ikki tomonlama harakatlanadigan yo'llarda ro'paradagi harakat uchun mo'ljallangan chetki chap bo'lakka o'tishga ruxsat etiladimi?",
+      "explanationUz": "Уч бўлакли икки томонлама йўлда қарама-қарши йўналиш учун мўлжалланган энг четки чап бўлакка чиқиш тақиқланади.\r\n\r\nДемак, тўғри жавоб — тақиқланади.",
+      "explanationRu": "На трёхполосной дороге с двусторонним движением выезд на крайнюю левую полосу, предназначенную для встречного движения, запрещён.\r\n\r\nСледовательно, правильный ответ — запрещается.",
+      "explanationOz": "Uch bo‘lakli ikki tomonlama yo‘lda qarama-qarshi yo‘nalish uchun mo‘ljallangan eng chetki chap bo‘lakka chiqish taqiqlanadi.\r\n\r\nDemak, to‘g‘ri javob — taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6164,
+          "textUz": "Қувиб ўтиш учун рухсат этилади",
+          "textRu": "Разрешается для обгона",
+          "textOz": "Quvib o'tish uchun ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6165,
+          "textUz": "Барча ҳолларда рухсат этилади",
+          "textRu": "Разрешается во всех случаях",
+          "textOz": "Barcha hollarda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6166,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6166
+      ]
+    },
+    {
+      "id": 566,
+      "questionUz": "Кўк автомобилга қайси йўналишда ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешается движение синему автомобилю?",
+      "questionOz": "Ko'k avtomobilga qaysi yo'nalishda harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Уч бўлакли икки томонлама йўлда ўрта бўлакдан фақат чапга бурилиш ва қайрилиб олишга рухсат этилади. Ушбу бўлакдан тўғрига ҳаракатланиш тақиқланади.\r\n\r\nДемак, тўғри жавоб — чапга бурилиш ва қайрилиб олишга рухсат этилади.",
+      "explanationRu": "На трёхполосной дороге с двусторонним движением движение по средней полосе разрешается только для поворота налево и разворота. Движение прямо по средней полосе запрещено.\r\n\r\nСледовательно, правильный ответ — разрешены поворот налево и разворот.",
+      "explanationOz": "Uch bo‘lakli ikki tomonlama yo‘lda o‘rta bo‘lakdan faqat chapga burilish va qayrilib olishga ruxsat etiladi. Ushbu bo‘lakdan to‘g‘riga harakatlanish taqiqlanadi.\r\n\r\nDemak, to‘g‘ri javob — chapga burilish va qayrilib olishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/23.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6171,
+          "textUz": "Фақат орқа йўналишда",
+          "textRu": "Только в обратном направлении",
+          "textOz": "Faqat orqa yo'nalishda",
+          "isCorrect": false
+        },
+        {
+          "id": 6172,
+          "textUz": "Тўғрига, чап ва орқа йўналишда",
+          "textRu": "Прямо, налево и в обратном направлении",
+          "textOz": "To'g'riga, chap va orqa yo'nalishda",
+          "isCorrect": false
+        },
+        {
+          "id": 6173,
+          "textUz": "Чап ва орқа йўналишда",
+          "textRu": "Налево и в обратном направлении",
+          "textOz": "Chap va orqa yo'nalishda",
+          "isCorrect": true
+        },
+        {
+          "id": 6174,
+          "textUz": "Барча йўналишларда",
+          "textRu": "Во всех направлениях",
+          "textOz": "Barcha yo'nalishlarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6173
+      ]
+    },
+    {
+      "id": 567,
+      "questionUz": "Бурилиш вақтида қатнов қисмининг кесишмасидан чиқишда транспорт воситаси қаерда бўлмаслиги керак?",
+      "questionRu": "Где не должно оказаться транспортное средство при выезде с пересечения проезжих частей во время поворота?",
+      "questionOz": "Burilish vaqtida qatnov qismining kesishmasidan chiqishda transport vositasi qaerda bo'lmasligi kerak?",
+      "explanationUz": "Бурилиш вақтида қатнов қисмларининг кесишмасидан чиқишда транспорт воситаси қарама-қарши йўналишдаги ҳаракат бўлагига чиқиб кетмаслиги керак.\r\n\r\nАкс ҳолда, бу бошқа транспорт воситаларининг ҳаракатланишига тўсқинлик қилади ҳамда авария ҳолатини юзага келтириши мумкин.\r\n\r\nДемак, тўғри жавоб — транспорт воситаси қарама-қарши йўналишдаги ҳаракат бўлагига чиқиб кетмаслиги керак.",
+      "explanationRu": "При выполнении поворота, выезжая с пересечения проезжих частей, транспортное средство не должно оказаться на полосе встречного движения.\r\n\r\nВ противном случае это создаст помехи другим участникам дорожного движения и может привести к возникновению аварийной ситуации.\r\n\r\nСледовательно, правильный ответ — транспортное средство не должно выезжать на полосу встречного движения.",
+      "explanationOz": "Burilish vaqtida qatnov qismlarining kesishmasidan chiqishda transport vositasi qarama-qarshi yo‘nalishdagi harakat bo‘lagiga chiqib ketmasligi kerak.\r\n\r\nAks holda, bu boshqa transport vositalarining harakatlanishiga to‘sqinlik qiladi hamda avariya holatini yuzaga keltirishi mumkin.\r\n\r\nDemak, to‘g‘ri javob — transport vositasi qarama-qarshi yo‘nalishdagi harakat bo‘lagiga chiqib ketmasligi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6175,
+          "textUz": "Чап бўлакда, агар ўнг бўлак бўш бўлса",
+          "textRu": "На левой полосе, если свободна правая полоса",
+          "textOz": "Chap bo'lakda, agar o'ng bo'lak bo'sh bo'lsa",
+          "isCorrect": false
+        },
+        {
+          "id": 6176,
+          "textUz": "Қарама-қарши ҳаракат томонида",
+          "textRu": "На стороне встречного движения",
+          "textOz": "Qarama-qarshi harakat tomonida",
+          "isCorrect": true
+        },
+        {
+          "id": 6177,
+          "textUz": "Агар бир йўналишда ҳаракатланиш учун учтадан кам бўлмаган бўлак бўлганда, чап бўлакда",
+          "textRu": "На левой полосе, если имеются не менее трех полос для движения в одном направлении",
+          "textOz": "Agar bir yo'nalishda harakatlanish uchun uchtadan kam bo'lmagan bo'lak bo'lganda, chap bo'lakda",
+          "isCorrect": false
+        },
+        {
+          "id": 6178,
+          "textUz": "Рухсат этилган тўла вазни 3,5 т. дан ортиқ бўлган фақат юк автомобилларига бир йўналишдан ҳаракатланиши учун иккита бўлак бўлса, чап бўлакда",
+          "textRu": "На левой полосе, если имеется две полосы для движения в одном направлении только грузовым автомобилям с разрешенной максимальной массой более 3.5 т",
+          "textOz": "Ruxsat etilgan to'la vazni 3,5 t. dan ortiq bo'lgan faqat yuk avtomobillariga bir yo'nalishdan harakatlanishi uchun ikkita bo'lak bo'lsa, chap bo'lakda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6176
+      ]
+    },
+    {
+      "id": 568,
+      "questionUz": "Кўк автомобилнинг ҳайдовчисига қувиб ўтишга рух��ат этиладими?",
+      "questionRu": "Разрешается ли водителю синего автомобиля выполнять обгон?",
+      "questionOz": "Ko'k avtomobilning haydovchisiga quvib o'tishga ruxsat etiladimi?",
+      "explanationUz": "Ушбу ҳолатда уч бўлакли икки томонлама йўлда биринчи бўлакдаги транспорт воситаси носоз ҳолатда қолган ёки йўл таъмирлаш ишлари олиб борилаётганлиги сабабли қизил автомобиль уни айланиб ўтмоқда.\r\n\r\nКўк автомобиль эса қизил автомобильни қувиб ўтиш мақсадида қарама-қарши йўналиш томонига чиқмоқчи. Бундай ҳолатда қарама-қарши йўналиш учун мўлжалланган бўлакка чиқиш тақиқланади.\r\n\r\nДемак, тўғри жавоб — кўк автомобильга қувиб ўтишга рухсат этилмайди.",
+      "explanationRu": "В данной ситуации на трёхполосной дороге с двусторонним движением красный автомобиль объезжает неисправное транспортное средство или участок, где проводятся дорожные работы.\r\n\r\nСиний автомобиль намерен обогнать красный автомобиль с выездом на полосу встречного движения. Такой выезд запрещён.\r\n\r\nСледовательно, правильный ответ — водителю синего автомобиля обгон выполнять запрещено.",
+      "explanationOz": "Ushbu holatda uch bo‘lakli ikki tomonlama yo‘lda birinchi bo‘lakdagi transport vositasi nosoz holatda qolgan yoki yo‘l ta’mirlash ishlari olib borilayotganligi sababli qizil avtomobil uni aylanib o‘tmoqda.\r\n\r\nKo‘k avtomobil esa qizil avtomobilni quvib o‘tish maqsadida qarama-qarshi yo‘nalish tomoniga chiqmoqchi. Bunday holatda qarama-qarshi yo‘nalish uchun mo‘ljallangan bo‘lakka chiqish taqiqlanadi.\r\n\r\nDemak, to‘g‘ri javob — ko‘k avtomobilga quvib o‘tishga ruxsat etilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/24.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6182,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6183,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 6184,
+          "textUz": "Рухсат этилади, агар қизил автомобил 40 км/соатдан кам тезлик билан ҳаракатланаётган бўлса",
+          "textRu": "Разрешается, если красный автомобиль движется со скоростью менее 40 км/час",
+          "textOz": "Ruxsat etiladi, agar qizil avtomobil 40 km/soatdan kam tezlik bilan harakatlanayotgan bo'lsa",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6183
+      ]
+    },
+    {
+      "id": 569,
+      "questionUz": "Аҳоли пунктларида рельссиз транспорт воситаларига, агар бир йўналишда учта ва ундан ортиқ ҳаракатланиш бўлаги бўлганда, қайси бўлакдан ҳаракатланишга рухсат этилади? Юк автомобиллари ҳисобга кирмайди",
+      "questionRu": "По какой полосе разрешается движение безрельсовых транспортных средств в населенных пунктах, если имеются три полосы и более в одном направлении? Грузовые автомобили не учитывать",
+      "questionOz": "Aholi punktlarida relssiz transport vositalariga, agar bir yo'nalishda uchta va undan ortiq harakatlanish bo'lagi bo'lganda, qaysi bo'lakdan harakatlanishga ruxsat etiladi? Yuk avtomobillari hisobga kirmaydi",
+      "explanationUz": "Аҳоли яшайдиган жойларда енгил автомобиллар бошқа бўлаклар бўш бўлса ҳам, энг четки чап бўлакдан ташқари исталган бўлакда ҳаракатланишлари мумкин.\r\n\r\nУч ва ундан ортиқ бўлакли йўлларда энг четки чап бўлакдан фақат чапга бурилиш, қайрилиб олиш, бошқа бўлаклар серқатнов бўлганда ёки йўл бир томонлама ҳаракатланиш учун ташкил этилган бўлса, тўхташ мақсадида фойдаланишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — **энг четки чап бўлакдан ташқари ҳар қандай бўлак бўйлаб ҳаракатланиш мумкин.**",
+      "explanationRu": "В населённых пунктах легковые автомобили могут двигаться по любой полосе, кроме крайней левой, даже если другие полосы свободны.\r\n\r\nНа дорогах с тремя и более полосами крайняя левая полоса используется только для поворота налево, разворота, движения при интенсивном потоке транспорта, а на дорогах с односторонним движением — также для остановки.\r\n\r\nСледовательно, правильный ответ — **разрешается движение по любой полосе, кроме крайней левой.**",
+      "explanationOz": "Aholi yashaydigan joylarda yengil avtomobillar boshqa bo‘laklar bo‘sh bo‘lsa ham, eng chetki chap bo‘lakdan tashqari istalgan bo‘lakda harakatlanishlari mumkin.\r\n\r\nUch va undan ortiq bo‘lakli yo‘llarda eng chetki chap bo‘lakdan faqat chapga burilish, qayrilib olish, boshqa bo‘laklar serqatnov bo‘lganda yoki yo‘l bir tomonlama harakatlanish uchun tashkil etilgan bo‘lsa, to‘xtash maqsadida foydalanishga ruxsat etiladi.\r\n\r\nDemak, to‘g‘ri javob — **eng chetki chap bo‘lakdan tashqari har qanday bo‘lak bo‘ylab harakatlanish mumkin.**",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6185,
+          "textUz": "Ҳар қандай бўлак бўйича",
+          "textRu": "По любой полосе",
+          "textOz": "Har qanday bo'lak bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 6186,
+          "textUz": "Иложи борича қатнов қисмининг ўнг чеккасига яқин бўлак бўйича",
+          "textRu": "По возможности ближе к правому краю проезжей части",
+          "textOz": "Iloji boricha qatnov qismining o'ng chekkasiga yaqin bo'lak bo'yicha",
+          "isCorrect": false
+        },
+        {
+          "id": 6187,
+          "textUz": "Чапки чеккадан ташқари ҳар қандай бўлак бўйича. Унга фақат бошқа бўлакларда ҳаракат серқатнов бўлганда, шунингдек, чапга бурилиш, орқага қайрилиш ва бир томонлама ҳаракат ташкил қилинган йўлда тўхташ учун ўтишга рухсат этилади",
+          "textRu": "По любой полосе кроме крайней левой, на которою разрешается выезжать только при интенсивном движении на других полосах а также для поворота налево,разворота и остановки на дороге с односторонним движением",
+          "textOz": "Chapki chekkadan tashqari har qanday bo'lak bo'yicha. Unga faqat boshqa bo'laklarda harakat serqatnov bo'lganda, shuningdek, chapga burilish, orqaga qayrilish va bir tomonlama harakat tashkil qilingan yo'lda to'xtash uchun o'tishga ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6187
+      ]
+    },
+    {
+      "id": 570,
+      "questionUz": "Ҳайдовчи аҳоли пунктидан ташқарида ҳаракат қоидаларини бузмоқдами?",
+      "questionRu": "Нарушает ли водитель правила при движении вне населенного пункта?",
+      "questionOz": "Haydovchi aholi punktidan tashqarida harakat qoidalarini buzmoqdami?",
+      "explanationUz": "Ҳайдовчи аҳоли пунктидан ташқарида ҳаракатланиш қоидаларини бузмоқда.\r\n\r\nЙўл ҳаракати қоидаларининг 67-бандига мувофиқ, аҳоли пунктларидан ташқарида ўнг бўлаклар бўш бўлса, чап бўлакларни эгаллаб ҳаракатланиш тақиқланади.\r\n\r\nУшбу ҳолатда ўнг бўлак бўш бўлишига қарамай, ҳайдовчи чап бўлакда ҳаракатланаётганлиги сабабли қоидани бузмоқда.\r\n\r\nДемак, тўғри жавоб — ҳайдовчи чап бўлакни асоссиз эгаллаганлиги сабабли қоидани бузмоқда.",
+      "explanationRu": "Водитель нарушает Правила дорожного движения за пределами населённого пункта.\r\n\r\nСогласно пункту 67 Правил дорожного движения, за пределами населённых пунктов запрещается занимать левую полосу, если правая полоса свободна.\r\n\r\nВ данной ситуации правая полоса свободна, однако водитель продолжает движение по левой полосе, тем самым нарушая требования Правил.\r\n\r\nСледовательно, правильный ответ — водитель нарушает правила, необоснованно занимая левую полосу.",
+      "explanationOz": "Haydovchi aholi punktidan tashqarida harakatlanish qoidalarini buzmoqda.\r\n\r\nYo‘l harakati qoidalarining 67-bandiga muvofiq, aholi punktlaridan tashqarida o‘ng bo‘laklar bo‘sh bo‘lsa, chap bo‘laklarni egallab harakatlanish taqiqlanadi.\r\n\r\nUshbu holatda o‘ng bo‘lak bo‘sh bo‘lishiga qaramay, haydovchi chap bo‘lakda harakatlanayotganligi sababli qoidani buzmoqda.\r\n\r\nDemak, to‘g‘ri javob — haydovchi chap bo‘lakni asossiz egallaganligi sababli qoidani buzmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/25.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6188,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 6189,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6188
+      ]
+    },
+    {
+      "id": 571,
+      "questionUz": "Ҳаракат тезлиги 40 км/сдан ошмайдиган транспорт воситасига қатнов қисмининг чап тасмасига чиқишга қачон рухсат этилади?",
+      "questionRu": "В каких случаях разрешается выезжать за пределы правой полосы, если Вы управляете транспортным средством, скорость которого по техническим причинам не может быть более 40 км/ч?",
+      "questionOz": "Harakat tezligi 40 km/sdan oshmaydigan transport vositasiga qatnov qismining chap tasmasiga chiqishga qachon ruxsat etiladi?",
+      "explanationUz": "Соатига 40 км дан ортиқ тезликда ҳаракатлана олмайдиган транспорт воситасига қатнов қисмининг чап бўлагига фақат айрим ҳолларда чиқишга рухсат этилади.\r\n\r\nБундай ҳолатларга чапга бурилиш, қайрилиб олиш, тўсиқни айланиб ўтиш ҳамда Йўл ҳаракати қоидаларида рухсат этилган ҳолларда қувиб ўтиш киради.\r\n\r\nДемак, тўғри жавоб — санаб ўтилган барча ҳолларда.",
+      "explanationRu": "Транспортному средству, которое не может двигаться со скоростью более 40 км/ч, разрешается выезжать на левую полосу только в отдельных случаях.\r\n\r\nК таким случаям относятся поворот налево, разворот, объезд препятствия, а также обгон в случаях, предусмотренных Правилами дорожного движения.\r\n\r\nСледовательно, правильный ответ — во всех перечисленных случаях.",
+      "explanationOz": "Soatiga 40 km dan ortiq tezlikda harakatlana olmaydigan transport vositasiga qatnov qismining chap bo‘lagiga faqat ayrim hollarda chiqishga ruxsat etiladi.\r\n\r\nBunday holatlarga chapga burilish, qayrilib olish, to‘siqni aylanib o‘tish hamda Yo‘l harakati qoidalarida ruxsat etilgan hollarda quvib o‘tish kiradi.\r\n\r\nDemak, to‘g‘ri javob — sanab o‘tilgan barcha hollarda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6190,
+          "textUz": "Бурилиш ёки қайрилиш олдидан қайта тизилишда",
+          "textRu": "Только при перестроении перед поворотом налево либо разворотом",
+          "textOz": "Burilish yoki qayrilish oldidan qayta tizilishda",
+          "isCorrect": false
+        },
+        {
+          "id": 6191,
+          "textUz": "Қувиб ўтишда, ўзиб кетишда ёки айланиб ўтишда",
+          "textRu": "Только при обгоне или объезде",
+          "textOz": "Quvib o‘tishda, o‘zib ketishda yoki aylanib o‘tishda",
+          "isCorrect": false
+        },
+        {
+          "id": 6192,
+          "textUz": "Санаб ўтилган барча ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Sanab o‘tilgan barcha hollarda",
+          "isCorrect": true
+        },
+        {
+          "id": 6193,
+          "textUz": "Санаб ўтилган барча ҳолларда, шунингдек, агар бир йўналишда ҳаракатланиш учун учта ва ундан ортиқ тасма бўлганда",
+          "textRu": "Во всех перечисленных случаях, а также при наличии трех и более полос для движения в одном направлении",
+          "textOz": "Sanab o‘tilgan barcha hollarda, shuningdek, agar bir yo‘nalishda harakatlanish uchun uchta va undan ortiq tasma bo‘lganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6192
+      ]
+    },
+    {
+      "id": 572,
+      "questionUz": "Қизил автомобилнинг ҳайдовчисига трамвай йўли бўйича ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли водителю красного автомобиля двигаться по трамвайным путям?",
+      "questionOz": "Qizil avtomobilning haydovchisiga tramvay yo'li bo'yicha harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "Қизил автомобиль ҳайдовчисига трамвай йўли бўйлаб ҳаракатланишга рухсат этилади.\r\n\r\nЙўл ҳаракати қоидаларининг 69-бандига мувофиқ, агар трамвай йўллари қатнов қисми билан бир сатҳда жойлашган бўлса, ҳайдовчига ўзи ҳаракатланаётган бўлак банд бўлганида, масалан, олдиндаги транспорт воситаси носоз бўлиб қолганида уни айланиб ўтиш ёки транспорт оқими серқатнов бўлганда, бошқа имконият бўлмаса, трамвайга халақит бермаслик шарти билан трамвай йўллари бўйлаб ҳаракатланишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — қизил автомобиль ҳайдовчисига трамвайга халақит бермаслик шарти билан трамвай йўли бўйлаб ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Водителю красного автомобиля разрешается двигаться по трамвайным путям.\r\n\r\nСогласно пункту 69 Правил дорожного движения, если трамвайные пути расположены на одном уровне с проезжей частью, водитель может выехать на них, если его полоса занята, например, неисправным транспортным средством, либо при интенсивном движении, когда другого пути нет. При этом он не должен создавать помех движению трамвая.\r\n\r\nСледовательно, правильный ответ — водителю красного автомобиля разрешается движение по трамвайным путям при условии, что он не создаёт помех трамваю.",
+      "explanationOz": "Qizil avtomobil haydovchisiga tramvay yo‘li bo‘ylab harakatlanishga ruxsat etiladi.\r\n\r\nYo‘l harakati qoidalarining 69-bandiga muvofiq, agar tramvay yo‘llari qatnov qismi bilan bir sathda joylashgan bo‘lsa, haydovchiga o‘zi harakatlanayotgan bo‘lak band bo‘lganida, masalan, oldindagi transport vositasi nosoz bo‘lib qolganida uni aylanib o‘tish yoki transport oqimi serqatnov bo‘lganda, boshqa imkoniyat bo‘lmasa, tramvayga xalaqit bermaslik sharti bilan tramvay yo‘llari bo‘ylab harakatlanishga ruxsat etiladi.\r\n\r\nDemak, to‘g‘ri javob — qizil avtomobil haydovchisiga tramvayga xalaqit bermaslik sharti bilan tramvay yo‘li bo‘ylab harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/27.17.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6194,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6195,
+          "textUz": "Тақиқланган",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlangan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6194
+      ]
+    },
+    {
+      "id": 573,
+      "questionUz": "Транспорт воситаларининг тротуар ва пиёдалар йўлкаси бўйлаб ҳаракатланишига йўл қўйиладими?",
+      "questionRu": "Допускается ли движение транспортных средств по тротуарам и пешеходным дорожкам?",
+      "questionOz": "Transport vositalarining trotuar va piyodalar yo'lkasi bo'ylab harakatlanishiga yo'l qo'yiladimi?",
+      "explanationUz": "Транспорт воситаларининг тротуар ва пиёдалар йўлкаси бўйлаб ҳаракатланишига, одатда, рухсат этилмайди.\r\n\r\nБироқ Йўл ҳаракати қоидаларининг 72-бандига мувофиқ, тротуар ёки пиёдалар йўлкаси бўйлаб бевосита жойлашган савдо ва бошқа корхоналарга хизмат кўрсатиш зарур бўлган ҳолларда, бошқа кириш йўли мавжуд бўлмаса, ҳаракатланишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — бевосита тротуар ёки пиёдалар йўлкаси бўйлаб жойлашган савдо ва бошқа корхоналарга хизмат кўрсатиш зарур бўлган ҳолларда рухсат этилади.",
+      "explanationRu": "Движение транспортных средств по тротуару и пешеходной дорожке, как правило, запрещено.\r\n\r\nОднако согласно пункту 72 Правил дорожного движения движение разрешается, если необходимо обслужить торговое или другое предприятие, расположенное непосредственно у тротуара или пешеходной дорожки, при отсутствии другого подъезда.\r\n\r\nСледовательно, правильный ответ — движение разрешается для обслуживания объектов, расположенных непосредственно у тротуара или пешеходной дорожки, если отсутствует другой подъезд.",
+      "explanationOz": "Transport vositalarining trotuar va piyodalar yo‘lkasi bo‘ylab harakatlanishiga, odatda, ruxsat etilmaydi.\r\n\r\nBiroq Yo‘l harakati qoidalarining 72-bandiga muvofiq, trotuar yoki piyodalar yo‘lkasi bo‘ylab bevosita joylashgan savdo va boshqa korxonalarga xizmat ko‘rsatish zarur bo‘lgan hollarda, boshqa kirish yo‘li mavjud bo‘lmasa, harakatlanishga ruxsat etiladi.\r\n\r\nDemak, to‘g‘ri javob — bevosita trotuar yoki piyodalar yo‘lkasi bo‘ylab joylashgan savdo va boshqa korxonalarga xizmat ko‘rsatish zarur bo‘lgan hollarda ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6196,
+          "textUz": "Йўл қўйилади, агар бу пиёдаларнинг ҳаракатига халал бермаса",
+          "textRu": "Допускается, если это не затрудняет движение пешеходов",
+          "textOz": "Yo'l qo'yiladi, agar bu piyodalarning harakatiga xalal bermasa",
+          "isCorrect": false
+        },
+        {
+          "id": 6197,
+          "textUz": "Йўл қўйилмайди, чунки бу пиёдаларнинг ҳаётини хавф остига қўйиши мумкин",
+          "textRu": "Не допускается, так как это может поставить под угрозу безопасность пешеходов",
+          "textOz": "Yo'l qo'yilmaydi, chunki bu piyodalarning hayotini xavf ostiga qo'yishi mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 6198,
+          "textUz": "Бевосита шу тротуар ёки йўлкаларда жойлашган савдо ёки бошқа корхоналарга хизмат кўрсатишда йўл қўйилади",
+          "textRu": "Допускается при обслуживании торговых и других предприятий расположенных непосредственно у этих тротуаров или дорожек",
+          "textOz": "Bevosita shu trotuar yoki yo'lkalarda joylashgan savdo yoki boshqa korxonalarga xizmat ko'rsatishda yo'l qo'yiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6199,
+          "textUz": "Тротуарда турган бошқа транспорт воситасини айланиб ўтиш учун йўл қўйилади",
+          "textRu": "Допускается для объезда стоящего у тротуара другого транспортного средства",
+          "textOz": "Trotuarda turgan boshqa transport vositasini aylanib o'tish uchun yo'l qo'yiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6198
+      ]
+    },
+    {
+      "id": 574,
+      "questionUz": "Аҳоли яшайдиган йўллардан ташқарида йўлнинг қатнов қисмида ҳайдовчилар транспорт воситаларини қаерда ҳаракатлантиришлари керак?",
+      "questionRu": "Где на проезжей части вне населенных пунктов водители должны вести транспортные средства?",
+      "questionOz": "Aholi yashaydigan yo'llardan tashqarida yo'lning qatnov qismida haydovchilar transport vositalarini qaerda harakatlantirishlari kerak?",
+      "explanationUz": "Аҳоли яшайдиган жойлардан ташқарида ҳайдовчилар имкон қадар қатнов қисмининг ўнг четига яқинроқ ҳаракатланишлари керак.\r\n\r\nБу талаб Йўл ҳаракати қоидаларининг 67-бандида белгиланган.\r\n\r\nДемак, тўғри жавоб — имкон қадар қатнов қисмининг ўнг четига яқинроқ ҳаракатланиш керак.",
+      "explanationRu": "Вне населённых пунктов водители должны двигаться как можно ближе к правому краю проезжей части.\r\n\r\nЭто требование установлено пунктом 67 Правил дорожного движения.\r\n\r\nСледовательно, правильный ответ — двигаться как можно ближе к правому краю проезжей части.",
+      "explanationOz": "Aholi yashaydigan joylardan tashqarida haydovchilar imkon qadar qatnov qismining o‘ng chetiga yaqinroq harakatlanishlari kerak.\r\n\r\nBu talab Yo‘l harakati qoidalarining 67-bandida belgilangan.\r\n\r\nDemak, to‘g‘ri javob — imkon qadar qatnov qismining o‘ng chetiga yaqinroq harakatlanish kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6200,
+          "textUz": "Иложи борича қатнов қисмининг ўнг четига яқинроқ жойда",
+          "textRu": "По возможности ближе к правому краю проезжей части",
+          "textOz": "Iloji boricha qatnov qismining o'ng chetiga yaqinroq joyda",
+          "isCorrect": true
+        },
+        {
+          "id": 6201,
+          "textUz": "Хоҳлаган бўлак бўйлаб",
+          "textRu": "По любой полосе",
+          "textOz": "Xohlagan bo'lak bo'ylab",
+          "isCorrect": false
+        },
+        {
+          "id": 6202,
+          "textUz": "Фақат ўнг бўлак бўйлаб. Чап бўлак ўтиш фақат чапга буриш ва бурилиш учун рухсат этилади",
+          "textRu": "Только по правой полосе. Выезд на левую полосу разрешается для поворота налево или разворота",
+          "textOz": "Faqat o'ng bo'lak bo'ylab. Chap bo'lak o'tish faqat chapga burish va burilish uchun ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6200
+      ]
+    },
+    {
+      "id": 575,
+      "questionUz": "Йўл ҳаракати қоидалари бўйича «ёнлама оралиқ масофа»ни кўрсатинг:",
+      "questionRu": "Укажите расстояние, под которым в Правилах понимается «боковой интервал»:",
+      "questionOz": "Yo'l harakati qoidalari bo'yicha «yonlama oraliq masofa»ni ko'rsating:",
+      "explanationUz": "Ёнлама оралиқ А ва Б масофалари билан ифодаланади.\r\n\r\nДемак, тўғри жавоб — А ва Б масофалари.",
+      "explanationRu": "Боковой интервал обозначен расстояниями А и Б.\r\n\r\nСледовательно, правильный ответ — расстояния А и Б.",
+      "explanationOz": "Yonlama oraliq A va B masofalari bilan ifodalanadi.\r\n\r\nDemak, to‘g‘ri javob — A va B masofalari.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6203,
+          "textUz": "Фақат «А»",
+          "textRu": "Только «А»",
+          "textOz": "Faqat «А»",
+          "isCorrect": false
+        },
+        {
+          "id": 6204,
+          "textUz": "Фақат «Б»",
+          "textRu": "Только «Б»",
+          "textOz": "Faqat «Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 6205,
+          "textUz": "Фақат «В»",
+          "textRu": "Только «В»",
+          "textOz": "Faqat «В»",
+          "isCorrect": false
+        },
+        {
+          "id": 6206,
+          "textUz": "«А» ва «В»",
+          "textRu": "«А» и «В»",
+          "textOz": "«А» va «В»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6206
+      ]
+    },
+    {
+      "id": 576,
+      "questionUz": "Ушбу йўлда сизга йўл белгисидан кейин қайси бўлакларда ҳаракатланишга рухсат берилади?",
+      "questionRu": "По какой полосе разрешается движение после этого знака?",
+      "questionOz": "Ushbu yo'lda sizga yo'l belgisidan keyin qaysi bo'laklarda harakatlanishga ruxsat beriladi?",
+      "explanationUz": "Ушбу йўл белгиси аҳоли яшаш пунктининг охирини билдиради. Шундан сўнг транспорт воситаси аҳоли яшаш пунктидан ташқарида ҳаракатланади.\r\n\r\nЙўл ҳаракати қоидаларига кўра, аҳоли яшаш пунктидан ташқарида ўнг бўлаклар бўш бўлса, чап бўлакларни эгаллаб ҳаракатланиш тақиқланади. Шунинг учун ўнг бўлак бўйлаб ҳаракатланиш керак.\r\n\r\nДемак, тўғри жавоб — ўнг бўлак бўйлаб ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Данный дорожный знак обозначает конец населённого пункта. После него движение осуществляется за пределами населённого пункта.\r\n\r\nСогласно Правилам дорожного движения, за пределами населённого пункта при свободной правой полосе запрещается занимать левую полосу. Поэтому водитель должен двигаться по правой полосе.\r\n\r\nСледовательно, правильный ответ — разрешается движение по правой полосе.",
+      "explanationOz": "Ushbu yo‘l belgisi aholi yashash punktining oxirini bildiradi. Shundan so‘ng transport vositasi aholi yashash punktidan tashqarida harakatlanadi.\r\n\r\nYo‘l harakati qoidalariga ko‘ra, aholi yashash punktidan tashqarida o‘ng bo‘laklar bo‘sh bo‘lsa, chap bo‘laklarni egallab harakatlanish taqiqlanadi. Shuning uchun o‘ng bo‘lak bo‘ylab harakatlanish kerak.\r\n\r\nDemak, to‘g‘ri javob — o‘ng bo‘lak bo‘ylab harakatlanishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/38.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6207,
+          "textUz": "Исталган бўлакдан",
+          "textRu": "По любой полосе",
+          "textOz": "Istalgan bo'lakdan",
+          "isCorrect": false
+        },
+        {
+          "id": 6208,
+          "textUz": "Ўнг бўлакдан",
+          "textRu": "По правой полосе",
+          "textOz": "O'ng bo'lakdan",
+          "isCorrect": true
+        },
+        {
+          "id": 6209,
+          "textUz": "Фақат чап бўлакдан",
+          "textRu": "Только по левой \u000bполосе",
+          "textOz": "Faqat chap bo'lakdan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6208
+      ]
+    },
+    {
+      "id": 577,
+      "questionUz": "Ушбу вазиятда  қувиб ўтишдан сўнг Сиз ўрта бўлакда  қолишингиз мумкинми?",
+      "questionRu": "Можете ли Вы продолжить движение по средней полосе после обгона?",
+      "questionOz": "Ushbu vaziyatda  quvib o'tishdan so'ng Siz o'rta bo'lakda  qolishingiz mumkinmi?",
+      "explanationUz": "Уч бўлакли икки томонлама йўлда ўрта бўлакдан чапга бурилиш, қайрилиб олиш ёки қувиб ўтиш учун фойдаланишга рухсат этилади.\r\n\r\nҚувиб ўтиш манёври тугагандан сўнг ўрта бўлакда ҳаракатланишни давом эттиришга рухсат этилмайди. Ҳайдовчи ўз ҳаракат йўналишидаги ўнг бўлакни эгаллаши керак.\r\n\r\nДемак, тўғри жавоб — йўқ, қувиб ўтгандан сўнг ўрта бўлакда ҳаракатланишни давом эттириш мумкин эмас.",
+      "explanationRu": "На трёхполосной дороге с двусторонним движением средняя полоса может использоваться для поворота налево, разворота или обгона.\r\n\r\nПосле завершения обгона продолжать движение по средней полосе запрещается. Водитель должен перестроиться на правую полосу своего направления.\r\n\r\nСледовательно, правильный ответ — нет, после завершения обгона продолжать движение по средней полосе нельзя.",
+      "explanationOz": "Uch bo‘lakli ikki tomonlama yo‘lda o‘rta bo‘lakdan chapga burilish, qayrilib olish yoki quvib o‘tish uchun foydalanishga ruxsat etiladi.\r\n\r\nQuvib o‘tish manevri tugagandan so‘ng o‘rta bo‘lakda harakatlanishni davom ettirishga ruxsat etilmaydi. Haydovchi o‘z harakat yo‘nalishidagi o‘ng bo‘lakni egallashi kerak.\r\n\r\nDemak, to‘g‘ri javob — yo‘q, quvib o‘tgandan so‘ng o‘rta bo‘lakda harakatlanishni davom ettirish mumkin emas.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/40.7[1].webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6210,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": false
+        },
+        {
+          "id": 6211,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6211
+      ]
+    },
+    {
+      "id": 578,
+      "questionUz": "Ёнлама оралиқ масофани танлашда тезликнинг даҳли борми?",
+      "questionRu": "Зависит ли выбор бокового интервала от скорости движения?",
+      "questionOz": "Yonlama oraliq masofani tanlashda tezlikning dahli bormi?",
+      "explanationUz": "Ёнлама оралиқни танлашда транспорт воситасининг тезлиги ҳисобга олинади. Тезлик ошган сари ёнлама оралиқ ҳам оширилиши керак.\r\n\r\nДемак, тўғри жавоб — ҳа, тезлик ошганда ёнлама оралиқ ҳам оширилади.",
+      "explanationRu": "При выборе бокового интервала необходимо учитывать скорость движения транспортного средства. С увеличением скорости боковой интервал также должен увеличиваться.\r\n\r\nСледовательно, правильный ответ — да, с увеличением скорости боковой интервал необходимо увеличивать.",
+      "explanationOz": "Yonlama oraliqni tanlashda transport vositasining tezligi hisobga olinadi. Tezlik oshgani sari yonlama oraliq ham oshirilishi kerak.\r\n\r\nDemak, to‘g‘ri javob — ha, tezlik oshganda yonlama oraliq ham oshiriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6212,
+          "textUz": "Ёнлама оралиқ масофани танлашни тезликка алоқаси йўқ",
+          "textRu": "Выбор бокового интервала от скорости движения не зависит",
+          "textOz": "Yonlama oraliq masofani tanlashni tezlikka aloqasi yo'q",
+          "isCorrect": false
+        },
+        {
+          "id": 6213,
+          "textUz": "Тезлик ошганда ёнлама оралиқ масофани  ошириш керак",
+          "textRu": "При увеличении скорости движения боковой интервал необходимо увеличить",
+          "textOz": "Tezlik oshganda yonlama oraliq masofani  oshirish kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6213
+      ]
+    },
+    {
+      "id": 579,
+      "questionUz": "Хавфсиз оралиқ масофани кўрсатинг",
+      "questionRu": "Укажите дистанцию между транспортными средствами.",
+      "questionOz": "Xavfsiz oraliq masofani ko'rsating",
+      "explanationUz": "Хавфсиз оралиқ деб бир йўналишда ҳаракатланаётган икки транспорт воситаси орасидаги масофа тушунилади. Ушбу расмда у Б масофа билан ифодаланган.\r\n\r\nДемак, тўғри жавоб — Б масофа.",
+      "explanationRu": "Безопасная дистанция — это расстояние между двумя транспортными средствами, движущимися в одном направлении. На данном рисунке она обозначена расстоянием Б.\r\n\r\nСледовательно, правильный ответ — расстояние Б.",
+      "explanationOz": "Xavfsiz oraliq deb bir yo‘nalishda harakatlanayotgan ikki transport vositasi orasidagi masofa tushuniladi. Ushbu rasmda u B masofa bilan ifodalangan.\r\n\r\nDemak, to‘g‘ri javob — B masofa.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6214,
+          "textUz": "А ва В",
+          "textRu": "А и В",
+          "textOz": "A va V",
+          "isCorrect": false
+        },
+        {
+          "id": 6215,
+          "textUz": "В",
+          "textRu": "В",
+          "textOz": "V",
+          "isCorrect": false
+        },
+        {
+          "id": 6216,
+          "textUz": "Б",
+          "textRu": "Б",
+          "textOz": "B",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6216
+      ]
+    },
+    {
+      "id": 580,
+      "questionUz": "Агар бирор-бир тўсиқ сабабли қарама-қарши йўналишларда ҳаракатланиш қийин бўлса ким йўл бериши керак?",
+      "questionRu": "Кто должен уступить дорогу эсли встречный разъезд затруднён?",
+      "questionOz": "Agar biror-bir to'siq sababli qarama-qarshi yo'nalishlarda harakatlanish qiyin bo'lsa kim yo'l berishi kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 75-бандига мувофиқ, агар бирор тўсиқ сабабли қарама-қарши йўналишда ҳаракатланиш қийинлашса, тўсиқ ўз томонида бўлган ҳайдовчи йўл бериши керак.\r\n\r\nДемак, тўғри жавоб — тўсиқ ўз томонида бўлган ҳайдовчи йўл бериши керак.",
+      "explanationRu": "Согласно пункту 75 Правил дорожного движения, если из-за препятствия встречный разъезд затруднён, водитель, на стороне которого находится препятствие, обязан уступить дорогу.\r\n\r\nСледовательно, правильный ответ — уступить дорогу должен водитель, на стороне которого находится препятствие.",
+      "explanationOz": "Yo‘l harakati qoidalarining 75-bandiga muvofiq, agar biror to‘siq sababli qarama-qarshi yo‘nalishda harakatlanish qiyinlashsa, to‘siq o‘z tomonida bo‘lgan haydovchi yo‘l berishi kerak.\r\n\r\nDemak, to‘g‘ri javob — to‘siq o‘z tomonida bo‘lgan haydovchi yo‘l berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6217,
+          "textUz": "Тўсиқ бўлмаган томондаги ҳайдовчи",
+          "textRu": "Водитель на стороне которого не имеется препятствие.",
+          "textOz": "To'siq bo'lmagan tomondagi haydovchi",
+          "isCorrect": false
+        },
+        {
+          "id": 6218,
+          "textUz": "Тўсиқ ўз томонида бўлган ҳайдовчи",
+          "textRu": "Водитель на стороне которого имеется препятствие.",
+          "textOz": "To'siq o'z tomonida bo'lgan haydovchi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6218
+      ]
+    },
+    {
+      "id": 581,
+      "questionUz": "Ҳайдовчи ўзидан олдинда ҳаракатланаётган транспорт воситаси билан қанча оралиқ масофа сақлаб ҳаракатланиши керак?",
+      "questionRu": "Какую дистанцию должен соблюдать водитель до движущегося впереди транспортного средства?",
+      "questionOz": "Haydovchi o'zidan oldinda harakatlanayotgan transport vositasi bilan qancha oraliq masofa saqlab harakatlanishi kerak?",
+      "explanationUz": "Ҳайдовчи ўзидан олдинда ҳаракатланаётган транспорт воситаси кескин тормоз берганда ҳам тўқнашувнинг олдини олиш имконини берадиган хавфсиз масофани сақлаши керак.\r\n\r\nДемак, тўғри жавоб — олдиндаги транспорт воситаси кескин тормоз берганда ҳам тўқнашувнинг олдини олишга етарли масофани сақлаш керак.",
+      "explanationRu": "Водитель должен соблюдать такую дистанцию до впереди движущегося транспортного средства, которая позволит избежать столкновения даже в случае его резкого торможения.\r\n\r\nСледовательно, правильный ответ — соблюдать дистанцию, достаточную для предотвращения столкновения при резком торможении впереди идущего транспортного средства.",
+      "explanationOz": "Haydovchi o‘zidan oldinda harakatlanayotgan transport vositasi keskin tormoz berganda ham to‘qnashuvning oldini olish imkonini beradigan xavfsiz masofani saqlashi kerak.\r\n\r\nDemak, to‘g‘ri javob — oldindagi transport vositasi keskin tormoz berganda ham to‘qnashuvning oldini olishga yetarli masofani saqlash kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6219,
+          "textUz": "20 м",
+          "textRu": "20 м",
+          "textOz": "20 m",
+          "isCorrect": false
+        },
+        {
+          "id": 6220,
+          "textUz": "50 м",
+          "textRu": "50 м",
+          "textOz": "50 m",
+          "isCorrect": false
+        },
+        {
+          "id": 6221,
+          "textUz": "Ҳайдовчи ўзидан олдинда ҳаракатланаётган транспорт воситаси кескин тормоз берганида тўқнашиб кетмаслик кафолатини берадиган даражадаги оралиқ масофани сақлаши керак",
+          "textRu": "Водитель должен соблюдать такую дистанцию до движущегося впереди транспортного средства, которая гарантировала бы избежание столкновения в случае его экстренной остановки",
+          "textOz": "Haydovchi o'zidan oldinda harakatlanayotgan transport vositasi keskin tormoz berganida to'qnashib ketmaslik kafolatini beradigan darajadagi oraliq masofani saqlashi kerak",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6221
+      ]
+    },
+    {
+      "id": 582,
+      "questionUz": "Ҳайдовчи йўлнинг рельссиз транспорт воситалари ҳаракатланадиган бўлаклар сонини белгилайдиган чизиқлар ёки йўл белгилари бўлмаса, бўлаклар сонини қандай аниқлаши керак?",
+      "questionRu": "Как водителю определять количество полос движения дороги, если нет разметки или дорожных знаков, указывающей количество полос движения для безрельсовых транспортных средств?",
+      "questionOz": "Haydovchi yo'lning relssiz transport vositalari harakatlanadigan bo'laklar sonini belgilaydigan chiziqlar yoki yo'l belgilari bo'lmasa, bo'laklar sonini qanday aniqlashi kerak?",
+      "explanationUz": "Ҳайдовчи қатнов қисмининг тасмалар сонини қандай аниқлаш керак экан, агар йўл белгилари ёки йўл чизиқлари бўлмаса. Бундай ҳолларда ҳайдовчи қатнов қисмини кенглигини, транспорт воситалари орасидаги зарур ёлланма оралиқ масофани, яни неча метр ва иккита машинаси ўтиб кетишини ва уларнинг габарит ўлчамларини ҳисобга олган ҳолда ўзи аниқлайди ва ҳар битта автомобилни ўзини габарит ўлчамларидан келиб чиққан ҳолда ўзларини аниқлайдилар.",
+      "explanationRu": "Как водителю определить количество полос проезжей части, если отсутствуют дорожные знаки или дорожная разметка?\r\n\r\nВ таких случаях водитель самостоятельно определяет количество полос, учитывая ширину проезжей части, необходимый боковой интервал между транспортными средствами, возможность безопасного разъезда двух автомобилей, а также их габаритные размеры. Исходя из габаритов своего транспортного средства, каждый водитель самостоятельно определяет, по какой полосе следует двигаться.",
+      "explanationOz": "Haydovchi qatnov qismining tasmalar sonini qanday aniqlash kerak ekan, agar yo'l belgilari yoki yo'l chiziqlari bo'lmasa. Bunday hollarda haydovchi qatnov qismini kengligini, transport vositalari orasidagi zarur yollanma oraliq masofani, yani necha metr va ikkita mashinasi o'tib ketishini va ularning gabarit o'lchamlarini hisobga olgan holda o'zi aniqlaydi va har bitta avtomobilni o'zini gabarit o'lchamlaridan kelib chiqqan holda o'zlarini aniqlaydilar.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6245,
+          "textUz": "Қатнов қисмининг кенглигини, транспорт воситалари орасидаги зарур ёнлама оралиқ масофани ва уларнинг габарит ўлчамларини ҳисобга олган ҳолда ўзи аниқлайди",
+          "textRu": "Самими водителями, с учётом ширины проезжей части, габаритов транспортных средств и необходимых интервалов между ними",
+          "textOz": "Qatnov qismining kengligini, transport vositalari orasidagi zarur yonlama oraliq masofani va ularning gabarit o'lchamlarini hisobga olgan holda o'zi aniqlaydi",
+          "isCorrect": true
+        },
+        {
+          "id": 6246,
+          "textUz": "Бундай йўлни икки бўлакли қарама қарши ҳаракат ташкил қилинган йўл деб қабул қилиши керак.",
+          "textRu": "Такую дорогу следует рассматривать как двухполосная дорога, на котором организовано двустороннее движение",
+          "textOz": "Bunday yo'lni ikki bo'lakli qarama qarshi harakat tashkil qilingan yo'l deb qabul qilishi kerak.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6245
+      ]
+    }
+  ]
+}

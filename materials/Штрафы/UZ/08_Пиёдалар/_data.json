@@ -1,0 +1,26 @@
+{
+  "category": "Пиёдалар",
+  "count": 2,
+  "fines": [
+    {
+      "article": 132,
+      "subArticle": null,
+      "violation": "Пиёдага йўл бермаслик (пиёдалар ўтиш жойида)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 132,
+      "subArticle": null,
+      "violation": "Тротуар ёки пиёдалар зонасида ҳайдаш",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "category": "Йўл безорилиги",
+  "count": 2,
+  "fines": [
+    {
+      "article": 136,
+      "subArticle": null,
+      "violation": "Йўл безорилиги (шашка, дрифт ва хавфли маневрлар)",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "10.0",
+      "additionalPenalty": "1-2 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": false
+    },
+    {
+      "article": 136,
+      "subArticle": null,
+      "violation": "Йўл безорилиги (гувоҳнома бўлмаса ёки маҳрум қилинган)",
+      "fineBhm": "50.00",
+      "fineUzs": "18750000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": "ёки 15 суткагача маъмурий қамоқ",
+      "repeatOffense": false
+    }
+  ]
+}

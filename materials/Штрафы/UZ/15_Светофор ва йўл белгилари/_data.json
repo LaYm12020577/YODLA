@@ -1,0 +1,66 @@
+{
+  "category": "Светофор ва йўл белгилари",
+  "count": 6,
+  "fines": [
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Йўл белгилари талабларига риоя қилмаслик",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Пиёдалар йўлакчасида ҳаракатланиш",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": null,
+      "violation": "Тўхташ чизиғидан ўтиш (қизил чироқда)",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": 1,
+      "violation": "Қизил чироқда ўтиш (биринчи марта)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": 2,
+      "violation": "Қизил чироқда ўтиш (такрорий)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "4.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    },
+    {
+      "article": 129,
+      "subArticle": 3,
+      "violation": "Қизил чироқда ўтиш (учинчи марта)",
+      "fineBhm": null,
+      "fineUzs": null,
+      "penaltyPoints": "6.0",
+      "additionalPenalty": "1 йилга ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": true
+    }
+  ]
+}

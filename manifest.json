@@ -1,0 +1,798 @@
+{
+  "generatedAt": "2026-08-10T21:44:13.542Z",
+  "count": 88,
+  "records": [
+    {
+      "index": 1,
+      "id": 44,
+      "lang": "UZ",
+      "title": "Кириш асосий тушунчалар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084177044-613549086.mp4",
+      "expectedSize": 111467819,
+      "outPath": "videos/UZ/01_Кириш асосий тушунчалар.mp4"
+    },
+    {
+      "index": 2,
+      "id": 45,
+      "lang": "UZ",
+      "title": "Умумий қоидалар",
+      "url": "https://api.yodla-app.uz/media/videos/uz/Umumiy%20Qoidalar.mp4",
+      "expectedSize": 125458150,
+      "outPath": "videos/UZ/02_Умумий қоидалар.mp4"
+    },
+    {
+      "index": 3,
+      "id": 47,
+      "lang": "UZ",
+      "title": "Ҳайдовчиларнинг умумий вазифалари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084203174-481671967.mp4",
+      "expectedSize": 34615437,
+      "outPath": "videos/UZ/03_Ҳайдовчиларнинг умумий вазифалари.mp4"
+    },
+    {
+      "index": 4,
+      "id": 48,
+      "lang": "UZ",
+      "title": "Пиёдаларнинг умумий вазифалари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084226163-343625627.mp4",
+      "expectedSize": 54366072,
+      "outPath": "videos/UZ/04_Пиёдаларнинг умумий вазифалари.mp4"
+    },
+    {
+      "index": 5,
+      "id": 86,
+      "lang": "UZ",
+      "title": "Махсус транспорт воситаларининг имтиёзлари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084244681-214962787.mp4",
+      "expectedSize": 25581212,
+      "outPath": "videos/UZ/05_Махсус транспорт воситаларининг имтиёзлари.mp4"
+    },
+    {
+      "index": 6,
+      "id": 49,
+      "lang": "UZ",
+      "title": "Огоҳлантирувчи белгилар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084265648-847252647.mp4",
+      "expectedSize": 80810692,
+      "outPath": "videos/UZ/06_Огоҳлантирувчи белгилар.mp4"
+    },
+    {
+      "index": 7,
+      "id": 50,
+      "lang": "UZ",
+      "title": "Имтиёз белгилар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084288819-106363612.mp4",
+      "expectedSize": 50628872,
+      "outPath": "videos/UZ/07_Имтиёз белгилар.mp4"
+    },
+    {
+      "index": 8,
+      "id": 51,
+      "lang": "UZ",
+      "title": "Тақиқловчи белгилари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084319993-540393326.mp4",
+      "expectedSize": 169944585,
+      "outPath": "videos/UZ/08_Тақиқловчи белгилари.mp4"
+    },
+    {
+      "index": 9,
+      "id": 53,
+      "lang": "UZ",
+      "title": "Буюрувчи белгилар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084363302-298031928.mp4",
+      "expectedSize": 111710380,
+      "outPath": "videos/UZ/09_Буюрувчи белгилар.mp4"
+    },
+    {
+      "index": 10,
+      "id": 54,
+      "lang": "UZ",
+      "title": "Ахборот кўрсатгич белгилари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084404489-777517900.mp4",
+      "expectedSize": 194685686,
+      "outPath": "videos/UZ/10_Ахборот кўрсатгич белгилари.mp4"
+    },
+    {
+      "index": 11,
+      "id": 55,
+      "lang": "UZ",
+      "title": "Сервис ва қўшимча ахборот белгилари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084449710-461213697.mp4",
+      "expectedSize": 104862170,
+      "outPath": "videos/UZ/11_Сервис ва қўшимча ахборот белгилари.mp4"
+    },
+    {
+      "index": 12,
+      "id": 102,
+      "lang": "UZ",
+      "title": "Ётиқ чизиқлар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084493482-122814179.mp4",
+      "expectedSize": 228378797,
+      "outPath": "videos/UZ/12_Ётиқ чизиқлар.mp4"
+    },
+    {
+      "index": 13,
+      "id": 58,
+      "lang": "UZ",
+      "title": "Тик чизиқлар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084532510-253405322.mp4",
+      "expectedSize": 10676466,
+      "outPath": "videos/UZ/13_Тик чизиқлар.mp4"
+    },
+    {
+      "index": 14,
+      "id": 74,
+      "lang": "UZ",
+      "title": "Светофор ишоралари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084553760-33511391.mp4",
+      "expectedSize": 108095873,
+      "outPath": "videos/UZ/14_Светофор ишоралари.mp4"
+    },
+    {
+      "index": 15,
+      "id": 63,
+      "lang": "UZ",
+      "title": "Тартибга солувчининг ишоралари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084584897-272314673.mp4",
+      "expectedSize": 90135475,
+      "outPath": "videos/UZ/15_Тартибга солувчининг ишоралари.mp4"
+    },
+    {
+      "index": 16,
+      "id": 64,
+      "lang": "UZ",
+      "title": "Огоҳлантирувчи ва авария ишоралари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084610654-531440086.mp4",
+      "expectedSize": 66183885,
+      "outPath": "videos/UZ/16_Огоҳлантирувчи ва авария ишоралари.mp4"
+    },
+    {
+      "index": 17,
+      "id": 65,
+      "lang": "UZ",
+      "title": "Ҳаракатланишни бошлаш маневр қилиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783085638895-224760757.mp4",
+      "expectedSize": 153808154,
+      "outPath": "videos/UZ/17_Ҳаракатланишни бошлаш маневр қилиш.mp4"
+    },
+    {
+      "index": 18,
+      "id": 67,
+      "lang": "UZ",
+      "title": "Йўлning қатнов қисмида транспорт воситаларининг жойлашуви",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087165293-374729602.mp4",
+      "expectedSize": 89002427,
+      "outPath": "videos/UZ/18_Йўлning қатнов қисмида транспорт воситаларининг жойлашуви.mp4"
+    },
+    {
+      "index": 19,
+      "id": 69,
+      "lang": "UZ",
+      "title": "Ҳаракатланиш тезлиги",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087196677-705547861.mp4",
+      "expectedSize": 124366965,
+      "outPath": "videos/UZ/19_Ҳаракатланиш тезлиги.mp4"
+    },
+    {
+      "index": 20,
+      "id": 71,
+      "lang": "UZ",
+      "title": "Қувиб ўтиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087234178-60153296.mp4",
+      "expectedSize": 117134771,
+      "outPath": "videos/UZ/20_Қувиб ўтиш.mp4"
+    },
+    {
+      "index": 21,
+      "id": 60,
+      "lang": "UZ",
+      "title": "Тўхташ ва тохтаб туриш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087280447-613803009.mp4",
+      "expectedSize": 215331744,
+      "outPath": "videos/UZ/21_Тўхташ ва тохтаб туриш.mp4"
+    },
+    {
+      "index": 22,
+      "id": 75,
+      "lang": "UZ",
+      "title": "Чорраҳаларда ҳаракатланиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087318969-418120570.mp4",
+      "expectedSize": 43761510,
+      "outPath": "videos/UZ/22_Чорраҳаларда ҳаракатланиш.mp4"
+    },
+    {
+      "index": 23,
+      "id": 76,
+      "lang": "UZ",
+      "title": "Тартибга солинган чорраҳа",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087339611-959398329.mp4",
+      "expectedSize": 59629625,
+      "outPath": "videos/UZ/23_Тартибга солинган чорраҳа.mp4"
+    },
+    {
+      "index": 24,
+      "id": 77,
+      "lang": "UZ",
+      "title": "Тартибга солинмаган чорраҳалар асосий йўл йўналиши тўғрига",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087361456-44524415.mp4",
+      "expectedSize": 63334943,
+      "outPath": "videos/UZ/24_Тартибга солинмаган чорраҳалар асосий йўл йўналиши тўғрига.mp4"
+    },
+    {
+      "index": 25,
+      "id": 100,
+      "lang": "UZ",
+      "title": "Тартибга солинмаган чорраҳалар тенг аҳамиятли",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087391604-17768386.mp4",
+      "expectedSize": 135004909,
+      "outPath": "videos/UZ/25_Тартибга солинмаган чорраҳалар тенг аҳамиятли.mp4"
+    },
+    {
+      "index": 26,
+      "id": 79,
+      "lang": "UZ",
+      "title": "Тартибга солинмаган чорраҳалар асосий йўл йўналиши ўзгариши",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087431348-746462115.mp4",
+      "expectedSize": 91997068,
+      "outPath": "videos/UZ/26_Тартибга солинмаган чорраҳалар асосий йўл йўналиши ўзгариши.mp4"
+    },
+    {
+      "index": 27,
+      "id": 81,
+      "lang": "UZ",
+      "title": "Пиёдаларнинг ўтиш жойлари ва йўналишли транспорт воситаларининг бекатлари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087459002-8866732.mp4",
+      "expectedSize": 49909232,
+      "outPath": "videos/UZ/27_Пиёдаларнинг ўтиш жойлари ва йўналишли транспорт воситаларининг бекатлари.mp4"
+    },
+    {
+      "index": 28,
+      "id": 82,
+      "lang": "UZ",
+      "title": "Темир йўл кесишмалари орқали ҳаракатланиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087479400-207551155.mp4",
+      "expectedSize": 43861752,
+      "outPath": "videos/UZ/28_Темир йўл кесишмалари орқали ҳаракатланиш.mp4"
+    },
+    {
+      "index": 29,
+      "id": 83,
+      "lang": "UZ",
+      "title": "Автомагистралларда ҳаракатланиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087497379-207542421.mp4",
+      "expectedSize": 25386593,
+      "outPath": "videos/UZ/29_Автомагистралларда ҳаракатланиш.mp4"
+    },
+    {
+      "index": 30,
+      "id": 84,
+      "lang": "UZ",
+      "title": "Турар жой даҳаларида ҳаракатланиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087512880-355566624.mp4",
+      "expectedSize": 18662890,
+      "outPath": "videos/UZ/30_Турар жой даҳаларида ҳаракатланиш.mp4"
+    },
+    {
+      "index": 31,
+      "id": 85,
+      "lang": "UZ",
+      "title": "Тик баландлик ва нишабликларда ҳаракатланиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087526835-148371957.mp4",
+      "expectedSize": 7346069,
+      "outPath": "videos/UZ/31_Тик баландлик ва нишабликларда ҳаракатланиш.mp4"
+    },
+    {
+      "index": 32,
+      "id": 87,
+      "lang": "UZ",
+      "title": "Йўналишли транспорт воситаларининг имтиёзлари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087542789-441284658.mp4",
+      "expectedSize": 55627318,
+      "outPath": "videos/UZ/32_Йўналишли транспорт воситаларининг имтиёзлари.mp4"
+    },
+    {
+      "index": 33,
+      "id": 88,
+      "lang": "UZ",
+      "title": "Ташқи ёритиш асбобларидан фойдаланиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087565347-120528767.mp4",
+      "expectedSize": 58810328,
+      "outPath": "videos/UZ/33_Ташқи ёритиш асбобларидан фойдаланиш.mp4"
+    },
+    {
+      "index": 34,
+      "id": 89,
+      "lang": "UZ",
+      "title": "Механик транспорт воситаларини шатакка олиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087587664-153689323.mp4",
+      "expectedSize": 60260346,
+      "outPath": "videos/UZ/34_Механик транспорт воситаларини шатакка олиш.mp4"
+    },
+    {
+      "index": 35,
+      "id": 90,
+      "lang": "UZ",
+      "title": "Транспорт воситаларини бошқаришни ўргатиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087606177-798760694.mp4",
+      "expectedSize": 9600548,
+      "outPath": "videos/UZ/35_Транспорт воситаларини бошқаришни ўргатиш.mp4"
+    },
+    {
+      "index": 36,
+      "id": 91,
+      "lang": "UZ",
+      "title": "Одам ташиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087620758-471899441.mp4",
+      "expectedSize": 33791583,
+      "outPath": "videos/UZ/36_Одам ташиш.mp4"
+    },
+    {
+      "index": 37,
+      "id": 92,
+      "lang": "UZ",
+      "title": "Юк ташиш",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087638623-478229413.mp4",
+      "expectedSize": 39123079,
+      "outPath": "videos/UZ/37_Юк ташиш.mp4"
+    },
+    {
+      "index": 38,
+      "id": 93,
+      "lang": "UZ",
+      "title": "Велосипед, мопед ва аравалар ҳаракатланишига, шунингдек, ҳайвонларни ҳайдаб ўтишга доир қўшимча талаблар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087655643-844462453.mp4",
+      "expectedSize": 16226415,
+      "outPath": "videos/UZ/38_Велосипед, мопед ва аравалар ҳаракатланишига, шунингдек, ҳайвонларни ҳайдаб ўтишга доир қўшимча талаблар.mp4"
+    },
+    {
+      "index": 39,
+      "id": 94,
+      "lang": "UZ",
+      "title": "Мансабдор шахсларнинг ва фуқароларнинг йўл ҳаракати хавфсизлигини таъминлаш, транспорт воситаларини йўлга чиқариш, рақам ва таниқли белгиларини ўрнатиш бўйича мажбуриятлари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087669872-422727058.mp4",
+      "expectedSize": 28629008,
+      "outPath": "videos/UZ/39_Мансабдор шахсларнинг ва фуқароларнинг йўл ҳаракати хавфсизлигини таъминлаш, транспорт воситаларини йўлга чиқариш, рақам ва таниқли белгиларини ўрнатиш бўйича мажбуриятлари.mp4"
+    },
+    {
+      "index": 40,
+      "id": 95,
+      "lang": "UZ",
+      "title": "Транспорт воситаларидан фойдаланишни тақиқловчи шартлар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087695034-829480801.mp4",
+      "expectedSize": 139519784,
+      "outPath": "videos/UZ/40_Транспорт воситаларидан фойдаланишни тақиқловчи шартлар.mp4"
+    },
+    {
+      "index": 41,
+      "id": 96,
+      "lang": "UZ",
+      "title": "Ҳаракат хавфсизлиги асослари",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087741994-410189733.mp4",
+      "expectedSize": 180941063,
+      "outPath": "videos/UZ/41_Ҳаракат хавфсизлиги асослари.mp4"
+    },
+    {
+      "index": 42,
+      "id": 97,
+      "lang": "UZ",
+      "title": "Биринчи тиббий ёрдам",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087783691-297035671.mp4",
+      "expectedSize": 93992376,
+      "outPath": "videos/UZ/42_Биринчи тиббий ёрдам.mp4"
+    },
+    {
+      "index": 43,
+      "id": 99,
+      "lang": "UZ",
+      "title": "Мастер класс",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087809437-582036877.mp4",
+      "expectedSize": 35966897,
+      "outPath": "videos/UZ/43_Мастер класс.mp4"
+    },
+    {
+      "index": 44,
+      "id": 123,
+      "lang": "UZ",
+      "title": "Мастер класс",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783087832836-702195027.mp4",
+      "expectedSize": 84232233,
+      "outPath": "videos/UZ/44_Мастер класс.mp4"
+    },
+    {
+      "index": 45,
+      "id": 124,
+      "lang": "UZ",
+      "title": "Қопқонли саволлар",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783088377000-134217276.mp4",
+      "expectedSize": 472461835,
+      "outPath": "videos/UZ/45_Қопқонли саволлар.mp4"
+    },
+    {
+      "index": 46,
+      "id": 103,
+      "lang": "RU",
+      "title": "Общие правила",
+      "url": "https://api.yodla-app.uz/media/videos/ru/rus%20tili%201-mavzu.mp4",
+      "expectedSize": 105173952,
+      "outPath": "videos/RU/46_Общие правила.mp4"
+    },
+    {
+      "index": 47,
+      "id": 104,
+      "lang": "RU",
+      "title": "Общие обязанности водителей",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083313602-868600855.mp4",
+      "expectedSize": 37073345,
+      "outPath": "videos/RU/47_Общие обязанности водителей.mp4"
+    },
+    {
+      "index": 48,
+      "id": 105,
+      "lang": "RU",
+      "title": "Общие обязанности пешеходов",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083334690-782197698.mp4",
+      "expectedSize": 66477407,
+      "outPath": "videos/RU/48_Общие обязанности пешеходов.mp4"
+    },
+    {
+      "index": 49,
+      "id": 107,
+      "lang": "RU",
+      "title": "Применение специальных сигналов",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083356809-826926251.mp4",
+      "expectedSize": 31433290,
+      "outPath": "videos/RU/49_Применение специальных сигналов.mp4"
+    },
+    {
+      "index": 50,
+      "id": 106,
+      "lang": "RU",
+      "title": "Предупреждающие знаки",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083378032-362419593.mp4",
+      "expectedSize": 81797454,
+      "outPath": "videos/RU/50_Предупреждающие знаки.mp4"
+    },
+    {
+      "index": 51,
+      "id": 108,
+      "lang": "RU",
+      "title": "Знаки приоритета",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083405417-713717806.mp4",
+      "expectedSize": 62280685,
+      "outPath": "videos/RU/51_Знаки приоритета.mp4"
+    },
+    {
+      "index": 52,
+      "id": 109,
+      "lang": "RU",
+      "title": "Запрещающие знаки",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083443100-309706882.mp4",
+      "expectedSize": 201777664,
+      "outPath": "videos/RU/52_Запрещающие знаки.mp4"
+    },
+    {
+      "index": 53,
+      "id": 110,
+      "lang": "RU",
+      "title": "Предписывающие знаки",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083486549-78871432.mp4",
+      "expectedSize": 90383515,
+      "outPath": "videos/RU/53_Предписывающие знаки.mp4"
+    },
+    {
+      "index": 54,
+      "id": 114,
+      "lang": "RU",
+      "title": "Информационно-указательные знаки",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083522997-710766067.mp4",
+      "expectedSize": 163299656,
+      "outPath": "videos/RU/54_Информационно-указательные знаки.mp4"
+    },
+    {
+      "index": 55,
+      "id": 115,
+      "lang": "RU",
+      "title": "Знаки сервиса и Знаки дополнительной информации",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083557978-457492292.mp4",
+      "expectedSize": 67842882,
+      "outPath": "videos/RU/55_Знаки сервиса и Знаки дополнительной информации.mp4"
+    },
+    {
+      "index": 56,
+      "id": 116,
+      "lang": "RU",
+      "title": "Горизонтальная разметка",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083588134-156383632.mp4",
+      "expectedSize": 133716546,
+      "outPath": "videos/RU/56_Горизонтальная разметка.mp4"
+    },
+    {
+      "index": 57,
+      "id": 117,
+      "lang": "RU",
+      "title": "Вертикальная разметка",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083617003-663803230.mp4",
+      "expectedSize": 11542566,
+      "outPath": "videos/RU/57_Вертикальная разметка.mp4"
+    },
+    {
+      "index": 58,
+      "id": 118,
+      "lang": "RU",
+      "title": "Сигналы светофора",
+      "url": "https://api.yodla-app.uz/media/videos/ru/14-mavzu%20%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D1%8B%20%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D0%B0.mp4",
+      "expectedSize": 51998741,
+      "outPath": "videos/RU/58_Сигналы светофора.mp4"
+    },
+    {
+      "index": 59,
+      "id": 119,
+      "lang": "RU",
+      "title": "Сигналы регулировщика",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083633942-182671046.mp4",
+      "expectedSize": 61161957,
+      "outPath": "videos/RU/59_Сигналы регулировщика.mp4"
+    },
+    {
+      "index": 60,
+      "id": 120,
+      "lang": "RU",
+      "title": "Аварийная сигнализация и знак аварийной остановки",
+      "url": "https://api.yodla-app.uz/media/videos/ru/16-mavzu%20%D0%90%D0%B2%D0%B0%D1%80%D0%B8%D0%B8%CC%86%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B7%D0%BD%D0%B0%D0%BA%20%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D0%B8%CC%86%D0%BD%D0%BE.mp4",
+      "expectedSize": 30016733,
+      "outPath": "videos/RU/60_Аварийная сигнализация и знак аварийной остановки.mp4"
+    },
+    {
+      "index": 61,
+      "id": 121,
+      "lang": "RU",
+      "title": "Начало движения, маневрирование",
+      "url": "https://api.yodla-app.uz/media/videos/ru/17-mavzu%20%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%BC%D0%B0%D0%BD%D0%B5%D0%B2%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.mp4",
+      "expectedSize": 64169681,
+      "outPath": "videos/RU/61_Начало движения, маневрирование.mp4"
+    },
+    {
+      "index": 62,
+      "id": 122,
+      "lang": "RU",
+      "title": "Расположение транспортных средств на проезжей части",
+      "url": "https://api.yodla-app.uz/media/videos/ru/18%20mavzu%20%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B5.mp4",
+      "expectedSize": 558594089,
+      "outPath": "videos/RU/62_Расположение транспортных средств на проезжей части.mp4"
+    },
+    {
+      "index": 63,
+      "id": 125,
+      "lang": "RU",
+      "title": "Скорость движения",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083656378-178131446.mp4",
+      "expectedSize": 64234899,
+      "outPath": "videos/RU/63_Скорость движения.mp4"
+    },
+    {
+      "index": 64,
+      "id": 126,
+      "lang": "RU",
+      "title": "Обгон",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083681080-491588925.mp4",
+      "expectedSize": 89383352,
+      "outPath": "videos/RU/64_Обгон.mp4"
+    },
+    {
+      "index": 65,
+      "id": 127,
+      "lang": "RU",
+      "title": "Остановка и стоянка",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083714229-185511735.mp4",
+      "expectedSize": 152829069,
+      "outPath": "videos/RU/65_Остановка и стоянка.mp4"
+    },
+    {
+      "index": 66,
+      "id": 128,
+      "lang": "RU",
+      "title": "Проезд перекрестков",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083747462-695643079.mp4",
+      "expectedSize": 23013032,
+      "outPath": "videos/RU/66_Проезд перекрестков.mp4"
+    },
+    {
+      "index": 67,
+      "id": 149,
+      "lang": "RU",
+      "title": "Регулируемые перекрестки",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083765730-153041384.mp4",
+      "expectedSize": 51618800,
+      "outPath": "videos/RU/67_Регулируемые перекрестки.mp4"
+    },
+    {
+      "index": 68,
+      "id": 129,
+      "lang": "RU",
+      "title": "Нерегулируемые перекрестки (главная дорога прямо)",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083785895-723844950.mp4",
+      "expectedSize": 44309195,
+      "outPath": "videos/RU/68_Нерегулируемые перекрестки (главная дорога прямо).mp4"
+    },
+    {
+      "index": 69,
+      "id": 130,
+      "lang": "RU",
+      "title": "Нерегулируемые перекрестки равнозначных дорог",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083812750-830929473.mp4",
+      "expectedSize": 123563766,
+      "outPath": "videos/RU/69_Нерегулируемые перекрестки равнозначных дорог.mp4"
+    },
+    {
+      "index": 70,
+      "id": 131,
+      "lang": "RU",
+      "title": "Нерегулируемые перекрестки (изменение направления главной дороги)",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083844673-823409147.mp4",
+      "expectedSize": 69797428,
+      "outPath": "videos/RU/70_Нерегулируемые перекрестки (изменение направления главной дороги).mp4"
+    },
+    {
+      "index": 71,
+      "id": 132,
+      "lang": "RU",
+      "title": "Пешеходные переходы и остановки маршрутных транспортных средств",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083865394-314982957.mp4",
+      "expectedSize": 30023670,
+      "outPath": "videos/RU/71_Пешеходные переходы и остановки маршрутных транспортных средств.mp4"
+    },
+    {
+      "index": 72,
+      "id": 133,
+      "lang": "RU",
+      "title": "Движение через железнодорожные переезды",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083882972-111811764.mp4",
+      "expectedSize": 41151252,
+      "outPath": "videos/RU/72_Движение через железнодорожные переезды.mp4"
+    },
+    {
+      "index": 73,
+      "id": 134,
+      "lang": "RU",
+      "title": "Движение по автомагистралям",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083900067-705475886.mp4",
+      "expectedSize": 24240841,
+      "outPath": "videos/RU/73_Движение по автомагистралям.mp4"
+    },
+    {
+      "index": 74,
+      "id": 135,
+      "lang": "RU",
+      "title": "Движение в жилых зонах",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083914718-429779059.mp4",
+      "expectedSize": 14004817,
+      "outPath": "videos/RU/74_Движение в жилых зонах.mp4"
+    },
+    {
+      "index": 75,
+      "id": 136,
+      "lang": "RU",
+      "title": "Движение по подъемам и спускам",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083927394-497983310.mp4",
+      "expectedSize": 7883673,
+      "outPath": "videos/RU/75_Движение по подъемам и спускам.mp4"
+    },
+    {
+      "index": 76,
+      "id": 137,
+      "lang": "RU",
+      "title": "Приоритет маршрутных транспортных средств",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083942582-862171339.mp4",
+      "expectedSize": 49687809,
+      "outPath": "videos/RU/76_Приоритет маршрутных транспортных средств.mp4"
+    },
+    {
+      "index": 77,
+      "id": 138,
+      "lang": "RU",
+      "title": "Пользование внешними световыми приборами",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083962120-495988203.mp4",
+      "expectedSize": 38360945,
+      "outPath": "videos/RU/77_Пользование внешними световыми приборами.mp4"
+    },
+    {
+      "index": 78,
+      "id": 139,
+      "lang": "RU",
+      "title": "Буксировка механических транспортных средств",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083980993-269678585.mp4",
+      "expectedSize": 38779738,
+      "outPath": "videos/RU/78_Буксировка механических транспортных средств.mp4"
+    },
+    {
+      "index": 79,
+      "id": 140,
+      "lang": "RU",
+      "title": "Учебная езда",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783083996417-296051434.mp4",
+      "expectedSize": 8600304,
+      "outPath": "videos/RU/79_Учебная езда.mp4"
+    },
+    {
+      "index": 80,
+      "id": 141,
+      "lang": "RU",
+      "title": "Перевозка людей",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084009765-622835833.mp4",
+      "expectedSize": 27824397,
+      "outPath": "videos/RU/80_Перевозка людей.mp4"
+    },
+    {
+      "index": 81,
+      "id": 142,
+      "lang": "RU",
+      "title": "Перевозка грузов",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084026039-670734574.mp4",
+      "expectedSize": 25219259,
+      "outPath": "videos/RU/81_Перевозка грузов.mp4"
+    },
+    {
+      "index": 82,
+      "id": 143,
+      "lang": "RU",
+      "title": "Дополнительные требования к движению велосипедов, мопедов, гужевых повозок, а также к прогону животных",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084041082-881064550.mp4",
+      "expectedSize": 18863341,
+      "outPath": "videos/RU/82_Дополнительные требования к движению велосипедов, мопедов, гужевых повозок, а также к прогону животных.mp4"
+    },
+    {
+      "index": 83,
+      "id": 144,
+      "lang": "RU",
+      "title": "Обязанности должностных лиц и граждан по обеспечению безопасности дорожного движения",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084054843-951757538.mp4",
+      "expectedSize": 18123972,
+      "outPath": "videos/RU/83_Обязанности должностных лиц и граждан по обеспечению безопасности дорожного движения.mp4"
+    },
+    {
+      "index": 84,
+      "id": 145,
+      "lang": "RU",
+      "title": "Условия, запрещающие эксплуатацию транспортных средств",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084073457-170682867.mp4",
+      "expectedSize": 72145937,
+      "outPath": "videos/RU/84_Условия, запрещающие эксплуатацию транспортных средств.mp4"
+    },
+    {
+      "index": 85,
+      "id": 146,
+      "lang": "RU",
+      "title": "Основы безопасности движения",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084102298-855743893.mp4",
+      "expectedSize": 106831726,
+      "outPath": "videos/RU/85_Основы безопасности движения.mp4"
+    },
+    {
+      "index": 86,
+      "id": 147,
+      "lang": "RU",
+      "title": "Первая медицинская помощь",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084130451-982992375.mp4",
+      "expectedSize": 47145286,
+      "outPath": "videos/RU/86_Первая медицинская помощь.mp4"
+    },
+    {
+      "index": 87,
+      "id": 148,
+      "lang": "RU",
+      "title": "62-билет разбор",
+      "url": "https://api.yodla-app.uz/media/education-videos/1783084151221-711149661.mp4",
+      "expectedSize": 55698383,
+      "outPath": "videos/RU/87_62-билет разбор.mp4"
+    },
+    {
+      "index": 88,
+      "id": 101,
+      "lang": "UZ",
+      "title": "Автодромда қандай ҳайдаш керак?",
+      "url": "https://api.yodla-app.uz/media/education-videos/1773507816726-390936297.mp4",
+      "expectedSize": 70548847,
+      "outPath": "videos/UZ/88_Автодромда қандай ҳайдаш керак.mp4"
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "title": "Экзамен (RU) — образец",
+  "count": 20,
+  "questions": [
+    {
+      "id": 726,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6722,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6723,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 6724,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6723
+      ]
+    },
+    {
+      "id": 105,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/37.8.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4949,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4950,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4951,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4951
+      ]
+    },
+    {
+      "id": 399,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5678,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 5679,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 5680,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 5681,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5679
+      ]
+    },
+    {
+      "id": 1215,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784377591760-522588646.png",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6577,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6578,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6579,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 6580,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6579
+      ]
+    },
+    {
+      "id": 611,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/26.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6351,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6352,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6353,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 6354,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6355,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6353
+      ]
+    },
+    {
+      "id": 1226,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1784378015676-208598454.jpg",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6608,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 6609,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6608
+      ]
+    },
+    {
+      "id": 680,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/15.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2279,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2280,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2280
+      ]
+    },
+    {
+      "id": 687,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2302,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 2303,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2304,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2305,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2302
+      ]
+    },
+    {
+      "id": 696,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/27.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2334,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 2335,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2336,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2337,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2334
+      ]
+    },
+    {
+      "id": 749,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/2.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2495,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2496,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2496
+      ]
+    },
+    {
+      "id": 906,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2976,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 2977,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 2978,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2976
+      ]
+    },
+    {
+      "id": 937,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/59.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3064,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 3065,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 3066,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3064
+      ]
+    },
+    {
+      "id": 435,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/52.6.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6081,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 6082,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6083,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6084,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6081
+      ]
+    },
+    {
+      "id": 1111,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3666,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 3667,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 3668,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 3669,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3666
+      ]
+    },
+    {
+      "id": 1213,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4208,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4209,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 4210,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4209
+      ]
+    },
+    {
+      "id": 160,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/17.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4330,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4331,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4332,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4333,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4334,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4334
+      ]
+    },
+    {
+      "id": 566,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/23.16.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6171,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6172,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 6173,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 6174,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6173
+      ]
+    },
+    {
+      "id": 674,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/9.12.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4540,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4541,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4541
+      ]
+    },
+    {
+      "id": 684,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4542,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4543,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4544,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4545,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 4546,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4545
+      ]
+    },
+    {
+      "id": 179,
+      "questionUz": "",
+      "questionRu": "",
+      "questionOz": "",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/35.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4754,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": true
+        },
+        {
+          "id": 4755,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        },
+        {
+          "id": 4756,
+          "textUz": "",
+          "textRu": "",
+          "textOz": "",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4754
+      ]
+    }
+  ]
+}

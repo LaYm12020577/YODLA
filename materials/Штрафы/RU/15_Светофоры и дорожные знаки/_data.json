@@ -1,0 +1,66 @@
+{
+  "category": "Светофоры и дорожные знаки",
+  "count": 6,
+  "fines": [
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Несоблюдение требований дорожных знаков",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Движение по пешеходной дорожке",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": null,
+      "violation": "Пересечение стоп-линии на красный свет",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": 1,
+      "violation": "Проезд на красный свет (впервые)",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 129,
+      "subArticle": 2,
+      "violation": "Проезд на красный свет (повторно)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "4.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    },
+    {
+      "article": 129,
+      "subArticle": 3,
+      "violation": "Проезд на красный свет (в третий раз)",
+      "fineBhm": null,
+      "fineUzs": null,
+      "penaltyPoints": "6.0",
+      "additionalPenalty": "лишение водительского удостоверения на 1 год",
+      "repeatOffense": true
+    }
+  ]
+}

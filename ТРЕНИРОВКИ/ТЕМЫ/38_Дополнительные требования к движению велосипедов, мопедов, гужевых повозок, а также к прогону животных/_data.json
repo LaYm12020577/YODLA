@@ -1,0 +1,515 @@
+{
+  "title": "38. Дополнительные требования к движению велосипедов, мопедов, гужевых повозок, а также к прогону животных (боб 28)",
+  "count": 13,
+  "questions": [
+    {
+      "id": 1034,
+      "questionUz": "Қайси ҳолларда велосипедчиларга қатнов қисмининг ўнг чеккасидан чиқишга йўл қўйилади?",
+      "questionRu": "В каких случаях допускается выезд велосипедистов от правого края проезжей части?",
+      "questionOz": "Qaysi hollarda velosipedchilarga qatnov qismining o'ng chekkasidan chiqishga yo'l qo'yiladi?",
+      "explanationUz": "ЙҲҚ 28-боби 168-бандига асосан, велосипедчиларга ва мопед ҳайдовчиларига трамвай ҳаракатланадиган йўлларда ва шу йўналишда ҳаракатланиш учун тасмаси биттадан кўп бўлган йўлларда чапга бурилиш ёки қайрилиб олиш тақиқланади.",
+      "explanationRu": "Согласно пункту 168 главы 28 ПДД, велосипедистам и водителям мопеда запрещается поворачивать налево или разворачиваться на дорогах с трамвайным движением и на дорогах, имеющих более одной полосы для движения в данном направлении.",
+      "explanationOz": "YHQ 28-bobi 168-bandiga asosan, velosipedchilarga va moped haydovchilariga tramvay harakatlanadigan yo'llarda va shu yo'nalishda harakatlanish uchun tasmasi bittadan ko'p bo'lgan yo'llarda chapga burilish yoki qayrilib olish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3397,
+          "textUz": "Юк ортиб кетаётганда",
+          "textRu": "При перевозке груза",
+          "textOz": "Yuk ortib ketayotganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3398,
+          "textUz": "Рухсат этилган ҳолларда чапга бурилиш ёки орқага қайтиш учун",
+          "textRu": "В разрешенных случаях для поворота налево или разворота",
+          "textOz": "Ruxsat etilgan hollarda chapga burilish yoki orqaga qaytish uchun",
+          "isCorrect": true
+        },
+        {
+          "id": 3399,
+          "textUz": ". Иккала санаб ўтилган ҳолларда",
+          "textRu": "В обоих перечисленных случаях",
+          "textOz": ". Ikkala sanab o'tilgan hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3398
+      ]
+    },
+    {
+      "id": 1035,
+      "questionUz": "Велосипедчиларда тротуарда ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли велосипедистам ездить по тротуарам?",
+      "questionOz": "Velosipedchilarda trotuarda harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 28-боби 166-бандига асосан, велосипедлар, мопедлар, аравалар, миниладиган ёки юк ортиладиган ҳайвонларнинг йўлнинг четки ўнг бўлагида имкони борича ўнг томонидан бир қатор бўлиб ҳаракатланишига йўл қўйилади. Агар пиёдаларга халақит бермаса, йўл ёқасидан ҳаракатланишга ҳам рухсат этилади.",
+      "explanationRu": "Согласно пункту 166 главы 28 ПДД, допускается движение велосипедов, мопедов, гужевых повозок, верховых и вьючных животных только по крайней правой полосе дороги по возможности правее в один ряд. Если не создаются помехи пешеходам, разрешается движение по обочине.",
+      "explanationOz": "YHQ 28-bobi 166-bandiga asosan, velosipedlar, mopedlar, aravalar, miniladigan yoki yuk ortiladigan hayvonlarning yo'lning chetki o'ng bo'lagida imkoni boricha o'ng tomonidan bir qator bo'lib harakatlanishiga yo'l qo'yiladi. Agar piyodalarga xalaqit bermasa, yo'l yoqasidan harakatlanishga ham ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3400,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3401,
+          "textUz": "Пиёдалар бўлмаганда рухсат этилади",
+          "textRu": "Разрешается при отсутствии пешеходов",
+          "textOz": "Piyodalar bo'lmaganda ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3402,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3402
+      ]
+    },
+    {
+      "id": 1036,
+      "questionUz": "Велосипед йўлкаси йўл билан кесишган жойларда велосипед ва мопед ҳайдовчилари қандай ҳолларда транспорт воситаларига йўл беришлари керак?",
+      "questionRu": "В каких случаях водители велосипедов и мопедов должны уступать дорогу транспортным средствам в местах пересечения велосипедной дорожки с дорогой?",
+      "questionOz": "Velosiped yo'lkasi yo'l bilan kesishgan joylarda velosiped va moped haydovchilari qanday hollarda transport vositalariga yo'l berishlari kerak?",
+      "explanationUz": "ЙҲҚ 28-боби 169-бандига асосан, чорраҳадан ташқаридаги тартибга солинмаган велосипед йўлкаси билан йўл кесишмасида велосипедчилар ва мопед ҳайдовчилари йўлда ҳаракатланаётган бошқа транспорт воситаларига йўл беришлари керак.",
+      "explanationRu": "Согласно пункту 169 главы 28 ПДД, вне перекрестков, на нерегулируемом пересечении велосипедной дорожки с дорогой, велосипедисты и водители мопеда должны уступить дорогу транспортным средствам, движущимся по этой дороге.",
+      "explanationOz": "YHQ 28-bobi 169-bandiga asosan, chorrahadan tashqaridagi tartibga solinmagan velosiped yo'lkasi bilan yo'l kesishmasida velosipedchilar va moped haydovchilari yo'lda harakatlanayotgan boshqa transport vositalariga yo'l berishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3403,
+          "textUz": "Чорраҳадан ташқарида тартибга солинмаган кесишмада барча ҳолларда",
+          "textRu": "Во всех случаях на нерегулируемом пересечении вне перекрестков",
+          "textOz": "Chorrahadan tashqarida tartibga solinmagan kesishmada barcha hollarda",
+          "isCorrect": true
+        },
+        {
+          "id": 3404,
+          "textUz": "Транспорт воситаси ўнгдан яқинлашиб келганда",
+          "textRu": "При приближении транспортного средства справа",
+          "textOz": "Transport vositasi o'ngdan yaqinlashib kelganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3405,
+          "textUz": "Кўрсатилган жойда велосипед ва мопед ҳайдовчилари имтиёзга эгадирлар",
+          "textRu": "Водитель велосипеда и мопеда имеет преимущество в указанном месте",
+          "textOz": "Ko'rsatilgan joyda velosiped va moped haydovchilari imtiyozga egadirlar",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3403
+      ]
+    },
+    {
+      "id": 1037,
+      "questionUz": "Мопед ҳайдовчиларига рухсат берилади:",
+      "questionRu": "Водителям мопедов разрешается:",
+      "questionOz": "Moped haydovchilariga ruxsat beriladi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 166 бандига асосан, велосипедлар, мопедлар, аравалар, миниладиган ёки юк ортиладиган ҳайвонларнинг йўлнинг четки ўнг бўлагида имкони борича ўнг томонидан бир қатор бўлиб ҳаракатланишига йўл қўйилади. Агар пиёдаларга халақит бермаса, йўл ёқасидан ҳаракатланишга ҳам рухсат этилади.",
+      "explanationRu": "Согласно пункту 166 Правил дорожного движения, допускается движение велосипедов, мопедов, гужевых повозок, верховых и вьючных животных только по крайней правой полосе дороги по возможности правее в один ряд. Если не создаются помехи пешеходам, разрешается движение по обочине.",
+      "explanationOz": "Yo‘l harakati qoidalarining 166 bandiga asosan, velosipedlar, mopedlar, aravalar, miniladigan yoki yuk ortiladigan hayvonlarning yo‘lning chetki o‘ng bo‘lagida imkoni boricha o‘ng tomonidan bir qator bo‘lib harakatlanishiga yo‘l qo‘yiladi. Agar piyodalarga xalaqit bermasa, yo‘l yoqasidan harakatlanishga ham ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3406,
+          "textUz": "Фақат йўлнинг четки ўнг бўлагида ўнг томонидан бир қатор бўлиб ҳаракатланишига",
+          "textRu": "Двигаться в один ряд с правой стороны только по крайней правой полосе дороги",
+          "textOz": "Faqat yo'lning chetki o'ng bo'lagida o'ng tomonidan bir qator bo'lib harakatlanishiga",
+          "isCorrect": false
+        },
+        {
+          "id": 3407,
+          "textUz": "Фақат йўл ёқасидан ҳаракатланишига, агар пиёдаларга халақит бермаса",
+          "textRu": "Двигаться только по обочине, эсли это не мешает пешеходам",
+          "textOz": "Faqat yo'l yoqasidan harakatlanishiga, agar piyodalarga xalaqit bermasa",
+          "isCorrect": false
+        },
+        {
+          "id": 3408,
+          "textUz": "Барча санаб ўтилган ҳолатларга",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan holatlarga",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3408
+      ]
+    },
+    {
+      "id": 1038,
+      "questionUz": "Ҳайвонларни йўлда ҳайдаб боришга қоидага кўра рухсат этилади",
+      "questionRu": "Перегон животных на дороге разрешается в основном:",
+      "questionOz": "Hayvonlarni yo'lda haydab borishga qoidaga ko'ra ruxsat etiladi",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, йўл ҳаракати хавфсизлигини таъминлаш — йўл-транспорт ҳодисаларининг келиб чиқиш сабабларининг олдини олишга, уларнинг оғир оқибатларини камайтиришга қаратилган фаолият.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, обеспечение безопасности дорожного движения — деятельность, направленная на предупреждение причин возникновения дорожно-транспортных происшествий, снижение тяжести их последствий.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, yo‘l harakati xavfsizligini ta’minlash — yo‘l-transport hodisalarining kelib chiqish sabablarining oldini olishga, ularning og‘ir oqibatlarini kamaytirishga qaratilgan faoliyat.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3409,
+          "textUz": "Куннинг ёруғ  вақтида.",
+          "textRu": "В светлое время суток.",
+          "textOz": "Kunning yorug'  vaqtida.",
+          "isCorrect": true
+        },
+        {
+          "id": 3410,
+          "textUz": "Куннинг қоронғу вақтида.",
+          "textRu": "В тёмное время суток.",
+          "textOz": "Kunning qorong'u vaqtida.",
+          "isCorrect": false
+        },
+        {
+          "id": 3411,
+          "textUz": "Исталган вақтда.",
+          "textRu": "В любое время.",
+          "textOz": "Istalgan vaqtda.",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3409
+      ]
+    },
+    {
+      "id": 1039,
+      "questionUz": "Чорраҳадан ташқаридаги тартибга солинмаган велосипед йўлкаси билан йўл кесишмасида ким йўл бериши керак?",
+      "questionRu": "Кто должен уступить дорогу на пересечении с нерегулируемой велосипедной дорожкой за пределами перекрестка?",
+      "questionOz": "Chorrahadan tashqaridagi tartibga solinmagan velosiped yo'lkasi bilan yo'l kesishmasida kim yo'l berishi kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 89 банди 1 хатбошига асосан, транспорт воситаларини йўлнинг қатнов қисмида бир қатор қилиб, қатнов қисми четига йўл ҳаракатининг бошқа қатнашчиларига халақит бермаслик шарти билан фақат параллель равишда, кажаваси бўлмаган икки ғилдиракли транспорт воситаларини икки қатор қилиб қўйишга рухсат этилади.",
+      "explanationRu": "Согл��сно абзацу первого пункта 89 Правил дорожного движения, Ставить транспортные средства на проезжей части разрешается в один ряд параллельно к краю проезжей части, а двухколесные транспортные средства без бокового прицепа — в два ряда.",
+      "explanationOz": "Yo‘l harakati qoidalarining 89 bandi 1 xatboshiga asosan, transport vositalarini yo‘lning qatnov qismida bir qator qilib, qatnov qismi chetiga yo‘l harakatining boshqa qatnashchilariga xalaqit bermaslik sharti bilan faqat parallel ravishda, kajavasi bo‘lmagan ikki g‘ildirakli transport vositalarini ikki qator qilib qo‘yishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3412,
+          "textUz": "Транспорт воситалари ҳайдовчилари",
+          "textRu": "Водители транспортных средств",
+          "textOz": "Transport vositalari haydovchilari",
+          "isCorrect": false
+        },
+        {
+          "id": 3413,
+          "textUz": "Велосипед йўлкасидан ҳаракатланаётган велосипед ва мопед ҳайдовчилари",
+          "textRu": "Водители велосипедов и мопедов, движущиеся по велосипедной дорожке",
+          "textOz": "Velosiped yo'lkasidan harakatlanayotgan velosiped va moped haydovchilari",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3413
+      ]
+    },
+    {
+      "id": 1040,
+      "questionUz": "Велосипедларда юк ташилганда габаритидан бўйига ва энига қанчадан ортиқ чиқиб турса, юк ташиш тақиқланади?",
+      "questionRu": "При перевозке грузов на велосипедах запрещено провозить груз, если он превышает габариты по высоте и ширине?",
+      "questionOz": "Velosipedlarda yuk tashilganda gabaritidan bo'yiga va eniga qanchadan ortiq chiqib tursa, yuk tashish taqiqlanadi?",
+      "explanationUz": "25. Тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ёқилган транспорт воситаларининг ҳайдовчилари кечиктириб бўлмайдиган хизмат вазифаларини бажараётиб, ҳаракатланиш хавфсизлигини таъминлаш шарти билан ушбу Қоидаларнинг 7-боби (тартибга солувчининг ишораларидан ташқари), 9 — 16, 19-20 ва 22 боблари, 1 ва 2-иловалари талабларидан четга чиқишлари мумкин.",
+      "explanationRu": "25. Водители транспортных средств оперативных и специальных служб с включенным проблесковым маячком синего или красного или синего и красного цветов, выполняя неотложное служебное задание, могут отступать от требований разделов 7 (кроме сигналов регулировщика), 9—16, 19-20 и 22 Правил, приложений № 1 и 2 к Правилам, при условии обеспечения безопасности движения.",
+      "explanationOz": "25. Tezkor va maxsus xizmatlarning ko‘k yoki qizil yoxud ko‘k va qizil rangli yalt-yalt etuvchi mayoqchalar yoqilgan transport vositalarining haydovchilari kechiktirib bo‘lmaydigan xizmat vazifalarini bajarayotib, harakatlanish xavfsizligini ta’minlash sharti bilan ushbu Qoidalarning 7-bobi (tartibga soluvchining ishoralaridan tashqari), 9 — 16, 19-20 va 22 boblari, 1 va 2-ilovalari talablaridan chetga chiqishlari mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3414,
+          "textUz": "0.3 м",
+          "textRu": "0.3 м",
+          "textOz": "0.3 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3415,
+          "textUz": "0.4 м",
+          "textRu": "0.4 м",
+          "textOz": "0.4 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3416,
+          "textUz": "0.5 м",
+          "textRu": "0.5 м",
+          "textOz": "0.5 m",
+          "isCorrect": true
+        },
+        {
+          "id": 3417,
+          "textUz": "1 м",
+          "textRu": "1 м",
+          "textOz": "1 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3416
+      ]
+    },
+    {
+      "id": 1041,
+      "questionUz": "Мопед хайдовчиси мажбур:",
+      "questionRu": "Водитель мопеда обязан:",
+      "questionOz": "Moped xaydovchisi majbur:",
+      "explanationUz": "ЙҲҚ 1 илова: 2.1. “Асосий йўл”. Ҳаракат тартибга солинмаган чорраҳаларда олдин ўтиш ҳуқуқини беради. Белги асосий йўл бошига ва чорраҳаларнинг бевосита олдига ўрнатилади. ЙҲҚ 16-боби 104-банди: Тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳада иккинчи даражали йўлдан ҳаракатланаётган транспорт воситасининг ҳайдовчиси асосий йўлдан яқинлашаётган транспорт воситаларига уларнинг кейинги ҳаракатланиш йўналишидан қатъий назар, йўл бериши керак.",
+      "explanationRu": "ПДД приложение № 1: 2.1. Главная дорога. Дорога, на которой предоставлено право на первоочередное движение через нерегулируемые перекрестки. Знак устанавливается в начале главной дороги и непосредственно перед пересечениями.\r\nПункта 104 главы 16 ПДД, гласит:\r\nНа перекрестках неравнозначных дорог водитель транспортного средства, движущегося по второстепенной дороге, должен уступить дорогу транспортным средствам, приближающимся по главной дороге, независимо от направления их дальнейшего движения.",
+      "explanationOz": "YHQ 1 ilova: 2.1. “Asosiy yo‘l”. Harakat tartibga solinmagan chorrahalarda oldin o‘tish huquqini beradi. Belgi asosiy yo‘l boshiga va chorrahalarning bevosita oldiga o‘rnatiladi. YHQ 16-bobi 104-bandi: Teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada ikkinchi darajali yo‘ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo‘ldan yaqinlashayotgan transport vositalariga ularning keyingi harakatlanish yo‘nalishidan qat’iy nazar, yo‘l berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3418,
+          "textUz": "16 ёшга тулган булиши",
+          "textRu": "Должен достичь 16-летнего возраста",
+          "textOz": "16 yoshga tulgan bulishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3419,
+          "textUz": "Мотошлем кийишлари ва уни кадаб олишлари",
+          "textRu": "Носить мотоциклетный шлем и пристегивать",
+          "textOz": "Motoshlem kiyishlari va uni kadab olishlari",
+          "isCorrect": false
+        },
+        {
+          "id": 3420,
+          "textUz": "Кундузги вактда хам якинни ёритувчи чирокларни ёкиб юриши",
+          "textRu": "Днём также включать ближний свет фар",
+          "textOz": "Kunduzgi vaktda xam yakinni yorituvchi chiroklarni yokib yurishi",
+          "isCorrect": false
+        },
+        {
+          "id": 3421,
+          "textUz": "Барча санаб утилган жавоблар",
+          "textRu": "Все перечисленные ответы",
+          "textOz": "Barcha sanab utilgan javoblar",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3421
+      ]
+    },
+    {
+      "id": 1042,
+      "questionUz": "Велосипеддан фойдаланишда йўловчи ташиш қайси ҳолларда рухсат этилади?",
+      "questionRu": "В каких случаях разрешается перевозка пассажира на велосипеде?",
+      "questionOz": "Velosipeddan foydalanishda yo‘lovchi tashish qaysi hollarda ruxsat etiladi?",
+      "explanationUz": "ЙҲҚга 1-ИЛОВА 3.18.2 банди ва 3.Тақиқловчи белгиларнинг 47-хатбошига асосан: 3.18.2. «Чапга бурилиш тақиқланади». 3.18.1 ва 3.18.2 белгилари қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади.",
+      "explanationRu": "На основании пункта 3.18.2 Приложения 1 к ПДД и абзаца 47 раздела 3 «Запрещающие знаки»: 3.18.2. «Поворот налево запрещен». Действие знаков 3.18.1 и 3.18.2 распространяется на пересечение проезжих частей, перед которыми установлен знак.",
+      "explanationOz": "YHQga 1-ILOVA 3.18.2 bandi va 3.Taqiqlovchi belgilarning 47-xatboshiga asosan: 3.18.2. «Chapga burilish taqiqlanadi». 3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3422,
+          "textUz": "Фақат 7 ёшгача бўлган болаларни махсус ўриндиқда ташиш мумкин",
+          "textRu": "Только детей до 7 лет можно перевозить в специальном сиденье",
+          "textOz": "Faqat 7 yoshgacha bo‘lgan bolalarni maxsus o‘rindiqda tashish mumkin",
+          "isCorrect": true
+        },
+        {
+          "id": 3423,
+          "textUz": "Фақат катталар учун рухсат этилади",
+          "textRu": "Разрешается только для взрослых",
+          "textOz": "Faqat kattalar uchun ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3424,
+          "textUz": "Ҳар қандай йўловчини ташиш мумкин",
+          "textRu": "Можно перевозить любого пассажира",
+          "textOz": "Har qanday yo‘lovchini tashish mumkin",
+          "isCorrect": false
+        },
+        {
+          "id": 3425,
+          "textUz": "Ҳеч қачон рухсат этилмайди",
+          "textRu": "Никогда не разрешается",
+          "textOz": "Hech qachon ruxsat etilmaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3422
+      ]
+    },
+    {
+      "id": 1043,
+      "questionUz": "Индивидуал ҳаракатланиш воситаларини неча ёшдан бошқаришга рухсат берилади?",
+      "questionRu": "С какого возраста разрешается управление индивидуальными средствами передвижения?",
+      "questionOz": "Individual harakatlanish vositalarini necha yoshdan boshqarishga ruxsat beriladi?",
+      "explanationUz": "ЙҲҚнинг 10-боб. 68-бандига асосан: 68. Тезлигини соатига 40 километрдан ошириши мумкин бўлмаган ёки техник сабабларга кўра тезлигини бундан ошира олмайдиган транспорт воситалари айланиб ўтиш, қувиб ўтиш, чапга бурилиш ёки қайрилиб олиш учун қайта тизилишдан ёки рухсат этилган ҳолларда йўлнинг чап томонида тўхташдан бошқа ҳолларда фақат четки ўнг қаторида ҳаракатланишлари керак.",
+      "explanationRu": "На основании пункта 68 главы 10 ПДД: 68. Транспортные средства, скорость движения которых не должна превышать 40 км/ч или которые по техническим причинам не могут развивать такую скорость, должны двигаться по крайней правой полосе, кроме случаев объезда, обгона или перестроения перед поворотом налево, разворотом или остановкой, в разрешенных случаях, на левой стороне дороги.",
+      "explanationOz": "YHQning 10-bob. 68-bandiga asosan: 68. Tezligini soatiga 40 kilometrdan oshirishi mumkin bo‘lmagan yoki texnik sabablarga ko‘ra tezligini bundan oshira olmaydigan transport vositalari aylanib o‘tish, quvib o‘tish, chapga burilish yoki qayrilib olish uchun qayta tizilishdan yoki ruxsat etilgan hollarda yo‘lning chap tomonida to‘xtashdan boshqa hollarda faqat chetki o‘ng qatorida harakatlanishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3426,
+          "textUz": "12",
+          "textRu": "12",
+          "textOz": "12",
+          "isCorrect": false
+        },
+        {
+          "id": 3427,
+          "textUz": "14",
+          "textRu": "14",
+          "textOz": "14",
+          "isCorrect": true
+        },
+        {
+          "id": 3428,
+          "textUz": "16",
+          "textRu": "16",
+          "textOz": "16",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3427
+      ]
+    },
+    {
+      "id": 1044,
+      "questionUz": "Вэлосипэдни бошқаришга нэча ёшдан рухсат этилади?",
+      "questionRu": "С какого возраста разрешается управление велосипедом?",
+      "questionOz": "Velosipedni boshqarishga necha yoshdan ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 28-боб. 165-бандга асосан: 165. Йўлда велосипед, индивидуал ҳаракатланиш воситаларини ва аравани бошқариш, миниладиган ёки юк ортиладиган ҳайвонларни ҳайдаб ўтиш 14 ёшдан кичик бўлмаган, мопед ва скутерни бошқариш эса 16 ёшдан кичик бўлмаган шахсларга рухсат этилади.",
+      "explanationRu": "На основании пункта 165 главы 28 ПДД: 165. Управлять велосипедом, средствами индивидуальной мобильности и гужевой повозкой, быть погонщиком вьючных или верховых животных при движении по дорогам разрешается лицам не моложе 14 лет, а мопедом и скутером — не моложе 16 лет.",
+      "explanationOz": "YHQning 28-bob. 165-bandga asosan: 165. Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3429,
+          "textUz": "12 ёш",
+          "textRu": "С 12 лет",
+          "textOz": "12 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3430,
+          "textUz": "14 ёш",
+          "textRu": "С 14 лет",
+          "textOz": "14 yosh",
+          "isCorrect": true
+        },
+        {
+          "id": 3431,
+          "textUz": "16 ёш",
+          "textRu": "С 16 лет",
+          "textOz": "16 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3432,
+          "textUz": "18 ёш",
+          "textRu": "С 18 лет",
+          "textOz": "18 yosh",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3430
+      ]
+    },
+    {
+      "id": 1045,
+      "questionUz": "Миниладиган уй ҳайвонларини бошқаришга нэча ёшдан рухсат этилади?",
+      "questionRu": "С какого возраста разрешается управление верховыми домашними животными?",
+      "questionOz": "Miniladigan uy hayvonlarini boshqarishga necha yoshdan ruxsat etiladi?",
+      "explanationUz": "ЙҲҚнинг 28-боб. 165-бандга асосан: 165. Йўлда велосипед, индивидуал ҳаракатланиш воситаларини ва аравани бошқариш, миниладиган ёки юк ортиладиган ҳайвонларни ҳайдаб ўтиш 14 ёшдан кичик бўлмаган, мопед ва скутерни бошқариш эса 16 ёшдан кичик бўлмаган шахсларга рухсат этилади.",
+      "explanationRu": "На основании пункта 165 главы 28 ПДД: 165. Управлять велосипедом, средствами индивидуальной мобильности и гужевой повозкой, быть погонщиком вьючных или верховых животных при движении по дорогам разрешается лицам не моложе 14 лет, а мопедом и скутером — не моложе 16 лет.",
+      "explanationOz": "YHQning 28-bob. 165-bandga asosan: 165. Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3433,
+          "textUz": "12 ёш",
+          "textRu": "С 12 лет",
+          "textOz": "12 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3434,
+          "textUz": "14 ёш",
+          "textRu": "С 14 лет",
+          "textOz": "14 yosh",
+          "isCorrect": true
+        },
+        {
+          "id": 3435,
+          "textUz": "16 ёш",
+          "textRu": "С 16 лет",
+          "textOz": "16 yosh",
+          "isCorrect": false
+        },
+        {
+          "id": 3436,
+          "textUz": "18 ёш",
+          "textRu": "С 18 лет",
+          "textOz": "18 yosh",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3434
+      ]
+    },
+    {
+      "id": 1046,
+      "questionUz": "Велосипедчиларга велосипед йўлкаси бўлганда қатнов қисмидан ҳаракатланишга рухсат этиладими?",
+      "questionRu": "Разрешается ли велосипедистам двигаться по проезжей части, если имеется велосипедная дорожка?",
+      "questionOz": "Velosipedchilarga velosiped yo‘lkasi bo‘lganda qatnov qismidan harakatlanishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚга 1-ИЛОВА 3.18.2 ва 5.7.2 ҳамда 5.10.2 бандига асосан: 3.18.2. «Чапга бурилиш тақиқланади». 5.7.2. «Бир томонлама ҳаракатли йўлга чиқиш». Ҳаракатланиш бир томонлама бўлган йўлга ёки қатнов қисмига чиқиш. 5.10.2. «Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлга чиқиш».",
+      "explanationRu": "На основании пунктов 3.18.2 и 5.7.2, а также 5.10.2 Приложения 1 к ПДД: 3.18.2. «Поворот налево запрещен». Действие знаков 3.18.1 и 3.18.2 распространяется на пересечение проезжих частей, перед которыми установлен знак. 5.7.2. «Выезд на дорогу с односторонним движением». Выезд на дорогу или проезжую часть с односторонним движением. 5.10.2. «Выезд на дорогу с полосой для маршрутных транспортных средств».",
+      "explanationOz": "YHQga 1-ILOVA 3.18.2 va 5.7.2 hamda 5.10.2 bandiga asosan: 3.18.2. «Chapga burilish taqiqlanadi». 5.7.2. «Bir tomonlama harakatli yo‘lga chiqish». Harakatlanish bir tomonlama bo‘lgan yo‘lga yoki qatnov qismiga chiqish. 5.10.2. «Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lga chiqish».",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3437,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3438,
+          "textUz": "Бошқа ҳаракат қатнашчиларига халақит бермаса рухсат этилади",
+          "textRu": "Разрешается, если это не мешает другим участникам движения",
+          "textOz": "Boshqa harakat qatnashchilariga xalaqit bermasa ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3439,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3439
+      ]
+    }
+  ]
+}

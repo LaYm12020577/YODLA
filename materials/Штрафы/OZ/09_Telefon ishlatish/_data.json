@@ -1,0 +1,16 @@
+{
+  "category": "Telefon ishlatish",
+  "count": 1,
+  "fines": [
+    {
+      "article": 126,
+      "subArticle": null,
+      "violation": "Rulda telefondan foydalanish yoki gaplashish",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

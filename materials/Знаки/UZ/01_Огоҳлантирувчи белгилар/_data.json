@@ -1,0 +1,270 @@
+{
+  "category": "Огоҳлантирувчи белгилар",
+  "count": 44,
+  "signs": [
+    {
+      "number": "1.1",
+      "description": "«Шлагбаумли темир йўл кесишмаси».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.1_resize-min.png.webp",
+      "imageFile": "1.1.webp"
+    },
+    {
+      "number": "1.2",
+      "description": "«Шлагбаумсиз темир йўл кесишмаси».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.2_resize-min.png.webp",
+      "imageFile": "1.2.webp"
+    },
+    {
+      "number": "1.3.1",
+      "description": "«Бир изли темир йўл».\nБир изли темир йўл белгилари шлагбаум билан жиҳозланмаган темир йўл кесишмаси олдида ўрнатилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.3.1_resize-min.png",
+      "imageFile": "1.3.1.png"
+    },
+    {
+      "number": "1.3.2",
+      "description": "«Кўп изли темир йўл».\nИкки ва ундан ортиқ изли темир йўл белгилари шлагбаум билан жиҳозланмаган темир йўл кесишмаси олдида ўрнатилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.3.2_resize-min.png.webp",
+      "imageFile": "1.3.2.webp"
+    },
+    {
+      "number": "1.4.1 – 1.4.6",
+      "description": "«Темир йўл кесишмасига яқинлашиш».\nАҳоли пунктларидан ташқарида темир йўл кесишмасига яқинлашаётганлик ҳақида қўшимча огоҳлантириш беради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.4_resize-230x300.png.webp",
+      "imageFile": "1.4.1 – 1.4.6.webp"
+    },
+    {
+      "number": "1.5",
+      "description": "«Трамвай йўли билан кесишув».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.5_resize-min.png.webp",
+      "imageFile": "1.5.webp"
+    },
+    {
+      "number": "1.6",
+      "description": "«Тенг аҳамиятли йўллар кесишуви».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.6_resize-min.png.webp",
+      "imageFile": "1.6.webp"
+    },
+    {
+      "number": "1.7",
+      "description": "«Айланма ҳаракатланиш билан кесишув».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.7_resize-min.png.webp",
+      "imageFile": "1.7.webp"
+    },
+    {
+      "number": "1.8",
+      "description": "«Светофор билан тартибга солиш».\nҲаракатланиш светофор билан тартибга солинадиган чорраҳа, пиёдалар ўтиш жойи ёки йўл қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.8_resize-min.png.webp",
+      "imageFile": "1.8.webp"
+    },
+    {
+      "number": "1.9",
+      "description": "«Кўтарма кўприк».\nКўтарма кўприк ёки солда кесиб ўтиш.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.9_resize-min.png.webp",
+      "imageFile": "1.9.webp"
+    },
+    {
+      "number": "1.10",
+      "description": "«Соҳилга чиқиш».\nДарё ёки сув ҳавзаси қирғоғига чиқишни билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.10_resize-min.png.webp",
+      "imageFile": "1.10.webp"
+    },
+    {
+      "number": "1.11.1",
+      "description": "«Хавфли бурилиш ўнгга».\nЎнгга йўл белгилари йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.11.1_resize-min.png.webp",
+      "imageFile": "1.11.1.webp"
+    },
+    {
+      "number": "1.11.2",
+      "description": "«Хавфли бурилиш чапга».\nЧапга йўл белгилари йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.11.2_resize-min.png.webp",
+      "imageFile": "1.11.2.webp"
+    },
+    {
+      "number": "1.12.1",
+      "description": "«Хавфли бурилишлар».\nБиринчи бурилиш ўнгга йўл белгилари йўлнинг хавфли бурилишлари бўлган қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.12.1_resize-min.png.webp",
+      "imageFile": "1.12.1.webp"
+    },
+    {
+      "number": "1.12.2",
+      "description": "«Хавфли бурилишлар».\nБиринчи бурилиш чапга йўл белгилари йўлнинг хавфли бурилишлари бўлган қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.12.2_resize-min.png.webp",
+      "imageFile": "1.12.2.webp"
+    },
+    {
+      "number": "1.13",
+      "description": "«Тик нишаблик».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.13_resize-min.png.webp",
+      "imageFile": "1.13.webp"
+    },
+    {
+      "number": "1.14",
+      "description": "«Тик баландлик».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.14_resize-min.png.webp",
+      "imageFile": "1.14.webp"
+    },
+    {
+      "number": "1.15",
+      "description": "«Сирпанчиқ йўл».\nҚатнов қисми ўта сирпанчиқ бўлган йўл қисми.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.15_resize-min.png.webp",
+      "imageFile": "1.15.webp"
+    },
+    {
+      "number": "1.16",
+      "description": "«Нотекис йўл».\nҚатнов қисми нотекис бўлган йўл (ўнқир-чўнқир, ўйдим-чуқур жойлар, кўприкнинг йўлга нотекис туташуви ва шу кабилар) қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.16_resize-min.png.webp",
+      "imageFile": "1.16.webp"
+    },
+    {
+      "number": "1.17",
+      "description": "«Тош отилиши хавфи».\nТранспорт воситасининг ғилдираги остидан шағал, тош ва шунга ўхшашларнинг отилиб чиқиш эҳтимоли бўлган йўл қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.17_resize-min.png.webp",
+      "imageFile": "1.17.webp"
+    },
+    {
+      "number": "1.18.1",
+      "description": "«Йўлнинг торайиши».\nИкки томонлама торайиш",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.1_resize-min.png.webp",
+      "imageFile": "1.18.1.webp"
+    },
+    {
+      "number": "1.18.2",
+      "description": "«Йўлнинг торайиши».\nЎнгга торайиш",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.2_resize-min.png.webp",
+      "imageFile": "1.18.2.webp"
+    },
+    {
+      "number": "1.18.3",
+      "description": "«Йўлнинг торайиши».\nЧапга торайиш",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.3_resize-min.png.webp",
+      "imageFile": "1.18.3.webp"
+    },
+    {
+      "number": "1.19",
+      "description": "«Икки томонлама ҳаракатланиш».\nЙўлнинг (қатнов қисмининг) қарама-қарши ҳаракатланиш қисми бошланишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.19_resize-min.png.webp",
+      "imageFile": "1.19.webp"
+    },
+    {
+      "number": "1.20",
+      "description": "«Пиёдалар ўтиш жойи».\n5.16.1, 5.16.2, 5.48 белгилари ва (ёки) 1.14.1 — 1.14.4, 1.29.1 — 1.29.3 йўл чизиқлари билан белгиланган пиёдалар ўтиш жойини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.20_resize-min.png.webp",
+      "imageFile": "1.20.webp"
+    },
+    {
+      "number": "1.21",
+      "description": "«Болалар».\nБолалар муассасаси (мактаблар, болаларнинг дам олиш масканлари ва шунга ўхшашлар)га яқин йўлнинг қатнов қисмидан болаларнинг чиқиб қолиш эҳтимолини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.21_resize-min.png.webp",
+      "imageFile": "1.21.webp"
+    },
+    {
+      "number": "1.22",
+      "description": "«Велосипед йўлкаси билан кесишув».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.22_resize-min.png.webp",
+      "imageFile": "1.22.webp"
+    },
+    {
+      "number": "1.23",
+      "description": "«Таъмирлаш ишлари».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.23_resize-min.png.webp",
+      "imageFile": "1.23.webp"
+    },
+    {
+      "number": "1.24",
+      "description": "«Мол ҳайдаб ўтиш».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.24_resize-min.png.webp",
+      "imageFile": "1.24.webp"
+    },
+    {
+      "number": "1.25.1",
+      "description": "«Ёввойи ҳайвонлар».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.1_resize-min.png.webp",
+      "imageFile": "1.25.1.webp"
+    },
+    {
+      "number": "1.25.2",
+      "description": "«Пастлаб учувчи қушлар».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.2_resize-min.png.webp",
+      "imageFile": "1.25.2.webp"
+    },
+    {
+      "number": "1.25.3",
+      "description": "«Кемирувчи ва судралиб юрувчи ҳайвонлар».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.3_resize-min.png.webp",
+      "imageFile": "1.25.3.webp"
+    },
+    {
+      "number": "1.26",
+      "description": "«Тошлар тушиши».\nТош кўчиши, сурилиши ва тушиши мумкин бўлган йўл қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.26_resize-min.png.webp",
+      "imageFile": "1.26.webp"
+    },
+    {
+      "number": "1.27",
+      "description": "«Ёнлама шамол».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.27_resize-min.png.webp",
+      "imageFile": "1.27.webp"
+    },
+    {
+      "number": "1.28",
+      "description": "«Пастлаб учувчи самолётлар».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.28_resize.png.webp",
+      "imageFile": "1.28.webp"
+    },
+    {
+      "number": "1.29",
+      "description": "«Туннел».\nСунъий равишда ёритилмаган ёки кириш пештоғининг кўриниши чекланган туннелни билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.29_resize-min.png.webp",
+      "imageFile": "1.29.webp"
+    },
+    {
+      "number": "1.30",
+      "description": "«Бошқа хавф-хатарлар».\nОгоҳлантирувчи белгиларда кўзда тутилмаган хавф-хатарлар бўлган йўл қисмини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.30_resize-min.png.webp",
+      "imageFile": "1.30.webp"
+    },
+    {
+      "number": "1.31",
+      "description": "«Сунъий йўл нотекислиги».\nЙўлнинг сунъий нотекислик ўрнатилган қисмига яқинлашаётганлиги тўғрисида огоҳлантиради. Транспорт воситасининг ҳаракатланиш тезлигини мажбурий тарзда камайтириш учун қўлланилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31_resize-min.png.webp",
+      "imageFile": "1.31.webp"
+    },
+    {
+      "number": "1.31.3",
+      "description": "«Бурилишнинг йўналиши».\nТ-симон чорраҳада ёки йўл айрилишларида ҳаракатланиш йўналишини, таъмирланаётган йўл қисмини айланиб ўтиш йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31.3_resize-min.png",
+      "imageFile": "1.31.3.png"
+    },
+    {
+      "number": "1.31.1 – 1.31.2",
+      "description": "«Бурилишнинг йўналиши».\nКичик радиусли, кўриниши чекланган йўлда ҳаракатланиш йўналишини ва йўлнинг таъмирланаётган қисмини айланиб ўтиш йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31.1_resize-min.png.webp",
+      "imageFile": "1.31.1 – 1.31.2.webp"
+    },
+    {
+      "number": "1.32",
+      "description": "«Тирбандлик».\nУшбу йўл белгиси вақтинчалик ёки тасвири ўзгарадиган ҳолатда тирбандлик ҳосил бўлган йўл ёки чорраҳага кириш олдидан йўлни ёки чорраҳани айланиб ўтиш имконияти бўлган жойга ўрнатилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.32_resize-min.png.webp",
+      "imageFile": "1.32.webp"
+    },
+    {
+      "number": "1.33",
+      "description": "«Қатнов қисми кесишмаси ҳудуди».\n1.30 ётиқ чизиғи билан белгиланган чорраҳага яқинлашаётганлигини англатиб, олдинда тирбандлик юзага келганлиги туфайли мажбурий тўхтаб, кўндаланг йўналишдаги транспорт воситаларининг ҳаракатланишига тўсқинлик туғдирадиган бўлса, чорраҳага кириш, агар тўхташ чизиғи ёки 5.33 йўл белгисидан ўтиб бўлган ҳайдовчига эса қатнов қисмлари кесишмасига киришни тақиқланишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.33_resize-min.png.webp",
+      "imageFile": "1.33.webp"
+    },
+    {
+      "number": "1.34",
+      "description": "«Диққат, бошқариладиган тўсиқ».\nУшбу йўл белгиси бошқариладиган тўсувчи қурилмасига етмасдан ўрнатилади ва транспорт воситалари ҳайдовчиларини олдинда тўсувчи қурилма борлиги ҳақида огоҳлантиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.34_resize-min.png.webp",
+      "imageFile": "1.34.webp"
+    },
+    {
+      "number": "1.35",
+      "description": "«Пиёдаларнинг йўл ёқасидан юриши мумкин бўлган ҳудуд».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.35_resize-min.png.webp",
+      "imageFile": "1.35.webp"
+    }
+  ]
+}

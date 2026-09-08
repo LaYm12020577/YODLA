@@ -1,0 +1,86 @@
+{
+  "category": "Tezlik",
+  "count": 8,
+  "fines": [
+    {
+      "article": 128,
+      "subArticle": null,
+      "violation": "Aholi yashaydigan hududda belgilangan tezlikdan oshirish",
+      "fineBhm": "3.00",
+      "fineUzs": "1236000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 1,
+      "violation": "Tezlikni 20 km/soatgacha oshirish",
+      "fineBhm": "1.00",
+      "fineUzs": "412000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 2,
+      "violation": "Tezlikni 20-40 km/soat oshirish",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "2.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 3,
+      "violation": "Tezlikni 40 km/soatdan ortiq oshirish",
+      "fineBhm": "9.00",
+      "fineUzs": "3708000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 128,
+      "subArticle": 4,
+      "violation": "Qaytadan tezlikni 20 km/soatgacha oshirish (takroriy)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": true
+    },
+    {
+      "article": 128,
+      "subArticle": 5,
+      "violation": "Qaytadan tezlikni 20-40 km/soat oshirish (takroriy)",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "yoki 1 yilga haydovchilik guvohnomasini bekor qilish",
+      "repeatOffense": true
+    },
+    {
+      "article": 128,
+      "subArticle": 6,
+      "violation": "Qaytadan tezlikni 40 km/soatdan ortiq oshirish (takroriy)",
+      "fineBhm": "25.00",
+      "fineUzs": "10300000",
+      "penaltyPoints": "7.0",
+      "additionalPenalty": "2 yilga haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": true
+    },
+    {
+      "article": 128,
+      "subArticle": 7,
+      "violation": "Uchinchi marta tezlikni 20 km/soatgacha oshirish",
+      "fineBhm": "15.00",
+      "fineUzs": "6180000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "1 yilga haydovchilik guvohnomasidan mahrum qilish",
+      "repeatOffense": true
+    }
+  ]
+}

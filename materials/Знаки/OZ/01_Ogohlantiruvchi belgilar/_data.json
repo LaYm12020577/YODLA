@@ -1,0 +1,270 @@
+{
+  "category": "Ogohlantiruvchi belgilar",
+  "count": 44,
+  "signs": [
+    {
+      "number": "1.1",
+      "description": "«Shlagbaumli temir yo‘l kesishmasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.1_resize-min.png.webp",
+      "imageFile": "1.1.webp"
+    },
+    {
+      "number": "1.2",
+      "description": "«Shlagbaumsiz temir yo‘l kesishmasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.2_resize-min.png.webp",
+      "imageFile": "1.2.webp"
+    },
+    {
+      "number": "1.3.1",
+      "description": "«Bir izli temir yo‘l».\nBir izli temir yo’l belgilari shlagbaum bilan jihozlanmagan temir yo’l kesishmasi oldida o’rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.3.1_resize-min.png",
+      "imageFile": "1.3.1.png"
+    },
+    {
+      "number": "1.3.2",
+      "description": "«Ko‘p izli temir yo‘l».\nIkki va undan ortiq izli temir yo’l belgilari shlagbaum bilan jihozlanmagan temir yo’l kesishmasi oldida o’rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.3.2_resize-min.png.webp",
+      "imageFile": "1.3.2.webp"
+    },
+    {
+      "number": "1.4.1 – 1.4.6",
+      "description": "«Temir yo‘l kesishmasiga yaqinlashuv».\nAholi punktlaridan tashqarida temir yo‘l kesishmasiga yaqinlashayotganlik haqida qo‘shimcha ogohlantirish beradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.4_resize-230x300.png.webp",
+      "imageFile": "1.4.1 – 1.4.6.webp"
+    },
+    {
+      "number": "1.5",
+      "description": "«Tramvay yo‘li bilan kesishuv».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.5_resize-min.png.webp",
+      "imageFile": "1.5.webp"
+    },
+    {
+      "number": "1.6",
+      "description": "«Teng ahamiyatli yo‘llar kesishuvi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.6_resize-min.png.webp",
+      "imageFile": "1.6.webp"
+    },
+    {
+      "number": "1.7",
+      "description": "«Aylanma harakatlanish bilan kesishuv».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.7_resize-min.png.webp",
+      "imageFile": "1.7.webp"
+    },
+    {
+      "number": "1.8",
+      "description": "«Svetofor bilan tartibga solish».\nHarakatlanish svetofor bilan tartibga solinadigan chorraha, piyodalar o‘tish joyi yoki yo‘l qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.8_resize-min.png.webp",
+      "imageFile": "1.8.webp"
+    },
+    {
+      "number": "1.9",
+      "description": "«Ko‘tarma ko‘prik».\nKo‘tarma ko‘prik yoki solda kesib o‘tish.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.9_resize-min.png.webp",
+      "imageFile": "1.9.webp"
+    },
+    {
+      "number": "1.10",
+      "description": "«Sohilga chiqish».\nDaryo yoki suv havzasi qirg‘og‘iga chiqishni bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.10_resize-min.png.webp",
+      "imageFile": "1.10.webp"
+    },
+    {
+      "number": "1.11.1",
+      "description": "«Xavfli burilish o‘ngga».\nO‘ngga yo‘l belgilari yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.11.1_resize-min.png.webp",
+      "imageFile": "1.11.1.webp"
+    },
+    {
+      "number": "1.11.2",
+      "description": "«Xavfli burilish chapga».\nChapga yo‘l belgilari yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.11.2_resize-min.png.webp",
+      "imageFile": "1.11.2.webp"
+    },
+    {
+      "number": "1.12.1",
+      "description": "«Xavfli burilishlar».\nBirinchi burilish o‘ngga yo‘l belgilari yo‘lning xavfli burilishlari bo‘lgan qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.12.1_resize-min.png.webp",
+      "imageFile": "1.12.1.webp"
+    },
+    {
+      "number": "1.12.2",
+      "description": "«Xavfli burilishlar».\nBirinchi burilish chapga yo‘l belgilari yo‘lning xavfli burilishlari bo‘lgan qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.12.2_resize-min.png.webp",
+      "imageFile": "1.12.2.webp"
+    },
+    {
+      "number": "1.13",
+      "description": "«Tik nishablik».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.13_resize-min.png.webp",
+      "imageFile": "1.13.webp"
+    },
+    {
+      "number": "1.14",
+      "description": "«Tik balandlik».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.14_resize-min.png.webp",
+      "imageFile": "1.14.webp"
+    },
+    {
+      "number": "1.15",
+      "description": "«Sirpanchiq yo‘l».\nQatnov qismi o‘ta sirpanchiq bo‘lgan yo‘l qismi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.15_resize-min.png.webp",
+      "imageFile": "1.15.webp"
+    },
+    {
+      "number": "1.16",
+      "description": "«Notekis yo‘l».\nQatnov qismi notekis bo‘lgan yo‘l (o‘nqir-cho‘nqir, o‘ydim-chuqur joylar, ko‘prikning yo‘lga notekis tutashuvi va shu kabilar) qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.16_resize-min.png.webp",
+      "imageFile": "1.16.webp"
+    },
+    {
+      "number": "1.17",
+      "description": "«Tosh otilishi xavfi».\nTransport vositasining g‘ildiragi ostidan shag‘al, tosh va shunga o‘xshashlarning otilib chiqish ehtimoli bo‘lgan yo‘l qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.17_resize-min.png.webp",
+      "imageFile": "1.17.webp"
+    },
+    {
+      "number": "1.18.1",
+      "description": "«Yo‘lning torayishi».\nIkki tomonlama torayish",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.1_resize-min.png.webp",
+      "imageFile": "1.18.1.webp"
+    },
+    {
+      "number": "1.18.2",
+      "description": "«Yo‘lning torayishi».\nO‘ngga torayish",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.2_resize-min.png.webp",
+      "imageFile": "1.18.2.webp"
+    },
+    {
+      "number": "1.18.3",
+      "description": "«Yo‘lning torayishi».\nChapga torayish",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.3_resize-min.png.webp",
+      "imageFile": "1.18.3.webp"
+    },
+    {
+      "number": "1.19",
+      "description": "«Ikki tomonlama harakatlanish».\nYo‘lning (qatnov qismining) qarama-qarshi harakatlanish qismi boshlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.19_resize-min.png.webp",
+      "imageFile": "1.19.webp"
+    },
+    {
+      "number": "1.20",
+      "description": "«Piyodalar o‘tish joyi».\n5.16.1, 5.16.2, 5.48 belgilari va (yoki) 1.14.1 — 1.14.4, 1.29.1 — 1.29.3 yo‘l chiziqlari bilan belgilangan piyodalar o‘tish joyini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.20_resize-min.png.webp",
+      "imageFile": "1.20.webp"
+    },
+    {
+      "number": "1.21",
+      "description": "«Bolalar».\nBolalar muassasasi (maktablar, bolalarning dam olish maskanlari va shunga o‘xshashlar)ga yaqin yo‘lning qatnov qismidan bolalarning chiqib qolish ehtimolini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.21_resize-min.png.webp",
+      "imageFile": "1.21.webp"
+    },
+    {
+      "number": "1.22",
+      "description": "«Velosiped yo‘lkasi bilan kesishuv».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.22_resize-min.png.webp",
+      "imageFile": "1.22.webp"
+    },
+    {
+      "number": "1.23",
+      "description": "«Ta’mirlash ishlari».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.23_resize-min.png.webp",
+      "imageFile": "1.23.webp"
+    },
+    {
+      "number": "1.24",
+      "description": "«Mol haydab o‘tish».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.24_resize-min.png.webp",
+      "imageFile": "1.24.webp"
+    },
+    {
+      "number": "1.25.1",
+      "description": "«Yovvoyi hayvonlar».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.1_resize-min.png.webp",
+      "imageFile": "1.25.1.webp"
+    },
+    {
+      "number": "1.25.2",
+      "description": "«Pastlab uchuvchi qushlar».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.2_resize-min.png.webp",
+      "imageFile": "1.25.2.webp"
+    },
+    {
+      "number": "1.25.3",
+      "description": "«Kemiruvchi va sudralib yuruvchi hayvonlar».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.3_resize-min.png.webp",
+      "imageFile": "1.25.3.webp"
+    },
+    {
+      "number": "1.26",
+      "description": "«Toshlar tushishi».\nTosh ko‘chishi, surilishi va tushishi mumkin bo‘lgan yo‘l qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.26_resize-min.png.webp",
+      "imageFile": "1.26.webp"
+    },
+    {
+      "number": "1.27",
+      "description": "«Yonlama shamol».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.27_resize-min.png.webp",
+      "imageFile": "1.27.webp"
+    },
+    {
+      "number": "1.28",
+      "description": "«Pastlab uchuvchi samolyotlar».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.28_resize.png.webp",
+      "imageFile": "1.28.webp"
+    },
+    {
+      "number": "1.29",
+      "description": "«Tunnel».\nSun’iy ravishda yoritilmagan yoki kirish peshtog‘ining ko‘rinishi cheklangan tunnelni bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.29_resize-min.png.webp",
+      "imageFile": "1.29.webp"
+    },
+    {
+      "number": "1.30",
+      "description": "«Boshqa xavf-xatarlar».\nOgohlantiruvchi belgilarda ko‘zda tutilmagan xavf-xatarlar bo‘lgan yo‘l qismini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.30_resize-min.png.webp",
+      "imageFile": "1.30.webp"
+    },
+    {
+      "number": "1.31",
+      "description": "«Sun’iy yo‘l notekisligi».\nYo‘lning sun’iy notekislik o‘rnatilgan qismiga yaqinlashayotganligi to‘g‘risida ogohlantiradi. Transport vositasining harakatlanish tezligini majburiy tarzda kamaytirish uchun qo‘llaniladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31_resize-min.png.webp",
+      "imageFile": "1.31.webp"
+    },
+    {
+      "number": "1.31.3",
+      "description": "«Burilishning yo‘nalishi».\nT-simon chorrahada yoki yo‘l ayrilishlarida harakatlanish yo‘nalishini, ta’mirlanayotgan yo‘l qismini aylanib o‘tish yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31.3_resize-min.png",
+      "imageFile": "1.31.3.png"
+    },
+    {
+      "number": "1.31.1 – 1.31.2",
+      "description": "«Burilishning yo‘nalishi».\nKichik radiusli, ko‘rinishi cheklangan yo‘lda harakatlanish yo‘nalishini va yo‘lning ta’mirlanayotgan qismini aylanib o‘tish yo‘nalishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31.1_resize-min.png.webp",
+      "imageFile": "1.31.1 – 1.31.2.webp"
+    },
+    {
+      "number": "1.32",
+      "description": "«Tirbandlik».\nUshbu yo‘l belgisi vaqtinchalik yoki tasviri o‘zgaradigan holatda tirbandlik hosil bo‘lgan yo‘l yoki chorrahaga kirish oldidan yo‘lni yoki chorrahani aylanib o‘tish imkoniyati bo‘lgan joyga o‘rnatiladi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.32_resize-min.png.webp",
+      "imageFile": "1.32.webp"
+    },
+    {
+      "number": "1.33",
+      "description": "«Qatnov qismi kesishmasi hududi».\n1. 30 yotiq chizig‘i bilan belgilangan chorrahaga yaqinlashayotganligini anglatib, oldinda tirbandlik yuzaga kelganligi tufayli majburiy to‘xtab, ko‘ndalang yo‘nalishdagi transport vositalarining harakatlanishiga to‘sqinlik tug‘diradigan bo‘lsa, chorrahaga kirish, agar to‘xtash chizig‘i yoki 5.33 yo‘l belgisidan o‘tib bo‘lgan haydovchiga esa qatnov qismlari kesishmasiga kirishni taqiqlanishini bildiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.33_resize-min.png.webp",
+      "imageFile": "1.33.webp"
+    },
+    {
+      "number": "1.34",
+      "description": "«Diqqat, boshqariladigan to‘siq».\nUshbu yo‘l belgisi boshqariladigan to‘suvchi qurilmasiga yetmasdan o‘rnatiladi va transport vositalari haydovchilarini oldinda to‘suvchi qurilma borligi haqida ogohlantiradi.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.34_resize-min.png.webp",
+      "imageFile": "1.34.webp"
+    },
+    {
+      "number": "1.35",
+      "description": "«Piyodalarning yo‘l yoqasidan yurishi mumkin bo‘lgan hudud».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.35_resize-min.png.webp",
+      "imageFile": "1.35.webp"
+    }
+  ]
+}

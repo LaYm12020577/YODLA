@@ -1,0 +1,168 @@
+{
+  "title": "Bilet 64 (PRO)",
+  "count": 4,
+  "questions": [
+    {
+      "id": 1268,
+      "questionUz": "Қайси расмда автомобиль \"STOP\" чизиғи олдида тўхташ қоидасига риоя қилган?",
+      "questionRu": "На каком рисунке водитель правильно остановился перед стоп-линией?",
+      "questionOz": "Qaysi rasmda avtomobil \"STOP\" chizig‘i oldida to‘xtash qoidasiga rioya qilgan?",
+      "explanationUz": "ЙҲҚнинг 5.33 \"STOP\" йўл белгиси ва 1.12 \"STOP чизиғи\" йўл чизиғига асосан:\r\n\r\nҲайдовчи \"STOP\" белгиси ўрнатилган жойда транспорт воситасини STOP чизиғи олдида тўхтатиши шарт. Агар STOP чизиғи бўлмаса, кесишмани хавфсиз кузатиш мумкин бўлган жойда тўхтайди.\r\n\r\nУшбу вазиятда:\r\n\r\n1-расмда автомобиль STOP чизиғи олдида тўхтаган. Бу қоидаларга мос.\r\n2-расмда STOP чизиғи мавжуд эмас, автомобиль кесишмага киришдан олдин хавфсиз жойда тўхтаган. Бу ҳам қоидаларга мос.\r\n\r\nШунинг учун ҳар икки расмда ҳам ҳайдовчи қоидаларга риоя қилган.",
+      "explanationRu": "Согласно требованиям дорожного знака 5.33 «STOP» и разметки 1.12 «Стоп-линия»:\r\n\r\nВодитель обязан остановиться перед стоп-линией. Если стоп-линия отсутствует, необходимо остановиться перед пересекаемой проезжей частью в месте, обеспечивающем хороший обзор.\r\n\r\nВ данной ситуации:\r\n\r\nНа рисунке 1 автомобиль остановился перед стоп-линией, как требуют Правила.\r\nНа рисунке 2 стоп-линия отсутствует, поэтому водитель остановился перед пересечением проезжей части в безопасном месте.\r\n\r\nСледовательно, в обоих случаях водитель выполнил требования Правил.",
+      "explanationOz": "YHQning 5.33 \"STOP\" yo‘l belgisi va 1.12 \"STOP chizig‘i\" yo‘l chizig‘iga asosan:\r\n\r\nHaydovchi \"STOP\" belgisi o‘rnatilgan joyda transport vositasini stop chizig‘i oldida to‘xtatishi shart. Agar stop chizig‘i bo‘lmasa, kesishayotgan qatnov qismini xavfsiz kuzatish mumkin bo‘lgan joyda to‘xtaydi.\r\n\r\nUshbu vaziyatda:\r\n\r\n1-rasmda avtomobil stop chizig‘i oldida to‘xtagan. Bu qoidalarga mos keladi.\r\n2-rasmda stop chizig‘i mavjud emas, avtomobil kesishmaga kirishdan oldin xavfsiz joyda to‘xtagan. Bu ham qoidalarga mos keladi.\r\n\r\nShuning uchun ikkala rasmda ham haydovchi to‘g‘ri harakat qilgan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785316880555-688338073.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6777,
+          "textUz": "Иккала расмда",
+          "textRu": "На обоих рисунках",
+          "textOz": "Ikkala rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 6778,
+          "textUz": "Фақат 2-расмда",
+          "textRu": "Только на рисунке 2",
+          "textOz": "Faqat 2-rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 6779,
+          "textUz": "Фақат 1-расмда",
+          "textRu": "Только на рисунке 1",
+          "textOz": "Faqat 1-rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6777
+      ]
+    },
+    {
+      "id": 1269,
+      "questionUz": "Қайси ҳайдовчи йўл ҳаракати қоидасини бузмоқда?",
+      "questionRu": "Какой водитель нарушает Правила дорожного движения?",
+      "questionOz": "Qaysi haydovchi yo‘l harakati qoidasini buzmoqda?",
+      "explanationUz": "Кўк автомобиль ҳайдовчиси бурилишдан олдин транспорт воситасини ҳаракат йўналишига мос четки қаторга жойлаштириши керак эди. У эса ўнгга бурилиш учун мўлжалланмаган қатордан бурилишни бошлаган.\r\n\r\nСариқ автомобиль эса чапга бурилишни ўз ҳаракат йўналишига мос қатордан бажараётгани учун қоидани бузмаяпти.\r\n\r\nШунинг учун фақат кўк автомобиль ҳайдовчиси қоидани бузмоқда.",
+      "explanationRu": "Водитель синего автомобиля перед поворотом должен был занять крайнюю полосу, предназначенную для движения в выбранном направлении. Однако он начал поворот направо не из соответствующей полосы.\r\n\r\nВодитель жёлтого автомобиля выполняет левый поворот из полосы, предназначенной для этого манёвра, поэтому Правила не нарушает.\r\n\r\nСледовательно, нарушает только водитель синего автомобиля.",
+      "explanationOz": "Ko‘k avtomobil haydovchisi burilishdan oldin transport vositasini harakat yo‘nalishiga mos chetki qatordan egallashi kerak edi. U esa o‘ngga burilish uchun mo‘ljallanmagan qatordan burilishni boshlagan.\r\n\r\nSariq avtomobil esa chapga burilishni o‘z harakat yo‘nalishiga mos qatordan bajarayotgani uchun qoidani buzmayapti.\r\n\r\nShuning uchun faqat ko‘k avtomobil haydovchisi qoidani buzmoqda.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1785317900545-927001066.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6780,
+          "textUz": "Сариқ автомобиль ҳайдовчиси",
+          "textRu": "Водитель жёлтого автомобиля",
+          "textOz": "Sariq avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 6781,
+          "textUz": "Кўк автомобиль ҳайдовчиси",
+          "textRu": "Водитель синего автомобиля",
+          "textOz": "Ko‘k avtomobil haydovchisi",
+          "isCorrect": true
+        },
+        {
+          "id": 6782,
+          "textUz": "Ҳар икки ҳайдовчи бузади",
+          "textRu": "Нарушают оба водителя",
+          "textOz": "Har ikki haydovchi buzadi",
+          "isCorrect": false
+        },
+        {
+          "id": 6783,
+          "textUz": "Ҳар икки ҳайдовчи бузмайди",
+          "textRu": "Оба водителя не нарушают",
+          "textOz": "Har ikki haydovchi buzmaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6781
+      ]
+    },
+    {
+      "id": 1270,
+      "questionUz": "Ушбу транспорт воситасига сидирға чизиқни босиб ўтиб, йўл ёқасида тўхташга рухсат бериладими?",
+      "questionRu": "Разрешено ли данному транспортному средству пересечь сплошную линию и остановиться на обочине?",
+      "questionOz": "Ushbu transport vositasiga sidirg‘a chiziqni bosib o‘tib, yo‘l yoqasida to‘xtashga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚнинг 9-бандига кўра, йўлнинг қарама-қарши йўналишдаги қисмини ажратувчи сидирғa чизиқни босиб ўтиш тақиқланади. Бироқ тўхташ ёки йўл ёқасига чиқиш зарур бўлган ҳолат бундан мустасно.\r\n\r\nШунинг учун ушбу вазиятда ҳайдовчи сидирғa чизиқни босиб ўтиб, йўл ёқасига чиқиб тўхташи мумкин. ЙҲҚда йўл ёқасида тўхташга рухсат берилганлиги ҳам белгиланган.",
+      "explanationRu": "Согласно пункту 9 Правил дорожного движения, пересечение сплошной линии, разделяющей встречные направления движения, запрещено. Исключение предусмотрено для случаев, когда это необходимо для остановки или выезда на обочину.\r\n\r\nПоэтому в данной ситуации водитель имеет право пересечь сплошную линию и выехать на обочину для остановки. Правила также предусматривают возможность остановки транспортного средства на правой обочине.",
+      "explanationOz": "YHQning 9-bandiga ko‘ra, yo‘lning qarama-qarshi yo‘nalishdagi qismini ajratuvchi sidirg‘a chiziqni bosib o‘tish taqiqlanadi. Biroq to‘xtash yoki yo‘l yoqasiga chiqish zarur bo‘lgan holat bundan mustasno.\r\n\r\nShuning uchun ushbu vaziyatda haydovchi sidirg‘a chiziqni bosib o‘tib, yo‘l yoqasiga chiqib to‘xtashi mumkin. YHQda yo‘l yoqasida to‘xtashga ruxsat berilganligi ham belgilangan.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1786270633343-127483969.png",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6826,
+          "textUz": "Фақат аҳоли пунктларида рухсат берилади",
+          "textRu": "Разрешено только в населённых пунктах",
+          "textOz": "Faqat aholi punktlarida ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6827,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        },
+        {
+          "id": 6828,
+          "textUz": "Фақат мажбурий тўхташ ҳолатида рухсат берилади",
+          "textRu": "Разрешается только в случае вынужденной остановки",
+          "textOz": "Faqat majburiy to‘xtash holatida ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6829,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6827
+      ]
+    },
+    {
+      "id": 1271,
+      "questionUz": "Ўзбекистон Республикаси «Йўл ҳаракати тўғрисида»ги Қонунининг асосий мақсади нимадан иборат?",
+      "questionRu": "Какова основная цель Закона Республики Узбекистан «О дорожном движении»?",
+      "questionOz": "O‘zbekiston Respublikasi «Yo‘l harakati to‘g‘risida»gi Qonunining asosiy maqsadi nimadan iborat?",
+      "explanationUz": "Ўзбекистон Республикасининг «Йўл ҳаракати тўғрисида»ги Қонуни йўл ҳаракати соҳасидаги муносабатларни тартибга солиш, йўл ҳаракати хавфсизлигини таъминлаш ҳамда йўл ҳаракати иштирокчиларининг ҳуқуқ ва мажбуриятларини белгилашга қаратилган.\r\n\r\nШунинг учун қонуннинг асосий мақсади ойналарни қорайтиришга рухсатнома бериш ёки транспорт воситаларини техник кўрикдан ўтказиш эмас, балки йўл ҳаракати соҳасидаги муносабатларни тартибга солиш ҳисобланади.",
+      "explanationRu": "Закон Республики Узбекистан «О дорожном движении» направлен на регулирование отношений в сфере дорожного движения, обеспечение безопасности дорожного движения, а также определение прав и обязанностей участников дорожного движения.\r\n\r\nПоэтому основной целью закона является не выдача разрешений на тонировку стёкол и не проведение технического осмотра, а именно регулирование отношений в сфере дорожного движения.",
+      "explanationOz": "O‘zbekiston Respublikasining «Yo‘l harakati to‘g‘risida»gi Qonuni yo‘l harakati sohasidagi munosabatlarni tartibga solish, yo‘l harakati xavfsizligini ta’minlash hamda yo‘l harakati ishtirokchilarining huquq va majburiyatlarini belgilashga qaratilgan.\r\n\r\nShuning uchun qonunning asosiy maqsadi oynalarni qoraytirishga ruxsatnoma berish yoki transport vositalarini texnik ko‘rikdan o‘tkazish emas, balki yo‘l harakati sohasidagi munosabatlarni tartibga solish hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 6830,
+          "textUz": "Йўл ҳаракати соҳасидаги муносабатларни тартибга солишдан иборат",
+          "textRu": "Регулирование отношений в сфере дорожного движения",
+          "textOz": "Yo‘l harakati sohasidagi munosabatlarni tartibga solishdan iborat",
+          "isCorrect": true
+        },
+        {
+          "id": 6831,
+          "textUz": "Автотранспорт воситаси ойналарининг тусини ўзгартиришга (қорайтиришга) рухсатнома беришдан иборат",
+          "textRu": "Выдача разрешений на изменение степени тонировки стёкол автотранспортных средств",
+          "textOz": "Avtotransport vositasi oynalarining tusini o‘zgartirishga (qoraytirishga) ruxsatnoma berishdan iborat",
+          "isCorrect": false
+        },
+        {
+          "id": 6832,
+          "textUz": "Транспорт воситаларини техник кўрикдан ўтказишдан иборат",
+          "textRu": "Проведение технического осмотра транспортных средств",
+          "textOz": "Transport vositalarini texnik ko‘rikdan o‘tkazishdan iborat",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6830
+      ]
+    }
+  ]
+}

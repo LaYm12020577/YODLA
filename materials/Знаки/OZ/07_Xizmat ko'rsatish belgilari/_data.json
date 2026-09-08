@@ -1,0 +1,186 @@
+{
+  "category": "Xizmat ko'rsatish belgilari",
+  "count": 30,
+  "signs": [
+    {
+      "number": "6.1",
+      "description": "«Tibbiy yordam ko‘rsatish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.1_resize-min.png.webp",
+      "imageFile": "6.1.webp"
+    },
+    {
+      "number": "6.2",
+      "description": "«Shifoxona».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.2_resize-min.png.webp",
+      "imageFile": "6.2.webp"
+    },
+    {
+      "number": "6.3.1",
+      "description": "«Avtomobillarga yonilg‘i quyish shoxobchasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.3.1_resize-min.png.webp",
+      "imageFile": "6.3.1.webp"
+    },
+    {
+      "number": "6.3.2",
+      "description": "«Avtomobillarga ko‘p tarmoqli yonilg‘i quyish shoxobchasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.3.2_resize-min.png.webp",
+      "imageFile": "6.3.2.webp"
+    },
+    {
+      "number": "6.3.3",
+      "description": "«Elektromobillarni quvvatlash shaxobchasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.3.3_resize-min.png.webp",
+      "imageFile": "6.3.3.webp"
+    },
+    {
+      "number": "6.4",
+      "description": "«Avtomobillarga texnik xizmat ko‘rsatish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.4_resize-min.png.webp",
+      "imageFile": "6.4.webp"
+    },
+    {
+      "number": "6.5",
+      "description": "«Avtomobillarni yuvish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.5_resize-min.png.webp",
+      "imageFile": "6.5.webp"
+    },
+    {
+      "number": "6.6",
+      "description": "«Telefon».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.6_resize-min.png.webp",
+      "imageFile": "6.6.webp"
+    },
+    {
+      "number": "6.7",
+      "description": "«Oshxona».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.7_resize-min.png.webp",
+      "imageFile": "6.7.webp"
+    },
+    {
+      "number": "6.8",
+      "description": "«Ichimlik suvi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.8_resize-min.png.webp",
+      "imageFile": "6.8.webp"
+    },
+    {
+      "number": "6.9",
+      "description": "«Mehmonxona yoki motel».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.9_resize-min.png.webp",
+      "imageFile": "6.9.webp"
+    },
+    {
+      "number": "6.10",
+      "description": "«Kemping».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.10_resize-min.png.webp",
+      "imageFile": "6.10.webp"
+    },
+    {
+      "number": "6.11",
+      "description": "«Dam olish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.11_resize-min.png.webp",
+      "imageFile": "6.11.webp"
+    },
+    {
+      "number": "6.12",
+      "description": "«YPX maskani».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.12_resize-min.png.webp",
+      "imageFile": "6.12.webp"
+    },
+    {
+      "number": "6.13",
+      "description": "«Avtotashuvchilarning nazorat punkti».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.13_resize-min.png.webp",
+      "imageFile": "6.13.webp"
+    },
+    {
+      "number": "6.14",
+      "description": "«Hojatxona».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.14_resize-min.png.webp",
+      "imageFile": "6.14.webp"
+    },
+    {
+      "number": "6.15",
+      "description": "«Chiqindi yig‘ish joyi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.15_resize-min.png.webp",
+      "imageFile": "6.15.webp"
+    },
+    {
+      "number": "6.16",
+      "description": "«Cho‘milish havzasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.16_resize-min.png.webp",
+      "imageFile": "6.16.webp"
+    },
+    {
+      "number": "6.17",
+      "description": "«Ichki ishlar bo‘limi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.17_resize-min.png.webp",
+      "imageFile": "6.17.webp"
+    },
+    {
+      "number": "6.18",
+      "description": "«Radio aloqasi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.18_resize-min.png.webp",
+      "imageFile": "6.18.webp"
+    },
+    {
+      "number": "6.19",
+      "description": "«Jome’ masjidi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.19_resize-min.png.webp",
+      "imageFile": "6.19.webp"
+    },
+    {
+      "number": "6.20",
+      "description": "«Cherkov».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.20_resize-min.png.webp",
+      "imageFile": "6.20.webp"
+    },
+    {
+      "number": "6.21",
+      "description": "«Ibodatxona».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.21_resize-min.png.webp",
+      "imageFile": "6.21.webp"
+    },
+    {
+      "number": "6.22",
+      "description": "«Temir yo‘l vokzali».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.22_resize-min.png.webp",
+      "imageFile": "6.22.webp"
+    },
+    {
+      "number": "6.23",
+      "description": "«Aeroport».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.23_resize-min.png.webp",
+      "imageFile": "6.23.webp"
+    },
+    {
+      "number": "6.24",
+      "description": "«Bozor».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.24_resize-min.png.webp",
+      "imageFile": "6.24.webp"
+    },
+    {
+      "number": "6.25",
+      "description": "«Turistik axborot markazi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.25_resize-min.png.webp",
+      "imageFile": "6.25.webp"
+    },
+    {
+      "number": "6.26",
+      "description": "«Qo‘riqxona».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.26_resize-min.png.webp",
+      "imageFile": "6.26.webp"
+    },
+    {
+      "number": "6.27",
+      "description": "«Manzarali joy».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.27_resize-min.png.webp",
+      "imageFile": "6.27.webp"
+    },
+    {
+      "number": "6.28",
+      "description": "«Me’morchilik yodgorligi».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/6.28_resize-min.png.webp",
+      "imageFile": "6.28.webp"
+    }
+  ]
+}

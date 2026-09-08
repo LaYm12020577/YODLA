@@ -1,0 +1,426 @@
+{
+  "category": "Ахборот белгилари",
+  "count": 70,
+  "signs": [
+    {
+      "number": "5.1",
+      "description": "«Автомагистраль».\nЙўл ҳаракати қоидаларининг автомагистралларда ҳаракатланиш тартиби ўрнатилган йўлни билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.1_resize-min.png.webp",
+      "imageFile": "5.1.webp"
+    },
+    {
+      "number": "5.2",
+      "description": "«Автомагистралнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.2_resize-min.png.webp",
+      "imageFile": "5.2.webp"
+    },
+    {
+      "number": "5.3",
+      "description": "«Автомобиллар учун мўлжалланган йўл».\nФақат автомобиллар, автобус ва мотоциклларнинг ҳаракатланиши учун мўлжалланган йўлни билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.3_resize-min.png.webp",
+      "imageFile": "5.3.webp"
+    },
+    {
+      "number": "5.4",
+      "description": "«Автомобиллар учун мўлжалланган йўлнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.4_resize-min.png.webp",
+      "imageFile": "5.4.webp"
+    },
+    {
+      "number": "5.5",
+      "description": "«Бир томонлама ҳаракатли йўл».\nТранспорт воситалари бутун кенглик бўйича бир йўналишда ҳаракатланадиган йўл ёки қатнов қисми.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.5_resize-min.png.webp",
+      "imageFile": "5.5.webp"
+    },
+    {
+      "number": "5.6",
+      "description": "«Бир томонлама ҳаракатли йўлнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.6_resize-min.png.webp",
+      "imageFile": "5.6.webp"
+    },
+    {
+      "number": "5.7.1 – 5.7.2",
+      "description": "«Бир томонлама ҳаракатли йўлга чиқиш».\nҲаракатланиш бир томонлама бўлган йўлга ёки қатнов қисмига чиқиш.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.7.1_resize-min.png.webp",
+      "imageFile": "5.7.1 – 5.7.2.webp"
+    },
+    {
+      "number": "5.8.1",
+      "description": "«Тасмалар бўйича ҳаракат йўналиши».\nТасмалар сони ва ҳар бири бўйича рухсат этилган ҳаракатланиш йўналишлари. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.1_resize-min.png.webp",
+      "imageFile": "5.8.1.webp"
+    },
+    {
+      "number": "5.8.2",
+      "description": "«Тасма бўйича ҳаракатланиш йўналиши».\nТасма бўйича рухсат этилган ҳаракатланиш йўналиши. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8_resize-min-300x300.png.webp",
+      "imageFile": "5.8.2.webp"
+    },
+    {
+      "number": "5.8.3",
+      "description": "«Тасманинг бошланиши».\nЙўлнинг секинлашиш бўлаги ёки баландликка кўтарилишдаги қўшимча тасманинг бошланиш қисми.\nАгар белгига 4.7 «Энг кам тезлик» белгисининг тасвири тушган бўлса, кўрсатилган ёки ундан каттароқ тезликда ҳаракатлана олмайдиган транспорт воситасининг ҳайдовчиси асосий тасмадан қўшимча тасмага қайта тизилиши керак.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.3_resize-min-149x300.png.webp",
+      "imageFile": "5.8.3.webp"
+    },
+    {
+      "number": "5.8.4",
+      "description": "«Тасманинг бошланиши».\nУч тасмали йўлларда шу йўналишда ҳаракатланиш учун мўлжалланган ўрта тасма қисмининг бошланиши.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.6_resize-min.png.webp",
+      "imageFile": "5.8.4.webp"
+    },
+    {
+      "number": "5.8.5",
+      "description": "«Тасма охири».\nБаландликка кўтарилишдаги қўшимча тасманинг ёки тезланиш тасманинг охирини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.5_resize-min.png.webp",
+      "imageFile": "5.8.5.webp"
+    },
+    {
+      "number": "5.8.6",
+      "description": "«Тасма охири».\nУч тасмали йўлларда шу йўналишда ҳаракатланиш учун мўлжалланган ўрта тасма қисмининг охирини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.4_resize-min.png.webp",
+      "imageFile": "5.8.6.webp"
+    },
+    {
+      "number": "5.8.7\n5.8.8",
+      "description": "«Тасмалар бўйича ҳаракатланиш йўналиши».\nАгар 5.8.7 белгисида бирор транспорт воситасининг ҳаракатланишини тақиқловчи белги тасвирланган бўлса, унда бу тур транспорт воситасининг тегишли тасмада ҳаракатланиши тақиқланишини билдиради.\n5.8.7 ва 5.8.8 белгилари йўналишлар сонига кўра тўрт ва ундан ортиқ тасмали йўлларга ҳам татбиқ этилиши мумкин. Тасвири алмашадиган 5.8.7, 5.8.8 белгилари ёрдамида реверсив ҳаракат ташкил этилиши мумкин.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.8.7.1_resize-min.png.webp",
+      "imageFile": "5.8.7 5.8.8.webp"
+    },
+    {
+      "number": "5.9",
+      "description": "«Йўналишли транспорт воситалари учун мўлжалланган тасма».\nТранспорт воситалари йўналишида ҳаракатланадиган йўналишли транспорт воситалари учун мўлжалланган тасмани билдиради.\nБелги қайси тасма устида жойлашган бўлса, шу тасмага татбиқ этилади. Йўлнинг ўнг томонига ўрнатилган белгининг таъсири ўнг тасмага татбиқ этилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.9_resize-min.png.webp",
+      "imageFile": "5.9.webp"
+    },
+    {
+      "number": "5.10.1",
+      "description": "«Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўл».\nЙўналишли транспорт воситаларининг умумий оқимга қарши ҳаракатланиши учун ажратилган тасмани билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.1_resize-min.png.webp",
+      "imageFile": "5.10.1.webp"
+    },
+    {
+      "number": "5.10.4",
+      "description": "«Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.4_resize-min.png.webp",
+      "imageFile": "5.10.4.webp"
+    },
+    {
+      "number": "5.10.2 – 5.10.3",
+      "description": "«Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлга чиқиш».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.10.2_resize-min.png.webp",
+      "imageFile": "5.10.2 – 5.10.3.webp"
+    },
+    {
+      "number": "5.11.1",
+      "description": "«Қайрилиб олиш жойи».\nЧапга бурилиш тақиқланади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.11.1_resize-min.png.webp",
+      "imageFile": "5.11.1.webp"
+    },
+    {
+      "number": "5.11.2",
+      "description": "«Қайрилиб олиш оралиғи».\nҚайрилиб олиш оралиғининг узунлигини билдиради. Чапга бурилиш тақиқланади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.11.2_resize-min.png.webp",
+      "imageFile": "5.11.2.webp"
+    },
+    {
+      "number": "5.12",
+      "description": "«Автобус ва (ёки) троллейбус тўхташ жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.12_resize-min.png.webp",
+      "imageFile": "5.12.webp"
+    },
+    {
+      "number": "5.13",
+      "description": "«Трамвай тўхташ жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.13_resize-min.png.webp",
+      "imageFile": "5.13.webp"
+    },
+    {
+      "number": "5.14",
+      "description": "«Йўналишсиз таксилар тўхтаб туриш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.14_resize-min.png.webp",
+      "imageFile": "5.14.webp"
+    },
+    {
+      "number": "5.15",
+      "description": "«Тўхтаб туриш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15_resize-min.png.webp",
+      "imageFile": "5.15.webp"
+    },
+    {
+      "number": "5.15.1",
+      "description": "«Пуллик тўхтаб туриш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.1_resize-min.png.webp",
+      "imageFile": "5.15.1.webp"
+    },
+    {
+      "number": "5.15.2",
+      "description": "«Ер усти автомобиль қўйиш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.2_resize-min.png.webp",
+      "imageFile": "5.15.2.webp"
+    },
+    {
+      "number": "5.15.3",
+      "description": "«Ер ости автомобиль қўйиш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.3_resize-min.png.webp",
+      "imageFile": "5.15.3.webp"
+    },
+    {
+      "number": "5.15.4",
+      "description": "«Электр қувватлашли автомобиль қўйиш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.15.4_resize-min.png.webp",
+      "imageFile": "5.15.4.webp"
+    },
+    {
+      "number": "5.16.1 – 5.16.2",
+      "description": "«Пиёдалар ўтиш жойи».\nЎтиш жойи олдида 1.14.1-1.14.2 ётиқ чизиғи бўлмаганда 5.16.2 белгиси йўлдан ўнг томонга ўтиш жойининг олд чегарасига, 5.16.1 белгиси эса чап томонга ўтиш жойининг орқа чегарасига ўрнатилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.16.1_resize-min.png.webp",
+      "imageFile": "5.16.1 – 5.16.2.webp"
+    },
+    {
+      "number": "5.17.1 – 5.17.2",
+      "description": "«Пиёдаларнинг ер остидан ўтиш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.17.1_resize-min.png.webp",
+      "imageFile": "5.17.1 – 5.17.2.webp"
+    },
+    {
+      "number": "5.17.3 – 5.17.4",
+      "description": "«Пиёдаларнинг ер устидан ўтиш жойи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.17.3_resize-min.png.webp",
+      "imageFile": "5.17.3 – 5.17.4.webp"
+    },
+    {
+      "number": "5.18",
+      "description": "«Тавсия этилган тезлик».\nЙўлнинг шу қисмида тавсия этилган ҳаракатланиш тезлигини билдиради. Белгига энг яқин чорраҳагача амал қилинади. 5.18 белгиси огоҳлантирувчи белги билан бирга қўлланса, унинг таъсир оралиғи хавфли қисмнинг узунлиги билан аниқланади. 5.48 йўл белгиси ўрнатилган кўча ва йўлларда ўрнатилиши лозимлигини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.18_resize-min.png.webp",
+      "imageFile": "5.18.webp"
+    },
+    {
+      "number": "5.19.1 – 5.19.4",
+      "description": "«Охири берк йўл».\nЙўлнинг кўрсатилган йўналишда охири берклигини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.19.1_resize-min.png.webp",
+      "imageFile": "5.19.1 – 5.19.4.webp"
+    },
+    {
+      "number": "5.20.1",
+      "description": "«Йўналишларнинг дастлабки кўрсаткичи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.1.2_resize-min.png.webp",
+      "imageFile": "5.20.1.webp"
+    },
+    {
+      "number": "5.20.2",
+      "description": "«Йўналишларнинг дастлабки кўрсаткичи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.2_resize-min.png.webp",
+      "imageFile": "5.20.2.webp"
+    },
+    {
+      "number": "5.20.3",
+      "description": "«Ҳаракатланиш чизмаси».\nЧорраҳада айрим йўналишларда ҳаракатланиш тақиқланган бўлса ҳаракатланиш йўналиши ёки мураккаб чорраҳаларда рухсат этилган ҳаракатланиш йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.3_resize-min.png.webp",
+      "imageFile": "5.20.3.webp"
+    },
+    {
+      "number": "5.20.4",
+      "description": "«Йўлларининг бир сатҳда кесишмайдиган қисмларида бурилиш ёки қайрилиб олиш йўналиш кўрсаткичи».\nАвтомобиль йўлларнинг бир сатҳда кесишмайдиган қисмларида ер остидан ёки ер устидан транспорт воситаларининг бурилиш ва қайрилиб олиш йўналишини кўрсатиш учун қўлланилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.4_resize-min-300x123.png.webp",
+      "imageFile": "5.20.4.webp"
+    },
+    {
+      "number": "5.20.5",
+      "description": "«Хизмат кўрсатиш майдони».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.20.5_resize-min.png.webp",
+      "imageFile": "5.20.5.webp"
+    },
+    {
+      "number": "5.21.1",
+      "description": "«Йўналиш кўрсаткичи».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.21_resize-min.png.webp",
+      "imageFile": "5.21.1.webp"
+    },
+    {
+      "number": "5.21.2",
+      "description": "«Йўналишлар кўрсаткичи».\nКўрсатилган манзилларга ҳаракатланиш йўналишларини билдиради. Белгиларда манзилларгача бўлган масофа (км) кўрсатилиши, автомагистраллар, аэропортлар ва бошқа рамзий белгилар тасвирланган бўлиши мумкин.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.21.2_resize-min.png.webp",
+      "imageFile": "5.21.2.webp"
+    },
+    {
+      "number": "5.22",
+      "description": "«Аҳоли пунктининг бошланиши».\nУшбу Қоидаларнинг аҳоли пунктларида ҳаракатланиш тартибини белгиловчи талабларига амал қилинадиган жойларнинг номи ҳамда унинг бошланишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.22_resize-min.png.webp",
+      "imageFile": "5.22.webp"
+    },
+    {
+      "number": "5.23",
+      "description": "«Аҳоли пунктининг охири».\nУшбу Қоидаларнинг аҳоли пунктларида ҳаракатланиш тартиб-талаблари бекор қилинган жойни билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.23_resize-min.png.webp",
+      "imageFile": "5.23.webp"
+    },
+    {
+      "number": "5.24",
+      "description": "«Аҳоли пунктининг бошланиши».\nУшбу Қоидаларнинг аҳоли пунктларида ҳаракатланиш тартибини белгиловчи талабларига амал қилинмайдиган жойларнинг номи ҳамда унинг бошланишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.25.1_resize-min-300x62.png.webp",
+      "imageFile": "5.24.webp"
+    },
+    {
+      "number": "5.25",
+      "description": "«Аҳоли пунктининг охири».\n5.24 йўл белгиси билан кўрсатилган аҳоли пунктининг охирини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.25.2_resize-min.png.webp",
+      "imageFile": "5.25.webp"
+    },
+    {
+      "number": "5.26",
+      "description": "«Манзил номи».\nАҳоли пунктларидан бошқа манзилларнинг номини билдиради (дарё, кўл, довон, хушманзара жой ва бошқалар).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.26_resize-min.png.webp",
+      "imageFile": "5.26.webp"
+    },
+    {
+      "number": "5.27",
+      "description": "«Масофалар кўрсаткичи».\nЙўналиш бўйича жойлашган аҳоли пунктларигача бўлган масофани билдиради (км).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.27_resize-min.png.webp",
+      "imageFile": "5.27.webp"
+    },
+    {
+      "number": "5.28",
+      "description": "«Километр белгиси».\nЙўлнинг боши ёки охиригача бўлган масофани билдиради (км).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.28_resize-min.png.webp",
+      "imageFile": "5.28.webp"
+    },
+    {
+      "number": "5.29.1",
+      "description": "«Йўл рақами».\nЙўлга берилган рақам.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.29.1_resize-min.png.webp",
+      "imageFile": "5.29.1.webp"
+    },
+    {
+      "number": "5.29.2",
+      "description": "«Йўл рақами».\nЙўлнинг рақами ва йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.29.2_resize-min.png.webp",
+      "imageFile": "5.29.2.webp"
+    },
+    {
+      "number": "5.30.1 – 5.30.3",
+      "description": "«Юк автомобиллари учун ҳаракатланиш йўналиши».\nЧорраҳада юк автомобиллари, тракторлар ва ўзиюрар мосламаларга бирор йўналишда ҳаракатланиш тақиқланган бўлса, бундай транспорт воситаларига тавсия этилган ҳаракатланиш йўналишлари кўрсатади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.30_resize-min.png.webp",
+      "imageFile": "5.30.1 – 5.30.3.webp"
+    },
+    {
+      "number": "5.31",
+      "description": "«Айланиб ўтиш тасвири».\nҲаракатланиш учун вақтинча ёпиб қўйилган йўл қисмини четлаб ўтиш чизмаси.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.31_resize-min.png.webp",
+      "imageFile": "5.31.webp"
+    },
+    {
+      "number": "5.32.1 – 5.32.3",
+      "description": "«Четлаб ўтиш йўналиши».\nҲаракатланиш вақтинча ёпиб қўйилган йўл қисмини четлаб ўтиш йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.32_resize-min.png.webp",
+      "imageFile": "5.32.1 – 5.32.3.webp"
+    },
+    {
+      "number": "5.33",
+      "description": "«Тўхташ чизиғи».\nСветофорнинг (тартибга солувчининг) тақиқловчи ишорасида транспорт воситалари тўхтайдиган йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.33_resize-min.png.webp",
+      "imageFile": "5.33.webp"
+    },
+    {
+      "number": "5.34.1 – 5.34.2",
+      "description": "«Бошқа қатнов қисмига қайта тизилишнинг бошланғич кўрсаткичи».\nАжратувчи бўлаги бўлган йўлнинг ҳаракатланиш учун ёпиқ ҳудудини айланиб ўтиш ёки ўнг томондаги қатнов қисмига қайтиш учун ҳаракатланиш йўналишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.34.1_resize-min.png.webp",
+      "imageFile": "5.34.1 – 5.34.2.webp"
+    },
+    {
+      "number": "5.35",
+      "description": "«Реверсив ҳаракатланиш».\nБир ёки бир неча тасмаларда ҳаракатланиш йўналиши қарама-қарши томонга ўзгариши мумкин бўлган йўл қисмининг бошланишини билдиради.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.35_resize-min.png.webp",
+      "imageFile": "5.35.webp"
+    },
+    {
+      "number": "5.36",
+      "description": "«Реверсив ҳаракатланишнинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.36_resize-min.png.webp",
+      "imageFile": "5.36.webp"
+    },
+    {
+      "number": "5.37",
+      "description": "«Реверсив ҳаракатланиш йўлига чиқиш».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.37_resize-min.png.webp",
+      "imageFile": "5.37.webp"
+    },
+    {
+      "number": "5.38",
+      "description": "«Турар жой даҳаси».\nЙўл ҳаракати қоидаларининг турар жой даҳаларида ҳаракатланиш тартиби ўрнатилган йўл.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.38_resize-min.png.webp",
+      "imageFile": "5.38.webp"
+    },
+    {
+      "number": "5.39",
+      "description": "«Турар жой даҳасининг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.39_resize-min.png.webp",
+      "imageFile": "5.39.webp"
+    },
+    {
+      "number": "5.40",
+      "description": "«Фалокатли ҳолатлар учун кириш йўли».\nЙўл ҳаракати ушбу Қоидаларидаги 128-бандда кўрсатилган ҳолатларда фойдаланиладиган йўл.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.40_resize-min.png.webp",
+      "imageFile": "5.40.webp"
+    },
+    {
+      "number": "5.41",
+      "description": "«Фото ва видео қайд этиш».\nЙўлларда автомобиль ҳайдовчилари Қоидалар талабига риоя этиши электрон қурилмалар ёрдамида назорат қилинаётганлигини билдирувчи йўл белгиси. Ушбу йўл белгиси Қоидалар талабига риоя этилиши стационар электрон қурилмалар орқали назоратга олинган жойларга ўрнатилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.41_resize-min.png.webp",
+      "imageFile": "5.41.webp"
+    },
+    {
+      "number": "5.42",
+      "description": "«Қизил чироқда ўнгга ҳаракатланиш».\nТранспорт светофори қизил чироғининг ўнг ёнига 5.42 йўл белгиси ўрнатилган бўлса, транспорт воситаларининг ҳайдовчилари светофорнинг тақиқловчи ишораси ёниб турганда, барча хавфсизлик чораларини кўрган ҳолда ўнгга бурилишлари мумкин. Бунда улар ҳаракат йўналиши бўйича ва бурилаётган кўчани кесиб ўтаётган пиёдаларга ҳамда бошқа транспорт воситаларига йўл беришлари шарт.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.42_resize-min.png.webp",
+      "imageFile": "5.42.webp"
+    },
+    {
+      "number": "5.43",
+      "description": "«Радар».\nЙўлларда автомобиль ҳайдовчилари белгиланган тезликка риоя этиши радарлар ёрдамида назорат қилинаётганлигини билдирувчи йўл белгиси.\nУшбу йўл белгиси белгиланган ҳаракатланиш тезлиги стационар махсус техника воситалари ёрдамида назоратга олинган жойларга ўрнатилади.\nШунингдек, вилоят, туман, шаҳарлар бошланадиган жойлардаги кўча ва йўлларда ҳаракатланиш тезлиги мобиль радарлар ёрдамида назорат қилинаётганлиги тўғрисида ҳайдовчиларни огоҳлантириш мақсадида ўрнатилиши мумкин.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.43_resize-min.png.webp",
+      "imageFile": "5.43.webp"
+    },
+    {
+      "number": "5.44",
+      "description": "«Велосипедчилар учун тасма».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.44_resize-min.png.webp",
+      "imageFile": "5.44.webp"
+    },
+    {
+      "number": "5.45",
+      "description": "«Велосипедчилар учун тасманинг охири».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.45_resize-min.png.webp",
+      "imageFile": "5.45.webp"
+    },
+    {
+      "number": "5.46",
+      "description": "«Мактаб».\nМактаб ёки мактабгача таълим ташкилотлари олдида ўрнатилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.46_resize-min.png.webp",
+      "imageFile": "5.46.webp"
+    },
+    {
+      "number": "5.47",
+      "description": "«Туризм объектлари йўналиш кўрсатгичи».\nТуризм объектлари жойлашган манзилларга ҳаракатланиш йўналишларини билдиради. Белгиларда манзилларгача бўлган масофа (км) кўрсатилиши, темир йўл вокзаллари, аэропортлар ва бошқа туризм объектлари рамзий белгилари тасвирланган бўлиши мумкин.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47_resize-min.png.webp",
+      "imageFile": "5.47.webp"
+    },
+    {
+      "number": "5.47.1",
+      "description": "«Туризм объектлари».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47.0_resize-min-300x300.png.webp",
+      "imageFile": "5.47.1.webp"
+    },
+    {
+      "number": "5.47.2",
+      "description": "«Туризм ахборот маркази».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/5.47.7_resize-min.png.webp",
+      "imageFile": "5.47.2.webp"
+    },
+    {
+      "number": "5.48",
+      "description": "«Баланд пиёдалар ўтиш жойи».\n5.16.1-5.16.2 йўл белгилари билан бирга қўлланилади.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/12/5.48.webp",
+      "imageFile": "5.48.webp"
+    }
+  ]
+}

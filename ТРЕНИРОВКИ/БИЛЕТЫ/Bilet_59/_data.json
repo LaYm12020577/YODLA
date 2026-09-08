@@ -1,0 +1,774 @@
+{
+  "title": "Bilet 59 (PRO)",
+  "count": 20,
+  "questions": [
+    {
+      "id": 1163,
+      "questionUz": "Ҳайдовчининг ўртача реаксия вақти деб қабул қилинган",
+      "questionRu": "Среднее время реакции водителя составляет:",
+      "questionOz": "Haydovchining o'rtacha reaksiya vaqti deb qabul qilingan",
+      "explanationUz": "Йўл - транспорт ҳодисаларида биринчи ёрдам фанига  асосан, бош мия жароҳатланганда, мия чайқалганда ёки бўйин қисми жароҳатланганда биринчи ёрдам кўрсатиш қуйидаги тартибда олиб борилади: жароҳатланган одамни қаттиқ ва текис замбилга солиб, бўйин қисми тагига қаттиқ ёстиқча қўйиб, қўзғатмасдан, маҳкам боғлаб шифохонага юборилади.",
+      "explanationRu": "Согласно предмету Первой помощи при дорожно-транспортных происшествиях, оказание первой при черепно-мозговой травме, сотрясении мозга или травме шеи осуществляется в следующем порядке: пострадавшего надо положить на твёрдые носилки, под область шеи подложить твёрдую подушку, не двигать, крепко связать и отправить в больницу.",
+      "explanationOz": "Yo‘l - transport hodisalarida birinchi yordam faniga asosan, bosh miya jarohatlanganda, miya chayqalganda yoki bo‘yin qismi jarohatlanganda birinchi yordam ko‘rsatish quyidagi tartibda olib boriladi: jarohatlangan odamni qattiq va tekis zambilga solib, bo‘yin qismi tagiga qattiq yostiqcha qo‘yib, qo‘zg‘atmasdan, mahkam bog‘lab shifoxonaga yuboriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3818,
+          "textUz": "Таҳминан 0,2 сония",
+          "textRu": "Около 0,2 секунды.",
+          "textOz": "Tahminan 0,2 soniya",
+          "isCorrect": false
+        },
+        {
+          "id": 3819,
+          "textUz": "Таҳминан 1 сония",
+          "textRu": "Около 1 секунды",
+          "textOz": "Tahminan 1 soniya",
+          "isCorrect": true
+        },
+        {
+          "id": 3820,
+          "textUz": "Таҳминан 5 сония",
+          "textRu": "Около 5 секунд",
+          "textOz": "Tahminan 5 soniya",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3819
+      ]
+    },
+    {
+      "id": 1164,
+      "questionUz": "Йўлнинг хавфли бурилишларида олдинги узатмали автомобилнинг орқа ўқи ён томонга сирпанганда сиз қандай ҳаракат қиласиз?",
+      "questionRu": "На повороте возник занос оси переднеприводного автомобиля Ваши действия?",
+      "questionOz": "Yo'lning xavfli burilishlarida oldingi uzatmali avtomobilning orqa o'qi yon tomonga sirpanganda siz qanday harakat qilasiz?",
+      "explanationUz": "ЙҲҚ 9-боби 63- бандига мувофиқ, чорраҳаларда орқага ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 63 главы 9 ПДД, движение задним ходом на перекрестках запрещается.",
+      "explanationOz": "YHQ 9-bobi 63 - bandiga muvofiq, chorrahalarda orqaga harakatlanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3821,
+          "textUz": "Газ беришни камайтириб рул чамбараги билан бошқарувни барқарорлаштирасиз",
+          "textRu": "Уменьшаете подачу топлива, рулевым колесом стабилизируете движение.",
+          "textOz": "Gaz berishni kamaytirib rul chambaragi bilan boshqaruvni barqarorlashtirasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 3822,
+          "textUz": "Тормозлаб туриб рул чамбарагини сирпанган томонга бурасиз",
+          "textRu": "Притормаживаете и руль поворачиваете в сторону заноса.",
+          "textOz": "Tormozlab turib rul chambaragini sirpangan tomonga burasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 3823,
+          "textUz": "Газ педалини оҳиста босиб, автомобилни рул чамбарагини тўғрилаб, автомобилни сирпанишдан олиб чиқиб кетасиз",
+          "textRu": "Слегка увеличиваете подачу топлива, корректируя направление движения рулевым колесом.",
+          "textOz": "Gaz pedalini ohista bosib, avtomobilni rul chambaragini to'g'rilab, avtomobilni sirpanishdan olib chiqib ketasiz",
+          "isCorrect": true
+        },
+        {
+          "id": 3824,
+          "textUz": "Газ педалини кўпроқ босиб рул чамбарагини ўзгартирмасдан сирпанишдан олиб чиқасиз",
+          "textRu": "Значительно увеличиваете подачу топлива не меняя положения рулевого колеса",
+          "textOz": "Gaz pedalini ko'proq bosib rul chambaragini o'zgartirmasdan sirpanishdan olib chiqasiz",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3823
+      ]
+    },
+    {
+      "id": 1165,
+      "questionUz": "Агар автомобилнинг ўнг ғилдираклари нам қопламали йўл ёқасига чиқиб қолса, тавсия этилади?",
+      "questionRu": "В случае, когда правые колёса автомобиля наезжают на неукреплённую влажную обочину, рекомендуется?",
+      "questionOz": "Agar avtomobilning o'ng g'ildiraklari nam qoplamali yo'l yoqasiga chiqib qolsa, tavsiya etiladi?",
+      "explanationUz": "ЙҲҚ 11 – боб 78 – бандига асосан: Аҳоли пунктларида транспорт воситаларининг тезлигини соатига 70 километрдан, тегишли йўл белгилари ўрнатилган мактаб ва мактабгача таълим ташкилотларига етмасдан ва ўтиб кетиб 300 метрдан кам масофада соатига 30 километрдан, турар жой даҳалари ва ёндош ҳудудларда (уй-жой бинолари орасидаги ер участкасида) эса соатига 20 километрдан оширмасдан ҳаракатланишга рухсат этилади.",
+      "explanationRu": "Согласно пункту 78 главы 11 ПДД: В населенных пунктах разрешается движение транспортных средств со скоростью не более 70 км/ч, не более 30 км/ч (при установке соответствующих дорожных знаков) на расстоянии не менее 300 метров перед школами и дошкольными учреждениями и проехав их, а в жилых зонах и прилегающих территориях (участок земли между домовыми постройками) не более 20 км/ч.",
+      "explanationOz": "YHQ 11 – bob 78 – bandiga asosan: Aholi punktlarida transport vositalarining tezligini soatiga 70 kilometrdan, tegishli yo‘l belgilari o‘rnatilgan maktab va maktabgacha ta’lim tashkilotlariga yetmasdan va o‘tib ketib 300 metrdan kam masofada soatiga 30 kilometrdan, turar joy dahalari va yondosh hududlarda (uy-joy binolari orasidagi yer uchastkasida) esa soatiga 20 kilometrdan oshirmasdan harakatlanishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3825,
+          "textUz": "Автомобилни тормозлаш ва тўлиқ тўхтатиш",
+          "textRu": "Торможение и полная остановка транспортного средства",
+          "textOz": "Avtomobilni tormozlash va to'liq to'xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3826,
+          "textUz": "Автомобилни тормозлаб, йўлнинг қатнов қисмига оҳиста равон буриш.",
+          "textRu": "Затормозить автомобиль и плавно вывернуть на проезжую часть дороги",
+          "textOz": "Avtomobilni tormozlab, yo'lning qatnov qismiga ohista ravon burish.",
+          "isCorrect": false
+        },
+        {
+          "id": 3827,
+          "textUz": "Автомобилни тормозламасдан йўлнинг қатнов қисмига оҳиста равон буриш",
+          "textRu": "Плавно направить автомобиль без торможения на проезжую часть дороги",
+          "textOz": "Avtomobilni tormozlamasdan yo'lning qatnov qismiga ohista ravon burish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3827
+      ]
+    },
+    {
+      "id": 1166,
+      "questionUz": "Тик нишабликларда двигател билан тормозлашда қияликка нисбатан қандай узатма танланади?",
+      "questionRu": "При торможении двигателем иа крутых спусках какая передача выбирается в зависимости от уклона?",
+      "questionOz": "Tik nishabliklarda dvigatel bilan tormozlashda qiyalikka nisbatan qanday uzatma tanlanadi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 137 бандига асосан, қуйидаги ҳолларда туманга қарши фара чироқларидан фойдаланиш мумкин: сутканинг қоронғи вақтида йўлнинг ёритилмаган қисмларида узоқни ёки яқинни ёритувчи фара чироқлари билан бирга.",
+      "explanationRu": "Согласно пункту 137 Правил дорожного движения, противотуманные фары могут использоваться в следующих случаях: в темное время суток на неосвещенных участках дорог совместно с ближним или дальним светом фар.",
+      "explanationOz": "Yo‘l harakati qoidalarining 137 bandiga asosan, quyidagi hollarda tumanga qarshi fara chiroqlaridan foydalanish mumkin: sutkaning qorong‘i vaqtida yo‘lning yoritilmagan qismlarida uzoqni yoki yaqinni yorituvchi fara chiroqlari bilan birga.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3828,
+          "textUz": "Нишаблик қанча қийин бўлса узатма пағонаси шунча юқори бўлади",
+          "textRu": "Чем круче уклон, тем выше выбирается передача",
+          "textOz": "Nishablik qancha qiyin bo'lsa uzatma pag'onasi shuncha yuqori bo'ladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3829,
+          "textUz": "Нишаблик қанча қийин бўлса узатма пағонаси шунча паст танланади",
+          "textRu": "Чем круче уклон, тем ниже выбирается передача",
+          "textOz": "Nishablik qancha qiyin bo'lsa uzatma pag'onasi shuncha past tanlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 3830,
+          "textUz": "Поғоналарни танлашнинг нишабликка алоқаси йўқ",
+          "textRu": "Выбор передачи не зависит от крутизны спуска",
+          "textOz": "Pog'onalarni tanlashning nishablikka aloqasi yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3829
+      ]
+    },
+    {
+      "id": 1167,
+      "questionUz": "Агар автомобилнинг ўнг ғилдираклари нам қопламали йўл ёқасига чиқиб қолса, тавсия этилади:",
+      "questionRu": "В случае, когда правые колёса автомобиля наезжают на мокрую, влажную обочину, рекомендуется:",
+      "questionOz": "Agar avtomobilning o'ng g'ildiraklari nam qoplamali yo'l yoqasiga chiqib qolsa, tavsiya etiladi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, аҳоли пункти — кириш ва чиқиш йўллари 5.22 — 5.25 йўл белгилари билан белгиланган ҳудуд.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, населенный пункт — территория, въезды и выезды которые обозначены дорожными знаками 5.22 — 5.25.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6-bandiga asosan, aholi punkti — kirish va chiqish yo‘llari 5.22 — 5.25 yo‘l belgilari bilan belgilangan hudud.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3831,
+          "textUz": "Автомобилни тормозлаш ва тўлиқ тўхтатиш",
+          "textRu": "Торможение и полная остановка транспортного средства",
+          "textOz": "Avtomobilni tormozlash va to'liq to'xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3832,
+          "textUz": "Автомобилни тормозлаб, йўлнинг ҳаракат қисмига оҳиста равон бурилиш",
+          "textRu": "Торможение автомобиля и плавный поворот на проезжую часть дороги.",
+          "textOz": "Avtomobilni tormozlab, yo'lning harakat qismiga ohista ravon burilish",
+          "isCorrect": false
+        },
+        {
+          "id": 3833,
+          "textUz": "Автомобилни тормозламасдан йўлнинг ҳаракат қисмига оҳиста равон буриш",
+          "textRu": "Мягко и плавно поворачивайте автомобиль на проезжую часть дороги без торможения",
+          "textOz": "Avtomobilni tormozlamasdan yo'lning harakat qismiga ohista ravon burish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3833
+      ]
+    },
+    {
+      "id": 1168,
+      "questionUz": "Агар автомобилнинг ўнг ғилдираклари нам қопламали йўл ёқасига чиқиб қолса, тавсия этилади:",
+      "questionRu": "В случае, когда правые колёса автомобиля наезжают на неукреплённую влажную обочину, рекомендуется:",
+      "questionOz": "Agar avtomobilning o'ng g'ildiraklari nam qoplamali yo'l yoqasiga chiqib qolsa, tavsiya etiladi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 6 бандига асосан, ажратувчи минтақа — йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан кўтарилган ёки майсазор, ариқ, махсус тўсиқлар билан ажратилган баланд қисми.",
+      "explanationRu": "Согласно статьи 6 Правил дорожного движения, разделительная полоса — элемент дороги, разделяющий смежные проезжие части и не предназначенный для движения и остановки транспортных средств, приподнята над уровнем дороги или отделена газоном, канавой, специальными ограждениями.",
+      "explanationOz": "Yo‘l harakati qoidalarining 6 bandiga asosan, ajratuvchi mintaqa — yo‘lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to‘xtashi uchun mo‘ljallanmagan, yo‘l sathidan ko‘tarilgan yoki maysazor, ariq, maxsus to‘siqlar bilan ajratilgan baland qismi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3834,
+          "textUz": "Автомобилни тормозлаш ва тўлиқ тўхтатиш",
+          "textRu": "Затормозить и полностью остановиться",
+          "textOz": "Avtomobilni tormozlash va to'liq to'xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3835,
+          "textUz": "Автомобилни тормозлаб, йўлнинг ҳаракат қисмига оҳиста равон буриш",
+          "textRu": "Затормозить и плавно направить автомобиль на проезжую часть",
+          "textOz": "Avtomobilni tormozlab, yo'lning harakat qismiga ohista ravon burish",
+          "isCorrect": false
+        },
+        {
+          "id": 3836,
+          "textUz": "Автомобилни тормозламасдан йўлнинг ҳаракат қисмига охиста равон буриш",
+          "textRu": "Не прибегая к торможению, плавно направить автомобиль на проезжую часть",
+          "textOz": "Avtomobilni tormozlamasdan yo'lning harakat qismiga oxista ravon burish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3836
+      ]
+    },
+    {
+      "id": 1169,
+      "questionUz": "Йўлнинг хавфли бурилишларида олдинги узатмали автомобилнинг орқа ўқи ён томонга сирпанганда сиз қандай ҳаракат қиласиз?",
+      "questionRu": "На повороте возник занос оси переднеприводного автомобиля Ваши действия?",
+      "questionOz": "Yo'lning xavfli burilishlarida oldingi uzatmali avtomobilning orqa o'qi yon tomonga sirpanganda siz qanday harakat qilasiz?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 38 бандига асосан, Тартибга солувчининг ишоралари қуйидаги маънони билдиради: Ўнг қўли олдинга узатилганда: чап ёнидан трамвайга чапга, рельссиз транспорт воситаларига барча йўналишларда;\r\nолди томонидан барча транспорт воситаларига фақат ўнгга ҳаракатланишга рухсат берилади; орқа томонидан ва ўнг ёнидан барча транспорт воситаларининг ҳаракатланиши тақиқланади; пиёдаларга тартибга солувчининг орқа томонида қатнов қисмини кесиб ўтишга рухсат этилади.\r\nЙўл ҳаракати қоидаларининг 101 бандига асосан,  агар светофор ёки тартибга солувчининг ишоралари трамвай ва рельссиз транспорт воситаларига бир вақтда ҳаракатланишга рухсат берса, ҳаракатланиш йўналишидан қатъи назар, трамвай олдин ўтиш ҳуқуқига эга бўлади.\r\nУшбу вазиятда автомобил ҳайдовчиси трамвайга йўл бериб, қайрилиб олади.",
+      "explanationRu": "Согласно пункту 38 Правил дорожного движения, Сигналы регулировщика имеют следующие значения: правая рука вытянута вперед: со стороны левого бока — разрешено движение трамваю налево, безрельсовым транспортным средствам — во всех направлениях; со стороны груди — всем транспортным средствам разрешено движение только направо; со стороны правого бока и спины — движение всех транспортных средств запрещено; пешеходам разрешено переходить проезжую часть за спиной регулировщика.\r\nСогласно пункту 101 Правил дорожного движения, если сигналы светофора или регулировщика разрешают движение одновременно трамваю и безрельсовым транспортным средствам, то трамвай имеет право на первоочередное движение, независимо от направления его движения.\r\nВ этой ситуации водитель автомобиля выпольняет разворот, уступив дорогу трамваю.",
+      "explanationOz": "Yo‘l harakati qoidalarining 38 bandiga asosan, Tartibga soluvchining ishoralari quyidagi ma’noni bildiradi: O‘ng qo‘li oldinga uzatilganda: chap yonidan tramvayga chapga, relssiz transport vositalariga barcha yo‘nalishlarda;\r\noldi tomonidan barcha transport vositalariga faqat o‘ngga harakatlanishga ruxsat beriladi; orqa tomonidan va o‘ng yonidan barcha transport vositalarining harakatlanishi taqiqlanadi; piyodalarga tartibga soluvchining orqa tomonida qatnov qismini kesib o‘tishga ruxsat etiladi.\r\nYo‘l harakati qoidalarining 101 bandiga asosan, agar svetofor yoki tartibga soluvchining ishoralari tramvay va relssiz transport vositalariga bir vaqtda harakatlanishga ruxsat bersa, harakatlanish yo‘nalishidan qat’i nazar, tramvay oldin o‘tish huquqiga ega bo‘ladi.\r\nUshbu vaziyatda avtomobil haydovchisi tramvayga yo‘l berib, qayrilib oladi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3837,
+          "textUz": "Газ беришни камайтириб рул чамбараги билан бошқарувни барқарорлаштирасиз",
+          "textRu": "Уменьшаете подачу топлива, рулевым колесом стабилизируете движение.",
+          "textOz": "Gaz berishni kamaytirib rul chambaragi bilan boshqaruvni barqarorlashtirasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 3838,
+          "textUz": "Тормозлаб туриб рул чамбарагини сирпанган томонга бурасиз",
+          "textRu": "Притормаживаете и руль поворачиваете в сторону заноса",
+          "textOz": "Tormozlab turib rul chambaragini sirpangan tomonga burasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 3839,
+          "textUz": "Газ педалини оҳиста босиб автомобилни рул чамбарагини тўғрилаб автомобилни сирпанишдан олиб чиқиб кетасиз",
+          "textRu": "Слегка увеличиваете подачу топлива, корректируя направление движения рулевым колесом.",
+          "textOz": "Gaz pedalini ohista bosib avtomobilni rul chambaragini to'g'rilab avtomobilni sirpanishdan olib chiqib ketasiz",
+          "isCorrect": true
+        },
+        {
+          "id": 3840,
+          "textUz": "Газ педалини кўпроқ босиб рул чамбарагини ўзгартирмасдан сирпанишдан олиб чиқасиз",
+          "textRu": "Значительно увеличиваете подачу топлива не меняя положения рулевого колеса",
+          "textOz": "Gaz pedalini ko'proq bosib rul chambaragini o'zgartirmasdan sirpanishdan olib chiqasiz",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3839
+      ]
+    },
+    {
+      "id": 1170,
+      "questionUz": "Автомобилнинг антиблокировка тизими (АБС) бурилишда сирпанишва ёнга силжишни олдини оладими?",
+      "questionRu": "АБС автомобиля предотвращает ли его скольжение и боковой занос при повороте ?",
+      "questionOz": "Avtomobilning antiblokirovka tizimi (ABS) burilishda sirpanishva yonga siljishni oldini oladimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 98 бандига асосан, ҳаракатланиш навбати светофор ёки тартибга солувчининг ишоралари билан бошқариладиган чорраҳа — тартибга солинган чорраҳа ҳисобланади.\r\nМилтилловчи сариқ ишора ёниб-ўчаётган, светофорлар ишламаётган ёки тартибга солувчи бўлмаган чорраҳа — тартибга солинмаган чорраҳа ҳисобланади. Ҳайдовчилар тартибга солинмаган чорраҳалардан ўтиш қоидаларига ҳамда чорраҳада ўрнатилган имтиёз белгиларига амал қилишлари шарт.",
+      "explanationRu": "Согласно пункту 98 Правил дорожного движения, перекресток, где очередность движения определяется сигналами светофора или регулировщика, считается регулируемым. \r\nПри желтом мигающем сигнале, неработающих светофорах или отсутствии регулировщика перекресток считается нерегулируемым, и водители обязаны руководствоваться правилами проезда нерегулируемых перекрёстков и установленными на перекрёстке знаками приоритета.",
+      "explanationOz": "Yo‘l harakati qoidalarining 98 bandiga asosan, harakatlanish navbati svetofor yoki tartibga soluvchining ishoralari bilan boshqariladigan chorraha — tartibga solingan chorraha hisoblanadi.\r\nMiltillovchi sariq ishora yonib-o‘chayotgan, svetoforlar ishlamayotgan yoki tartibga soluvchi bo‘lmagan chorraha — tartibga solinmagan chorraha hisoblanadi. Haydovchilar tartibga solinmagan chorrahalardan o‘tish qoidalariga hamda chorrahada o‘rnatilgan imtiyoz belgilariga amal qilishlari shart.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3841,
+          "textUz": "Автомобилни фақат сирпаниш эҳтимолининг олдини олади",
+          "textRu": "Только предотвращает занос автомобиля.",
+          "textOz": "Avtomobilni faqat sirpanish ehtimolining oldini oladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3842,
+          "textUz": "Aвтомобилни фақат ёнга силжиш еҳтимолининг олдини олади",
+          "textRu": "Только предотвращает возможность скольжения автомобиля в сторону.",
+          "textOz": "Avtomobilni faqat yonga siljish ehtimolining oldini oladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3843,
+          "textUz": "Автомобилнинг сирпаниш ва ёнга томонга сирпанишини олдини олмайди",
+          "textRu": "Не исключает боковое скольжение и скольжение автомобиля в сторону",
+          "textOz": "Avtomobilning sirpanish va yonga tomonga sirpanishini oldini olmaydi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3843
+      ]
+    },
+    {
+      "id": 1171,
+      "questionUz": "Енгил автомобил бурилишда ағдарилиб кетишга қарши турғунроқ:",
+      "questionRu": "Более устойчив против опрокидывания на повороте легковой автомобиль:",
+      "questionOz": "Engil avtomobil burilishda ag'darilib ketishga qarshi turg'unroq:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 73 бандига асосан, ҳайдовчи ўзидан олдинда ҳаракатланаётган транспорт воситаси кескин тормоз берганда, тўқнашиб кетмаслик кафолатини берадиган даражадаги оралиқ масофани, шунингдек, йўл ҳаракати хавфсизлигини таъминлайдиган ёнлама оралиқ масофани сақлаши керак.",
+      "explanationRu": "Согласно пункту 73 Правил дорожного движения, водитель должен соблюдать такую дистанцию до движущегося впереди транспортного средства, которая гарантировала бы избежание столкновения в случае его экстренной остановки, а также боковой интервал, обеспечивающий безопасность дорожного движения.",
+      "explanationOz": "Yo‘l harakati qoidalarining 73 bandiga asosan, haydovchi o‘zidan oldinda harakatlanayotgan transport vositasi keskin tormoz berganda, to‘qnashib ketmaslik kafolatini beradigan darajadagi oraliq masofani, shuningdek, yo‘l harakati xavfsizligini ta’minlaydigan yonlama oraliq masofani saqlashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3844,
+          "textUz": "Йўловчисиз ва юксиз",
+          "textRu": "Без пассажиров и груза",
+          "textOz": "Yo'lovchisiz va yuksiz",
+          "isCorrect": true
+        },
+        {
+          "id": 3845,
+          "textUz": "Йўловчисиз, бироқ юқори юкхонасидаги юки билан",
+          "textRu": "Без пассажиров, но с грузом на верхнем багажнике",
+          "textOz": "Yo'lovchisiz, biroq yuqori yukxonasidagi yuki bilan",
+          "isCorrect": false
+        },
+        {
+          "id": 3846,
+          "textUz": "Йўловчилари билан юксиз",
+          "textRu": "С пассажирами, но без груза",
+          "textOz": "Yo'lovchilari bilan yuksiz",
+          "isCorrect": false
+        },
+        {
+          "id": 3847,
+          "textUz": "Йўловчи ва юки билан",
+          "textRu": "С пассажирами и грузом",
+          "textOz": "Yo'lovchi va yuki bilan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3844
+      ]
+    },
+    {
+      "id": 1173,
+      "questionUz": "Баландликда йўл четида тўсиқ мавжуд бўлганда тўхтаган автомобилни жойидан ғилдираб кетишини олдини олиш учун олдинги ғилдиракларни буриб қўйиш усули қайси жавобда тўғри кўрсатилган:",
+      "questionRu": "В случае остановки на подъеме при наличии тротуара можно предотвратить самопроизвольное скатывание автомобиля, повернув его передние колеса в положение",
+      "questionOz": "Balandlikda yo'l chetida to'siq mavjud bo'lganda to'xtagan avtomobilni joyidan g'ildirab ketishini oldini olish uchun oldingi g'ildiraklarni burib qo'yish usuli qaysi javobda to'g'ri ko'rsatilgan:",
+      "explanationUz": "Йўл ҳаракати қоидалари 163 бандига асосан, транспорт воситасининг габаритларидан олди ёки орқа томонга 1 метрдан, ён томонга габаритнинг четки қисмидан 0,4 метрдан ортиқ чиқиб турган юк «Катта ўлчамли юк» таниқлик белгиси билан белгиланиши керак.",
+      "explanationRu": "Согласно статьи 163 Правил дорожного движения,  Груз, выступающий за габариты транспортного средства спереди и сзади более чем на 1 м или сбоку более чем на 0,4 м от внешнего края габарита, должен быть обозначен опознавательными знаками «Крупногабаритный груз».",
+      "explanationOz": "Yo‘l harakati qoidalari 163 bandiga asosan, transport vositasining gabaritlaridan oldi yoki orqa tomonga 1 metrdan, yon tomonga gabaritning chetki qismidan 0,4 metrdan ortiq chiqib turgan yuk «Katta o‘lchamli yuk» taniqlik belgisi bilan belgilanishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/48.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4513,
+          "textUz": "А ва D",
+          "textRu": "A и D",
+          "textOz": "A va D",
+          "isCorrect": false
+        },
+        {
+          "id": 4514,
+          "textUz": "B ва C",
+          "textRu": "B и C",
+          "textOz": "B va C",
+          "isCorrect": false
+        },
+        {
+          "id": 4515,
+          "textUz": "А ва C",
+          "textRu": "A и C",
+          "textOz": "A va C",
+          "isCorrect": true
+        },
+        {
+          "id": 4516,
+          "textUz": "B ва D",
+          "textRu": "B и D",
+          "textOz": "B va D",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4515
+      ]
+    },
+    {
+      "id": 1174,
+      "questionUz": "Ўнг томондаги ёндош ҳудуддан фойдаланиб қайрилиб олишнинг кўрсатилган қайси усули ҳаракат хавфсизлигини таъминлайди",
+      "questionRu": "Способ разворота с использованием прилегающей территории справа, обеспечивающий безопасность движения, показан",
+      "questionOz": "O'ng tomondagi yondosh hududdan foydalanib qayrilib olishning ko'rsatilgan qaysi usuli harakat xavfsizligini taminlaydi",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/48.18.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4568,
+          "textUz": "Фақат чап томондаги расмда",
+          "textRu": "Только на левом рисунке",
+          "textOz": "Faqat chap tomondagi rasmda",
+          "isCorrect": true
+        },
+        {
+          "id": 4569,
+          "textUz": "Фақат ўнг томондаги расмда",
+          "textRu": "Только на правом рисунке",
+          "textOz": "Faqat o'ng tomondagi rasmda",
+          "isCorrect": false
+        },
+        {
+          "id": 4570,
+          "textUz": "Иккисида ҳам",
+          "textRu": "На обоих рисунках",
+          "textOz": "Ikkisida ham",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4568
+      ]
+    },
+    {
+      "id": 1175,
+      "questionUz": "Сиз тўғри йўлда ҳаракатланаётиб тўсатдан йўлнинг қисман катта бўлмаган сирпанчиқ қисмига дуч келдингиз. Бунда қандай эҳтиёт чораларини кўрасиз?",
+      "questionRu": "Двигаясь в прямом направлении, Вы внезапно попали на небольшой участок скользкой дороги. Что следует предпринять?",
+      "questionOz": "Siz to'g'ri yo'lda harakatlanayotib to'satdan yo'lning qisman katta bo'lmagan sirpanchiq qismiga duch keldingiz. Bunda qanday ehtiyot choralarini ko'rasiz?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 86 бандига асосан, қувиб ўтиш қуйидаги ҳолларда тақиқланади: темир йўл кесишмаларида ва уларгача 100 метрдан кам масофа қолганда.",
+      "explanationRu": "Согласно пункту 86 Правил дорожного движения, обгон запрещен: на железнодорожных переездах и ближе чем за 100 м перед ними.",
+      "explanationOz": "Yo‘l harakati qoidalarining 86 bandiga asosan, quvib o‘tish quyidagi hollarda taqiqlanadi: temir yo‘l kesishmalarida va ulargacha 100 metrdan kam masofa qolganda.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3858,
+          "textUz": "Автомобилни оҳиста тўхтатиш",
+          "textRu": "Плавно затормозить",
+          "textOz": "Avtomobilni ohista to'xtatish",
+          "isCorrect": false
+        },
+        {
+          "id": 3859,
+          "textUz": "Рулни  буриб сирпанчиқдан чиқиб кетиш ",
+          "textRu": "Повернуть руль, чтобы съехать с этого участка дороги",
+          "textOz": "Rulni  burib sirpanchiqdan chiqib ketish ",
+          "isCorrect": false
+        },
+        {
+          "id": 3860,
+          "textUz": "Ҳаракат йўналишини ва тезликни ўзгартирмасдан эҳтиёткорлик билан ўтиб кетиш  ",
+          "textRu": "Проехать не меняя траектории и скорости движения",
+          "textOz": "Harakat yo'nalishini va tezlikni o'zgartirmasdan ehtiyotkorlik bilan o'tib ketish  ",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3860
+      ]
+    },
+    {
+      "id": 1176,
+      "questionUz": "Енгил автомобилнинг тормоз йўли тормоз тизимига эга бўлмаган тиркама билан ҳаракатланаётганда қандай ўзгаради?",
+      "questionRu": "Как изменяется длина тормозного пути легкового автомобиля при движении с прицепом, не имеющим тормозной системы?",
+      "questionOz": "Engil avtomobilning tormoz yo'li tormoz tizimiga ega bo'lmagan tirkama bilan harakatlanayotganda qanday o'zgaradi?",
+      "explanationUz": "Автомобилни тиркама билан ҳайдаш маълум бир кўникма талаб қилади. Тормоз йўли ортади.",
+      "explanationRu": "Вождение автомобиля с прицепом требует определенного навыка. Тормозной путь увеличивается.",
+      "explanationOz": "Avtomobilni tirkama bilan haydash ma‘lum bir ko‘nikma talab qiladi. Tormoz yo‘li ortadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3861,
+          "textUz": "Камаяди, чунки тиркама ҳаракатланишга қўшимча қаршилик кўрсатади",
+          "textRu": "Уменьшается, так как прицеп оказывает дополнительное сопротивление движению",
+          "textOz": "Kamayadi, chunki tirkama harakatlanishga qo'shimcha qarshilik ko'rsatadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3862,
+          "textUz": "Ўзгармайди",
+          "textRu": "Не изменяется",
+          "textOz": "O'zgarmaydi",
+          "isCorrect": false
+        },
+        {
+          "id": 3863,
+          "textUz": "Ортади",
+          "textRu": "Увеличивается",
+          "textOz": "Ortadi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3863
+      ]
+    },
+    {
+      "id": 1177,
+      "questionUz": "Умуртқасининг кўкрак қисми шикастланган киши транспортда қандай ташилади?",
+      "questionRu": "Как транспортировать пострадавшего с повреждением грудного отдела позвоночника?",
+      "questionOz": "Umurtqasining ko'krak qismi shikastlangan kishi transportda qanday tashiladi?",
+      "explanationUz": "Умуртқа поғонаси шикастланганда орқа (умуртқа) мияни жароҳатланишидан сақлаб қолиш учун умуртқа поғоналарининг бир-бирига нисбатан силжишини олдини олиш муҳимдир. Умуртқанинг минимал қўзғалишини таъминлаш учун жароҳатланган кишини қаттиқ текисликка жойлаштириб, унинг ҳаракатини имкон даражада чеклаш лозим.",
+      "explanationRu": "При повреждении позвоночника важно не допустить смещения позвонков относительно друг друга, чтобы избежать травмирования спинного мозга. Для обеспечения минимальной подвижности позвоночника травмированного следует расположить на ровной твердой поверхности и максимально ограничить его перемещения.",
+      "explanationOz": "Umurtqa pog'onasi shikastlanganda orqa (umurtqa) miyani jarohatlanishidan saqlab qolish uchun umurtqa pog'onalarining bir-biriga nisbatan siljishini oldini olish muhimdir. Umurtqaning minimal qo'zg'alishini ta'minlash uchun jarohatlangan kishini qattiq tekislikka joylashtirib, uning harakatini imkon darajada cheklash lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3864,
+          "textUz": "Қаттиқ тахтада орқаси билан ётган ҳолда",
+          "textRu": "Лежа на спине на жестком щите",
+          "textOz": "Qattiq taxtada orqasi bilan yotgan holda",
+          "isCorrect": true
+        },
+        {
+          "id": 3865,
+          "textUz": "Юмшоқ тушамада орқаси билан ётган ҳолда",
+          "textRu": "Лежа на спине на мягкой подстилке",
+          "textOz": "Yumshoq tushamada orqasi bilan yotgan holda",
+          "isCorrect": false
+        },
+        {
+          "id": 3866,
+          "textUz": "Қаттиқ тахтада ёни билан ётган ҳолда",
+          "textRu": "Лежа на боку на жестком щите",
+          "textOz": "Qattiq taxtada yoni bilan yotgan holda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3864
+      ]
+    },
+    {
+      "id": 1178,
+      "questionUz": "Қўл жароҳатланганда кийим қандай тартибда кийгизилади?",
+      "questionRu": "Как правильно надевается одежда при ранении руки?",
+      "questionOz": "Qo'l jarohatlanganda kiyim qanday tartibda kiygiziladi?",
+      "explanationUz": "Шикастланган қўл ёки оёқни мажбурий ҳаракатга солмасдан кийим кийдириш имконини яратиш учун аввал кийим шикастланган, сўнгра шикастланмаган қўл ёки оёққа эҳтиётлик билан кийдирилади.",
+      "explanationRu": "Чтобы иметь возможность одеть одежду на поврежденную конечность, не подвергая ее вынужденным движениям, нужно сначала аккуратно одеть ее на поврежденную конечность, а потом на неповрежденную конечность.",
+      "explanationOz": "Shikastlangan qo'l yoki oyoqni majburiy harakatga solmasdan kiyim kiydirish imkonini yaratish uchun avval kiyim shikastlangan, so'ngra shikastlanmagan qo'l yoki oyoqqa ehtiyotlik bilan kiydiriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3867,
+          "textUz": "Кийим аввал жароҳатланган қўлга, сўнгра соғига кийдирилади",
+          "textRu": "Одежда надевается сначала на раненую, а потом на здоровую руку",
+          "textOz": "Kiyim avval jarohatlangan qo'lga, so'ngra sog'iga kiydiriladi",
+          "isCorrect": true
+        },
+        {
+          "id": 3868,
+          "textUz": "Кийим иккала қўлга баравар кийдирилади",
+          "textRu": "Одежда надевается на обе руки сразу",
+          "textOz": "Kiyim ikkala qo'lga baravar kiydiriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3869,
+          "textUz": "Кийим аввал соғ қўлга, сўнгра жароҳатланган қўлга кийдирилади",
+          "textRu": "Одежда надевается сначала на здоровую руку, а потом на раненую",
+          "textOz": "Kiyim avval sog' qo'lga, so'ngra jarohatlangan qo'lga kiydiriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3867
+      ]
+    },
+    {
+      "id": 1179,
+      "questionUz": "Суяк синганда қотириб боғлаш учун нимадан шина сифатида фойдаланиш энг қўлай?",
+      "questionRu": "Какой материал лучше подходит для использования в качестве иммобилизирующей шины при переломе костей?",
+      "questionOz": "Suyak singanda qotirib bog'lash uchun nimadan shina sifatida foydalanish eng qo'lay?",
+      "explanationUz": "Суяклар синганда шикастланган қўл ёки оёқни ҳар қандай қаттиқ восита ёрдамида мустаҳкамлаб, ҳаракатсизлантириш (иммобилизация қилиш) лозим.",
+      "explanationRu": "При переломе костей поврежденные конечности необходимо обездвижить (иммобилизовать), зафиксировав любыми твердыми подручными средствами.",
+      "explanationOz": "Suyaklar singanda shikastlangan qo'l yoki oyoqni har qanday qattiq vosita yordamida mustahkamlab, harakatsizlantirish (immobilizatsiya qilish) lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3870,
+          "textUz": "Бинт",
+          "textRu": "Бинт",
+          "textOz": "Bint",
+          "isCorrect": false
+        },
+        {
+          "id": 3871,
+          "textUz": "Газмол",
+          "textRu": "Ткань",
+          "textOz": "Gazmol",
+          "isCorrect": false
+        },
+        {
+          "id": 3872,
+          "textUz": "Тахта бўлаги",
+          "textRu": "Кусок доски",
+          "textOz": "Taxta bo'lagi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3872
+      ]
+    },
+    {
+      "id": 1180,
+      "questionUz": "Шикастланган кишининг ўмров суяги синганда нима қилиш керак?",
+      "questionRu": "Что необходимо сделать при переломе ключицы у пострадавшего?",
+      "questionOz": "Shikastlangan kishining o'mrov suyagi singanda nima qilish kerak?",
+      "explanationUz": "Қон томирлари (ўмров остидаги артерия (кўктомир) ва нервларнинг шикастланишига олиб келиши мумкин бўлган синган ўмров суягининг силжишига йўл қўймаслик учун тўғри бурчак остида тирсакда букилган қўлни учбурчак рўмолга осиб қўйиб, бинт билан гавдага боғлаб ўраш лозим.",
+      "explanationRu": "С целью предотвратить смещение отломков ключицы, которое может привести к повреждению целостности кровеносных сосудов (подключичной артерии) и нервов, следует подвесить согнутую под прямым углом в локтевом суставе руку на косынке и прибинтовать ее к туловищу.",
+      "explanationOz": "Qon tomirlari (o'mrov ostidagi arteriya (ko'ktomir) va nervlarning shikastlanishiga olib kelishi mumkin bo'lgan singan o'mrov suyagining siljishiga yo'l qo'ymaslik uchun to'g'ri burchak ostida tirsakda bukilgan qo'lni uchburchak ro'molga osib qo'yib, bint bilan gavdaga bog'lab o'rash lozim.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3873,
+          "textUz": "Синган жойга совуқ компресс қўйиш, бинт билан тарангроқ боғлаш",
+          "textRu": "Наложить холодный компресс на место перелома, туго забинтовать",
+          "textOz": "Singan joyga sovuq kompress qo'yish, bint bilan tarangroq bog'lash",
+          "isCorrect": false
+        },
+        {
+          "id": 3874,
+          "textUz": "Қўлтиқ соҳасига тахтакач қўйиш ва тўғрилаб қўйилган қўлини гавдасига қўшиб бинт билан боғлаш",
+          "textRu": "Наложить шину в подмышечную область и прибинтовать выпрямленную руку к туловищу",
+          "textOz": "Qo'ltiq sohasiga taxtakach qo'yish va to'g'rilab qo'yilgan qo'lini gavdasiga qo'shib bint bilan bog'lash",
+          "isCorrect": false
+        },
+        {
+          "id": 3875,
+          "textUz": "Пахта ёки бинт ўрамасини қўлтиқ соҳасига қўйиб тирсагидан букилган қўлини гавдасига қўшиб бинт билан боғлаш",
+          "textRu": "Подложить валик из ваты или бинта в подмышечную область и прибинтовать согнутую в локте руку к туловищу",
+          "textOz": "Paxta yoki bint o'ramasini qo'ltiq sohasiga qo'yib tirsagidan bukilgan qo'lini gavdasiga qo'shib bint bilan bog'lash",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3875
+      ]
+    },
+    {
+      "id": 1181,
+      "questionUz": "Соннинг юмшоқ тўқималари лат ��ганда биринчи тиббий ёрдам қандай кўрсатилади?",
+      "questionRu": "Какая первая медицинская помощь нужна при повреждении мягких тканей бедра?",
+      "questionOz": "Sonning yumshoq to'qimalari lat eganda birinchi tibbiy yordam qanday ko'rsatiladi?",
+      "explanationUz": "Шикастланган қўл ёки оёқни баланд ҳолатда сақламоқ ва ички қон қуйилишини олдини олиш учун мумкин қадар таранг боғич боғлаш лозим. Шикастланган жойга 15-20 дақиқа муз қўйилади (совутиш учун совуқ компресс, музли халта, совуқ сув ва бошқалар ишлатилиши мумкин). Оғриқни қолдириш учун шикастланган органга ҳаракатсизлик шароити яратилади.",
+      "explanationRu": "Ушибленной конечности следует придать возвышенное положение и по возможности наложить тугую повязку, чтобы уменьшить внутреннее кровоизлияние. К месту ушиба на 15-20 минут прикладывают холод (для охлаждения можно использовать холодный компресс, пузырь со льдом, холодной водой и т.п.). Чтобы снять боль, на поврежденном органе создаются условия бездействия.",
+      "explanationOz": "Shikastlangan qo'l yoki oyoqni baland holatda saqlamoq va ichki qon quyilishini oldini olish uchun mumkin qadar tarang bog'ich bog'lash lozim. Shikastlangan joyga 15-20 daqiqa muz qo'yiladi (sovutish uchun sovuq kompress, muzli xalta, sovuq suv va boshqalar ishlatilishi mumkin). Og'riqni qoldirish uchun shikastlangan organga harakatsizlik sharoiti yaratiladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3876,
+          "textUz": "Лат еган жойни қаттиқ боғлаш, 15-20 дақиқага муз солинган халта қўйиш. Оёқни юқори кўтариш, тинч қўйиш",
+          "textRu": "Наложить тугую повязку на поврежденное место, на 15-20 минут приложить мешочек со льдом. Поврежденную конечность приподнять, обеспечить покой",
+          "textOz": "Lat egan joyni qattiq bog'lash, 15-20 daqiqaga muz solingan xalta qo'yish. Oyoqni yuqori ko'tarish, tinch qo'yish",
+          "isCorrect": true
+        },
+        {
+          "id": 3877,
+          "textUz": "Лат еган оёқни таранг қилиб (пастдан юқорига) боғлаш, сингандаги каби шина қўйиш. Бир стаканга ярим чой қошиғида ичимлик сода солиб ичириш, касалхонага жўнатиш",
+          "textRu": "Перевязать неповрежденную ногу снизу на верх; поставить шину, как при переломе Дать выпить стакан чая с пищевой содой. Отправить в больницу",
+          "textOz": "Lat egan oyoqni tarang qilib (pastdan yuqoriga) bog'lash, singandagi kabi shina qo'yish. Bir stakanga yarim choy qoshig'ida ichimlik soda solib ichirish, kasalxonaga jo'natish",
+          "isCorrect": false
+        },
+        {
+          "id": 3878,
+          "textUz": "Оёқни юмшоқ предметга қўйиш",
+          "textRu": "Положить ногу на мягкий предмет",
+          "textOz": "Oyoqni yumshoq predmetga qo'yish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3876
+      ]
+    },
+    {
+      "id": 1182,
+      "questionUz": "Сон суягининг учдан бирининг пастки қисми синганда жароҳатланган одамни транспортда ташиш учун тахтакач қандай қўйилади?",
+      "questionRu": "Как наложить транспортную шину при переломе кости в нижней трети бедра?",
+      "questionOz": "Son suyagining uchdan birining pastki qismi singanda jarohatlangan odamni transportda tashish uchun taxtakach qanday qo'yiladi?",
+      "explanationUz": "Сон суяги синган ҳолда иккита тахтакач: бири – ташқари тарафда оёқ кафтидан то қўлтиқости чуқуригача, бошқаси – ички тарафда оёқ кафтидан то човгача қўйилади. Сон суяги синган ҳолда иммобилизация воситаси бўлмаса, шикастланган оёқ соғ оёққа маҳкамланиб қўйилади. Маҳкамловчи боғич синган суякни силжитмаслиги ва жабрланувчига қўшимча оғриқ етказмаслиги лозим. Маҳкамловчи боғич оёқнинг соғ қисмига боғланади.",
+      "explanationRu": "При переломе бедра необходимо наложить две шины. Одну шину с внешней стороны от конца стопы до подмышечной ямки, другую – с внутренней стороны от конца стопы до паха. Если в случае перелома бедра нет иммобилизационных средств, больную ногу фиксируют к здоровой. Фиксирующая повязка не должна смещать обломки кости и причинять дополнительную боль пострадавшему. Ее необходимо накладывать на здоровую часть ноги.",
+      "explanationOz": "Son suyagi singan holda ikkita taxtakach: biri – tashqari tarafda oyoq kaftidan to qo'ltiqosti chuqurigacha, boshqasi – ichki tarafda oyoq kaftidan to chovgacha qo'yiladi. Son suyagi singan holda immobilizasiya vositasi bo'lmasa, shikastlangan oyoq sog'oyoqqa mahkamlanib qo'yiladi. Mahkamlovchi bog'ich singan suyakni siljitmasligi va jabrlanuvchiga qo'shimcha og'riq yetkazmasligi lozim. Mahkamlovchi bog'ich oyoqning sog' qismiga bog'lanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3879,
+          "textUz": "Тахтакачни соннинг бутун узунлигича тос-сондан тизза бўғинигача қўйиб, синган жой бинт билан қаттиқ боғлаб қўйилади",
+          "textRu": "Плотно прибинтовать шину к месту перелома, наложив ее на всю длину бедра от тазобедренного до коленного сустава",
+          "textOz": "Taxtakachni sonning butun uzunligicha tos-sondan tizza bo'g'inigacha qo'yib, singan joy bint bilan qattiq bog'lab qo'yiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 3880,
+          "textUz": "Иккита тахтакач оёқнинг ички ва ташқи томонидан қўйилади. Биттасини оёқ тўпиғидан қўлтиқости чуқуригача, иккинчисини тўпиқдан човгача",
+          "textRu": "Наложить две шины с внутренней и наружной стороны ноги, одну-от конца стопы до подмышечной ямки, вторую от конца стопы до паха",
+          "textOz": "Ikkita taxtakach oyoqning ichki va tashqi tomonidan qo'yiladi. Bittasini oyoq to'pig'idan qo'ltiqosti chuqurigacha, ikkinchisini to'piqdan chovgacha",
+          "isCorrect": true
+        },
+        {
+          "id": 3881,
+          "textUz": "Иккита тахтакач оёқнинг икки томонидан тўпиқдан соннинг юқориги учдан бир қисмигача (синган жойдан 15-20 см юқоригача) қўйилади",
+          "textRu": "По обеим сторонам стопы от лодыжки до верхней трети бедра (на 15-20 см выше места перелома) кладут две доски",
+          "textOz": "Ikkita taxtakach oyoqning ikki tomonidan to'piqdan sonning yuqorigi uchdan bir qismigacha (singan joydan 15-20 sm yuqorigacha) qo'yiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3880
+      ]
+    },
+    {
+      "id": 1183,
+      "questionUz": "Тос суяклари синганда биринчи ёрдам қандай кўрсатилади?",
+      "questionRu": "Как оказать первую помощь при переломе костей таза?",
+      "questionOz": "Tos suyaklari singanda birinchi yordam qanday ko'rsatiladi?",
+      "explanationUz": "Тос суяги синганда жабрланувчи текисликка ётқизилади, оёқларни тиззаларида букиб, тагига валик қўйилади. Шу ҳолатда жабрланувчи даволаш муассасасига олиб борилади.",
+      "explanationRu": "При переломе костей таза пострадавшего укладывают на твердую поверхность, под согнутые в коленях ноги подкладывают валик. В этом положении пострадавшего транспортируют в лечебное учреждение.",
+      "explanationOz": "Tos suyagi singanda jabrlanuvchi tekislikka yotqiziladi, oyoqlarni tizzalarida bukib, tagiga valik qo'yiladi. Shu holatda jabrlanuvchi davolash muassasasiga olib boriladi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3882,
+          "textUz": "Зарарланган жойни қаттиқ боғлаш, шикастланганни ярим ўтирган ҳолатга келтириш",
+          "textRu": "Наложить тугую повязку на место повреждения, пострадавшему придать полу сидячее положение",
+          "textOz": "Zararlangan joyni qattiq bog'lash, shikastlanganni yarim o'tirgan holatga keltirish",
+          "isCorrect": false
+        },
+        {
+          "id": 3883,
+          "textUz": "Шикастланганни қаттиқ юзага орқаси билан ётқизиш, зарарланган жойларга қайноқ иситгич қўйиш",
+          "textRu": "Пострадавшего уложить на спину на твердую поверхность, к местам повреждения приложить горячую грелку",
+          "textOz": "Shikastlanganni qattiq yuzaga orqasi bilan yotqizish, zararlangan joylarga qaynoq isitgich qo'yish",
+          "isCorrect": false
+        },
+        {
+          "id": 3884,
+          "textUz": "Шикастланганни қаттиқ текис юзага ётқизиш, букилган ва икки томонга керилган тиззаларининг бўғинлари остига ғўла шаклида ўрам қўйиш",
+          "textRu": "Пострадавшего уложить на твердую ровную жесткую поверхность, а под согнутые и разведенные коленные суставы подложить валик",
+          "textOz": "Shikastlanganni qattiq tekis yuzaga yotqizish, bukilgan va ikki tomonga kerilgan tizzalarining bo'g'inlari ostiga g'o'la shaklida o'ram qo'yish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3884
+      ]
+    }
+  ]
+}

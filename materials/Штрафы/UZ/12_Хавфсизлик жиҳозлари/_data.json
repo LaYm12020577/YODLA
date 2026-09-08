@@ -1,0 +1,56 @@
+{
+  "category": "Хавфсизлик жиҳозлари",
+  "count": 5,
+  "fines": [
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Мотоцикл ҳайдовчиси ёки йўловчиси дубулға киймаслик",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": null,
+      "violation": "Болаларни махсус ўриндиқсиз ташиш",
+      "fineBhm": "2.00",
+      "fineUzs": "824000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 1,
+      "violation": "Хавфсизлик камарини тақмаслик",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "1.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 2,
+      "violation": "Тиббиёт қутичаси, ўт ўчиргич ёки авария белгисининг йўқлиги",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 2,
+      "violation": "Техник кўрикдан ўтмаганлик",
+      "fineBhm": "0.50",
+      "fineUzs": "206000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

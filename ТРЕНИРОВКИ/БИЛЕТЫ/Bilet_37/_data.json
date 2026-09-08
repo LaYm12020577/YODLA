@@ -1,0 +1,711 @@
+{
+  "title": "Bilet 37",
+  "count": 20,
+  "questions": [
+    {
+      "id": 723,
+      "questionUz": "Велосипед йулкаси билан кесишувга канчадан кам масофа колганда тухташ такикланади?",
+      "questionRu": "На каком расстоянии от пересечения с велосипедной дорожкой запрещается остановка?",
+      "questionOz": "Velosiped yulkasi bilan kesishuvga kanchadan kam masofa kolganda tuxtash takiklanadi?",
+      "explanationUz": "ЙҲҚ 28-боби 169-банди: Чорраҳадан ташқаридаги тартибга солинмаган велосипед йўлкаси билан йўл кесишмасида велосипед ва индивидуал ҳаракатланиш воситалари йўлда ҳаракатланаётган бошқа транспорт воситаларига йўл беришлари керак. Велосипед йўлкаси ва пиёдалар йўлкаси (тротуар) ўзаро кесишган ҳолатларда велосипед ва индивидуал ҳаракатланиш воситаси пиёдага йўл бериши керак.",
+      "explanationRu": "Пункта 169 главы 28 ПДД, гласит: Вне перекрестков, на нерегулируемом пересечении велосипедной дорожки с дорогой, велосипедисты и индивидуальные транспортные средства должны уступить дорогу транспортным средствам, движущимся по этой дороге. При взаимном пересечении велосипедной и пешеходной дорожек (тротуара) велосипедист и индивидуальные транспортные средства должны уступить дорогу пешеходу.",
+      "explanationOz": "YHQ 28-bobi 169-bandi: Chorrahadan tashqaridagi tartibga solinmagan velosiped yo‘lkasi bilan yo‘l kesishmasida velosiped va individual harakatlanish vositalari yo‘lda harakatlanayotgan boshqa transport vositalariga yo‘l berishlari kerak. Velosiped yo‘lkasi va piyodalar yo‘lkasi (trotuar) o‘zaro kesishgan holatlarda velosiped va individual harakatlanish vositasi piyodaga yo‘l berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2425,
+          "textUz": "10 метр",
+          "textRu": "10 метров",
+          "textOz": "10 metr",
+          "isCorrect": true
+        },
+        {
+          "id": 2426,
+          "textUz": "15 метр",
+          "textRu": "15 метров",
+          "textOz": "15 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2427,
+          "textUz": "30 метр",
+          "textRu": "30 метров",
+          "textOz": "30 metr",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2425
+      ]
+    },
+    {
+      "id": 724,
+      "questionUz": "Ушбу вазиятда хайдовчилар биринчи темир йул изига энг камида неча метр колганда тухташлари керак?",
+      "questionRu": "В данной ситуации на каком минимальном расстоянии до первого железнодорожного пути водители должны остановиться?",
+      "questionOz": "Ushbu vaziyatda xaydovchilar birinchi temir yul iziga eng kamida necha metr kolganda tuxtashlari kerak?",
+      "explanationUz": "ЙҲҚ 6-боби 25-банди: Йўл ҳаракатининг бошқа иштирокчиларига нисбатан имтиёзга эга бўлиши учун тезкор ва махсус хизматларнинг транспорт воситаларида Тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ва махсус товушли ишора ёқилган бўлиши шарт. Улар ўзларига йўл берилаётганлигига ишонч ҳосил қилганларидан сўнггина имтиёздан фойдаланишлари мумкин.",
+      "explanationRu": "Пункта 25 главы 6 ПДД, гласит: Для получения приоритета перед другими участниками движения водители транспортных средств оперативных и специальных служб должны включить проблесковый маячок синего или красного или синего и красного цветов и специальный звуковой сигнал. Воспользоваться приоритетом они могут, только убедившись, что им уступают дорогу.",
+      "explanationOz": "YHQ 6-bobi 25-bandi: Yo‘l harakatining boshqa ishtirokchilariga nisbatan imtiyozga ega bo‘lishi uchun tezkor va maxsus xizmatlarning transport vositalarida Tezkor va maxsus xizmatlarning ko‘k yoki qizil yoxud ko‘k va qizil rangli yalt-yalt etuvchi mayoqchalar va maxsus tovushli ishora yoqilgan bo‘lishi shart. Ular o‘zlariga yo‘l berilayotganligiga ishonch hosil qilganlaridan so‘nggina imtiyozdan foydalanishlari mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2428,
+          "textUz": "3 метр",
+          "textRu": "з метров",
+          "textOz": "3 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2429,
+          "textUz": "5 метр",
+          "textRu": "5 метров",
+          "textOz": "5 metr",
+          "isCorrect": false
+        },
+        {
+          "id": 2430,
+          "textUz": "10 метр",
+          "textRu": "10 метров",
+          "textOz": "10 metr",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2430
+      ]
+    },
+    {
+      "id": 725,
+      "questionUz": "Кайси расмдаги хайдовчилар тухташ коидасини буздилар?",
+      "questionRu": "На каком изображении водители нарушили правила остановки?",
+      "questionOz": "Kaysi rasmdagi xaydovchilar tuxtash koidasini buzdilar?",
+      "explanationUz": "ЙҲҚ 1 илова: 4.1.1. “Ҳаракатланиш тўғрига”. Йўлнинг қисми бошланишида ўрнатилган 4.1.1 белгисининг таъсири яқин чорраҳагача жорий қилинади. Белги ўнг томонда жойлашган ҳовлиларга ва йўлга ёндош бошқа ҳудудларга бурилишни тақиқламайди.",
+      "explanationRu": "ПДД приложение № 1: 4.1.1 Движение прямо.\r\nДействие знака 4.1.1, установленного в начале участка дороги, распространяется до ближайшего перекрестка. Знак не запрещает поворот направо на прилегающие к дороге территории.",
+      "explanationOz": "YHQ 1 ilova: 4.1.1. “Harakatlanish to‘g‘riga”. Yo‘lning qismi boshlanishida o‘rnatilgan 4.1.1 belgisining ta’siri yaqin chorrahagacha joriy qilinadi. Belgi o‘ng tomonda joylashgan hovlilarga va yo‘lga yondosh boshqa hududlarga burilishni taqiqlamaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.10.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2431,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 2432,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 2433,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 2434,
+          "textUz": "1,2",
+          "textRu": "1,2",
+          "textOz": "1,2",
+          "isCorrect": false
+        },
+        {
+          "id": 2435,
+          "textUz": "1,3",
+          "textRu": "1,3",
+          "textOz": "1,3",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2435
+      ]
+    },
+    {
+      "id": 726,
+      "questionUz": "Қуйидаги жойда тўхташга рухсат бериладими?",
+      "questionRu": "Разрешена ли остановка в указанном месте?",
+      "questionOz": "Quyidagi joyda to'xtashga ruxsat beriladimi?",
+      "explanationUz": "ЙҲҚ 1 илова: 5.16.1, 5.16.2. “Пиёдалар ўтиш жойи”. Ўтиш жойи олдида 1.14.1-1.14.2 ётиқ чизиғи бўлмаганда 5.16.2 белгиси йўлдан ўнг томонга ўтиш жойининг олд чегарасига, 5.16.1 белгиси эса чап томонга ўтиш жойининг орқа чегарасига ўрнатилади.",
+      "explanationRu": "ПДД приложение № 1: 5.16.2, 5.16.2. Пешеходный переход. При отсутствии на переходе разметки 1.14.1 — 1.14.3 знак 5.16.2 устанавливается справа от дороги на ближней границе перехода, а знак 5.16.1 — слева от дороги на дальней границе перехода.",
+      "explanationOz": "YHQ 1 ilova: 5.16.1, 5.16.2. “Piyodalar o'tish joyi”. O‘tish joyi oldida 1.14.1-1.14.2 yotiq chizig‘i bo‘lmaganda 5.16.2 belgisi yo‘ldan o‘ng tomonga o‘tish joyining old chegarasiga, 5.16.1 belgisi esa chap tomonga o‘tish joyining orqa chegarasiga o‘rnatiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6722,
+          "textUz": "Рухсат берилади",
+          "textRu": "Разрешено",
+          "textOz": "Ruxsat beriladi",
+          "isCorrect": false
+        },
+        {
+          "id": 6723,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещено",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 6724,
+          "textUz": "Тўхтаган транспорт воситаси билан сидирға чизиқ орасидаги масофа 3 метрдан кўп бўлса рухсат берилади",
+          "textRu": "Остановиться разрешается, если расстояние между остановленным транспортным средством и сплошной линией превышает 3 метра",
+          "textOz": "To'xtagan transport vositasi bilan sidirg'a chiziq orasidagi masofa 3 metrdan ko'p bo'lsa ruxsat beriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        6723
+      ]
+    },
+    {
+      "id": 727,
+      "questionUz": "Тўхтаб туриш деб нимага айтилади?",
+      "questionRu": "Что считается стоянкой?",
+      "questionOz": "To‘xtab turish deb nimaga aytiladi?",
+      "explanationUz": "\"ЙҲҚнинг 25-боб. 149-банд 2-хатбошига асосан: 149. Транспорт воситасини бошқариш ҳуқуқига эга бўлиши учун ўрганувчи ўқув муддати якунида:\r\n«А» тоифаси учун — 16 ёшга тўлган бўлиши керак.\"",
+      "explanationRu": "\"На основании абзаца 2 пункта 149 главы 25 ПДД: 149. Обучаемому к концу обучения на право управления транспортным средством должно быть:\r\nдля категории «А» — не менее 16 лет.\"",
+      "explanationOz": "\"YHQning 25-bob. 149-band 2-xatboshiga asosan: 149. Transport vositasini boshqarish huquqiga ega bo‘lishi uchun o‘rganuvchi o‘quv muddati yakunida:\r\n«A» toifasi uchun — 16 yoshga to‘lgan bo‘lishi kerak.\"",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4590,
+          "textUz": "Транспорт воситаси ҳаракатини 10 дақиқагача бўлган муддатга тўхтатиш (ҳаракатсиз ҳолатга келтириш)",
+          "textRu": "Прекращение движения транспортного средства на время до 10 минут (приведение в неподвижное состояние)",
+          "textOz": "Transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)",
+          "isCorrect": false
+        },
+        {
+          "id": 4591,
+          "textUz": "Транспорт воситасига йўловчиларни чиқариш ёки тушириш, юк ортиш ёки тушириш билан боғлиқ бўлмаган ҳолларда ҳаракатини 10 дақиқадан кўпроқ вақтга атайин тўхтатиш",
+          "textRu": "Преднамеренное прекращение движения транспортного средства на время более 10 минут по причинам, не связанным с посадкой или высадкой пассажиров либо загрузкой или разгрузкой транспортного средства.",
+          "textOz": "Transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatini 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4591
+      ]
+    },
+    {
+      "id": 728,
+      "questionUz": "Тўхташ деб нимага айтилади?",
+      "questionRu": "Что считается остановкой?",
+      "questionOz": "To‘xtash deb nimaga aytiladi?",
+      "explanationUz": "ЙҲҚнинг 10-боб. 64-банд 1-хатбошига асосан: 64. Рельссиз транспорт воситалари ҳаракатланадиган тасмалар сони чизиқлар ва (ёки) 5.8.1, 5.8.2, 5.8.7, 5.8.8 йўл белгилари билан белгиланади. Бундай чизиқлар ёки йўл белгилари бўлмаса, ҳайдовчилар ҳаракатланиш тасмалари сонини, қатнов қисмининг кенглигини, транспорт воситалари орасидаги зарур ёнлама оралиқ масофани ва уларнинг габарит ўлчамларини ҳисобга олган ҳолда ўзлари аниқлайдилар. Бунда ҳаракатланиш икки томонлама бўлган йўл қатнов қисмининг чап томондаги ярми, қатнов қисмининг жойлардаги кенгайишлари (секинлашиш ва тезлашиш тасмалари, баландликка кўта��илишдаги қўшимча тасмалар, йўналишли транспорт воситаларининг тўхташ жойларидаги кенгайишлар)ни ҳисобга олмаган ҳолда, қарама-қарши йўналишда ҳаракатланиш учун мўлжалланган деб ҳисобланади.",
+      "explanationRu": "На основании абзаца 1 пункта 64 главы 10 ПДД: 64. Количество полос движения для безрельсовых транспортных средств определяется разметкой и (или) дорожными знаками 5.8.1, 5.8.2, 5.8.7, 5.8.8. Если такой дорожной разметки или дорожных знаков нет — самими водителями, с учетом ширины проезжей части, габаритов транспортных средств и необходимых интервалов между ними. При этом на дорогах с двусторонним движением стороной, предназначенной для встречного движения, считается половина ширины проезжей части, расположенная слева, не считая местной ширины проезжей части (полосы торможения и разгона, дополнительные полосы на подъем, заездные карманы мест остановок маршрутных транспортных средств).",
+      "explanationOz": "YHQning 10-bob. 64-band 1-xatboshiga asosan: 64. Relssiz transport vositalari harakatlanadigan tasmalar soni chiziqlar va (yoki) 5.8.1, 5.8.2, 5.8.7, 5.8.8 yo‘l belgilari bilan belgilanadi. Bunday chiziqlar yoki yo‘l belgilari bo‘lmasa, haydovchilar harakatlanish tasmalari sonini, qatnov qismining kengligini, transport vositalari orasidagi zarur yonlama oraliq masofani va ularning gabarit o‘lchamlarini hisobga olgan holda o‘zlari aniqlaydilar. Bunda harakatlanish ikki tomonlama bo‘lgan yo‘l qatnov qismining chap tomondagi yarmi, qatnov qismining joylardagi kengayishlari (sekinlashish va tezlashish tasmalari, balandlikka ko‘tarilishdagi qo‘shimcha tasmalar, yo‘nalishli transport vositalarining to‘xtash joylaridagi kengayishlar)ni hisobga olmagan holda, qarama-qarshi yo‘nalishda harakatlanish uchun mo‘ljallangan deb hisoblanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4592,
+          "textUz": "Транспорт воситаси ҳаракатини 10 дақиқагача бўлган муддатга тўхтатиш (ҳаракатсиз ҳолатга келтириш)",
+          "textRu": "Прекращение движения транспортного средства на время до 10 минут (приведение в неподвижное состояние)",
+          "textOz": "Transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)",
+          "isCorrect": true
+        },
+        {
+          "id": 4593,
+          "textUz": "Транспорт воситасига йўловчиларни чиқариш ёки тушириш, юк ортиш ёки тушириш билан боғлиқ бўлмаган ҳолларда ҳаракатини 10 дақиқадан кўпроқ вақтга атайин тўхтатиш",
+          "textRu": "Преднамеренное прекращение движения транспортного средства на время более 10 минут по причинам, не связанным с посадкой или высадкой пассажиров либо загрузкой или разгрузкой транспортного средства",
+          "textOz": "Transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatini 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4592
+      ]
+    },
+    {
+      "id": 729,
+      "questionUz": "Aҳоли пунктларидан ташқарида қайси автомобиль тўхтаб туриш қоидасини бузмади?",
+      "questionRu": "За пределами населённых пунктов какой автомобиль не нарушил правила остановки?",
+      "questionOz": "Aholi punktlaridan tashqarida qaysi avtomobil to‘xtab turish qoidasini buzmadi?",
+      "explanationUz": "ЙҲҚнинг 22-боб. 133-банд 2-хатбошига асосан: Йўналишли транспорт воситаларига бекатлардан ташқари жойларда йўловчи олиш ва тушириш тақиқланади (йўналишли таксилар бундан мустасно).",
+      "explanationRu": "На основании абзаца 2 пункта 133 главы 22 ПДД: Маршрутным транспортным средствам запрещается посадка и высадка пассажиров в местах, отличных отостановок (за исключением маршрутных такси).",
+      "explanationOz": "YHQning 22-bob. 133-band 2-xatboshiga asosan: Yo‘nalishli transport vositalariga bekatlardan tashqari joylarda yo‘lovchi olish va tushirish taqiqlanadi (yo‘nalishli taksilar bundan mustasno).",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/58.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2443,
+          "textUz": "Қизил автомобиль",
+          "textRu": "Красный автомобиль",
+          "textOz": "Qizil avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2444,
+          "textUz": "Яшил автомобиль",
+          "textRu": "Зелёный автомобиль",
+          "textOz": "Yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2445,
+          "textUz": "Қизил ва яшил автомобиль",
+          "textRu": "Красный и зелёный автомобиль",
+          "textOz": "Qizil va yashil avtomobil",
+          "isCorrect": false
+        },
+        {
+          "id": 2446,
+          "textUz": "Барча автомобиллар тўхтаб туриш қоидасини бузди",
+          "textRu": "Все автомобили нарушили правила остановки",
+          "textOz": "Barcha avtomobillar to‘xtab turish qoidasini buzdi",
+          "isCorrect": false
+        },
+        {
+          "id": 2447,
+          "textUz": "Кўк автомобиль",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko‘k avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2443
+      ]
+    },
+    {
+      "id": 730,
+      "questionUz": "Автомобилга шу вазиятда тўхташга рухсат этиладими?",
+      "questionRu": "Разрешена ли остановка автомобиля в данной ситуации?",
+      "questionOz": "Avtomobilga shu vaziyatda to‘xtashga ruxsat etiladimi?",
+      "explanationUz": "Расмда олдинда хавфли ҳолат кўринмоқда. Бундай вазиятда тезликни зарур даражада камайтириш керак, шундай қилиб исталган пайтда тўхтаб олиш имконияти бўлади.",
+      "explanationRu": "Впереди опасность — снизьте скорость, чтобы успеть остановиться.",
+      "explanationOz": "Rasmda oldinda xavfli holat ko'rinmoqda. Bunday vaziyatda tezlikni zarur darajada kamaytirish kerak, shunday qilib istalgan paytda to'xtab olish imkoniyati bo'ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/61.9.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2448,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещена",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        },
+        {
+          "id": 2449,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешена",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2449
+      ]
+    },
+    {
+      "id": 731,
+      "questionUz": "Мазкур ҳолатда автобус тўғрига ҳаракатланса чорраҳага киришига рухсат этиладими?",
+      "questionRu": "Разрешается ли автобусу въезжать на перекресток в данной ситуации?",
+      "questionOz": "Mazkur holatda avtobus to'g'riga harakatlansa chorrahaga kirishiga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 27 – боби 162 – банди, саккизинчи хатбошига асосан: Қуйидаги шартларга амал қилинганда юк ташишга йўл қўйилади: енгил автомобилнинг том қисмига ўрнатилган юкхонасидаги юкнинг баландлиги 1 метрдан (махсус мосламалар билан мустаҳкамланган ҳолда велосипедлар ва индивидуал ҳаракатланиш воситаларини ташиш бундан мустасно) ва узунлиги автомобилнинг габаритидан 0,5 метрдан ошмаса.",
+      "explanationRu": "В соответствии с восьмым абзацем пункта 162 главы 27 ПДД: Перевозка груза допускается при условии, что груз: габариты груза, размещенного в багажнике, установленном на крыше легкового автомобиля не превышает 1 метра по высоте и 0,5 метра по длине (кроме случаев перевозки велосипедов, закрепленных специальными приспособлениями).",
+      "explanationOz": "YHQ 27 – bobi 162 – bandi, sakkizinchi xatboshiga asosan: Quyidagi shartlarga amal qilinganda yuk tashishga yo‘l qo‘yiladi: yengil avtomobilning tom qismiga o‘rnatilgan yukxonasidagi yukning balandligi 1 metrdan (maxsus moslamalar bilan mustahkamlangan holda velosipedlar va individual harakatlanish vositalarini tashish bundan mustasno) va uzunligi avtomobilning gabaritidan 0,5 metrdan oshmasa.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2450,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2451,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2452,
+          "textUz": "Агар автобус белгиланган йўналиш бўйича ҳаракатланаётган бўлса рухсат этилади",
+          "textRu": "Разрешается: если автобус движется по установленному маршруту",
+          "textOz": "Agar avtobus belgilangan yo'nalish bo'yicha harakatlanayotgan bo'lsa ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2451
+      ]
+    },
+    {
+      "id": 732,
+      "questionUz": "Қизил автомобил:",
+      "questionRu": "Красный автомобиль:",
+      "questionOz": "Qizil avtomobil:",
+      "explanationUz": "ЙҲҚ 16-боби 104 бандига асосан, тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳада иккинчи даражали йўлдан ҳаракатланаётган транспорт воситасининг ҳайдовчиси асосий йўлдан яқинлашаётган транспорт воситаларига уларнинг кейинги ҳаракатланиш йўналишидан қатъий назар, йўл бериши керак.",
+      "explanationRu": "Согласно пункту 104 главы 16 ПДД, на перекрестках неравнозначных дорог водитель транспортного средства, движущегося по второстепенной дороге, должен уступить дорогу транспортным средствам, приближающимся по главной дороге, независимо от направления их дальнейшего движения.",
+      "explanationOz": "YHQ 16-bobi 104 bandiga asosan, teng ahamiyatga ega bo'lmagan yo'llar kesishgan chorrahada ikkinchi darajali yo'ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo'ldan yaqinlashayotgan transport vositalariga ularning keyingi harakatlanish yo'nalishidan qat'i nazar, yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/6.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2453,
+          "textUz": "Кўк автомобилга нисбатан устунликка эга, чунки асосий йўлдан кетяпти",
+          "textRu": "Имеет преимущество перед синим, так как едет по главной дороге",
+          "textOz": "Ko'k avtomobilga nisbatan ustunlikka ega, chunki asosiy yo'ldan ketyapti",
+          "isCorrect": false
+        },
+        {
+          "id": 2454,
+          "textUz": "Кўк автомобилга нисбатан устунликка эга, чунки айланма ҳаракатли йўлдан кетаяпти",
+          "textRu": "Имеет преимущество перед синим, так как едет по дороге с круговым движением",
+          "textOz": "Ko'k avtomobilga nisbatan ustunlikka ega, chunki aylanma harakatli yo'ldan ketayapti",
+          "isCorrect": true
+        },
+        {
+          "id": 2455,
+          "textUz": "Чорраҳага ўнг томондан яқинлашиб келган кўк автомобилга йўл бериши керак",
+          "textRu": "Должен уступить дорогу синему; приблизившемуся к перекрестку справа",
+          "textOz": "Chorrahaga o'ng tomondan yaqinlashib kelgan ko'k avtomobilga yo'l berishi kerak",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2454
+      ]
+    },
+    {
+      "id": 733,
+      "questionUz": "Сариқ автобуснинг ҳайдовчисига чорраҳага чиқишга рухсат этиладими?",
+      "questionRu": "Разрешается ли выезд на перекресток водителю желтого автобуса?",
+      "questionOz": "Sariq avtobusning haydovchisiga chorrahaga chiqishga ruxsat etiladimi?",
+      "explanationUz": "ЙҲҚ 14-боби 97-бандига асосан, ҳайдовчи тирбандлик туфайли мажбурий тўхтаб, кўндаланг йўналишдаги транспорт воситаларининг ҳаракатланишига тўсқинлик туғдирадиган бўлса, чорраҳага кириши, агар тўхташ чизиғи ёки 5.33 йўл белгисидан ўтиб бўлган ҳайдовчига эса қатнов қисмлари кесишмасига кириши тақиқланади.",
+      "explanationRu": "Согласно пункту 97 главы 14 ПДД, водитель, который вынужден остановиться из-за образовавшегося впереди затора, не должен выезжать на перекресток,  а водитель пересек стоп-линию или дорожный знак 5.33, ему запрещается выезд пересечение проезжих частей, если он создает препятствие для движения транспортных средств в поперечном направлении.",
+      "explanationOz": "YHQ 14-bobi 97-bandiga asosan, haydovchi tirbandlik tufayli majburiy to'xtab, ko'ndalang yo'nalishdagi transport vositalarining harakatlanishiga to'sqinlik tug'diradigan bo'lsa, chorrahaga kirishi, agar to'xtash chizig'i yoki 5.33 yo'l belgisidan o'tib bo'lgan haydovchiga esa qatnov qismlari kesishmasiga kirishi taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/11.11.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2456,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 2457,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2458,
+          "textUz": "Агар автобус белгиланган йўналиш бўйича юрса рухсат этилади",
+          "textRu": "Если автобус движется по установленному маршруту",
+          "textOz": "Agar avtobus belgilangan yo'nalish bo'yicha yursa ruxsat etiladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2457
+      ]
+    },
+    {
+      "id": 734,
+      "questionUz": "Кўрсатилган вазиятда ҳайдовчи қандай йўл тутиши керак?",
+      "questionRu": "Как должен поступить водитель в показанной ситуации?",
+      "questionOz": "Ko'rsatilgan vaziyatda haydovchi qanday yo'l tutishi kerak?",
+      "explanationUz": "ЙҲҚ 14-боби 96-бандига асосан, чапга ёки ўнгга бурилаётган ҳайдовчи кесишаётган йўлнинг қатнов қисмидан ўтаётган пиёда(лар)га, шунингдек велосипед йўлкасидан йўлни кесиб ўтаётган велосипедчи(лар)га йўл бериши керак.",
+      "explanationRu": "Согласно пункту 96 главы 14 ПДД, при повороте направо или налево водитель обязан уступить дорогу пешеходам, переходящим проезжую часть пересекаемой дороги, а также велосипедистам, пересекающим дорогу по велосипедной дорожке.",
+      "explanationOz": "YHQ 14-bobi 96-bandiga asosan, chapga yoki o'ngga burilayotgan haydovchi kesishayotgan yo'lning qatnov qismidan o'tayotgan piyoda(lar)ga, shuningdek velosiped yo'lkasidan yo'lni kesib o'tayotgan velosipedchi(lar)ga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/20.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2459,
+          "textUz": "Пиёдаларга мазкур йўналишнинг қатнов қисмидан бутунлай ўтиб олишларига имкон бериши",
+          "textRu": "Дать возможность пешеходам закончить переход проезжей части данного направления",
+          "textOz": "Piyodalarga mazkur yo'nalishning qatnov qismidan butunlay o'tib olishlariga imkon berishi",
+          "isCorrect": true
+        },
+        {
+          "id": 2460,
+          "textUz": "Йўл-транспорт фалокати олдини олиш учун товуш ишора бериши ва асосий йўлда бўлгани сабабли пиёдаларга йўл бермай ўтиш жойидан ўтиши",
+          "textRu": "Подать звуковой сигнал для предотвращения дорожно-транспортного происшествия и не уступая дорогу пешеходам проехать переход так как он находится на главной дороге",
+          "textOz": "Yo'l-transport falokati oldini olish uchun tovush ishora berishi va asosiy yo'lda bo'lgani sababli piyodalarga yo'l bermay o'tish joyidan o'tishi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2459
+      ]
+    },
+    {
+      "id": 735,
+      "questionUz": "Қайси транспорт воситаси ҳайдовчиси йўл бериши керак?",
+      "questionRu": "Водитель какого транспортного средства должен уступить дорогу?",
+      "questionOz": "Qaysi transport vositasi haydovchisi yo'l berishi kerak?",
+      "explanationUz": "ЙҲҚ 16-боби 104-бандига асосан, тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳада иккинчи даражали йўлдан ҳаракатланаётган транспорт воситасининг ҳайдовчиси асосий йўлдан яқинлашаётган транспорт воситаларига уларнинг кейинги ҳаракатланиш йўналишидан қатъи назар, йўл бериши керак.",
+      "explanationRu": "Согласно пункту 104 главы 16 ПДД, на перекрестках неравнозначных дорог водитель транспортного средства, движущегося по второстепенной дороге, должен уступить дорогу транспортным средствам, приближающимся по главной дороге, независимо от направления их дальнейшего движения.",
+      "explanationOz": "YHQ 16-bobi 104-bandiga asosan, teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada ikkinchi darajali yo‘ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo‘ldan yaqinlashayotgan transport vositalariga ularning keyingi harakatlanish yo‘nalishidan qat'i nazar, yo‘l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/22.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2461,
+          "textUz": "Автомобил ҳайдовчиси",
+          "textRu": "Водитель автомобиля",
+          "textOz": "Avtomobil haydovchisi",
+          "isCorrect": false
+        },
+        {
+          "id": 2462,
+          "textUz": "Мотоцикл ҳайдовчиси",
+          "textRu": "Водитель мотоцикла",
+          "textOz": "Motosikl haydovchisi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2462
+      ]
+    },
+    {
+      "id": 736,
+      "questionUz": "Кўрсатилган вазиятда ўнгга бурилар экан ҳайдовчи қандай йўл тутиши керак?",
+      "questionRu": "Как должен поступить водитель; поворачивая направо в показанной ситуации?",
+      "questionOz": "Ko'rsatilgan vaziyatda o'ngga burilar ekan haydovchi qanday yo'l tutishi kerak?",
+      "explanationUz": "ЙҲҚ 14-боби 96-бандига асосан, чапга ёки ўнгга бурилаётган ҳайдовчи кесишаётган йўлнинг қатнов қисмидан ўтаётган пиёда(лар)га, шунингдек велосипед йўлкасидан йўлни кесиб ўтаётган велосипедчи(лар)га йўл бериши керак.",
+      "explanationRu": "Согласно пункту 96 главы 14 ПДД, при повороте направо или налево водитель обязан уступить дорогу пешеходам, переходящим проезжую часть пересекаемой дороги, а также велосипедистам, пересекающим дорогу по велосипедной дорожке.",
+      "explanationOz": "YHQ 14-bobi 96-bandiga asosan, chapga yoki o'ngga burilayotgan haydovchi kesishayotgan yo'lning qatnov qismidan o'tayotgan piyoda(lar)ga, shuningdek velosiped yo'lkasidan yo'lni kesib o'tayotgan velosipedchi(lar)ga yo'l berishi kerak.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/32.5.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2463,
+          "textUz": "Устунлик ҳуқуқидан фойдаланиб, товушли хабар бериши ва белгиланган йўналишда ҳаракатни давом эттириши",
+          "textRu": "Используя преимущественное право, подать звуковой сигнал и продолжать движение в намеченном направлении",
+          "textOz": "Ustunlik huquqidan foydalanib, tovushli xabar berishi va belgilangan yo'nalishda harakatni davom ettirishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2464,
+          "textUz": "Ҳаракат тезлигини пасайтириши ва алоҳида эҳтиёткорлик билан йўлда давом этиши",
+          "textRu": "Снизить скорость движения и следовать с особой осторожностью",
+          "textOz": "Harakat tezligini pasaytirishi va alohida ehtiyotkorlik bilan yo'lda davom etishi",
+          "isCorrect": false
+        },
+        {
+          "id": 2465,
+          "textUz": "Қатнов қисмидан ўтувчи пиёдаларга йўл бериши",
+          "textRu": "Пропустить пешеходов; переходящих проезжую часть",
+          "textOz": "Qatnov qismidan o'tuvchi piyodalarga yo'l berishi",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2465
+      ]
+    },
+    {
+      "id": 737,
+      "questionUz": "Чорраҳага киришда  Сиз:",
+      "questionRu": "При въезде на перекресток Вы:",
+      "questionOz": "Chorrahaga kirishda  Siz:",
+      "explanationUz": "ЙҲҚ 1-иловасининг 4-бўлими 4.1.2 «Ҳаракатланиш ўнгга» белгисига мувофиқ, ушбу белгининг таъсир оралиғида фақат йўналтиргич буюрган томонга ҳаракатланишга рухсат этилади. 4.1.2 белгиси йўл қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага таъсир этади.",
+      "explanationRu": "Согласно знаку 4.1.2 раздела 4 приложения № 1 к ПДД, «Движение направо», разрешается движение только в направлениях, указанных на знаке стрелкой. Действие знака 4.1.2 распространяется на пересечение проезжих частей, перед которым установлен знак.",
+      "explanationOz": "YHQ 1-ilovasining 4-bo'limi 4.1.2 \"Harakatlanish o'ngga\" belgisiga muvofiq, ushbu belgining ta'sir oralig'ida faqat yo'naltirgich buyurgan tomonga harakatlanishga ruxsat etiladi. 4.1.2 belgisi yo'l qatnov qismlarining qaysi kesishmasi oldiga o'rnatilsa, shu kesishmaga ta'sir etadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/39.2.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2466,
+          "textUz": "Мотоциклга йўл беришингиз керак",
+          "textRu": "Должны уступить дорогу только мотоциклу",
+          "textOz": "Motosiklga yo'l berishingiz kerak",
+          "isCorrect": false
+        },
+        {
+          "id": 2467,
+          "textUz": "Ҳар иккисига  ҳам\u000bйўл беришингиз керак",
+          "textRu": "Должны уступить \u000bдорогу обоим транспортным средствам",
+          "textOz": "Har ikkisiga  ham\u000byo'l berishingiz kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 2468,
+          "textUz": "Биринчи ўтиш  \u000bҳуқуқига  эгасиз",
+          "textRu": "Имеете преимущественное право на движение",
+          "textOz": "Birinchi o'tish  \u000bhuquqiga  egasiz",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2467
+      ]
+    },
+    {
+      "id": 738,
+      "questionUz": "Ушбу чорраҳада ким йўл беради?",
+      "questionRu": "Кто должен уступить дорогу на этом перекрестке?",
+      "questionOz": "Ushbu chorrahada kim yo'l beradi?",
+      "explanationUz": "ЙҲҚ 1-иловасининг 2-бўлими 2.5 белгисига асосан, «Тўхтамасдан ҳаракатланиш тақиқланган». Тўхташ чизиғи олдида, агар у бўлмаса, кесиб ўтиладиган қатнов қисмининг четида тўхтамасдан ҳаракатланиш тақиқланади.",
+      "explanationRu": "Согласно знаку 2.5 раздела 2 приложения № 1 к ПДД,  «Движение без остановки запрещено». Запрещается движение без остановки перед стоп-линией, а если ее нет — перед краем пересекаемой проезжей части.",
+      "explanationOz": "YHQ 1-ilovasining 2-bo'limi 2.5 belgisiga asosan, \"To'xtamasdan harakatlanish taqiqlangan\". To'xtash chizig'i oldida, agar u bo'lmasa, kesib o'tiladigan qatnov qismining chetida to'xtamasdan harakatlanish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/42.19.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2469,
+          "textUz": "Кўк автомобил",
+          "textRu": "Синий автомобиль",
+          "textOz": "Ko'k avtomobil",
+          "isCorrect": true
+        },
+        {
+          "id": 2470,
+          "textUz": "Мотосикл ва сариқ автомобил",
+          "textRu": "Мотоцикл и жёлтая машина",
+          "textOz": "Motosikl va sariq avtomobil",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2469
+      ]
+    },
+    {
+      "id": 739,
+      "questionUz": "Чапга бурилаётган ҳайдовчи кесишаётган йўлнинг қатнов қисмидан ўтаётган пиёдаларга йўл бериши керакми?",
+      "questionRu": "Нужно ли уступать дорогу пешеходам, переходящим дорогу там. где водитель поворачивает налево?",
+      "questionOz": "Chapga burilayotgan haydovchi kesishayotgan yo'lning qatnov qismidan o'tayotgan piyodalarga yo'l berishi kerakmi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 106 бандига асосан, Асосий йўлнинг йўналиши чорраҳада ўзгарганда, асосий йўлда ҳаракатланаётган ҳайдовчилар ўзаро тенг аҳамиятли йўллар чорраҳасидан ўтиш қоидасига амал қилишлари керак.\r\nИккинчи даражали йўлларда ҳаракатланаётган ҳайдовчилар ҳам ўзаро шу қоидага амал қилишлари керак.",
+      "explanationRu": "Согласно пункту 106 Правил дорожного движения, Если главная дорога на перекрестке меняет направление, водители, движущиеся по главной дороге, должны руководствоваться между собой правилами проезда перекрестков равнозначных дорог.\r\nЭтим же правилом должны руководствоваться между собой и водители, движущиеся по второстепенным дорогам.",
+      "explanationOz": "Yo‘l harakati qoidalarining 106 bandiga asosan, Asosiy yo‘lning yo‘nalishi chorrahada o‘zgarganda, asosiy yo‘lda harakatlanayotgan haydovchilar o‘zaro teng ahamiyatli yo‘llar chorrahasidan o‘tish qoidasiga amal qilishlari kerak.\r\nIkkinchi darajali yo‘llarda harakatlanayotgan haydovchilar ham o‘zaro shu qoidaga amal qilishlari kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2471,
+          "textUz": "Ҳа, барча ҳолларда ўтказилиши керак",
+          "textRu": "Да, во всех случаях",
+          "textOz": "Ha, barcha hollarda o'tkazilishi kerak",
+          "isCorrect": true
+        },
+        {
+          "id": 2472,
+          "textUz": "Ҳа, агарда пиёдалар ўтиш жойи бўлса",
+          "textRu": "Да, если есть пешеходный переход",
+          "textOz": "Ha, agarda piyodalar o'tish joyi bo'lsa",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2471
+      ]
+    },
+    {
+      "id": 740,
+      "questionUz": "Айланма ҳаракатланиш чорраҳасида...",
+      "questionRu": "На кольцевой развязке:",
+      "questionOz": "Aylanma harakatlanish chorrahasida...",
+      "explanationUz": "ЙҲҚ 1-иловасининг 7-бўлимидаги 7.6.1 белгига асосан, “Транспорт воситасини тўхтаб туриш жойига қўйиш усули”. 7.6.1 барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини билдиради.",
+      "explanationRu": "Знак 7.6.1 раздела 7 приложения № 1 к ПДД, «Способ постановки транспортного средства на стоянку». 7.6.1 указывает способ постановки транспортного средства на проезжую часть, вдоль тротуара.",
+      "explanationOz": "YHQ 1-ilovasining 7-bo‘limidagi 7.6.1 belgiga asosan, “Transport vositasini to‘xtab turish joyiga qo‘yish usuli”. 7.6.1 barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini bildiradi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2473,
+          "textUz": "Ҳаракатланаётган транспорт воситалари айланага кириб келаётган транспорт воситаларига нисбатан устунликка (имтиёзга) эга",
+          "textRu": "Движущиеся транспортные средства имеют приоритет (преимущество) перед транспортными средствами, въезжающими на круговое движение",
+          "textOz": "Harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega",
+          "isCorrect": true
+        },
+        {
+          "id": 2474,
+          "textUz": "Ҳаракатланаётган транспорт воситаларига нисбатан айланага кириб келаётган транспорт воситалари устунликка (имтиёзга) эга",
+          "textRu": "Транспортные средства, въезжающие на круговое движение, имеют приоритет по отношению к движущимися транспортными средствами по круговому движению",
+          "textOz": "Harakatlanayotgan transport vositalariga nisbatan aylanaga kirib kelayotgan transport vositalari ustunlikka (imtiyozga) ega",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2473
+      ]
+    },
+    {
+      "id": 741,
+      "questionUz": "Бу вазиятда сиз ўнгга бурилаётиб, Сиз:",
+      "questionRu": "Когда вы поворачиваете направо в этой ситуации, вы:",
+      "questionOz": "Bu vaziyatda siz o'ngga burilayotib, Siz:",
+      "explanationUz": "Йўл ҳаракати қоидаларига 3-илова 2.1 бандига асосан, бошқарув қурилмасининг люфт йиғиндиси регламент (қатъий белгиланган) шароитлардаги синовларда қуйидаги кўрсаткичдан катта бўлмаслиги керак: N1 – 20 даража.",
+      "explanationRu": "Согласно пункту 2.1 Приложение № 3 к Правилам дорожного движения, суммарный люфт в рулевом управлении в регламентированных условиях испытаний автотранспортного средства не должен превышать следующих значений: N1 – 20 градус.",
+      "explanationOz": "Yo‘l harakati qoidalariga 3-ilova 2.1 bandiga asosan, boshqaruv qurilmasining lyuft yig‘indisi reglament (qat’iy belgilangan) sharoitlardagi sinovlarda quyidagi ko‘rsatkichdan katta bo‘lmasligi kerak: N1 – 20 daraja.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/46.14.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 2475,
+          "textUz": "Фақат транспорт воситаларга йўл берасиз",
+          "textRu": "Вы уступаете дорогу только транспортным средсвам",
+          "textOz": "Faqat transport vositalarga yo'l berasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 2476,
+          "textUz": "Барча қатнов қисмидаги пиёдаларга йўл берасиз",
+          "textRu": "F2. Вы уступите дорогу пешеходам на всей проезжей части",
+          "textOz": "Barcha qatnov qismidagi piyodalarga yo'l berasiz",
+          "isCorrect": false
+        },
+        {
+          "id": 2477,
+          "textUz": "Ҳаракат йўналиши бўйича ва бурилаётган кўчани кесиб ўтаётган пиёдаларга ҳамда боршқа транспорт воситларига йўл берасиз",
+          "textRu": "Вы уступите дорогу пешеходам и другим транспортным средствам, пересекающим улицу в направлении движения и при повороте",
+          "textOz": "Harakat yo'nalishi bo'yicha va burilayotgan ko'chani kesib o'tayotgan piyodalarga hamda borshqa transport vositlariga yo'l berasiz",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        2477
+      ]
+    },
+    {
+      "id": 742,
+      "questionUz": "Айланма ҳаракатланиш чорраҳасида:",
+      "questionRu": "На перекрёстке кругового движения:",
+      "questionOz": "Aylanma harakatlanish chorrahasida:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 132 бандига асосан, Йўналишли транспорт воситаларининг ҳаракатланиши учун 5.9, 5.10.1 — 5.10.3 йўл белгилари билан ажратилган тасмада бошқа транспорт воситаларининг ҳаракатланиши ва тўхташи тақиқланади.\r\nАгар 5.9 йўл белгиси билан белгиланган тасма қатнов қисмининг бошқа тасмалардан узуқ-узуқ чизиқ билан ажратилган бўлса, бурилмоқчи бўлаётган транспорт воситалари бу тасмага қайта тизилишлари керак.\r\nШунингдек, бундай жойларда йўналишли транспорт воситаларининг ҳаракатига халақит бермаслик шарти билан йўлга чиқиш, қатнов қисмининг четки ўнг томонида йўловчиларни чиқариш ва тушириш учун бу бўлакка ўтишга рухсат этилади.",
+      "explanationRu": "Согласно пункту 132 Правил дорожного движения, По полосе, обозначенной дорожными знаками 5.9, 5.10.1 — 5.10.3 для движения маршрутных транспортных средств, движение и остановка других транспортных средств запрещается.\r\nЕсли полоса, обозначенная дорожным знаком 5.9 отделена от остальной проезжей части дороги прерывистой линией разметки, то при поворотах транспортные средства должны перестраиваться на эту полосу.\r\nРазрешается также в таких местах заезжать на эту полосу при въезде на дорогу и для посадки и высадки пассажиров у правого края проезжей части при условии, что это не создаст помех движению маршрутных транспортных средств.",
+      "explanationOz": "Yo‘l harakati qoidalarining 132 bandiga asosan, Yo‘nalishli transport vositalarining harakatlanishi uchun 5.9, 5.10.1 — 5.10.3 yo‘l belgilari bilan ajratilgan tasmada boshqa transport vositalarining harakatlanishi va to‘xtashi taqiqlanadi.\r\nAgar 5.9 yo‘l belgisi bilan belgilangan tasma qatnov qismining boshqa tasmalardan uzuq-uzuq chiziq bilan ajratilgan bo‘lsa, burilmoqchi bo‘layotgan transport vositalari bu tasmaga qayta tizilishlari kerak.\r\nShuningdek, bunday joylarda yo‘nalishli transport vositalarining harakatiga xalaqit bermaslik sharti bilan yo‘lga chiqish, qatnov qismining chetki o‘ng tomonida yo‘lovchilarni chiqarish va tushirish uchun bu bo‘lakka o‘tishga ruxsat etiladi.",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 2478,
+          "textUz": "Ҳаракатланаётган транспорт воситалари айланага кириб келаётган транспорт воситаларига нисбатан устунликка (имтиёзга) эга",
+          "textRu": "Транспортные средства, движущиеся на перекрестке с круговым движением, имеют приоритет (преимущество) по отношению к транспортным средствам, въезжающим на перекресток",
+          "textOz": "Harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega",
+          "isCorrect": true
+        },
+        {
+          "id": 2479,
+          "textUz": "Ҳаракатланаётган транспорт воситаларига нисбатан айланага кириб келаётган транспорт воситалари устунликка (имтиёзга) эга",
+          "textRu": "Транспортные средства въезжающий на перекрестокимеют приоритет (преимущество) по отношению к транспортным средствамдвижущиеся на перекрестке",
+          "textOz": "Harakatlanayotgan transport vositalariga nisbatan aylanaga kirib kelayotgan transport vositalari ustunlikka (imtiyozga) ega",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        2478
+      ]
+    }
+  ]
+}

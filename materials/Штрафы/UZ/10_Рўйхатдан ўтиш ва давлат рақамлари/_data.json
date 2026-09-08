@@ -1,0 +1,26 @@
+{
+  "category": "Рўйхатдан ўтиш ва давлат рақамлари",
+  "count": 2,
+  "fines": [
+    {
+      "article": 125,
+      "subArticle": 5,
+      "violation": "Давлат рақамисиз ҳаракатланиш",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "0.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 125,
+      "subArticle": 6,
+      "violation": "Қалбаки ёки сохта давлат рақами билан ҳаракатланиш",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    }
+  ]
+}

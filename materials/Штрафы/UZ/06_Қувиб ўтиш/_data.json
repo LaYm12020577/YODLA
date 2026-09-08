@@ -1,0 +1,26 @@
+{
+  "category": "Қувиб ўтиш",
+  "count": 2,
+  "fines": [
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Нотўғри қувиб ўтиш (биринчи марта)",
+      "fineBhm": "5.00",
+      "fineUzs": "2060000",
+      "penaltyPoints": "3.0",
+      "additionalPenalty": null,
+      "repeatOffense": false
+    },
+    {
+      "article": 130,
+      "subArticle": null,
+      "violation": "Нотўғри қувиб ўтиш (такрорий)",
+      "fineBhm": "10.00",
+      "fineUzs": "4120000",
+      "penaltyPoints": "5.0",
+      "additionalPenalty": "ҳайдовчилик гувоҳномасидан маҳрум қилиш",
+      "repeatOffense": true
+    }
+  ]
+}

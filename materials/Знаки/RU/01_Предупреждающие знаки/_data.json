@@ -1,0 +1,270 @@
+{
+  "category": "Предупреждающие знаки",
+  "count": 44,
+  "signs": [
+    {
+      "number": "1.1",
+      "description": "«Железнодорожный переезд со шлагбаумом».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.1_resize-min.png.webp",
+      "imageFile": "1.1.webp"
+    },
+    {
+      "number": "1.2",
+      "description": "«Железнодорожный переезд без шлагбаума».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.2_resize-min.png.webp",
+      "imageFile": "1.2.webp"
+    },
+    {
+      "number": "1.3.1",
+      "description": "«Однопутная железная дорога».\n“Однопутная железная дорога”. Обозначение не оборудованного шлагбаумом переезда через железную дорогу с одним путем",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.3.1_resize-min.png",
+      "imageFile": "1.3.1.png"
+    },
+    {
+      "number": "1.3.2",
+      "description": "«Многопутная железная дорога».\n“Многопутная железная дорога”. Обозначение не оборудованного шлагбаумом переезда через железную дорогу с двумя и более путями",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.3.2_resize-min.png.webp",
+      "imageFile": "1.3.2.webp"
+    },
+    {
+      "number": "1.4.1 – 1.4.6",
+      "description": "«Приближение к железнодорожному переезду».\nДаёт дополнительное предупреждение о приближении к железнодорожному переезду вне населённых пунктов.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.4_resize-230x300.png.webp",
+      "imageFile": "1.4.1 – 1.4.6.webp"
+    },
+    {
+      "number": "1.5",
+      "description": "«Пересечение с трамвайной линией».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.5_resize-min.png.webp",
+      "imageFile": "1.5.webp"
+    },
+    {
+      "number": "1.6",
+      "description": "«Пересечение равнозначных дорог».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.6_resize-min.png.webp",
+      "imageFile": "1.6.webp"
+    },
+    {
+      "number": "1.7",
+      "description": "«Пересечение с круговым движением».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.7_resize-min.png.webp",
+      "imageFile": "1.7.webp"
+    },
+    {
+      "number": "1.8",
+      "description": "«Светофорное регулирование».\nОзначает, что перекресток, пешеходный переход или участок дороги, движение на котором регулируется светофором.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.8_resize-min.png.webp",
+      "imageFile": "1.8.webp"
+    },
+    {
+      "number": "1.9",
+      "description": "«Разводной мост».\nРазводной мост или паромная переправа.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.9_resize-min.png.webp",
+      "imageFile": "1.9.webp"
+    },
+    {
+      "number": "1.10",
+      "description": "«Выезд на набережную».\nОзначает выезд на набережную или берег.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.10_resize-min.png.webp",
+      "imageFile": "1.10.webp"
+    },
+    {
+      "number": "1.11.1",
+      "description": "«Опасный поворот направо».\n“Опасный поворот”. Закругление дороги малого радиуса или с ограниченной видимостью: направо",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.11.1_resize-min.png.webp",
+      "imageFile": "1.11.1.webp"
+    },
+    {
+      "number": "1.11.2",
+      "description": "«Опасный поворот налево».\n“Опасный поворот”. Закругление дороги малого радиуса или с ограниченной видимостью: налево",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.11.2_resize-min.png.webp",
+      "imageFile": "1.11.2.webp"
+    },
+    {
+      "number": "1.12.1",
+      "description": "«Опасные повороты».\n“Опасные повороты”. Участок дороги с опасными поворотами: с первым поворотом направо",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.12.1_resize-min.png.webp",
+      "imageFile": "1.12.1.webp"
+    },
+    {
+      "number": "1.12.2",
+      "description": "«Опасные повороты».\n“Опасные повороты”. Участок дороги с опасными поворотами: с первым поворотом налево",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.12.2_resize-min.png.webp",
+      "imageFile": "1.12.2.webp"
+    },
+    {
+      "number": "1.13",
+      "description": "«Крутой спуск».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.13_resize-min.png.webp",
+      "imageFile": "1.13.webp"
+    },
+    {
+      "number": "1.14",
+      "description": "«Крутой подъем».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.14_resize-min.png.webp",
+      "imageFile": "1.14.webp"
+    },
+    {
+      "number": "1.15",
+      "description": "«Скользкая дорога».\nУчасток дороги с повышенной скользкостью проезжей части.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.15_resize-min.png.webp",
+      "imageFile": "1.15.webp"
+    },
+    {
+      "number": "1.16",
+      "description": "«Неровная дорога».\nОзначает участок дороги, имеющий неровности на проезжей части (волнистость, выбоины, неплавные сопряжения с мостами и т. п.).",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.16_resize-min.png.webp",
+      "imageFile": "1.16.webp"
+    },
+    {
+      "number": "1.17",
+      "description": "«Выброс гравия».\nУчасток дороги, на котором возможен выброс гравия щебня и тому подобного из-под колес транспортных средств.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.17_resize-min.png.webp",
+      "imageFile": "1.17.webp"
+    },
+    {
+      "number": "1.18.1",
+      "description": "«Сужение дороги».\nОзначает сужения с обеих сторон",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.1_resize-min.png.webp",
+      "imageFile": "1.18.1.webp"
+    },
+    {
+      "number": "1.18.2",
+      "description": "«Сужение дороги».\nОзначает сужения с справа",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.2_resize-min.png.webp",
+      "imageFile": "1.18.2.webp"
+    },
+    {
+      "number": "1.18.3",
+      "description": "«Сужение дороги».\nОзначает сужения с слева",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.18.3_resize-min.png.webp",
+      "imageFile": "1.18.3.webp"
+    },
+    {
+      "number": "1.19",
+      "description": "«Двустороннее движение».\nОзначает начало участка дороги (проезжей части) с встречным движением.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.19_resize-min.png.webp",
+      "imageFile": "1.19.webp"
+    },
+    {
+      "number": "1.20",
+      "description": "«Пешеходный переход».\nПешеходный переход, обозначенный знаками 5.16.1, 5.16.2, 5.48 и (или) 1.14.1 — 1.14.4, 1.29.1 — 1.29.3 означают пешеходный переход.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.20_resize-min.png.webp",
+      "imageFile": "1.20.webp"
+    },
+    {
+      "number": "1.21",
+      "description": "«Дети».\nОзначает участок дороги вблизи детского учреждения (школы, места отдыха детей и т. п.), на проезжей части которого возможно появление детей.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.21_resize-min.png.webp",
+      "imageFile": "1.21.webp"
+    },
+    {
+      "number": "1.22",
+      "description": "«Пересечение с велосипедной дорожкой».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.22_resize-min.png.webp",
+      "imageFile": "1.22.webp"
+    },
+    {
+      "number": "1.23",
+      "description": "«Дорожные работы».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.23_resize-min.png.webp",
+      "imageFile": "1.23.webp"
+    },
+    {
+      "number": "1.24",
+      "description": "«Перегон скота».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.24_resize-min.png.webp",
+      "imageFile": "1.24.webp"
+    },
+    {
+      "number": "1.25.1",
+      "description": "«Дикие животные».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.1_resize-min.png.webp",
+      "imageFile": "1.25.1.webp"
+    },
+    {
+      "number": "1.25.2",
+      "description": "«Низколетящие птицы».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.2_resize-min.png.webp",
+      "imageFile": "1.25.2.webp"
+    },
+    {
+      "number": "1.25.3",
+      "description": "«Грызуны и пресмыкающиеся животные».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.25.3_resize-min.png.webp",
+      "imageFile": "1.25.3.webp"
+    },
+    {
+      "number": "1.26",
+      "description": "«Падение камней».\nОзначает участок дороги, на котором возможны обвалы, оползни, падение камней.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.26_resize-min.png.webp",
+      "imageFile": "1.26.webp"
+    },
+    {
+      "number": "1.27",
+      "description": "«Боковой ветер».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.27_resize-min.png.webp",
+      "imageFile": "1.27.webp"
+    },
+    {
+      "number": "1.28",
+      "description": "«Низколетящие самолеты».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.28_resize.png.webp",
+      "imageFile": "1.28.webp"
+    },
+    {
+      "number": "1.29",
+      "description": "«Тоннель».\nОзначает тоннель, в котором отсутствует искусственное освещение, или тоннель, видимость въездного портала которого ограничена.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.29_resize-min.png.webp",
+      "imageFile": "1.29.webp"
+    },
+    {
+      "number": "1.30",
+      "description": "«Прочие опасности».\nОзначает участок дороги, на котором имеются опасности, не предусмотренные другими предупреждающими знаками.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.30_resize-min.png.webp",
+      "imageFile": "1.30.webp"
+    },
+    {
+      "number": "1.31",
+      "description": "«Искусственная неровность дороги».\nПредупреждает о приближении к участку дороги с искусственной неровностью. Применяется для принудительного снижения скорости движения транспортного средства.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31_resize-min.png.webp",
+      "imageFile": "1.31.webp"
+    },
+    {
+      "number": "1.31.3",
+      "description": "«Направление поворота».\nОзначает направление движения на Т-образном перекрестке или разветвлении дорог и направление объезда ремонтируемого участка дороги.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31.3_resize-min.png",
+      "imageFile": "1.31.3.png"
+    },
+    {
+      "number": "1.31.1 – 1.31.2",
+      "description": "«Направление поворота».\nУказывает направление движения на закруглении дороги малого радиуса с ограниченной видимостью и направление объезда ремонтируемого участка дороги.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.31.1_resize-min.png.webp",
+      "imageFile": "1.31.1 – 1.31.2.webp"
+    },
+    {
+      "number": "1.32",
+      "description": "«Затор».\nЗнак применяется в качестве временного или в знаках с изменяемым изображением перед перекрестком, откуда возможен объезд участка дороги, на котором образовался затор.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.32_resize-min.png.webp",
+      "imageFile": "1.32.webp"
+    },
+    {
+      "number": "1.33",
+      "description": "«Территория пересечения проезжих частей».\nОзначает приближение к перекрестку, который обозначен горизонтальной разметкой 1.30. Означает, что водителю, который проехал стоп-линию или дорожный знак 5.33 запрещается выезжать на пересечение проезжих частей, если он совершит вынужденную остановку из-за впереди образовавщегося затора и этим создаст помеху движению транспортных средств в поперечном направлении.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.33_resize-min.png.webp",
+      "imageFile": "1.33.webp"
+    },
+    {
+      "number": "1.34",
+      "description": "«Внимание, управляемое заградительное устройство».\nПредупреждает водителей о наличии заградительного устройства и устанавливается не доезжая до него.",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.34_resize-min.png.webp",
+      "imageFile": "1.34.webp"
+    },
+    {
+      "number": "1.35",
+      "description": "«Территория, где пешеходы могут двигаться по обочине».",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2024/06/1.35_resize-min.png.webp",
+      "imageFile": "1.35.webp"
+    }
+  ]
+}

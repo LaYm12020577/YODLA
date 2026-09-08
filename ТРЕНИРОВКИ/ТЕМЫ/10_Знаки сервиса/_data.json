@@ -1,0 +1,57 @@
+{
+  "title": "10. Знаки сервиса (боб 1.6)",
+  "count": 1,
+  "questions": [
+    {
+      "id": 297,
+      "questionUz": "Қайси белги «Меҳмонхона»ни билдиради?",
+      "questionRu": "Какой знак обозначает «Гостиницу» ?",
+      "questionOz": "Qaysi belgi «Mehmonxona»ni bildiradi?",
+      "explanationUz": "Қайси белги меҳмонхонани билдириши сўралаётган экан. Демак, тўғри жавоб — учинчи белги бўлади. Ушбу белги меҳмонхона мавжудлигини билдиради.",
+      "explanationRu": "Вопрос заключается в том, какой знак обозначает гостиницу. Правильным ответом является третий знак. Этот знак информирует о наличии гостиницы.",
+      "explanationOz": "Qaysi belgi mehmonxonani bildirishi soʻralayotgan ekan. Demak, toʻgʻri javob — uchinchi belgi bo‘ladi. Ushbu belgi mehmonxona mavjudligini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/28.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5404,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 5405,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 5406,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 5407,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 5408,
+          "textUz": "5",
+          "textRu": "5",
+          "textOz": "5",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5406
+      ]
+    }
+  ]
+}

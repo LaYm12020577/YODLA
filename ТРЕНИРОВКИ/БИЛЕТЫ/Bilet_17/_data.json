@@ -1,0 +1,760 @@
+{
+  "title": "Bilet 17",
+  "count": 20,
+  "questions": [
+    {
+      "id": 322,
+      "questionUz": "Енгил автомобилда  қайси йўналишларда  ҳаракатланишга рухсат  этилади?",
+      "questionRu": "В каких направлениях Вам разрешено продолжить движение на легковом автомобиле?",
+      "questionOz": "Engil avtomobilda qaysi yo'nalishlarda  harakatlanishga ruxsat  etiladi?",
+      "explanationUz": "Енгил автомобил қайси йўналишларда ҳаракатланишга рухсат этилиши сўралмоқда. Ушбу ҳолатда йўл белгиси 4.1.1 \"Фақат тўғрига ҳаракатланиш\" белгиси бўлиб, у қўшимча ахборот белгиси билан биргаликда рухсат этилган тўла вазни 3,5 тоннадан ортиқ бўлган юк автомобилларига тааллуқли ҳисобланади.\r\n\r\nШунинг учун ушбу белги енгил автомобил ҳайдовчисига нисбатан амал қилмайди. Демак, енгил автомобил исталган йўналишда ҳаракатланишга рухсат этилади.\r\n\r\nТўғри жавоб — барча кўрсатилган йўналишларда ҳаракатланиш мумкин.",
+      "explanationRu": "Вопрос заключается в том, в каких направлениях разрешено движение легковому автомобилю. В данной ситуации знак 4.1.1 «Движение прямо» применяется вместе с дополнительной табличкой и распространяется только на грузовые автомобили с разрешённой максимальной массой более 3,5 тонн.\r\n\r\nСледовательно, на водителя легкового автомобиля действие данного знака не распространяется. Поэтому легковому автомобилю разрешается движение в любом направлении.\r\n\r\nПравильный ответ — разрешено движение по всем указанным направлениям.",
+      "explanationOz": "Yengil avtomobil qaysi yoʻnalishlarda harakatlanishga ruxsat etilishi soʻralmoqda. Ushbu holatda yoʻl belgisi 4.1.1 \"Faqat toʻgʻriga harakatlanish\" belgisi bo‘lib, u qoʻshimcha axborot belgisi bilan birgalikda ruxsat etilgan toʻla vazni 3,5 tonnadan ortiq boʻlgan yuk avtomobillariga taalluqli hisoblanadi.\r\n\r\nShuning uchun ushbu belgi yengil avtomobil haydovchisiga nisbatan amal qilmaydi. Demak, yengil avtomobil istalgan yoʻnalishda harakatlanishga ruxsat etiladi.\r\n\r\nToʻgʻri javob — barcha ko‘rsatilgan yoʻnalishlarda harakatlanish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/40.15[1].webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 6804,
+          "textUz": "Фақат тўғрига",
+          "textRu": "Только прямо",
+          "textOz": "Faqat to'g'riga",
+          "isCorrect": false
+        },
+        {
+          "id": 6805,
+          "textUz": "Фақат ўнгга ва чапга",
+          "textRu": "Только налево или направо",
+          "textOz": "Faqat o'ngga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 6806,
+          "textUz": "Исталган йўналишда",
+          "textRu": "В любых",
+          "textOz": "Istalgan yo'nalishda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        6806
+      ]
+    },
+    {
+      "id": 324,
+      "questionUz": "Ушбу қўшимча аҳборот йўл белгиси билдиради:",
+      "questionRu": "Эта табличка указывает:",
+      "questionOz": "Ushbu qo'shimcha ahborot yo'l belgisi bildiradi:",
+      "explanationUz": "Ушбу қўшимча ахборот белгиси барча турдаги транспорт воситаларини тўхташ ва тўхтаб туриш жойига қандай усулда қўйиш кераклигини билдиради. Ушбу белги транспорт воситаларининг йўлнинг қатнов қисми четида, тротуар ёнида жойлаштирилиш тартибини кўрсатади.\r\n\r\nҚолган шунга ўхшаш белгилар эса фақат енгил автомобиллар, мотоцикллар, мопедлар ва велосипедларга нисбатан қўлланилади. Айнан ушбу белги барча турдаги транспорт воситалари учун амал қилади.\r\n\r\nДемак, ушбу қўшимча ахборот белгиси барча турдаги транспорт воситаларининг тўхташ ва тўхтаб туриш усулини билдиради.",
+      "explanationRu": "Данная дополнительная табличка указывает способ постановки на стоянку и остановки для всех видов транспортных средств. Она показывает порядок размещения транспортных средств у края проезжей части рядом с тротуаром.\r\n\r\nДругие аналогичные таблички распространяются только на легковые автомобили, мотоциклы, мопеды и велосипеды. Именно эта табличка применяется ко всем видам транспортных средств.\r\n\r\nСледовательно, данный знак обозначает способ остановки и стоянки для всех типов транспортных средств.",
+      "explanationOz": "Ushbu qoʻshimcha axborot belgisi barcha turdagi transport vositalarini toʻxtash va toʻxtab turish joyiga qanday usulda qoʻyish kerakligini bildiradi. Ushbu belgi transport vositalarining yoʻlning qatnov qismi chetida, trotuar yonida joylashtirilish tartibini koʻrsatadi.\r\n\r\nQolgan shunga oʻxshash belgilar esa faqat yengil avtomobillar, mototsikllar, mopedlar va velosipedlarga nisbatan qoʻllaniladi. Aynan ushbu belgi barcha turdagi transport vositalari uchun amal qiladi.\r\n\r\nDemak, ushbu qoʻshimcha axborot belgisi barcha turdagi transport vositalarining toʻxtash va toʻxtab turish usulini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/45.6.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5499,
+          "textUz": "Барча турдаги транспорт воситаларининг тўхтаб туриш учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини",
+          "textRu": "Способ стоянки всех видов транспортных средств на проезжей части, рядом с тротуаром.",
+          "textOz": "Barcha turdagi transport vositalarining to'xtab turish uchun yo'lning qatnov qismida, trotuar yoniga qo'yish usulini",
+          "isCorrect": true
+        },
+        {
+          "id": 5500,
+          "textUz": "Енгил автомобилларнинг тўхтаб туриш жойини",
+          "textRu": "Место для стоянки легковых автомобилей",
+          "textOz": "Engil avtomobillarning to'xtab turish joyini",
+          "isCorrect": false
+        },
+        {
+          "id": 5501,
+          "textUz": "Механик транспорт воситаларининг тўхтаб туриш жойини",
+          "textRu": "Стоянка механических транспортных средств.",
+          "textOz": "Mexanik transport vositalarining to'xtab turish joyini",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5499
+      ]
+    },
+    {
+      "id": 325,
+      "questionUz": "Қандай ҳолларда сизга 50 км/с дан юқори тезликда ҳаракатланиш тақиқланган?",
+      "questionRu": "В каких случаях запрещается движение со скоростью выше 50 км/с?",
+      "questionOz": "Qanday hollarda sizga 50 km/s dan yuqori tezlikda harakatlanish taqiqlangan?",
+      "explanationUz": "Демак, саволда қайси ҳолатда сизга 50 км/соатдан юқори тезликда ҳаракатланиш тақиқланиши сўралмоқда. Ушбу чеклов фақат йўл қопламаси нам бўлган пайтда амал қилади. Қўшимча ахборот белгиси асосий белги талаблари фақат нам йўл қопламасида кучга киришини билдиради.\r\n\r\nШунинг учун 50 км/соатдан юқори тезликда ҳаракатланиш фақат йўл қопламаси нам бўлганда тақиқланади.",
+      "explanationRu": "Вопрос заключается в том, в каком случае запрещается движение со скоростью более 50 км/ч. Данное ограничение действует только при влажном дорожном покрытии. Дополнительная табличка указывает, что требования основного дорожного знака распространяются исключительно на период, когда дорожное покрытие является мокрым.\r\n\r\nСледовательно, движение со скоростью более 50 км/ч запрещается только при влажном дорожном покрытии.",
+      "explanationOz": "Demak, savolda qaysi holatda sizga 50 km/soatdan yuqori tezlikda harakatlanish taqiqlanishi soʻralmoqda. Ushbu cheklov faqat yoʻl qoplamasi nam boʻlgan paytda amal qiladi. Qoʻshimcha axborot belgisi asosiy belgi talablari faqat nam yoʻl qoplamasida kuchga kirishini bildiradi.\r\n\r\nShuning uchun 50 km/soatdan yuqori tezlikda harakatlanish faqat yoʻl qoplamasi nam boʻlganda taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/45.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5502,
+          "textUz": "Фақат қатнов қисми нам бўлса",
+          "textRu": "Только если дорога мокрая",
+          "textOz": "Faqat qatnov qismi nam bo'lsa",
+          "isCorrect": true
+        },
+        {
+          "id": 5503,
+          "textUz": "Ҳар қандай ҳолатда ҳам",
+          "textRu": "В любом случае",
+          "textOz": "Har qanday holatda ham",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5502
+      ]
+    },
+    {
+      "id": 326,
+      "questionUz": "Ушбу қўшимча ахборот йўл белгиси:",
+      "questionRu": "Этот допольнительная табличка означает:",
+      "questionOz": "Ushbu qo'shimcha axborot yo'l belgisi:",
+      "explanationUz": "Ушбу қўшимча ахборот белгиси объектгача бўлган масофани билдиради. Яъни, асосий йўл белгиси билан кўрсатилган объектгача қанча масофа қолганини кўрсатади.",
+      "explanationRu": "Данная дополнительная табличка указывает расстояние до объекта. То есть она показывает, какое расстояние осталось до объекта, обозначенного основным дорожным знаком.",
+      "explanationOz": "Ushbu qoʻshimcha axborot belgisi obyektgacha boʻlgan masofani bildiradi. Yaʼni, asosiy yoʻl belgisi bilan ko‘rsatilgan obyektgacha qancha masofa qolganini ko‘rsatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.4.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5504,
+          "textUz": "Объектгача бўлган масофани билдиради",
+          "textRu": "Расстояние до объекта",
+          "textOz": "Obektgacha bo'lgan masofani bildiradi",
+          "isCorrect": true
+        },
+        {
+          "id": 5505,
+          "textUz": "Белгининг таъсир оралиғини билдиради",
+          "textRu": "Зона действия знака",
+          "textOz": "Belgining tasir oralig'ini bildiradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5504
+      ]
+    },
+    {
+      "id": 327,
+      "questionUz": "Ушбу қўшимча ахборот йўл белгиси билдиради:",
+      "questionRu": "Эта табличка означает",
+      "questionOz": "Ushbu qo'shimcha axborot yo'l belgisi bildiradi:",
+      "explanationUz": "Ушбу қўшимча ахборот белгиси йўл белгисининг таъсир доирасида тўхтаган ёки тўхтаб турган транспорт воситалари мажбурий равишда эвакуация қилинишини билдиради.",
+      "explanationRu": "Данная дополнительная табличка указывает, что транспортные средства, остановившиеся или находящиеся на стоянке в зоне действия дорожного знака, подлежат принудительной эвакуации.",
+      "explanationOz": "Ushbu qoʻshimcha axborot belgisi yoʻl belgisining taʼsir doirasida toʻxtagan yoki toʻxtab turgan transport vositalari majburiy ravishda evakuatsiya qilinishini bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/47.7.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5506,
+          "textUz": "Белги таъсири оралиғида тўхтаган транспорт воситалари мажбурий эвакуация қилинишини кўрсатади",
+          "textRu": "Указывает на принудительную эвакуацию автомобилей, остановившихся в зоне действие знака",
+          "textOz": "Belgi tasiri oralig'ida to'xtagan transport vositalari majburiy evakuasiya qilinishini ko'rsatadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5507,
+          "textUz": "Белги таъсир оралиғида тўхтаган транспорт воситаларини эвакуация қилиш рухсат этилганлигини билдиради",
+          "textRu": "Разрешает эвакуацию остановившихсятранспортных средств в зоне действие знака",
+          "textOz": "Belgi tasir oralig'ida to'xtagan transport vositalarini evakuasiya qilish ruxsat etilganligini bildiradi",
+          "isCorrect": false
+        },
+        {
+          "id": 5508,
+          "textUz": "Белги таъсир оралиғида тўхтаган транспорт воситаларини эвакуация қилиш тақиқланганлигини билдиради",
+          "textRu": "Запрещает эвакуацию остановившихся транспортных средств в зоне действие знака",
+          "textOz": "Belgi tasir oralig'ida to'xtagan transport vositalarini evakuasiya qilish taqiqlanganligini bildiradi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5506
+      ]
+    },
+    {
+      "id": 328,
+      "questionUz": "Бу қўшимча-ахборот йўл белгиси қайси йўл белгиси билан биргаликда қулланилади?",
+      "questionRu": "С каким дорожным знаком применяется эта табличка?",
+      "questionOz": "Bu qo'shimcha-axborot yo'l belgisi qaysi yo'l belgisi bilan birgalikda qullaniladi?",
+      "explanationUz": "Ушбу қўшимча ахборот белгиси қайси йўл белгиси билан бирга қўлланиши сўралмоқда. Ушбу ҳолатда у огоҳлантирувчи йўл белгиси билан бирга қўлланади. Демак, тўғри жавоб — Б жавоби бўлади.",
+      "explanationRu": "Вопрос заключается в том, с каким дорожным знаком применяется данная дополнительная табличка. В данном случае она используется совместно с предупреждающим дорожным знаком. Следовательно, правильный ответ — вариант Б.",
+      "explanationOz": "Ushbu qoʻshimcha axborot belgisi qaysi yoʻl belgisi bilan birga qoʻllanishi soʻralmoqda. Ushbu holatda u ogohlantiruvchi yoʻl belgisi bilan birga qoʻllanadi. Demak, toʻgʻri javob — B javobi bo‘ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/49.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5509,
+          "textUz": "A",
+          "textRu": "A",
+          "textOz": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 5510,
+          "textUz": "B",
+          "textRu": "B",
+          "textOz": "B",
+          "isCorrect": true
+        },
+        {
+          "id": 5511,
+          "textUz": "C",
+          "textRu": "C",
+          "textOz": "C",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5510
+      ]
+    },
+    {
+      "id": 329,
+      "questionUz": "Кўрсатилган кайси белгилар фақат шу ўрнатилган бўлакни ўзига таъсир қилади?",
+      "questionRu": "Какой из указанных знаков распространяет свое действие только на ту полосу, над которой он установлен?\r\n",
+      "questionOz": "Ko'rsatilgan kaysi belgilar faqat shu o'rnatilgan bo'lakni o'ziga tasir qiladi?",
+      "explanationUz": "Демак, саволда қайси белги фақат маълум бир ҳаракатланиш тасмасига таъсир қилиши сўралмоқда. Тўғри жавоб — А белгиси бўлади. Чунки белги остидаги пастга қаратилган стрелка унинг талаби фақат кўрсатилган тасмага тааллуқли эканлигини билдиради.\r\n\r\nБ белгиси кўк рангдаги энг кам тезлик белгисидир. У ушбу тасмада 50 км/соатдан паст тезликда ҳаракатланиш мумкин эмаслигини англатади, аммо 50 км/соатдан юқори тезликда ҳаракатланишга рухсат беради.\r\n\r\nВ белгиси эса тавсия этилган тезликни билдирувчи тўртбурчак шаклдаги ахборот белгиси ҳисобланади. У 50 км/соат тезликни тавсия этади, лекин мажбурий эмас. Ҳайдовчи 50 км/соатда, ундан паст ёки ундан юқори тезликда ҳаракатланиши мумкин, агар бу бошқа қоидаларга зид бўлмаса.\r\n\r\nА белгисида эса тезликни чекловчи тақиқ айнан стрелка кўрсатган тасмага нисбатан амал қилади. Масалан, белги чап тасма устига ўрнатилган бўлса, чап тасмада ҳаракатланаётган транспорт воситалари 50 км/соатдан юқори тезликда ҳаракатлана олмайди.",
+      "explanationRu": "Вопрос заключается в том, какой знак действует только на определённую полосу движения. Правильным ответом является знак А. Стрелка, направленная вниз, указывает, что требование знака распространяется только на указанную полосу.\r\n\r\nЗнак Б синего цвета обозначает минимальную скорость движения. Он запрещает движение со скоростью менее 50 км/ч по данной полосе, но разрешает движение со скоростью выше 50 км/ч.\r\n\r\nЗнак В прямоугольной формы является информационным знаком рекомендуемой скорости. Он рекомендует движение со скоростью 50 км/ч, однако не устанавливает обязательного ограничения. Водитель может двигаться со скоростью 50 км/ч, ниже или выше этого значения, если это не противоречит другим требованиям правил дорожного движения.\r\n\r\nВ случае со знаком А ограничение скорости действует только на ту полосу, на которую указывает стрелка. Например, если знак установлен над левой полосой, то транспортным средствам на этой полосе запрещается двигаться со скоростью более 50 км/ч.",
+      "explanationOz": "Demak, savolda qaysi belgi faqat maʼlum bir harakatlanish tasmasiga taʼsir qilishi soʻralmoqda. Toʻgʻri javob — A belgisi bo‘ladi. Chunki belgi ostidagi pastga qaratilgan strelka uning talabi faqat ko‘rsatilgan tasmaga taalluqli ekanligini bildiradi.\r\n\r\nB belgisi ko‘k rangdagi eng kam tezlik belgisidir. U ushbu tasmada 50 km/soatdan past tezlikda harakatlanish mumkin emasligini anglatadi, ammo 50 km/soatdan yuqori tezlikda harakatlanishga ruxsat beradi.\r\n\r\nV belgisi esa tavsiya etilgan tezlikni bildiruvchi to‘rtburchak shakldagi axborot belgisi hisoblanadi. U 50 km/soat tezlikni tavsiya etadi, lekin majburiy emas. Haydovchi 50 km/soatda, undan past yoki undan yuqori tezlikda harakatlanishi mumkin, agar bu boshqa qoidalarga zid bo‘lmasa.\r\n\r\nA belgisida esa tezlikni cheklovchi taqiq aynan strelka ko‘rsatgan tasmaga nisbatan amal qiladi. Masalan, belgi chap tasma ustiga o‘rnatilgan bo‘lsa, chap tasmada harakatlanayotgan transport vositalari 50 km/soatdan yuqori tezlikda harakatlana olmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/49.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5512,
+          "textUz": "«Б» ва «В»",
+          "textRu": "«Б» и «В»",
+          "textOz": "«Б» va «В»",
+          "isCorrect": false
+        },
+        {
+          "id": 5513,
+          "textUz": "Фақат «Б»",
+          "textRu": "Только «Б»",
+          "textOz": "Faqat «Б»",
+          "isCorrect": false
+        },
+        {
+          "id": 5514,
+          "textUz": "Фақат «А»",
+          "textRu": "Только «А»",
+          "textOz": "Faqat «А»",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5514
+      ]
+    },
+    {
+      "id": 330,
+      "questionUz": "Ушбу кушимча ахборот белгиси кайси йул белгиси билан кулланилади?",
+      "questionRu": "Данный дополнительной информации знак с каким дорожным знаком используется?",
+      "questionOz": "Ushbu kushimcha axborot belgisi kaysi yul belgisi bilan kullaniladi?",
+      "explanationUz": "Демак, саволда ушбу қўшимча ахборот белгиси қайси йўл белгиси билан бирга қўлланиши сўралмоқда. Ушбу ҳолатда тўғри жавоб — тўртинчи йўл белгиси бўлади.",
+      "explanationRu": "Вопрос заключается в том, с каким дорожным знаком применяется данная дополнительная табличка. В данном случае правильным ответом является четвёртый дорожный знак.",
+      "explanationOz": "Demak, savolda ushbu qoʻshimcha axborot belgisi qaysi yoʻl belgisi bilan birga qoʻllanishi soʻralmoqda. Ushbu holatda toʻgʻri javob — toʻrtinchi yoʻl belgisi bo‘ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/55.16.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5515,
+          "textUz": "1",
+          "textRu": "1",
+          "textOz": "1",
+          "isCorrect": false
+        },
+        {
+          "id": 5516,
+          "textUz": "2",
+          "textRu": "2",
+          "textOz": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 5517,
+          "textUz": "3",
+          "textRu": "3",
+          "textOz": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 5518,
+          "textUz": "4",
+          "textRu": "4",
+          "textOz": "4",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5518
+      ]
+    },
+    {
+      "id": 331,
+      "questionUz": "Қуйидаги йўл белгиларидан қайсилари қўшимча ахборот белгилари ҳисобланади?",
+      "questionRu": "Какие из указанных дорожных знаков являются дополнительными информационными знаками?",
+      "questionOz": "Quyidagi yo‘l belgilaridan qaysilari qo‘shimcha axborot belgilari hisoblanadi?",
+      "explanationUz": "Қуйидаги белгилardan қайсилари қўшимча ахборот белгилари ҳисобланиши сўралмоқда. Ушбу ҳолатда тўғри жавоб — иккинчи ва учинчи белгилар бўлади.\r\n\r\nБиринчи белги ахборот-ишора белгиси ҳисобланади ва тўхташ чизиғини билдиради.\r\n\r\nТўртинчи белги ҳам ахборот-ишора белгиси бўлиб, аҳоли яшаш пункти бошланишини билдиради.\r\n\r\nИккинчи қўшимча ахборот белгиси йўл белгисининг таъсир ҳудудигача бўлган масофани, масалан, 100 метргача бўлган оралиқни кўрсатади.\r\n\r\nУчинчи қўшимча ахборот белгиси эса асосий йўл белгиси амал қиладиган вақтни аниқлаштиради. Масалан, 08:00 дан 17:30 гача амал қилишини билдиради.\r\n\r\nДемак, тўғри жавоб — иккинчи ва учинчи белгилар.",
+      "explanationRu": "Вопрос заключается в том, какие из представленных знаков относятся к дополнительным информационным табличкам. В данном случае правильным ответом являются второй и третий знаки.\r\n\r\nПервый знак относится к информационно-указательным и обозначает стоп-линию.\r\n\r\nЧетвёртый знак также является информационно-указательным и обозначает начало населённого пункта.\r\n\r\nВторая дополнительная табличка указывает расстояние до начала зоны действия основного дорожного знака, например 100 метров.\r\n\r\nТретья дополнительная табличка уточняет время действия основного дорожного знака, например с 08:00 до 17:30.\r\n\r\nСледовательно, правильный ответ — второй и третий знаки.",
+      "explanationOz": "Quyidagi belgilardan qaysilari qoʻshimcha axborot belgilari hisoblanishi soʻralmoqda. Ushbu holatda toʻgʻri javob — ikkinchi va uchinchi belgilar bo‘ladi.\r\n\r\nBirinchi belgi axborot-ishora belgisi hisoblanadi va toʻxtash chizigʻini bildiradi.\r\n\r\nToʻrtinchi belgi ham axborot-ishora belgisi boʻlib, aholi yashash punkti boshlanishini bildiradi.\r\n\r\nIkkinchi qoʻshimcha axborot belgisi yoʻl belgisining taʼsir hududigacha boʻlgan masofani, masalan, 100 metrgacha boʻlgan oraliqni koʻrsatadi.\r\n\r\nUchinchi qoʻshimcha axborot belgisi esa asosiy yoʻl belgisi amal qiladigan vaqtni aniqlashtiradi. Masalan, 08:00 dan 17:30 gacha amal qilishini bildiradi.\r\n\r\nDemak, toʻgʻri javob — ikkinchi va uchinchi belgilar.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.1.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5519,
+          "textUz": "1 ва 2 белгилар",
+          "textRu": "Знаки 1 и 2",
+          "textOz": "1 va 2 belgilar",
+          "isCorrect": false
+        },
+        {
+          "id": 5520,
+          "textUz": "2 ва 3 белгила",
+          "textRu": "Знаки 2 и 3",
+          "textOz": "2 va 3 belgilar",
+          "isCorrect": true
+        },
+        {
+          "id": 5521,
+          "textUz": "Барча белгилар",
+          "textRu": "Все знаки",
+          "textOz": "Barcha belgilar",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5520
+      ]
+    },
+    {
+      "id": 332,
+      "questionUz": "Автомобил ҳайдовчисига қайси йўналиш бўйича ҳаракатланишга рухсат этилади?",
+      "questionRu": "В каком направлении разрешено двигаться автоводителю?",
+      "questionOz": "Avtomobil haydovchisiga qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat etiladi?",
+      "explanationUz": "Демак, саволда ушбу ҳолатда автомобил ҳайдовчисига қайси йўналиш бўйича ҳаракатланишга рухсат этилиши сўралмоқда.\r\n\r\nКўриб турганингиздек, йўл белгиси бир томонлама ҳаракатланиш йўлининг тугаганини билдиради. Шунингдек, огоҳлантирувчи белги икки томонлама ҳаракат бошланиши ҳақида ахборот бермоқда.\r\n\r\nШу сабабли тўғрига ҳаракатланишга рухсат этилмайди, чунки ҳайдовчи қарама-қарши йўналишли йўлга чиқиб кетиши мумкин. Ушбу вазиятда фақат чап ҳаракатланиш тасмасидан чапга бурилишга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — фақат чапга ҳаракатланиш мумкин.",
+      "explanationRu": "Вопрос заключается в том, в каком направлении водителю разрешено продолжить движение в данной ситуации.\r\n\r\nКак видно, дорожный знак указывает на окончание дороги с односторонним движением. Кроме того, предупреждающий знак информирует о начале двустороннего движения.\r\n\r\nПоэтому движение прямо не разрешается, так как водитель может выехать на встречную полосу. В данной ситуации разрешён только поворот налево с левой полосы движения.\r\n\r\nСледовательно, правильный ответ — разрешено движение только налево.",
+      "explanationOz": "Demak, savolda ushbu holatda avtomobil haydovchisiga qaysi yoʻnalish boʻyicha harakatlanishga ruxsat etilishi soʻralmoqda.\r\n\r\nKoʻrib turganingizdek, yoʻl belgisi bir tomonlama harakatlanish yoʻlining tugaganini bildiradi. Shuningdek, ogohlantiruvchi belgi ikki tomonlama harakat boshlanishi haqida axborot bermoqda.\r\n\r\nShu sababli toʻgʻriga harakatlanishga ruxsat etilmaydi, chunki haydovchi qarama-qarshi yoʻnalishli yoʻlga chiqib ketishi mumkin. Ushbu vaziyatda faqat chap harakatlanish tasmasidan chapga burilishga ruxsat etiladi.\r\n\r\nDemak, toʻgʻri javob — faqat chapga harakatlanish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.17.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5522,
+          "textUz": "Ўнгга ва чапга",
+          "textRu": "Направо и налево",
+          "textOz": "O‘ngga va chapga",
+          "isCorrect": false
+        },
+        {
+          "id": 5523,
+          "textUz": "Фақат чапга",
+          "textRu": "Только налево",
+          "textOz": "Faqat chapga",
+          "isCorrect": true
+        },
+        {
+          "id": 5524,
+          "textUz": "Барча йўналишларга",
+          "textRu": "По всем направлениям",
+          "textOz": "Barcha yo‘nalishlarga",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5523
+      ]
+    },
+    {
+      "id": 333,
+      "questionUz": "Қайси белгида ҳайдовчига қувиб ўтиш тақиқланган?",
+      "questionRu": "Какой знак запрещает обгон водителю?",
+      "questionOz": "Qaysi belgida haydovchiga quvib o‘tish taqiqlangan?",
+      "explanationUz": "Саволда қайси белги ҳайдовчига қувиб ўтиш тақиқланганини билдириши сўралмоқда.\r\n\r\nБиринчи белгигa эътибор берамиз. \"Қувиб ўтиш тақиқланади\" белгиси остида \"300 метр\" қўшимча ахборот белгиси ўрнатилган. Бу тақиқ 300 метрдан кейин бошланишини билдиради. Демак, ушбу жойда ҳали қувиб ўтишга рухсат этилади.\r\n\r\nИккинчи белгидa \"Қувиб ўтиш тақиқланади\" белгиси амал қилмоқда. Шунинг учун бу ерда қувиб ўтиш мумкин эмас.\r\n\r\nУчинчи белгидa эса қувиб ўтиш тақиқланган ҳудуд яна 100 метр давом этиши кўрсатилган. Демак, ушбу белгидa ҳам қувиб ўтиш тақиқланади.\r\n\r\nШунинг учун тўғри жавоб — иккинчи ва учинчи белгилар.",
+      "explanationRu": "Вопрос заключается в том, какие знаки указывают водителю на запрет обгона.\r\n\r\nОбратим внимание на первый знак. Под знаком «Обгон запрещён» установлена табличка «300 м». Это означает, что действие запрета начнётся через 300 метров. Следовательно, в данном месте обгон ещё разрешён.\r\n\r\nВо втором случае знак «Обгон запрещён» уже действует, поэтому обгон выполнять нельзя.\r\n\r\nВ третьем случае дополнительная табличка указывает, что зона действия запрета продолжается ещё на протяжении 100 метров. Следовательно, обгон здесь также запрещён.\r\n\r\nТаким образом, правильный ответ — второй и третий знаки.",
+      "explanationOz": "Savolda qaysi belgi haydovchiga quvib oʻtish taqiqlanganini bildirishi soʻralmoqda.\r\n\r\nBirinchi belgiga eʼtibor beramiz. \"Quvib oʻtish taqiqlanadi\" belgisi ostida \"300 metr\" qoʻshimcha axborot belgisi oʻrnatilgan. Bu taqiq 300 metrdan keyin boshlanishini bildiradi. Demak, ushbu joyda hali quvib oʻtishga ruxsat etiladi.\r\n\r\nIkkinchi belgida \"Quvib oʻtish taqiqlanadi\" belgisi amal qilmoqda. Shuning uchun bu yerda quvib oʻtish mumkin emas.\r\n\r\nUchinchi belgida esa quvib oʻtish taqiqlangan hudud yana 100 metr davom etishi ko‘rsatilgan. Demak, ushbu belgida ham quvib oʻtish taqiqlanadi.\r\n\r\nShuning uchun toʻgʻri javob — ikkinchi va uchinchi belgilar.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/57.20.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5529,
+          "textUz": "1 ва 3",
+          "textRu": "1 и 3",
+          "textOz": "1 va 3",
+          "isCorrect": false
+        },
+        {
+          "id": 5530,
+          "textUz": "1 ва 2",
+          "textRu": "1 и 2",
+          "textOz": "1 va 2",
+          "isCorrect": false
+        },
+        {
+          "id": 5531,
+          "textUz": "2 ва 3",
+          "textRu": "2 и 3",
+          "textOz": "2 va 3",
+          "isCorrect": true
+        },
+        {
+          "id": 5532,
+          "textUz": "Ҳамма расмда",
+          "textRu": "На всех изображениях",
+          "textOz": "Hamma rasmda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5531
+      ]
+    },
+    {
+      "id": 334,
+      "questionUz": "Қайси жавобда йўл белгилари гуруҳларининг кетма-кетлиги тўғри кўрсатилган?",
+      "questionRu": "В каком ответе правильно указана последовательность групп дорожных знаков?",
+      "questionOz": "Qaysi javobda yo‘l belgilari guruhlarining ketma-ketligi to‘g‘ri ko‘rsatilgan?",
+      "explanationUz": "Саволда йўл белгилари гуруҳларининг кетма-кетлиги қайси жавобда тўғри кўрсатилгани сўралмоқда. Тўғри кетма-кетлик қуйидагича бўлади:\r\n\r\n1. Огоҳлантирувчи белгилари;\r\n2. Имтиёз белгилари;\r\n3. Тақиқловчи белгилари;\r\n4. Буюрувчи белгилари;\r\n5. Ахборот-ишора белгилари;\r\n6. Сервис белгилари;\r\n7. Қўшимча ахборот белгилари.\r\n\r\nЭслаб қолиш учун, аввало, огоҳлантирувчи, имтиёз ва тақиқловчи белгилари кетма-кетлигини ёдда сақлаш кифоя. Қолган гуруҳлар шу тартибда давом этади. Демак, тўғри жавоб — огоҳлантирувчи, имтиёз, тақиқловчи, буюрувчи, ахборот-ишора, сервис ва қўшимча ахборот белгилари.",
+      "explanationRu": "Вопрос заключается в том, в каком варианте правильно указана последовательность групп дорожных знаков. Правильная последовательность выглядит следующим образом:\r\n\r\n1. Предупреждающие знаки;\r\n2. Знаки приоритета;\r\n3. Запрещающие знаки;\r\n4. Предписывающие знаки;\r\n5. Информационно-указательные знаки;\r\n6. Знаки сервиса;\r\n7. Таблички дополнительной информации.\r\n\r\nДля запоминания достаточно сначала выучить последовательность: предупреждающие, знаки приоритета и запрещающие. Остальные группы следуют именно в этом порядке. Следовательно, правильный ответ — предупреждающие, знаки приоритета, запрещающие, предписывающие, информационно-указательные знаки, знаки сервиса и таблички дополнительной информации.",
+      "explanationOz": "Savolda yoʻl belgilarining guruhlari ketma-ketligi qaysi javobda toʻgʻri koʻrsatilgani soʻralmoqda. Toʻgʻri ketma-ketlik quyidagicha bo‘ladi:\r\n\r\n1. Ogohlantiruvchi belgilar;\r\n2. Imtiyoz belgilari;\r\n3. Taqiqlovchi belgilar;\r\n4. Buyuruvchi belgilar;\r\n5. Axborot-ishora belgilari;\r\n6. Servis belgilari;\r\n7. Qoʻshimcha axborot belgilari.\r\n\r\nEslab qolish uchun, avvalo, ogohlantiruvchi, imtiyoz va taqiqlovchi belgilar ketma-ketligini yodda saqlash kifoya. Qolgan guruhlar shu tartibda davom etadi. Demak, toʻgʻri javob — ogohlantiruvchi, imtiyoz, taqiqlovchi, buyuruvchi, axborot-ishora, servis va qoʻshimcha axborot belgilari.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5533,
+          "textUz": "Тақиқловчи, Имтиёз, Буюрувчи, Ахборот-кўрсаткич, Огоҳлантирувчи, Сервис, Қўшимча ахборот",
+          "textRu": "Запрещающие, приоритета, предписывающие, информационно-указательные, предупреждающие, сервисные, дополнительные информационные",
+          "textOz": "Taqiqlovchi, Imtiyoz, Buyuruvchi, Axborot-ko‘rsatkich, Ogohlantiruvchi, Servis, Qo‘shimcha axborot",
+          "isCorrect": false
+        },
+        {
+          "id": 5534,
+          "textUz": "Огоҳлантирувчи, Имтиёз, Тақиқловчи, Буюрувчи, Ахборот-кўрсаткич, Сервис, Қўшимча ахборот",
+          "textRu": "Предупреждающие, приоритета, запрещающие, предписывающие, информационно-указательные, сервисные, дополнительные информационные",
+          "textOz": "Ogohlantiruvchi, Imtiyoz, Taqiqlovchi, Buyuruvchi, Axborot-ko‘rsatkich, Servis, Qo‘shimcha axborot",
+          "isCorrect": true
+        },
+        {
+          "id": 5535,
+          "textUz": "Огоҳлантирувчи, Имтиёз, Буюрувчи, Тақиқловчи, Ахборот-кўрсаткич, Сервис, Қўшимча ахборот",
+          "textRu": "Предупреждающие, приоритета, предписывающие, запрещающие, информационно-указательные, сервисные, дополнительные информационные",
+          "textOz": "Ogohlantiruvchi, Imtiyoz, Buyuruvchi, Taqiqlovchi, Axborot-ko‘rsatkich, Servis, Qo‘shimcha axborot",
+          "isCorrect": false
+        },
+        {
+          "id": 5536,
+          "textUz": "Юқоридаги барча жавоблар тўғри",
+          "textRu": "Все вышеперечисленные ответы правильные",
+          "textOz": "Yuqoridagi barcha javoblar to‘g‘ri",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5534
+      ]
+    },
+    {
+      "id": 335,
+      "questionUz": "Ушбу йўл белгиси қандай номланади?",
+      "questionRu": "Как называется данный дорожный знак?",
+      "questionOz": "Ushbu yo‘l belgisi qanday nomlanadi?",
+      "explanationUz": "Бу йўл белгиси қўшимча ахборот белгиси ҳисобланади ва у асосий йўл белгиларининг остида қўлланилади. Ушбу қўшимча ахборот белгисининг маъноси — шанба, якшанба ва байрам кунлари деган маънони англатади.",
+      "explanationRu": "Этот дорожный знак относится к табличкам дополнительной информации и применяется совместно с основными дорожными знаками. Значение данной таблички — «по субботам, воскресеньям и праздничным дням».",
+      "explanationOz": "Bu yoʻl belgisi qoʻshimcha axborot belgisi hisoblanadi va u asosiy yoʻl belgilarining ostida qoʻllaniladi. Ushbu qoʻshimcha axborot belgisining maʼnosi — shanba, yakshanba va bayram kunlari degan maʼnoni anglatadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/60.11.webp",
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 5537,
+          "textUz": "Шанба, якшанба ва байрам кунлари",
+          "textRu": "Суббота, воскресенье и праздничные дни",
+          "textOz": "Shanba, yakshanba va bayram kunlari",
+          "isCorrect": true
+        },
+        {
+          "id": 5538,
+          "textUz": "Ҳафта кунлари",
+          "textRu": "Дни недели",
+          "textOz": "Hafta kunlari",
+          "isCorrect": false
+        },
+        {
+          "id": 5539,
+          "textUz": "Иш кунлари",
+          "textRu": "Рабочие дни",
+          "textOz": "Ish kunlari",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5537
+      ]
+    },
+    {
+      "id": 336,
+      "questionUz": "Мазкур чизиқ нима ҳақида огоҳлантиради?",
+      "questionRu": "О чём предупреждает данная разметка?",
+      "questionOz": "Mazkur chiziq nima haqida ogohlantiradi?",
+      "explanationUz": "Бу йўл чизиғи ҳайдовчини тўхташ чизиғига яқинлашаётганлиги ҳақида огоҳлантиради. У одатда \"Тўхтамасдан ҳаракатланиш тақиқланади\" йўл белгиси билан бирга қўлланилади ва ҳайдовчига олдинда тўхташ чизиғи мавжудлигини билдиради. Демак, тўғри жавоб — ҳайдовчи тўхташ чизиғига яқинлашаётганлиги ҳақида билдиради.",
+      "explanationRu": "Данная дорожная разметка предупреждает водителя о приближении к стоп-линии. Обычно она применяется совместно со знаком «Движение без остановки запрещено» и информирует водителя о том, что впереди находится стоп-линия. Следовательно, правильный ответ — предупреждает о приближении к стоп-линии.",
+      "explanationOz": "Bu yoʻl chizigʻi haydovchini toʻxtash chizigʻiga yaqinlashayotganligi haqida ogohlantiradi. U odatda \"Toʻxtamasdan harakatlanish taqiqlanadi\" yoʻl belgisi bilan birga qoʻllaniladi va haydovchiga oldinda toʻxtash chizigʻi mavjudligini bildiradi. Demak, toʻgʻri javob — haydovchi toʻxtash chizigʻiga yaqinlashayotganligi haqida bildiradi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/1.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5540,
+          "textUz": "Транспорт воситаларининг мажбурий тўхташ жойига яқинлашаётгани",
+          "textRu": "О приближении к месту обязательной остановки транспортных средств",
+          "textOz": "Transport vositalarining majburiy to'xtash joyiga yaqinlashayotgani",
+          "isCorrect": false
+        },
+        {
+          "id": 5541,
+          "textUz": "«Тўхтамасдан ҳаракатланиш тақиқланган» белгиси билан бирга қўлланилганда ҳайдовчини «Тўхташ» чизиғига яқинлашаётганлигини",
+          "textRu": "О приближении транспортных средств к \"СТОП-ЛИНИИ\", когда она применяется в сочетании со знаком \"Движение без остановки запрещено\"",
+          "textOz": "«Тўхтамасдан ҳаракатланиш тақиқланган» belgisi bilan birga qo'llanilganda haydovchini «Тўхташ» chizig'iga yaqinlashayotganligini",
+          "isCorrect": true
+        },
+        {
+          "id": 5542,
+          "textUz": "Транспорт воситаси пиёдаларга йўл бериши керак бўлган жойни кўрсатади",
+          "textRu": "Указывает место, где транспортное средство должно уступить дорогу пешеходам",
+          "textOz": "Transport vositasi piyodalarga yo'l berishi kerak bo'lgan joyni ko'rsatadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5541
+      ]
+    },
+    {
+      "id": 337,
+      "questionUz": "Шу жойда ҳовлига бурилишга рухсат этиладими?",
+      "questionRu": "Разрешается ли повернуть во двор в этом месте?",
+      "questionOz": "Shu joyda hovliga burilishga ruxsat etiladimi?",
+      "explanationUz": "Шу жойда ҳовлига бурилишга рухсат этиладими деб сўралмоқда. Демак, рухсат этилади. Чунки бу ерда узуқ-узуқ йўл чизиғи мавжуд бўлиб, у чапга бурилиш ёки ёндош ҳудудга кириш учун чизиқни кесиб ўтишга рухсат беради. Шунинг учун ушбу вазиятда ҳовлига чапга бурилишга рухсат этилади.",
+      "explanationRu": "Вопрос заключается в том, разрешён ли поворот во двор в данной ситуации. Да, разрешён. Поскольку здесь нанесена прерывистая линия разметки, водитель может пересечь её для поворота налево или въезда на прилегающую территорию. Следовательно, в данном случае поворот налево во двор разрешён.",
+      "explanationOz": "Shu joyda hovliga burilishga ruxsat etiladimi deb soʻralmoqda. Demak, ruxsat etiladi. Chunki bu yerda uzuq-uzuq yoʻl chizigʻi mavjud boʻlib, u chapga burilish yoki yondosh hududga kirish uchun chiziqni kesib oʻtishga ruxsat beradi. Shuning uchun ushbu vaziyatda hovliga chapga burilishga ruxsat etiladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/3.12.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5543,
+          "textUz": "Рухсат этилади.",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi.",
+          "isCorrect": true
+        },
+        {
+          "id": 5544,
+          "textUz": "Таъқиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5543
+      ]
+    },
+    {
+      "id": 338,
+      "questionUz": "Ушбу ҳолатда қувиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли обгон в данной ситуации?",
+      "questionOz": "Ushbu holatda quvib o'tishga ruxsat etiladimi?",
+      "explanationUz": "Шу ҳолатда қувиб ўтишга рухсат этиладими деб сўралмоқда. Демак, тўғри жавоб — тақиқланади. Чунки йўлда 1.1 йўл чизиғи, яъни ётиқ узлуксиз чизиқ мавжуд. Ушбу чизиқни кесиб ўтиш тақиқланади. Шунинг учун қарама-қарши йўналишдаги ҳаракатланиш қисмига чиқиб қувиб ўтиш манёврини бажариш мумкин эмас. Демак, йўл чизиғи бу ерда қувиб ўтишга рухсат бермайди.",
+      "explanationRu": "В данной ситуации спрашивается, разрешён ли обгон. Правильный ответ — запрещён. Поскольку на проезжей части нанесена разметка 1.1, то есть сплошная линия, пересекать её запрещается. Следовательно, выезжать на встречную полосу для выполнения обгона нельзя. Таким образом, дорожная разметка в данном случае не разрешает выполнение обгона.",
+      "explanationOz": "Shu holatda quvib oʻtishga ruxsat etiladimi deb soʻralmoqda. Demak, toʻgʻri javob — taqiqlanadi. Chunki yoʻlda 1.1 yoʻl chizigʻi, yaʼni yotiq uzluksiz chiziq mavjud. Ushbu chiziqni kesib oʻtish taqiqlanadi. Shuning uchun qarama-qarshi yoʻnalishdagi harakatlanish qismiga chiqib quvib oʻtish manevrini bajarish mumkin emas. Demak, yoʻl chizigʻi bu yerda quvib oʻtishga ruxsat bermaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/5.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5545,
+          "textUz": "Рухсат этилади",
+          "textRu": "Разрешается",
+          "textOz": "Ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5546,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5547,
+          "textUz": "Агар қувиб ўтилаётган транспорт воситаси 40 км/с дан кам тезлик билан ҳаракатланаётган бўлса, рухсат берилади",
+          "textRu": "Разрешается; если обгоняемый автомобиль движется со скоростью меньше 40 км/ч",
+          "textOz": "Agar quvib o'tilayotgan transport vositasi 40 km/s dan kam tezlik bilan harakatlanayotgan bo'lsa, ruxsat beriladi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5546
+      ]
+    },
+    {
+      "id": 339,
+      "questionUz": "Ҳайдовчига белгиланган траектория бўйича ҳаракатланиб, манёврлар бажаришга рухсат берилганми?",
+      "questionRu": "Разрешено ли водителю легкового автомобиля совершить маневр, двигаясь по обозначенным траекториям ?",
+      "questionOz": "Haydovchiga belgilangan traektoriya bo'yicha harakatlanib, manyovrlar bajarishga ruxsat berilganmi?",
+      "explanationUz": "Бу ерда иккала йўналиш бўйича ҳам манёвр бажаришга рухсат этилади.\r\n\r\nТушунтириб ўтамиз. А йўналишидаги йўл чизиғи узуқ-узуқ чизиқ бўлиб, уни кесиб ўтишга рухсат этилади. Б йўналишидаги йўл чизиғи эса 1.6 йўл чизиғи ҳисобланади. У узлуксиз чизиққа яқинлашиб келаётганлик ҳақида огоҳлантиради ва узун узуқ чизиқлардан иборат бўлади.\r\n\r\nҲар иккала ҳолатда ҳам йўл чизиғини кесиб ўтиш тақиқланмаган. Шунинг учун А ва Б йўналишлари бўйича манёвр бажаришга рухсат этилади.\r\n\r\nДемак, тўғри жавоб — иккала йўналиш бўйича ҳам манёвр бажариш мумкин.",
+      "explanationRu": "В данной ситуации выполнение манёвра разрешено в обоих направлениях.\r\n\r\nПоясним. В направлении А нанесена прерывистая линия разметки, пересекать которую разрешается. В направлении Б используется разметка 1.6. Она предупреждает водителя о приближении к сплошной линии и представляет собой удлинённые штрихи.\r\n\r\nВ обоих случаях пересечение разметки не запрещено. Следовательно, выполнение манёвра разрешается как по направлению А, так и по направлению Б.\r\n\r\nТаким образом, правильный ответ — манёвр разрешён в обоих направлениях.",
+      "explanationOz": "Bu yerda ikkala yoʻnalish boʻyicha ham manevr bajarishga ruxsat etiladi.\r\n\r\nTushuntirib oʻtamiz. A yoʻnalishidagi yoʻl chizigʻi uzuq-uzuq chiziq boʻlib, uni kesib oʻtishga ruxsat etiladi. B yoʻnalishidagi yoʻl chizigʻi esa 1.6 yoʻl chizigʻi hisoblanadi. U uzluksiz chiziqqa yaqinlashib kelayotganlik haqida ogohlantiradi va uzun uzuq chiziqlardan iborat boʻladi.\r\n\r\nHar ikkala holatda ham yoʻl chizigʻini kesib oʻtish taqiqlanmagan. Shuning uchun A va B yoʻnalishlari boʻyicha manevr bajarishga ruxsat etiladi.\r\n\r\nDemak, toʻgʻri javob — ikkala yoʻnalish boʻyicha ham manevr bajarish mumkin.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/6.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5548,
+          "textUz": "«А» бўйича рухсат этилган",
+          "textRu": "Разрешено только по «А»",
+          "textOz": "«А» bo'yicha ruxsat etilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 5549,
+          "textUz": "«Б» бўйича рухсат этилган",
+          "textRu": "Разрешено только по «Б»",
+          "textOz": "«Б» bo'yicha ruxsat etilgan",
+          "isCorrect": false
+        },
+        {
+          "id": 5550,
+          "textUz": "Иккови бўйича ҳам рухсат этилган",
+          "textRu": "Разрешено по обеим",
+          "textOz": "Ikkovi bo'yicha ham ruxsat etilgan",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5550
+      ]
+    },
+    {
+      "id": 340,
+      "questionUz": "Ҳайдовчига транспорт воситаларининг тўхтаб туриш жойлари чегарасини билдирадиган узлуксиз чизиқни кесиб ўтишга рухсат этиладими?",
+      "questionRu": "Разрешается ли водителю пересекать сплошную линию разметки; обозначающую границы стояночных мест транспортных средств?",
+      "questionOz": "Haydovchiga transport vositalarining to'xtab turish joylari chegarasini bildiradigan uzluksiz chiziqni kesib o'tishga ruxsat etiladimi?",
+      "explanationUz": "Демак, ҳурматли ўқувчилар, \"кесиб ўтиш\" тушунчасини тўғри англаб олишимиз керак. Кесиб ўтиш деганда йўл чизиғини тўғридан-тўғри босиб ўтиш, яъни уни кўндаланг кесиб ўтиш тушунилади.\r\n\r\nУшбу ҳолатда транспорт воситаси йўл чизиғини тўғридан-тўғри кесиб ўтмайди. Транспорт воситаси йўл чизиғи йўналишига мос равишда парковка жойига кириб жойлаштирилади.\r\n\r\nШунинг учун бу ерда йўл чизиғини кесиб ўтишга рухсат этилмайди. Демак, тўғри жавоб — кесиб ўтиш тақиқланади.",
+      "explanationRu": "Уважаемые учащиеся, необходимо правильно понимать понятие «пересечение разметки». Под пересечением понимается наезд на линию разметки и её пересечение в поперечном направлении.\r\n\r\nВ данной ситуации транспортное средство не пересекает линию разметки напрямую. Автомобиль заезжает на парковочное место в соответствии с направлением нанесённой разметки.\r\n\r\nСледовательно, пересекать данную линию разметки запрещено. Правильный ответ — пересечение запрещено.",
+      "explanationOz": "Demak, hurmatli o‘quvchilar, \"kesib o‘tish\" tushunchasini to‘g‘ri anglab olishimiz kerak. Kesib o‘tish deganda yo‘l chizig‘ini to‘g‘ridan-to‘g‘ri bosib o‘tish, ya’ni uni ko‘ndalang kesib o‘tish tushuniladi.\r\n\r\nUshbu holatda transport vositasi yo‘l chizig‘ini to‘g‘ridan-to‘g‘ri kesib o‘tmaydi. Transport vositasi yo‘l chizig‘i yo‘nalishiga mos ravishda parkovka joyiga kirib joylashtiriladi.\r\n\r\nShuning uchun bu yerda yo‘l chizig‘ini kesib o‘tishga ruxsat etilmaydi. Demak, to‘g‘ri javob — kesib o‘tish taqiqlanadi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/6.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5551,
+          "textUz": "Тўхташ учун рухсат этилади",
+          "textRu": "Разрешается для остановки",
+          "textOz": "To'xtash uchun ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5552,
+          "textUz": "Тақиқланади",
+          "textRu": "Запрещается",
+          "textOz": "Taqiqlanadi",
+          "isCorrect": true
+        },
+        {
+          "id": 5553,
+          "textUz": "Кириш ва чиқиш учун рухсат этилади",
+          "textRu": "Разрешается для въезда и выезда",
+          "textOz": "Kirish va chiqish uchun ruxsat etiladi",
+          "isCorrect": false
+        },
+        {
+          "id": 5554,
+          "textUz": "Ҳамма ҳолларда рухсат этилади, агар тўхтаб туриш жойида бошқа транспорт воситалари йўқ бўлса",
+          "textRu": "Разрешается в любом случае, если на стоянке нет других транспортных средств",
+          "textOz": "Hamma hollarda ruxsat etiladi, agar to'xtab turish joyida boshqa transport vositalari yo'q bo'lsa",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5552
+      ]
+    },
+    {
+      "id": 341,
+      "questionUz": "Қарама-қарши йўналишдаги транспортлар оқими иккита сидирға чизиқлар билан ажратилган йўл нечта ҳаракатланиш учун тасмага эга?",
+      "questionRu": "Сколько полос для движения имеет дорога; где транспортные потоки противоположных направлений разделяются двойными сплошными линиями?",
+      "questionOz": "Qarama-qarshi yo'nalishdagi transportlar oqimi ikkita sidirg'a chiziqlar bilan ajratilgan yo'l nechta harakatlanish uchun tasmaga ega?",
+      "explanationUz": "Бу йўл чизиғи ҳайдовчини қатнов қисмида тўртта ва ундан ортиқ ҳаракатланиш тасмалари мавжудлиги ҳақида огоҳлантиради. Демак, тўғри жавоб — Ф4 жавоби бўлади.",
+      "explanationRu": "Данная дорожная разметка предупреждает водителя о наличии на проезжей части четырёх и более полос движения. Следовательно, правильным ответом является вариант Ф4.",
+      "explanationOz": "Bu yoʻl chizigʻi haydovchini qatnov qismida toʻrtta va undan ortiq harakatlanish tasmalari mavjudligi haqida ogohlantiradi. Demak, toʻgʻri javob — F4 javobi bo‘ladi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/7.13.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5555,
+          "textUz": "Иккита",
+          "textRu": "Две",
+          "textOz": "Ikkita",
+          "isCorrect": false
+        },
+        {
+          "id": 5556,
+          "textUz": "Иккита ёки учта",
+          "textRu": "Две или три полосы",
+          "textOz": "Ikkita yoki uchta",
+          "isCorrect": false
+        },
+        {
+          "id": 5557,
+          "textUz": "Учта",
+          "textRu": "Три полосы",
+          "textOz": "Uchta",
+          "isCorrect": false
+        },
+        {
+          "id": 5558,
+          "textUz": "Тўртта ва ундан кўп бўлакка",
+          "textRu": "Четыре и более полос",
+          "textOz": "To'rtta va undan ko'p bo'lakka",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        5558
+      ]
+    },
+    {
+      "id": 342,
+      "questionUz": "Ётиқ чизиқнинг узлуксиз сариқ чизиғи нимани билдиради?",
+      "questionRu": "Что обозначает сплошная желтая линия горизонтальной разметки?",
+      "questionOz": "Yotiq chiziqning uzluksiz sariq chizig'i nimani bildiradi?",
+      "explanationUz": "Узлуксиз сариқ чизиқ транспорт воситаларининг тўхташи тақиқланган жойни билдиради. Ушбу чизиқ ўрнатилган жойда транспорт воситаларини тўхтатишга рухсат этилмайди.",
+      "explanationRu": "Сплошная жёлтая линия обозначает место, где остановка транспортных средств запрещена. В зоне действия такой разметки остановка не допускается.",
+      "explanationOz": "Uzluksiz sariq chiziq transport vositalarining toʻxtashi taqiqlangan joyni bildiradi. Ushbu chiziq o‘rnatilgan joyda transport vositalarini toʻxtatishga ruxsat etilmaydi.",
+      "imageUrl": "https://api.yodla-app.uz/media/question-images/8.3.webp",
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 5559,
+          "textUz": "Транспорт воситаларининг тўхташи таъқиқланган жойни",
+          "textRu": "Место; где запрещается остановка транспортных средств",
+          "textOz": "Transport vositalarining to'xtashi taqiqlangan joyni",
+          "isCorrect": true
+        },
+        {
+          "id": 5560,
+          "textUz": "Белгиланган йўналишли транспорт воситалари учун ва такси тўхташига рухсат берилган жойни",
+          "textRu": "Место; где разрешена остановка маршрутных транспортных средств и такси",
+          "textOz": "Belgilangan yo'nalishli transport vositalari uchun va taksi to'xtashiga ruxsat berilgan joyni",
+          "isCorrect": false
+        },
+        {
+          "id": 5561,
+          "textUz": "Транспорт воситаларининг тўхтаб туриши таъқиқланган жойни",
+          "textRu": "Место; где запрещена стоянка транспортных средств",
+          "textOz": "Transport vositalarining to'xtab turishi taqiqlangan joyni",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        5559
+      ]
+    }
+  ]
+}

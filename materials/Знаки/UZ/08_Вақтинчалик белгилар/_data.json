@@ -1,0 +1,156 @@
+{
+  "category": "Вақтинчалик белгилар",
+  "count": 25,
+  "signs": [
+    {
+      "number": "1.8",
+      "description": "«Светофор билан тартибга солиш»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.8-min.png",
+      "imageFile": "1.8.png"
+    },
+    {
+      "number": "1.15",
+      "description": "«Сирпанчиқ йўл»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.15-min.png",
+      "imageFile": "1.15.png"
+    },
+    {
+      "number": "1.16",
+      "description": "«Нотекис йўл»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.16-min.png",
+      "imageFile": "1.16.png"
+    },
+    {
+      "number": "1.17",
+      "description": "«Тош отилиши хавфи»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.17-min.png",
+      "imageFile": "1.17.png"
+    },
+    {
+      "number": "1.18.1",
+      "description": "«Йўлнинг торайиши»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.1-min.png",
+      "imageFile": "1.18.1.png"
+    },
+    {
+      "number": "1.18.2",
+      "description": "«Йўлнинг торайиши»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.2-min.png",
+      "imageFile": "1.18.2.png"
+    },
+    {
+      "number": "1.18.3",
+      "description": "«Йўлнинг торайиши»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.18.3-min.png",
+      "imageFile": "1.18.3.png"
+    },
+    {
+      "number": "1.23",
+      "description": "«Таъмирлаш ишлари»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.23-min.png",
+      "imageFile": "1.23.png"
+    },
+    {
+      "number": "1.30",
+      "description": "«Бошқа хавф-хатарлар»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/1.30-min.png",
+      "imageFile": "1.30.png"
+    },
+    {
+      "number": "2.6",
+      "description": "«Рўпара ҳаракатланишнинг устунлиги»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/2.6-min.png",
+      "imageFile": "2.6.png"
+    },
+    {
+      "number": "2.7",
+      "description": "«Рўпарадаги ҳаракатланишга нисбатан имтиёз»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/5874.jpg.webp",
+      "imageFile": "2.7.webp"
+    },
+    {
+      "number": "3.1",
+      "description": "«Кириш тақиқланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/2356.png.webp",
+      "imageFile": "3.1.webp"
+    },
+    {
+      "number": "3.2",
+      "description": "«Ҳаракатланиш тақиқланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2022/11/7547.png.webp",
+      "imageFile": "3.2.webp"
+    },
+    {
+      "number": "3.11",
+      "description": "«Вазн чекланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.11-min.png",
+      "imageFile": "3.11.png"
+    },
+    {
+      "number": "3.12",
+      "description": "«Ўққа тушадиган оғирлик чекланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.12-min.png",
+      "imageFile": "3.12.png"
+    },
+    {
+      "number": "3.13",
+      "description": "«Чекланган баландлик»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.13-min.png",
+      "imageFile": "3.13.png"
+    },
+    {
+      "number": "3.14",
+      "description": "«Чекланган кенглик»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.14-min.png",
+      "imageFile": "3.14.png"
+    },
+    {
+      "number": "3.15",
+      "description": "«Чекланган узунлик»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.15-min.png",
+      "imageFile": "3.15.png"
+    },
+    {
+      "number": "3.16",
+      "description": "«Энг кам оралиқ»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.16-min.png",
+      "imageFile": "3.16.png"
+    },
+    {
+      "number": "3.18.1",
+      "description": "«Ўнгга бурилиш тақиқланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.18.1-min.png",
+      "imageFile": "3.18.1.png"
+    },
+    {
+      "number": "3.18.2",
+      "description": "«Чапга бурилиш тақиқланади»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.18.2-min.png",
+      "imageFile": "3.18.2.png"
+    },
+    {
+      "number": "3.19",
+      "description": "«Қайрилиш тақиқланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.19-min.png",
+      "imageFile": "3.19.png"
+    },
+    {
+      "number": "3.20",
+      "description": "«Қувиб ўтиш тақиқланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.20-min.png",
+      "imageFile": "3.20.png"
+    },
+    {
+      "number": "3.22",
+      "description": "«Юк автомобилларида қувиб ўтиш тақиқланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.22-min.png",
+      "imageFile": "3.22.png"
+    },
+    {
+      "number": "3.24",
+      "description": "«Юқори тезлик чекланган»",
+      "imageUrl": "https://24pdd.uz/wp-content/uploads/2023/08/3.24-min.png",
+      "imageFile": "3.24.png"
+    }
+  ]
+}

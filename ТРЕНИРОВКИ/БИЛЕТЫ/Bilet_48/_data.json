@@ -1,0 +1,816 @@
+{
+  "title": "Bilet 48",
+  "count": 20,
+  "questions": [
+    {
+      "id": 943,
+      "questionUz": "Йўлнинг ёритилмаган қисмларида қоронғи вақтда тўхтаганда габарит чироқлари бузуқ бўлса:",
+      "questionRu": "При остановке в темное время суток на неосвещенных участках дорог в случае неисправности габаритных огней необходимо:",
+      "questionOz": "Yo'lning yoritilmagan qismlarida qorong'i vaqtda to'xtaganda gabarit chiroqlari buzuq bo'lsa:",
+      "explanationUz": "ЙҲҚ 23 – боби 136 – банди: Сутканинг қоронғи вақтида йўлнинг ёритилмаган қисмида, шунингдек, етарлича кўринмайдиган шароитда тўхтаган ёки тўхтаб турган транспорт воситасида габарит фара чироқлари ёқилган бўлиши керак.",
+      "explanationRu": "Пункта 136 главы 23 ПДД гласит: При остановке и стоянке в темное время суток на неосвещенных участках дорог, а также в условиях недостаточной видимости на транспортном средстве должны быть включены габаритные огни.",
+      "explanationOz": "YHQ 23 – bobi 136 – bandi: Sutkaning qorong‘i vaqtida yo‘lning yoritilmagan qismida, shuningdek, yetarlicha ko‘rinmaydigan sharoitda to‘xtagan yoki to‘xtab turgan transport vositasida gabarit fara chiroqlari yoqilgan bo‘lishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3081,
+          "textUz": "Яқинни ёритувчи фараларни ёқиш",
+          "textRu": "Включить ближний свет",
+          "textOz": "Yaqinni yorituvchi faralarni yoqish",
+          "isCorrect": false
+        },
+        {
+          "id": 3082,
+          "textUz": "Ўнгроққа олиш ва яқинни ёритувчи фарани ёқиш зарур",
+          "textRu": "Принять правее и включить ближний свет фар",
+          "textOz": "O'ngroqqa olish va yaqinni yorituvchi farani yoqish zarur",
+          "isCorrect": false
+        },
+        {
+          "id": 3083,
+          "textUz": "Транспорт воситасини йўлдан ташқарига чиқариш, агар бунинг иложи бўлмаса мазкур қоидалар талабларига биноан уни белгилаш лозим",
+          "textRu": "Отвезти транспортное средство за пределы дороги, а если это невозможно, его необходимо обозначить в соответствии с требованиями Правил",
+          "textOz": "Transport vositasini yo'ldan tashqariga chiqarish, agar buning iloji bo'lmasa mazkur qoidalar talablariga binoan uni belgilash lozim",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3083
+      ]
+    },
+    {
+      "id": 944,
+      "questionUz": "Орқа томондаги туманга қарши чироқлар қуйидаги ҳолларда қўлланиши мумкин:",
+      "questionRu": "Задние противотуманные фонари могут применяться:",
+      "questionOz": "Orqa tomondagi tumanga qarshi chiroqlar quyidagi hollarda qo'llanishi mumkin:",
+      "explanationUz": "ЙҲҚ 23-боби 140- бандига мувофиқ, туманга қарши орқа фара чироқларини фақат етарлича кўринмайдиган шароитда қўллаш мумкин.",
+      "explanationRu": "Согласно пункту 140 главы 23 ПДД, задние противотуманные фонари могут применяться только в условиях недостаточной видимости.",
+      "explanationOz": "YHQ 23-bobi 140-bandiga muvofiq, tumanga qarshi orqa fara chiroqlarini faqat yetarlicha ko'rinmaydigan sharoitda qo'llash mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4107,
+          "textUz": "Куннинг қоронғи вақтида сафда ҳаракатланишда",
+          "textRu": "При движении в колонне в темное время суток",
+          "textOz": "Kunning qorong'i vaqtida safda harakatlanishda",
+          "isCorrect": false
+        },
+        {
+          "id": 4108,
+          "textUz": "Тонелларда ҳаракатланишда",
+          "textRu": "При движении в тоннелях",
+          "textOz": "Tonellarda harakatlanishda",
+          "isCorrect": false
+        },
+        {
+          "id": 4109,
+          "textUz": "Фақат етарли кўринмайдиган шароитларда",
+          "textRu": "Только в условиях недостаточной видимости",
+          "textOz": "Faqat etarli ko'rinmaydigan sharoitlarda",
+          "isCorrect": true
+        },
+        {
+          "id": 4110,
+          "textUz": "Куннинг қоронғи вақтида юк туширишда",
+          "textRu": "При разгрузке груза в темное время суток",
+          "textOz": "Kunning qorong'i vaqtida yuk tushirishda",
+          "isCorrect": false
+        },
+        {
+          "id": 4111,
+          "textUz": "Барча санаб ўтилган ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4109
+      ]
+    },
+    {
+      "id": 945,
+      "questionUz": "Ҳайдовчи кўзи қамашган тақдирда қуйидагиларни бажариши шарт:",
+      "questionRu": "При ослеплении водитель должен:",
+      "questionOz": "Haydovchi ko'zi qamashgan taqdirda quyidagilarni bajarishi shart:",
+      "explanationUz": "ЙҲҚ 23-боби 135-бандига мувофиқ, кўзи қамашган ҳайдовчи авария ишораларини ёқиши, ҳаракатланиш бўлагини ўзгартирмасдан тезликни камайтириши ва тўхташи керак.",
+      "explanationRu": "Согласно пункту 135 главы 23 ПДД, при ослеплении водитель должен включить аварийную световую сигнализацию и, не меняя полосу движения, снизить скорость и остановиться.",
+      "explanationOz": "YHQ 23-bobi 135-bandiga muvofiq, ko'zi qamashgan haydovchi avariya ishoralarini yoqishi, harakatlanish bo'lagini o'zgartirmasdan tezlikni kamaytirishi va to'xtashi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3089,
+          "textUz": "Қатнов қисмининг иложи борича ўнг томонига ўтиб тўхташи",
+          "textRu": "Принять как можно правее к краю проезжей части и остановиться",
+          "textOz": "Qatnov qismining iloji boricha o'ng tomoniga o'tib to'xtashi",
+          "isCorrect": false
+        },
+        {
+          "id": 3090,
+          "textUz": "Фалокат ёруғлик ишораларини ёқиши ва ҳаракат тасмасини ўзгартирмаган ҳолда тезликни камайтириши ва тўхташи",
+          "textRu": "Включить аварийную световую сигнализацию и; не меняя полосу движения; снизить скорость и остановиться",
+          "textOz": "Falokat yorug'lik ishoralarini yoqishi va harakat tasmasini o'zgartirmagan holda tezlikni kamaytirishi va to'xtashi",
+          "isCorrect": true
+        },
+        {
+          "id": 3091,
+          "textUz": "Агар олдинда транспорт воситалари пайдо бўлса бўлакни ўзгартирмай тезликни камайтириши ёки тўхташи",
+          "textRu": "Не меняя полосу движения; снизить скорость или остановиться; если впереди появятся транспортные средства",
+          "textOz": "Agar oldinda transport vositalari paydo bo'lsa bo'lakni o'zgartirmay tezlikni kamaytirishi yoki to'xtashi",
+          "isCorrect": false
+        },
+        {
+          "id": 3092,
+          "textUz": "Узоқни ёритувчи чироқни ёқиши ва тўхташи",
+          "textRu": "Включить дальний свет и остановиться",
+          "textOz": "Uzoqni yorituvchi chiroqni yoqishi va to'xtashi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3090
+      ]
+    },
+    {
+      "id": 946,
+      "questionUz": "Транспорт воситалари сунъий ёритилган туннелда ҳаракатланаётганда қандай ёритиш чироқлари ёқилиши керак?",
+      "questionRu": "Какие световые приборы должны быть включены на транспортном средстве при движении в тонелле с искусственным освещением?",
+      "questionOz": "Transport vositalari suniy yoritilgan tunnelda harakatlanayotganda qanday yoritish chiroqlari yoqilishi kerak?",
+      "explanationUz": "ЙҲҚ 23 – боби 134 – бандининг биринчи ва иккинчи хатбошларига асосан: Қоронғи вақтда ва етарлича кўринмайдиган шароитда, шунингдек йўлнинг ёритилганлигидан қатъи назар, туннелларда ҳаракатланаётган транспорт воситаларида қуйидаги ёритиш асбоблари ёқилган бўлиши керак: барча механик транспорт воситалари – узоқни ёки яқинни ёритувчи чироқлар.",
+      "explanationRu": "Пункта 134 главы 23 ПДД гласит: В темное время суток и в условиях недостаточной видимости, а также независимо от освещения дороги, в тоннелях на движущихся транспортных средствах должны быть включены: — на всех механических транспортных средствах и мопедах — фары дальнего или ближнего света.",
+      "explanationOz": "YHQ 23 – bobi 134 – bandining birinchi va ikkinchi xatboshlariga asosan: Qorong‘i vaqtda va yetarlicha ko‘rinmaydigan sharoitda, shuningdek yo‘lning yoritilganligidan qat‘i nazar, tunnellarda harakatlanayotgan transport vositalarida quyidagi yoritish asboblari yoqilgan bo‘lishi kerak: barcha mexanik transport vositalari – uzoqni yoki yaqinni yorituvchi chiroqlar.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3093,
+          "textUz": "Узоқни ёритувчи чироқлар",
+          "textRu": "Дальний свет фар",
+          "textOz": "Uzoqni yorituvchi chiroqlar",
+          "isCorrect": false
+        },
+        {
+          "id": 3094,
+          "textUz": "Яқинни ёки узоқни ёритувчи чироқлар\n",
+          "textRu": "Ближний или Дальний свет фар",
+          "textOz": "Yaqinni yoki uzoqni yorituvchi chiroqlar\n",
+          "isCorrect": true
+        },
+        {
+          "id": 3095,
+          "textUz": "Мажбурий тўхташ ёритгичи",
+          "textRu": "Аварийная световая сигнализация",
+          "textOz": "Majburiy to'xtash yoritgichi",
+          "isCorrect": false
+        },
+        {
+          "id": 3096,
+          "textUz": "Ёритиш асбоблари ёқилмайди",
+          "textRu": "Световые приборы не включаются",
+          "textOz": "Yoritish asboblari yoqilmaydi",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3094
+      ]
+    },
+    {
+      "id": 947,
+      "questionUz": "Туманга қарши чироқлардан қандай ҳолларда фойдаланиш мумкин?",
+      "questionRu": "Противотуманные фары могут использоваться:",
+      "questionOz": "Tumanga qarshi chiroqlardan qanday hollarda foydalanish mumkin?",
+      "explanationUz": "ЙҲҚ 23 – боби 137 – бандига асосан, қуйидаги ҳолларда туманга қарши чироқларни қўллаш мумкин: етарлича кўринмайдиган шароитда алоҳида, шунингдек, узоқни ёритувчи ёки яқинни ёритувчи фара чироқлари билан; шунингдек, ушбу Қоидаларнинг 138-бандида кўзда тутилган ҳолатларда яқинни ёритувчи фара чироқлари ўрнига механик транспорт воситаларини шатакка олишда (шатакка олиб кетаётган транспорт воситасида).",
+      "explanationRu": "Пункта 137 главы 23 ПДД гласит: Противотуманные фары могут использоваться в условиях недостаточной видимости самостоятельно, а также совместно с ближним или дальним светом фар, а так же вместо ближнего света фар в условиях, при буксировке механических транспортных средств (на буксирующем транспортном средстве) предусмотренных пунктом 138 настоящих Правил.",
+      "explanationOz": "YHQ 23 – bobi 137 – bandiga asosan, quyidagi hollarda tumanga qarshi chiroqlarni qo‘llash mumkin: yetarlicha ko‘rinmaydigan sharoitda alohida, shuningdek, uzoqni yorituvchi yoki yaqinni yorituvchi fara chiroqlari bilan; shuningdek, ushbu Qoidalarning 138-bandida ko‘zda tutilgan holatlarda yaqinni yorituvchi fara chiroqlari o‘rniga mexanik transport vositalarini shatakka olishda (shatakka olib ketayotgan transport vositasida).",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 4125,
+          "textUz": "Етарли кўринмайдиган шароитларда",
+          "textRu": "В условиях недостаточной видимости",
+          "textOz": "Etarli ko'rinmaydigan sharoitlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 4126,
+          "textUz": "Механик транспорт воситасини шатакка олганда",
+          "textRu": "При буксировке механического транспортного",
+          "textOz": "Mexanik transport vositasini shatakka olganda",
+          "isCorrect": false
+        },
+        {
+          "id": 4127,
+          "textUz": "Санаб ўтилган барча ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Sanab o'tilgan barcha hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        4127
+      ]
+    },
+    {
+      "id": 948,
+      "questionUz": "Ҳайдовчи, бошқа ҳайдовчиларнинг кўзини қамаштириши мумкин бўлган узоқни ёритувчи чироқни яқинни ёритувчига қачон алмаштириши керак?",
+      "questionRu": "Когда водитель должен переключить дальний свет на ближний, если он может ослепить других водителей? Не менее чем:",
+      "questionOz": "Haydovchi, boshqa haydovchilarning ko'zini qamashtirishi mumkin bo'lgan uzoqni yorituvchi chiroqni yaqinni yorituvchiga qachon almashtirishi kerak?",
+      "explanationUz": "ЙҲҚ 23-боби 135-бандининг иккинчи ва учинчи хатбошларига асосан, қуйидаги ҳолларда узоқни ёритувчи чироқлар ўрнига яқинни ёритувчи чироқлар ёқилиши керак: қарама-қарши йўналишдаги транспорт воситасига камида 150 метр масофа қолганда, шунингдек ҳайдовчи транспорт воситасининг чироқларини вақт-вақти билан ўчириб бунга зарурият борлигини билдирган ҳолларда ундан ҳам кўпроқ масофада; қарама-қарши ва бир йўналишдаги транспорт воситалари ҳайдовчиларининг кўзини қамаштириши мумкин бўлган бошқа барча ҳолатларда.",
+      "explanationRu": "Абзацу 2 пункта 135 главы 23 ПДД, дальний свет должен быть переключен на ближний в следующих случаях: если расстояние до встречного транспортного средства менее 150 м, а также и при большем расстоянии, если водитель, переключением света фар, периодическим покажет необходимость этого.",
+      "explanationOz": "YHQ 23-bobi 135-bandining ikkinchi va uchinchi xatboshlariga asosan, quyidagi hollarda uzoqni yorituvchi chiroqlar o'rniga yaqinni yorituvchi chiroqlar yoqilishi kerak: qarama-qarshi yo'nalishdagi transport vositasiga kamida 150 metr masofa qolganda, shuningdek haydovchi transport vositasining chiroqlarini vaqt-vaqti bilan o'chirib bunga zaruriyat borligini bildirgan hollarda undan ham ko'proq masofada; qarama-qarshi va bir yo'nalishdagi transport vositalari haydovchilarining ko'zini qamashtirishi mumkin bo'lgan boshqa barcha holatlarda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3100,
+          "textUz": "Рўпарадаги транспорт воситасига 100 м қолганда",
+          "textRu": "За 100 м до встречного транспортного средства",
+          "textOz": "Ro'paradagi transport vositasiga 100 m qolganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3101,
+          "textUz": "Рўпарадаги транспорт воситасига 150 м қолганда, шунингдек кўпроқ масофада ҳам, агар рўпарадаги транспорт воситасининг ҳайдовчиси фаралар чироғини ўчириб ёқиб шуни зарур деб кўрсатса",
+          "textRu": "За 150 м до встречного транспортного средства, а также и при большем расстоянии, если водитель встречного транспортного средства периодическим переключением света фар показывает необходимость этого",
+          "textOz": "Ro'paradagi transport vositasiga 150 m qolganda, shuningdek ko'proq masofada ham, agar ro'paradagi transport vositasining haydovchisi faralar chirog'ini o'chirib yoqib shuni zarur deb ko'rsatsa",
+          "isCorrect": true
+        },
+        {
+          "id": 3102,
+          "textUz": "Рўпарадаги транспорт воситасига 250 м қолганда",
+          "textRu": "За 250 м до встречного транспортного средства",
+          "textOz": "Ro'paradagi transport vositasiga 250 m qolganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3103,
+          "textUz": "Рўпарадаги транспорт воситасига 300 м қолганда",
+          "textRu": "За 300 м до встречного транспортного средства",
+          "textOz": "Ro'paradagi transport vositasiga 300 m qolganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3101
+      ]
+    },
+    {
+      "id": 949,
+      "questionUz": "Прожектор-фарадан фойдаланишга рухсат этилади:",
+      "questionRu": "Фарой-прожектором разрешается пользоваться:",
+      "questionOz": "Projektor-faradan foydalanishga ruxsat etiladi:",
+      "explanationUz": "ЙҲҚ 23-боби 139- бандига мувофиқ, прожектор-фара чироқлари ва изловчи-фара чироқларидан аҳоли пунктларидан ташқарида, қарама-қарши йўналишда ҳаракатланаётган транспорт воситалари бўлмаганда фойдаланиш мумкин.",
+      "explanationRu": "Согласно пункту 139 главы 23 ПДД, фарой-прожектором и фарой-искателем разрешается пользоваться только вне населенных пунктов при отсутствии встречных транспортных средств.",
+      "explanationOz": "YHQ 23-bobi 139 - bandiga muvofiq, projektor-fara chiroqlari va izlovchi-fara chiroqlaridan aholi punktlaridan tashqarida, qarama-qarshi yo'nalishda harakatlanayotgan transport vositalari bo'lmaganda foydalanish mumkin.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3104,
+          "textUz": "Фақат аҳоли яшайдиган жойлардан ташқарида рўпарадан келаётган транспорт воситалари бўлмаганда",
+          "textRu": "Только вне населенных пунктов при отсутствии встречных транспортных средств",
+          "textOz": "Faqat aholi yashaydigan joylardan tashqarida ro'paradan kelayotgan transport vositalari bo'lmaganda",
+          "isCorrect": true
+        },
+        {
+          "id": 3105,
+          "textUz": "Фақат етарли кўринмайдиган шароитда",
+          "textRu": "Только в условиях недостаточной видимости",
+          "textOz": "Faqat etarli ko'rinmaydigan sharoitda",
+          "isCorrect": false
+        },
+        {
+          "id": 3106,
+          "textUz": "Агар бунга зарурият туғилса, барча жойларда",
+          "textRu": "В любых местах, если в этом есть необходимость",
+          "textOz": "Agar bunga zaruriyat tug'ilsa, barcha joylarda",
+          "isCorrect": false
+        },
+        {
+          "id": 3107,
+          "textUz": "Куннинг қоронғи вақтида йўлнинг барча қисмларида",
+          "textRu": "В темное время суток на всех участках дорог",
+          "textOz": "Kunning qorong'i vaqtida yo'lning barcha qismlarida",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3104
+      ]
+    },
+    {
+      "id": 950,
+      "questionUz": "Автобусларда болалар гуруҳини ташкилий равишда ташишда қандай ҳолларда куннинг ёруғ вақтида яқинни ёритувчи фара чироқлари ёқиб қўйилиши керак?",
+      "questionRu": "В каких случаях следует включать фары в дневное время при организации группы детей в автобусах?",
+      "questionOz": "Avtobuslarda bolalar guruhini tashkiliy ravishda tashishda qanday hollarda kunning yorug' vaqtida yaqinni yorituvchi fara chiroqlari yoqib qo'yilishi kerak?",
+      "explanationUz": "ЙҲҚ 23-боби 138-банди 3-хатбошига мувофиқ, куннинг ёруғ вақтида қуидаги ҳолларда яқинни ёритувчи фаралар ёқилиши керак: автобусда болалар гуруҳини ташкилий ташишда.",
+      "explanationRu": "Абзацу 3 пункта 138 главы 23 ПДД, гласит: В светлое время суток ближний свет фар должен быть включен в следующих случаях: - при организованной перевозке групп детей в автобусах или на грузовых автомобилях.",
+      "explanationOz": "YHQ 23-bobi 138-bandi 3-xatboshiga muvofiq, kunning yorug‘ vaqtida quidagi hollarda yaqinni yorituvchi faralar yoqilishi kerak: avtobusda bolalar guruhini tashkiliy tashishda.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3108,
+          "textUz": "Фақат кўриниш етарли бўлмаган шароитларда",
+          "textRu": "Только в условиях, когда видимость недостаточна",
+          "textOz": "Faqat ko'rinish etarli bo'lmagan sharoitlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 3109,
+          "textUz": "Фақат ҳаракат серқатнов бўлганда",
+          "textRu": "Только когда интенсивное движение",
+          "textOz": "Faqat harakat serqatnov bo'lganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3110,
+          "textUz": "Ҳайдовчининг хоҳишига кўра",
+          "textRu": "На усмотрение водителя",
+          "textOz": "Haydovchining xohishiga ko'ra",
+          "isCorrect": false
+        },
+        {
+          "id": 3111,
+          "textUz": "Ташиш амалга оширилаётган барча ҳолларда",
+          "textRu": "Во всех случаях перевозки",
+          "textOz": "Tashish amalga oshirilayotgan barcha hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3111
+      ]
+    },
+    {
+      "id": 951,
+      "questionUz": "Сунъий ёритилган туннелларда ҳаракатланаётганда қоидалар ҳайдовчига қандай мажбурият юклайди?",
+      "questionRu": "При движении в тоннелях с искусственным освещением Правила обязывают водителя:",
+      "questionOz": "Suniy yoritilgan tunnellarda harakatlanayotganda qoidalar haydovchiga qanday majburiyat yuklaydi?",
+      "explanationUz": "ЙҲҚ 23-боби 134-бандининг биринчи хатбошисига асосан, қоронғи вақтда ва етарлича кўринмайдиган шароитда, шунингдек йўлининг ёритилганлигидан қатъи назар, туннелларда ҳаракатланаётган транспорт воситаларида қуйидаги ёритиш асбоблари ёқилган бўлиши керак: барча механик транспорт воситалари - узоқни ёки яқинни ёритувчи чироқлар.",
+      "explanationRu": "Абзацу 1 пункта 134 главы 23 ПДД, гласит: В темное время суток и в условиях недостаточной видимости, а также в тоннелях на всех движущихся транспортных средствах должны быть включены:\r\n- на неосвещенных участках дороги ближний или дальний свет фар;",
+      "explanationOz": "YHQ 23-bobi 134-bandining birinchi xatboshisiga asosan, qorong‘i vaqtda va yetarlicha ko‘rinmaydigan sharoitda, shuningdek yo‘lining yoritilganligidan qat’i nazar, tunnellarda harakatlanayotgan transport vositalarida quyidagi yoritish asboblari yoqilgan bo‘lishi kerak: barcha mexanik transport vositalari - uzoqni yoki yaqinni yorituvchi chiroqlar.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3112,
+          "textUz": "Мажбурий тўхташ ёригичини ёқишни",
+          "textRu": "Включить аварийную световую сигнализацию",
+          "textOz": "Majburiy to'xtash yorigichini yoqishni",
+          "isCorrect": false
+        },
+        {
+          "id": 3113,
+          "textUz": "40 км/с дан ошмайдиган тезлик билан ҳаракатланишни",
+          "textRu": "Двигаться со скоростью не более 40 км/ч",
+          "textOz": "40 km/s dan oshmaydigan tezlik bilan harakatlanishni",
+          "isCorrect": false
+        },
+        {
+          "id": 3114,
+          "textUz": "Товушли хабар беришни",
+          "textRu": "Подавать звуковой сигнал",
+          "textOz": "Tovushli xabar berishni",
+          "isCorrect": false
+        },
+        {
+          "id": 3115,
+          "textUz": "Яқинни ёки узоқни ёритувчи чироқларини ёқиш",
+          "textRu": "Включить ближний свет фар",
+          "textOz": "Yaqinni yoki uzoqni yorituvchi chiroqlarini yoqish",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3115
+      ]
+    },
+    {
+      "id": 952,
+      "questionUz": "Автопоезднинг белгиси қандай ҳолда ёқилган бўлиши керак?",
+      "questionRu": "Знак автопоезда должен быть включен:",
+      "questionOz": "Avtopoezdning belgisi qanday holda yoqilgan bo'lishi kerak?",
+      "explanationUz": "ЙҲҚ 23-боби 141- бандига мувофиқ, «Автопоезд» таниқлик белгиси автопоезд ҳаракатланаётганда, шунингдек, сутканинг қоронғи вақтида ва етарлича кўринмайдиган шароитда йўлда тўхташ ва тўхтаб туриш пайтида ҳам ёқиб қўйилиши керак.",
+      "explanationRu": "Согласно пункту 141 главы 23 ПДД, опознавательный знак «Автопоезд» должен быть включен при движении автопоезда, а также в темное время суток и в условиях недостаточной видимости во время остановки и стоянки.",
+      "explanationOz": "YHQ 23-bobi 141 - bandiga muvofiq, \"Avtopoezd\" taniqlik belgisi avtopoezd harakatlanayotganda, shuningdek, sutkaning qorong'i vaqtida va etarlicha ko'rinmaydigan sharoitda yo'lda to'xtash va to'xtab turish paytida ham yoqib qo'yilishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4847,
+          "textUz": "Тунда ёки етарли кўринмайдиган шароитда ҳаракат қилганда",
+          "textRu": "При движении ночью или в условиях недостаточной видимости",
+          "textOz": "Tunda yoki etarli ko'rinmaydigan sharoitda harakat qilganda",
+          "isCorrect": false
+        },
+        {
+          "id": 4848,
+          "textUz": "Фақат автопоезд ҳаракат қилганда",
+          "textRu": "Только при движении автопоезда",
+          "textOz": "Faqat avtopoezd harakat qilganda",
+          "isCorrect": false
+        },
+        {
+          "id": 4849,
+          "textUz": "Автопоезд ҳаракат қилганда, шунингдек, қоронғи вақтида тўхтаганда ва тўхтаб турганида, барча кўрсатилинган ҳолатда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Avtopoezd harakat qilganda, shuningdek, qorong'i vaqtida to'xtaganda va to'xtab turganida, barcha ko'rsatilingan holatda",
+          "isCorrect": true
+        },
+        {
+          "id": 4850,
+          "textUz": "Фақат автопоезд юк билан ҳаракат қилганда",
+          "textRu": "Только при движении автопоезда с грузом",
+          "textOz": "Faqat avtopoezd yuk bilan harakat qilganda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4849
+      ]
+    },
+    {
+      "id": 953,
+      "questionUz": "Қоидаларнинг қандай ҳолларида туманга қарши орқа чироқларни қўллашга рухсат берилади?",
+      "questionRu": "В каких случаях Правила разрешают применять задние противотуманные фонари?",
+      "questionOz": "Qoidalarning qanday hollarida tumanga qarshi orqa chiroqlarni qo'llashga ruxsat beriladi?",
+      "explanationUz": "",
+      "explanationRu": "",
+      "explanationOz": "",
+      "imageUrl": null,
+      "hasVideo": false,
+      "options": [
+        {
+          "id": 3120,
+          "textUz": "Транспорт воситаси билан шатакка олганда",
+          "textRu": "При буксировке транспортным средством",
+          "textOz": "Transport vositasi bilan shatakka olganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3121,
+          "textUz": "Саф таркибида ҳаракатланганда",
+          "textRu": "В темное время суток",
+          "textOz": "Saf tarkibida harakatlanganda",
+          "isCorrect": false
+        },
+        {
+          "id": 3122,
+          "textUz": "Куннинг қоронғи вақтида",
+          "textRu": "При движении в составе колонны",
+          "textOz": "Kunning qorong'i vaqtida",
+          "isCorrect": false
+        },
+        {
+          "id": 3123,
+          "textUz": "Етарлича кўринмайдиган шароитда қўллаш мумкин",
+          "textRu": "В условиях недостаточной видимости",
+          "textOz": "Yetarlicha ko'rinmaydigan sharoitda qo'llash mumkin",
+          "isCorrect": true
+        },
+        {
+          "id": 3124,
+          "textUz": "Санаб ўтилган барча ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Sanab o'tilgan barcha hollarda",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3123
+      ]
+    },
+    {
+      "id": 954,
+      "questionUz": "Туманга қарши чироқлар ва орқа туманга қарши чироқлар бирга ёқилиши мумкин?",
+      "questionRu": "Противотуманные фары и задние противотуманные фонари могут быть включены одновременно?",
+      "questionOz": "Tumanga qarshi chiroqlar va orqa tumanga qarshi chiroqlar birga yoqilishi mumkin?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 140 бандига асосан, туманга қарши орқа фара чироқларини фақат етарлича кўринмайдиган шароитда қўллаш мумкин. Туманга қарши орқа фара чироқларини тўхташ фара чироқлари (стоп-сигнал)га улаш тақиқланади.",
+      "explanationRu": "Согласно пункту 140 Правил дорожного движения, задние противотуманные фонари могут применяться только в условиях недостаточной видимости. Запрещается подключать задние противотуманные фонари к задним стоп-сигналам.",
+      "explanationOz": "Yo‘l harakati qoidalarining 140 bandiga asosan, tumanga qarshi orqa fara chiroqlarini faqat yetarlicha ko‘rinmaydigan sharoitda qo‘llash mumkin. Tumanga qarshi orqa fara chiroqlarini to‘xtash fara chiroqlari (stop-signal)ga ulash taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3125,
+          "textUz": "Чекланган кўриниш шароитида",
+          "textRu": "В условиях ограниченной видимости",
+          "textOz": "Cheklangan ko'rinish sharoitida",
+          "isCorrect": false
+        },
+        {
+          "id": 3126,
+          "textUz": "Етарлича кўринмаслик шароитида",
+          "textRu": "В условиях недостаточной видимости",
+          "textOz": "Etarlicha ko'rinmaslik sharoitida",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3126
+      ]
+    },
+    {
+      "id": 955,
+      "questionUz": "Куннинг ёруғ вақтида қуйидаги ҳолларда яқинни ёритувчи чироқлар ёқилиши керак:",
+      "questionRu": "В светлое время суток ближний свет фар должен быть включен в следующих случаях:",
+      "questionOz": "Kunning yorug' vaqtida quyidagi hollarda yaqinni yorituvchi chiroqlar yoqilishi kerak:",
+      "explanationUz": "Йўл ҳаракати қоидаларига 3-илова 7.10 бандига асосан, М1, N1, N2, N3 тоифадаги, микроавтобус ва ғилдиракли тракторлар тиббиёт қутичаси, ўт ўчиргич, мажбурий тўхтаганлигини билдирувчи белги (ёки милтилловчи қизил чироқ) ва нур қайтаргичли камзул (жилет) билан жиҳозланмаган бўлса, фойдаланиш тақиқланади.",
+      "explanationRu": "Согласно пункту 7.10 Приложение № 3 к Правилам дорожного движения, запрещается эксплуатация микроавтобусах, автотранспортных средствах категорий М1, N1, N2, N3 и на колесных тракторах, если отсутствуют: медицинская аптечка, огнетушитель, знак аварийной остановки (или мигающий красный фонарь) и световозвращающий жилет.",
+      "explanationOz": "Yo‘l harakati qoidalariga 3-ilova 7.10 bandiga asosan, M1, N1, N2, N3 toifadagi, mikroavtobus va g‘ildirakli traktorlar tibbiyot qutichasi, o‘t o‘chirgich, majburiy to‘xtaganligini bildiruvchi belgi (yoki miltillovchi qizil chiroq) va nur qaytargichli kamzul (jilet) bilan jihozlanmagan bo‘lsa, foydalanish taqiqlanadi.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3127,
+          "textUz": "Йўловчиларни ташиётган автобус ва йўналишли транспорт воситаларида",
+          "textRu": "При движении в составе организованной транспортной колонны",
+          "textOz": "Yo'lovchilarni tashiyotgan avtobus va yo'nalishli transport vositalarida",
+          "isCorrect": false
+        },
+        {
+          "id": 3128,
+          "textUz": "Хавфли, катта ўлчамли ва оғир вазнли юкларни ташишда",
+          "textRu": "При перевозке опасных, крупногабаритных и тяжеловесных грузов",
+          "textOz": "Xavfli, katta o'lchamli va og'ir vaznli yuklarni tashishda",
+          "isCorrect": false
+        },
+        {
+          "id": 3129,
+          "textUz": "Мототцикл ва мопедларда",
+          "textRu": "На мотоциклах и мопедах",
+          "textOz": "Mototsikl va mopedlarda",
+          "isCorrect": false
+        },
+        {
+          "id": 3130,
+          "textUz": "Барча санаб ўтилган ҳолларда",
+          "textRu": "Во всех перечисленных случаях",
+          "textOz": "Barcha sanab o'tilgan hollarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3130
+      ]
+    },
+    {
+      "id": 956,
+      "questionUz": "Куннинг қоронғи вақтида  аҳоли  пунктларида йўлнинг ёритилган қмсмида Сиз қандай  ташқи ёритиш чироқларидан  фойдаланишингиз  керак?",
+      "questionRu": "Какие внешние световые приборы Вы должны использовать при движении в темное время суток на освещенных участках дорог населенного пункта?",
+      "questionOz": "Kunning qorong'i vaqtida  aholi  punktlarida yo'lning yoritilgan qmsmida Siz qanday  tashqi yoritish chiroqlaridan  foydalanishingiz  kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 135 бандига асосан, қуйидаги ҳолларда узоқни ёритувчи фара чироқлари ўрнига яқинни ёритувчи фара чироқлари ёқилиши керак: йўл ёритилган бўлса.",
+      "explanationRu": "Согласно пункту 135 Правил дорожного движения, дальний свет должен быть переключен на ближний в следующих случаях: если дорога освещена.",
+      "explanationOz": "Yo‘l harakati qoidalarining 135 bandiga asosan, quyidagi hollarda uzoqni yorituvchi fara chiroqlari o‘rniga yaqinni yorituvchi fara chiroqlari yoqilishi kerak: yo‘l yoritilgan bo‘lsa.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3131,
+          "textUz": "Габарит  чироқлардан",
+          "textRu": "Габаритные огни",
+          "textOz": "Gabarit  chiroqlardan",
+          "isCorrect": false
+        },
+        {
+          "id": 3132,
+          "textUz": "Яқинни ёритувчи чироқлардан",
+          "textRu": "Фары ближнего света",
+          "textOz": "Yaqinni yorituvchi chiroqlardan",
+          "isCorrect": true
+        },
+        {
+          "id": 3133,
+          "textUz": "Яқинни ёки узоқни ёритувчи чироқлардан",
+          "textRu": "Ближнего или  дальнего света фар",
+          "textOz": "Yaqinni yoki uzoqni yorituvchi chiroqlardan",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3132
+      ]
+    },
+    {
+      "id": 957,
+      "questionUz": "Қайси ҳолларда  Сизга ҳаракатни давом  эттириш тақиқланади,  ҳатто таъмирлаш устахонасига ҳам, агарда фаралар ва орқа габарит  чироқлар носоз бўлса?",
+      "questionRu": "В каких случаях Вам запрещается дальнейшее движение даже до места ремонта или стоянки с не горящими (из-за неисправности) фарами и задними габаритными огнями?",
+      "questionOz": "Qaysi hollarda  Sizga harakatni davom  ettirish taqiqlanadi,  hatto tamirlash ustaxonasiga ham, agarda faralar va orqa gabarit  chiroqlar nosoz bo'lsa?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 12 бандига асосан, ҳайдовчига қуйидагилар тақиқланади: тормоз тизими, руль бошқаруви ишламаётган, улагич мосламаси (автопоезд таркибида) носоз бўлган, сутканинг қоронғи вақтида ёки кўриниш чекланган вазиятларда ёнмайдиган фара чироқлари ва орқа габарит фара чироқлари, ёмғир ёки қор ёғаётган вақтда ойна тозалагич ишламайдиган транспорт воситасини бошқариш.",
+      "explanationRu": "Согласно пункту 12 Правил дорожного движения, водителю запрещается: управлять транспортным средством, если на транспортном средстве не работает тормозная система, рулевое управление, стеклоочиститель со стороны водителя во время дождя или снегопада, неисправно сцепное устройство (в составе автопоезда), не горят или отсутствуют фары и задние габаритные огни в темное время суток или в условиях недостаточной видимости.",
+      "explanationOz": "Yo‘l harakati qoidalarining 12 bandiga asosan, haydovchiga quyidagilar taqiqlanadi: tormoz tizimi, rul boshqaruvi ishlamayotgan, ulagich moslamasi (avtopoyezd tarkibida) nosoz bo‘lgan, sutkaning qorong‘i vaqtida yoki ko‘rinish cheklangan vaziyatlarda yonmaydigan fara chiroqlari va orqa gabarit fara chiroqlari, yomg‘ir yoki qor yog‘ayotgan vaqtda oyna tozalagich ishlamaydigan transport vositasini boshqarish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3134,
+          "textUz": "Фақат етарлича кўринмаслик  шароитида",
+          "textRu": "Только в условиях недостаточной видимости",
+          "textOz": "Faqat etarlicha ko'rinmaslik  sharoitida",
+          "isCorrect": false
+        },
+        {
+          "id": 3135,
+          "textUz": "Куннинг қоронғу вақтида",
+          "textRu": "Только в темное время суток",
+          "textOz": "Kunning qorong'u vaqtida",
+          "isCorrect": false
+        },
+        {
+          "id": 3136,
+          "textUz": "Ҳар икки  санаб  ўтилган  ҳолда",
+          "textRu": "В обоих перечисленных случаях",
+          "textOz": "Har ikki  sanab  o'tilgan  holda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3136
+      ]
+    },
+    {
+      "id": 958,
+      "questionUz": "Туман шароитида, агар кўриниш масофаси 300 метрдан кам  бўлса кундузги чироқларни ёқиш  етарлими?",
+      "questionRu": "Достаточно ли включения дневных ходовых огней для обозначения транспортного средства при движении в тумане, когда видимость дороги менее 300м?",
+      "questionOz": "Tuman sharoitida, agar ko'rinish masofasi 300 metrdan kam  bo'lsa kunduzgi chiroqlarni yoqish  etarlimi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 98 банди 3 хатбошига асосан, айланма ҳаракатланиш чорраҳасида ҳаракатланаётган транспорт воситалари айланага кириб келаётган транспорт воситаларига нисбатан устунликка (имтиёзга) эга.",
+      "explanationRu": "Согласно абзацу третьего пункта 98 Правил дорожного движения, транспортные средства, движущиеся на перекрестке с круговым движением, имеют приоритет (преимущество) по отношению к транспортным средствам, въезжающим на перекресток.",
+      "explanationOz": "Yo‘l harakati qoidalarining 98 bandi 3 xatboshiga asosan, aylanma harakatlanish chorrahasida harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3137,
+          "textUz": "Етарли",
+          "textRu": "Достаточно",
+          "textOz": "Etarli",
+          "isCorrect": false
+        },
+        {
+          "id": 3138,
+          "textUz": "Етарли эмас",
+          "textRu": "Недостаточно",
+          "textOz": "Etarli emas",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3138
+      ]
+    },
+    {
+      "id": 959,
+      "questionUz": "Туманга қарши чироқларни қоронғи вақтда йўлнинг ёритилмаган қисмларида узоқни ёритувчи чироқлар билан бирга қўлллаш мумкинми?",
+      "questionRu": "Можно ли использовать противотуманные фары совместно с ближним или дальним светом фар в темное время суток на неосвещенных участках дорог?",
+      "questionOz": "Tumanga qarshi chiroqlarni qorong'i vaqtda yo'lning yoritilmagan qismlarida uzoqni yorituvchi chiroqlar bilan birga qo'lllash mumkinmi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 75 бандига асосан, агар бирор тўсиқ сабабли қарама-қарши йўналишларда ҳаракатланиш қийин бўлса, тўсиқ ўз томонида бўлган ҳайдовчи йўл бериши керак.",
+      "explanationRu": "Согласно пункту 75 Правил дорожного движения, если встречный разъезд затруднён, то водитель на стороне которого имеется препятствие, должен уступить дорогу.",
+      "explanationOz": "Yo‘l harakati qoidalarining 75 bandiga asosan, agar biror to‘siq sababli qarama-qarshi yo‘nalishlarda harakatlanish qiyin bo‘lsa, to‘siq o‘z tomonida bo‘lgan haydovchi yo‘l berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 4851,
+          "textUz": "Ҳа",
+          "textRu": "Да",
+          "textOz": "Ha",
+          "isCorrect": true
+        },
+        {
+          "id": 4852,
+          "textUz": "Йўқ",
+          "textRu": "Нет",
+          "textOz": "Yo'q",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        4851
+      ]
+    },
+    {
+      "id": 960,
+      "questionUz": "Туманга қарши олд чироқларни қоронғи вақтда, йўлнинг ёритилмаган қисмларида узоқни ёки яқинни ёритувчи чироқлар билан бирга қўллаш мумкинми?",
+      "questionRu": "Можно ли использовать передние противотуманные фары в темное время суток, на неосвещенных участках дороги вместе с дальним или ближним светом?",
+      "questionOz": "Tumanga qarshi old chiroqlarni qorong'i vaqtda, yo'lning yoritilmagan qismlarida uzoqni yoki yaqinni yorituvchi chiroqlar bilan birga qo'llash mumkinmi?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 96 бандига асосан, чапга ёки ўнгга бурилаётган ҳайдовчи кесишаётган йўлнинг қатнов қисмидан ўтаётган пиёда(лар)га, шунингдек велосипед йўлкасидан йўлни кесиб ўтаётган в��лосипедчи(лар)га йўл бериши керак.",
+      "explanationRu": "Согласно пункту 96 Правил дорожного движения, при повороте направо или налево водитель обязан уступить дорогу пешеходам, переходящим проезжую часть пересекаемой дороги, а также велосипедистам, пересекающим дорогу по велосипедной дорожке.",
+      "explanationOz": "Yo‘l harakati qoidalarining 96 bandiga asosan, chapga yoki o‘ngga burilayotgan haydovchi kesishayotgan yo‘lning qatnov qismidan o‘tayotgan piyoda(lar)ga, shuningdek velosiped yo‘lkasidan yo‘lni kesib o‘tayotgan velosipedchi(lar)ga yo‘l berishi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3141,
+          "textUz": "Мумкин",
+          "textRu": "Можно",
+          "textOz": "Mumkin",
+          "isCorrect": true
+        },
+        {
+          "id": 3142,
+          "textUz": "Мумкин эмас",
+          "textRu": "Нельзя",
+          "textOz": "Mumkin emas",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3141
+      ]
+    },
+    {
+      "id": 961,
+      "questionUz": "Олд чироқлар ва орқа габарит чироқлари ишлаётмаган транспорт воситаси ҳаракатини давом эттириши тақиқланади:",
+      "questionRu": "Дальнейшее движение транспортного средства при неработающих фарах и задних габаритных огнях запрещается:",
+      "questionOz": "Old chiroqlar va orqa gabarit chiroqlari ishlayotmagan transport vositasi harakatini davom ettirishi taqiqlanadi:",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 12 бандига асосан, ҳайдовчига қуйидагилар тақиқланади: тормоз тизими, руль бошқаруви ишламаётган, улагич мосламаси (автопоезд таркибида) носоз бўлган, сутканинг қоронғи вақтида ёки кўриниш чекланган вазиятларда ёнмайдиган фара чироқлари ва орқа габарит фара чироқлари, ёмғир ёки қор ёғаётган вақтда ойна тозалагич ишламайдиган транспорт воситасини бошқариш.",
+      "explanationRu": "Согласно пункту 12 Правил дорожного движения, водителю запрещается: управлять транспортным средством, если на транспортном средстве не работает тормозная система, рулевое управление, стеклоочиститель со стороны водителя во время дождя или снегопада, неисправно сцепное устройство (в составе автопоезда), не горят или отсутствуют фары и задние габаритные огни в темное время суток или в условиях недостаточной видимости.",
+      "explanationOz": "Yo‘l harakati qoidalarining 12 bandiga asosan, haydovchiga quyidagilar taqiqlanadi: tormoz tizimi, rul boshqaruvi ishlamayotgan, ulagich moslamasi (avtopoyezd tarkibida) nosoz bo‘lgan, sutkaning qorong‘i vaqtida yoki ko‘rinish cheklangan vaziyatlarda yonmaydigan fara chiroqlari va orqa gabarit fara chiroqlari, yomg‘ir yoki qor yog‘ayotgan vaqtda oyna tozalagich ishlamaydigan transport vositasini boshqarish.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3143,
+          "textUz": "Фақат етарли кўринмасликда",
+          "textRu": "Только в условиях недостаточной видимости",
+          "textOz": "Faqat etarli ko'rinmaslikda",
+          "isCorrect": false
+        },
+        {
+          "id": 3144,
+          "textUz": "Фақат куннинг қоронғи вақтида",
+          "textRu": "Только в темное время суток",
+          "textOz": "Faqat kunning qorong'i vaqtida",
+          "isCorrect": false
+        },
+        {
+          "id": 3145,
+          "textUz": "Барча жавобларда кўрсатилган ҳолатларда",
+          "textRu": "В обоих перечисленных случаях",
+          "textOz": "Barcha javoblarda ko'rsatilgan holatlarda",
+          "isCorrect": true
+        }
+      ],
+      "correctOptionIds": [
+        3145
+      ]
+    },
+    {
+      "id": 962,
+      "questionUz": "Қаттиқ улагич транспорт воситалари орасида қанчадан ортиқ бўлмаган масофани таъминлаши керак?",
+      "questionRu": "На каком расстоянии между транспортными средствами должна обеспечиваться жесткая сцепка?",
+      "questionOz": "Qattiq ulagich transport vositalari orasida qanchadan ortiq bo'lmagan masofani taminlashi kerak?",
+      "explanationUz": "Йўл ҳаракати қоидаларининг 144 бандига асосан, эгилувчан улагич билан шатакка олишда шатакка олган ва шатакка олинган транспорт воситалари ўртасидаги масофа 4 — 6 метр оралиғида бўлиши, қаттиқ улагич билан шатакка олишда эса 4 метрдан кўп бўлмаслиги керак.",
+      "explanationRu": "Согласно пункту 144 Правил дорожного движения, при буксировке на гибкой сцепке расстояние между буксирующим и буксируемым транспортными средствами должно быть в пределах 4 — 6 метров, а при жесткой — не более 4 метров.",
+      "explanationOz": "Yo‘l harakati qoidalarining 144 bandiga asosan, egiluvchan ulagich bilan shatakka olishda shatakka olgan va shatakka olingan transport vositalari o‘rtasidagi masofa 4 — 6 metr oralig‘ida bo‘lishi, qattiq ulagich bilan shatakka olishda esa 4 metrdan ko‘p bo‘lmasligi kerak.",
+      "imageUrl": null,
+      "hasVideo": true,
+      "options": [
+        {
+          "id": 3146,
+          "textUz": "2 м",
+          "textRu": "2 м",
+          "textOz": "2 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3147,
+          "textUz": "3 м",
+          "textRu": "3 м",
+          "textOz": "3 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3148,
+          "textUz": "4 м",
+          "textRu": "4 м",
+          "textOz": "4 m",
+          "isCorrect": true
+        },
+        {
+          "id": 3149,
+          "textUz": "5 м",
+          "textRu": "5 м",
+          "textOz": "5 m",
+          "isCorrect": false
+        },
+        {
+          "id": 3150,
+          "textUz": "6 м",
+          "textRu": "6 м",
+          "textOz": "6 m",
+          "isCorrect": false
+        }
+      ],
+      "correctOptionIds": [
+        3148
+      ]
+    }
+  ]
+}
